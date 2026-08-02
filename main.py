@@ -1,6 +1,7 @@
 import datetime
 import requests
 from ics import Calendar, Event
+from zoneinfo import ZoneInfo
 
 API_URL = "https://ws.ticketingcine.com/site"
 
@@ -35,13 +36,13 @@ CINEMAS = [
         "filename": "cratere.ics",
         "prefix_emoji": "🌋"
     },
-    {
-        "name": "Pathé Wilson",
-        "site_id": "CHN0063",
-        "address": "3 Place du Président Thomas Wilson, 31000 Toulouse",
-        "filename": "pathe_wilson.ics",
-        "prefix_emoji": "🍿"
-    },
+    # {
+    #     "name": "Pathé Wilson",
+    #     "site_id": "CHN0063",
+    #     "address": "3 Place du Président Thomas Wilson, 31000 Toulouse",
+    #     "filename": "pathe_wilson.ics",
+    #     "prefix_emoji": "🍿"
+    # },
 ]
 
 def fetch_schedule(site_id):
@@ -57,10 +58,8 @@ def fetch_schedule(site_id):
     try:
         response = requests.post(API_URL, json=payload, headers=HEADERS, timeout=10)
         response.raise_for_status()
-        json_data = response.json()
         
-        events = json_data.get("result", {}).get("schedule", {}).get("events", [])
-        return events
+        return response.json().get("result", {}).get("schedule", {}).get("events", [])
     except Exception as e:
         print(f"Erreur lors de la récupération pour {site_id} : {e}")
         return []
@@ -99,11 +98,12 @@ def generate_cinema_calendar(cinema_info):
 
             try:
                 start_dt = datetime.datetime.strptime(date_raw, "%Y%m%d%H%M")
+                local_dt = start_dt.replace(tzinfo=ZoneInfo("Europe/Paris"))
                 
                 event = Event()
                 event.name = f"{title} ({version})"
 
-                event.begin = start_dt
+                event.begin = local_dt
                 event.duration = datetime.timedelta(minutes=duration)
                 event.location = f"{cinema_name} ({hall_name}), {cinema_address}"
                 
