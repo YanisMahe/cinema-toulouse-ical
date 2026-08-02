@@ -62,7 +62,7 @@ def fetch_schedule(site_id):
         events = json_data.get("result", {}).get("schedule", {}).get("events", [])
         return events
     except Exception as e:
-        print(f"Erreur lors de la récupération pour {name} : {e}")
+        print(f"Erreur lors de la récupération pour {site_id} : {e}")
         return []
 
 def generate_cinema_calendar(cinema_info):
