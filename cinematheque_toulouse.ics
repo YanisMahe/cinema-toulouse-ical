@@ -2,172 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Franck Dubosc\n\nMichel et Cathy\, un couple usé par le temps et les difficultés financières\, ne se parlent plus vraiment. Jusqu’au jour où Michel\, pour éviter un ours sur la route\, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre\, forcément\, ça donne envie de se reparler. Et surtout de se taire.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRP5Y0E#showsession?id=emsx113500007355&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260811T163000Z
-SUMMARY:Un ours dans le Jura (VOST)
-UID:968e74c5-753c-4855-a17b-19ba71c5ff6f@968e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Pier Paolo Pasolini\n\nDans les faubourgs de Rome\, Accattone\, souteneur de son état\, vient de perdre Maddalena\, celle qui\, pour lui\, se livrait à la prostitution. Stella\, sa nouvelle protégée\, va bouleverser sa vie…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7X8D6#showsession?id=emsx113500007358&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260812T193000Z
-SUMMARY:Accattone (VOST)
-UID:46002096-64e9-4a8f-a94a-9e49def07993@4600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Monia Chokri\n\nSophia est professeure de philosophie à Montréal et vit en couple avec Xavier depuis 10 ans. Sylvain est charpentier dans les Laurentides et doit rénover leur maison de campagne. Quand Sophia rencontre Sylvain pour la première fois\, c’est le coup de foudre. Les opposés s’attirent\, mais cela peut-il durer ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRMVNPU#showsession?id=emsx113500007381&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260825T193000Z
-SUMMARY:Simple comme Sylvain (VOST)
-UID:14b3510d-1311-4581-94d0-ac18b56c6e4a@14b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Rob Reiner\n\nLorsqu'ils se rencontrent pour la première fois dans les années 70\, Harry et Sally ne s'apprécient pas\, mais alors pas du tout. Ils se quittent\, jurant de ne plus se revoir. Cinq ans plus tard\, ils se retrouvent mais rien n'a changé : leurs avis sur les relations hommes-femmes divergent du tout au tout. Cinq autres années passent\, et Harry rencontre Sally à nouveau. Ils se racontent leurs expériences\, leurs déceptions et se rendent compte que leur vie amoureuse est un désastre. Mais l'amitié entre Harry et Sally est-elle possible ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2AZ1A#showsession?id=emsx113500007342&ps=ticketingcine
-DURATION:PT1H36M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260802T200000Z
-SUMMARY:Quand Harry rencontre Sally (VOST)
-UID:91cb8361-6237-49e7-9b47-081987c7200f@91cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Lana Wachowski\, Lilly Wachowski\n\nProgrammeur anonyme dans un service administratif le jour\, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme\, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes\, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait\, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu\, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble\, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2LH0R#showsession?id=emsx113500007376&ps=ticketingcine
-DURATION:PT2H16M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260822T163000Z
-SUMMARY:Matrix (VOST)
-UID:456888ad-10f2-4b5a-81dd-ee9699299c7e@4568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Tim Burton\n\nL’histoire à la fois drôle et poignante d’Edward Bloom\, un père débordant d’imagination\, et de son fils William. Ce dernier retourne au domicile familial après l’avoir quitté longtemps auparavant\, pour être au chevet de son père\, atteint d’un cancer. Il souhaite mieux le connaître et découvrir ses secrets avant qu’il ne soit trop tard. L’aventure débutera lorsque William tentera de discerner le vrai du faux dans les propos de son père mourant.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR4XTHZ#showsession?id=emsx113500007341&ps=ticketingcine
-DURATION:PT2H5M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260802T170000Z
-SUMMARY:Big Fish (VOST)
-UID:750f530b-0014-4128-807a-d0b5c60f9f39@750f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Barry Jenkins\n\nAprès avoir grandi dans un quartier difficile de Miami\, Chiron\, un jeune homme tente de trouver sa place dans le monde. Moonlight évoque son parcours\, de l’enfance à l’âge adulte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5F1NO#showsession?id=emsx113500007357&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260812T163000Z
-SUMMARY:Moonlight (VOST)
-UID:5cec0776-a1aa-445d-80d8-86e945a6cabd@5cec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Joachim Trier\n\n Oslo\, de nos jours. Julie est une jeune femme pleine de ressource\, mais à 30 ans\, elle cherche encore sa voie. Bien qu’heureuse avec Aksel\, un dessinateur à succès\, aimant et protecteur\, elle refuse l’enfant qu’il désire. Quand Julie le quitte pour Eivind\, elle espère\, une fois de plus\, commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAA5XM#showsession?id=emsx113500007367&ps=ticketingcine
-DURATION:PT2H8M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260818T193000Z
-SUMMARY:Julie (en 12 chapitres) (VOST)
-UID:d8b128f4-1edd-48b8-b3d2-bd5067fc2d67@d8b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Wes Anderson\n\nChez les Tenenbaum\, les enfants ont toujours été des génies. Tout jeunes\, Chas était déjà un maître de la finance\, Margot une dramaturge exceptionnelle et Richie un joueur de tennis hors pair. Mais un jour\, Etheline\, leur mère\, demande le divorce. Elle ne supporte plus le caractère égoïste de Royal Tenenbaum\, son mari. Cette crise familiale a une influence négative sur le développement personnel de leur progéniture. Vingt ans plus tard\, Royal écume les palaces\, Etheline s'adonne à l'archéologie\, Chas tente d'élever ses deux fils après la mort de son épouse\, Richie est un champion déchu et Margot s'est marié avec un psy. Le père Tenenbaum annonce bientôt à ses enfants qu'il ne lui reste plus longtemps à vivre. Il souhaite se réconcilier avec eux et les invite dans la maison familiale en prétextant une grave maladie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRWF74I#showsession?id=emsx113500007347&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260806T170000Z
-SUMMARY:La Famille Tenenbaum (VOST)
-UID:949dbf67-b1b1-4233-952c-1cb8dddf2c6f@949d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Gints Zilbalodis\n\nUn chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRA1MB4#showsession?id=emsx113500007361&ps=ticketingcine
-DURATION:PT1H25M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260814T163000Z
-SUMMARY:Flow\, le chat qui n'avait plus peur de l'eau (VOST)
-UID:60ba6d20-8256-4d4c-87ba-57cb9eb2b6a2@60ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Charlotte Wells\n\nAvec mélancolie\, Sophie se remémore les vacances d’été passées avec son père vingt ans auparavant : les moments de joie partagée\, leur complicité\, parfois leurs désaccords. Elle repense aussi à ce qui planait au-dessus de ces instants si précieux : la sourde et invisible menace d’un bonheur finissant. Elle tente alors de chercher parmi ces souvenirs des réponses à la question qui l’obsède depuis tant d’années : qui était réellement cet homme qu’elle a le sentiment de ne pas connaître ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR6OLTR#showsession?id=emsx113500007345&ps=ticketingcine
-DURATION:PT1H42M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260805T170000Z
-SUMMARY:Aftersun (VOST)
-UID:4ae53702-fff7-43d4-b968-f350f69162c1@4ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Charlotte Wells\n\nAvec mélancolie\, Sophie se remémore les vacances d’été passées avec son père vingt ans auparavant : les moments de joie partagée\, leur complicité\, parfois leurs désaccords. Elle repense aussi à ce qui planait au-dessus de ces instants si précieux : la sourde et invisible menace d’un bonheur finissant. Elle tente alors de chercher parmi ces souvenirs des réponses à la question qui l’obsède depuis tant d’années : qui était réellement cet homme qu’elle a le sentiment de ne pas connaître ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR6OLTR#showsession?id=emsx113500007344&ps=ticketingcine
-DURATION:PT1H42M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260804T200000Z
-SUMMARY:Aftersun (VOST)
-UID:e3e07e74-393c-4f90-a45f-0f9e045adbec@e3e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Wes Anderson\n\nChez les Tenenbaum\, les enfants ont toujours été des génies. Tout jeunes\, Chas était déjà un maître de la finance\, Margot une dramaturge exceptionnelle et Richie un joueur de tennis hors pair. Mais un jour\, Etheline\, leur mère\, demande le divorce. Elle ne supporte plus le caractère égoïste de Royal Tenenbaum\, son mari. Cette crise familiale a une influence négative sur le développement personnel de leur progéniture. Vingt ans plus tard\, Royal écume les palaces\, Etheline s'adonne à l'archéologie\, Chas tente d'élever ses deux fils après la mort de son épouse\, Richie est un champion déchu et Margot s'est marié avec un psy. Le père Tenenbaum annonce bientôt à ses enfants qu'il ne lui reste plus longtemps à vivre. Il souhaite se réconcilier avec eux et les invite dans la maison familiale en prétextant une grave maladie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRWF74I#showsession?id=emsx113500007346&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260805T200000Z
-SUMMARY:La Famille Tenenbaum (VOST)
-UID:c2542f74-2fa7-4116-989d-5ab020b80343@c254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Luca Guadagnino\n\nPour le sortir d’une série de défaites cuisantes\, une entraîneure de tennis convainc son mari\, grand champion de calibre mondial\, de jouer contre son ancien meilleur ami et son ex à elle dans un tournoi mineur.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2HVU2#showsession?id=emsx113500007387&ps=ticketingcine
-DURATION:PT2H12M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260828T193000Z
-SUMMARY:Challengers (VOST)
-UID:aea10c37-ca0c-4041-b875-af0bef6be24d@aea1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Peter Weir\n\nTodd Anderson est un garçon plutôt timide. Désormais élève de la prestigieuse académie Welton\, réputée pour être l'une des plus fermées et austères des États-Unis\, tout le monde attend de lui qu'il suive les traces de son frère\, qui avait fait à Welton de brillantes études.  C'est là qu'il va faire la rencontre de M. Keating\, un professeur de lettres anglaises qui\, c'est le moins que l'on puisse dire\, sort des sentiers battus. Jour après jour\, M. Keating encourage ses élèves à penser par eux-mêmes et à refuser l'ordre établi. Cette rencontre va bouleverser la vie du jeune Todd\, mais aussi celle de ses amis.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2XTHZ#showsession?id=emsx113500007378&ps=ticketingcine
-DURATION:PT2H8M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260823T163000Z
-SUMMARY:Le Cercle des poètes disparus (VOST)
-UID:82b0ca41-3577-4c31-a0ee-8c068d0b0f92@82b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Francis Ford Coppola\n\nSpécialiste de la filature\, Harry Caul est engagé pour suivre un couple et enregistrer leur conversation. Une fois sa mission accomplie\, Caul écoute la bande sonore. La banalité des propos le surprend. S'agit-il d'un code secret?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO859H#showsession?id=emsx113500007372&ps=ticketingcine
-DURATION:PT1H53M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260820T163000Z
-SUMMARY:Conversation Secrète (VOST)
-UID:ed1efa59-fbf3-4bd9-8d31-8dbdbef86ccf@ed1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : William Wyler\n\nLes tendres amours\, le temps d'une journée\, d'une princesse fugueuse et d'un séduisant journaliste américain\, dans la Ville éternelle\, Rome.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRTRPNO#showsession?id=emsx113500007379&ps=ticketingcine
-DURATION:PT1H59M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260823T193000Z
-SUMMARY:Vacances romaines (VOST)
-UID:ec3cdfff-e98b-4bf3-8e86-09296ecfc2ba@ec3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Makoto Shinkai\n\nMitsuha est une lycéenne\, la fille du maire d'une petite ville nichée entre les montagnes. Vivant avec sa petite sœur et sa grand-mère\, c'est une demoiselle franche qui n'hésite pas à dire qu'elle n'a pas envie de participer aux rituels shinto\, ou d'aider son père dans ses campagnes électorales. En fait\, elle rêve de pouvoir quitter cette ville où elle s'ennuie\, pour partir tenter sa chance à la capitale. Taki est un lycéen\, un tokyoïte qui travaille à mi-temps dans un restaurant italien\, tout en aspirant à des études d'architecture ou dans les Beaux-Arts. Chaque nuit\, il fait un rêve étrange\, où il devient… une lycéenne campagnarde\, vivant dans une petite ville entre les montagnes.  Quel secret se cache derrière ces rêves mutuels\, qui unissent ces deux êtres qui ne se sont jamais rencontrés ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPNY4I#showsession?id=emsx113500007348&ps=ticketingcine
+DESCRIPTION:Salle 1\n\nRéalisateur : Makoto Shinkai\n\nMitsuha est une lycéenne\, la fille du maire d'une petite ville nichée entre les montagnes. Vivant avec sa petite sœur et sa grand-mère\, c'est une demoiselle franche qui n'hésite pas à dire qu'elle n'a pas envie de participer aux rituels shinto\, ou d'aider son père dans ses campagnes électorales. En fait\, elle rêve de pouvoir quitter cette ville où elle s'ennuie\, pour partir tenter sa chance à la capitale. Taki est un lycéen\, un tokyoïte qui travaille à mi-temps dans un restaurant italien\, tout en aspirant à des études d'architecture ou dans les Beaux-Arts. Chaque nuit\, il fait un rêve étrange\, où il devient… une lycéenne campagnarde\, vivant dans une petite ville entre les montagnes.  Quel secret se cache derrière ces rêves mutuels\, qui unissent ces deux êtres qui ne se sont jamais rencontrés ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPNY4I#showsession?id=emsx113500007349&ps=ticketingcine
 DURATION:PT1H47M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260806T200000Z
-SUMMARY:Your Name (VOST)
-UID:2fc0b854-fa21-41d1-b0b7-c582d32d0ab4@2fc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Peter Weir\n\nTodd Anderson est un garçon plutôt timide. Désormais élève de la prestigieuse académie Welton\, réputée pour être l'une des plus fermées et austères des États-Unis\, tout le monde attend de lui qu'il suive les traces de son frère\, qui avait fait à Welton de brillantes études.  C'est là qu'il va faire la rencontre de M. Keating\, un professeur de lettres anglaises qui\, c'est le moins que l'on puisse dire\, sort des sentiers battus. Jour après jour\, M. Keating encourage ses élèves à penser par eux-mêmes et à refuser l'ordre établi. Cette rencontre va bouleverser la vie du jeune Todd\, mais aussi celle de ses amis.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2XTHZ#showsession?id=emsx113500007377&ps=ticketingcine
-DURATION:PT2H8M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260822T193000Z
-SUMMARY:Le Cercle des poètes disparus (VOST)
-UID:f52d1d56-87cb-4a4a-a72c-f9762180b792@f52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Monia Chokri\n\nSophia est professeure de philosophie à Montréal et vit en couple avec Xavier depuis 10 ans. Sylvain est charpentier dans les Laurentides et doit rénover leur maison de campagne. Quand Sophia rencontre Sylvain pour la première fois\, c’est le coup de foudre. Les opposés s’attirent\, mais cela peut-il durer ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRMVNPU#showsession?id=emsx113500007382&ps=ticketingcine
-DURATION:PT1H52M
 LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260826T163000Z
-SUMMARY:Simple comme Sylvain (VOST)
-UID:ab3c6b90-9419-4846-a994-3b6a0c146bf3@ab3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Francis Ford Coppola\n\nSpécialiste de la filature\, Harry Caul est engagé pour suivre un couple et enregistrer leur conversation. Une fois sa mission accomplie\, Caul écoute la bande sonore. La banalité des propos le surprend. S'agit-il d'un code secret?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO859H#showsession?id=emsx113500007369&ps=ticketingcine
-DURATION:PT1H53M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260819T193000Z
-SUMMARY:Conversation Secrète (VOST)
-UID:9d34f427-7ba3-4d3a-b433-f37e73f8c555@9d34.org
+DTSTART:20260807T170000Z
+SUMMARY:Your Name (VOST)
+UID:8cc1c6a5-64ea-4085-845e-a4240d369d16@8cc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PLEIN AIR\n\nRéalisateur : Steven Soderbergh\n\nMère élevant seule ses trois enfants\, Erin Brockovich n'avait vraiment pas besoin d'un accident de voiture. D'autant que le responsable sort du tribunal financièrement indemne. Obligée de trouver rapidement un travail pour couvrir tous ses frais médicaux et de justice\, Erin obtient de son avocat de l'employer comme archiviste dans son cabinet. Son allure et son franc-parler ne lui valent pas des débuts faciles mais elle apprend vite. En classant des documents\, Erin déterre une affaire louche d'empoisonnement et décide de se jeter dans la bataille.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1OLPU#showsession?id=emsx113500007363&ps=ticketingcine
@@ -175,143 +15,15 @@ DURATION:PT2H11M
 LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20260816T193000Z
 SUMMARY:Erin Brockovich\, seule contre tous (VOST)
-UID:fc4fd7e8-931c-4c47-a754-c90caf676acd@fc4f.org
+UID:8215cba2-c199-40a9-9945-fd0877ae4791@8215.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Neil Jordan\n\nSan Francisco dans les années 90. Un jeune journaliste\, Malloy\, s'entretient dans une chambre avec un homme élégant\, à l'allure aristocratique et au visage blafard\, Louis\, qui lui fait de bien étranges confidences. Malloy\, subjugué par la séduction de son interlocuteur lui demande\, à l'aube\, de le faire pénétrer dans son monde\, celui des vampires.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO6FG5#showsession?id=emsx113500007352&ps=ticketingcine
-DURATION:PT2H3M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260808T200000Z
-SUMMARY:Entretien avec un vampire (VOST)
-UID:99cdb6d7-2d23-4108-bb8d-cee387b7dea0@99cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Makoto Shinkai\n\nMitsuha est une lycéenne\, la fille du maire d'une petite ville nichée entre les montagnes. Vivant avec sa petite sœur et sa grand-mère\, c'est une demoiselle franche qui n'hésite pas à dire qu'elle n'a pas envie de participer aux rituels shinto\, ou d'aider son père dans ses campagnes électorales. En fait\, elle rêve de pouvoir quitter cette ville où elle s'ennuie\, pour partir tenter sa chance à la capitale. Taki est un lycéen\, un tokyoïte qui travaille à mi-temps dans un restaurant italien\, tout en aspirant à des études d'architecture ou dans les Beaux-Arts. Chaque nuit\, il fait un rêve étrange\, où il devient… une lycéenne campagnarde\, vivant dans une petite ville entre les montagnes.  Quel secret se cache derrière ces rêves mutuels\, qui unissent ces deux êtres qui ne se sont jamais rencontrés ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPNY4I#showsession?id=emsx113500007349&ps=ticketingcine
-DURATION:PT1H47M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260807T170000Z
-SUMMARY:Your Name (VOST)
-UID:a903386f-8be3-44de-9744-b9eadbac68fc@a903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Joachim Trier\n\n Oslo\, de nos jours. Julie est une jeune femme pleine de ressource\, mais à 30 ans\, elle cherche encore sa voie. Bien qu’heureuse avec Aksel\, un dessinateur à succès\, aimant et protecteur\, elle refuse l’enfant qu’il désire. Quand Julie le quitte pour Eivind\, elle espère\, une fois de plus\, commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAA5XM#showsession?id=emsx113500007368&ps=ticketingcine
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Joachim Trier\n\n Oslo\, de nos jours. Julie est une jeune femme pleine de ressource\, mais à 30 ans\, elle cherche encore sa voie. Bien qu’heureuse avec Aksel\, un dessinateur à succès\, aimant et protecteur\, elle refuse l’enfant qu’il désire. Quand Julie le quitte pour Eivind\, elle espère\, une fois de plus\, commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAA5XM#showsession?id=emsx113500007367&ps=ticketingcine
 DURATION:PT2H8M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260819T163000Z
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260818T193000Z
 SUMMARY:Julie (en 12 chapitres) (VOST)
-UID:3b6a110f-6c60-4067-be8a-217ba112a461@3b6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Ang Lee\n\nÉté 1963\, Wyoming. Deux jeunes cow-boys\, Jack et Ennis\, sont engagés pour garder ensemble un troupeau de moutons à Brokeback Mountain. Isolés au milieu d'une nature sauvage\, leur complicité se transforme lentement en une attirance aussi irrésistible qu'inattendue. À la fin de la saison de transhumance\, les deux hommes doivent se séparer. Ennis se marie avec sa fiancée\, Alma\, tandis que Jack épouse Lureen. Quand ils se revoient quatre ans plus tard\, un seul regard suffit pour raviver l'amour né à Brokeback Mountain.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPUVXN#showsession?id=emsx113500007373&ps=ticketingcine
-DURATION:PT2H8M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260820T193000Z
-SUMMARY:Le Secret de Brokeback Mountain (VOST)
-UID:6eec1fa9-5f17-4ed0-9363-cf0e2ba3e61b@6eec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Jacques Deray\n\nJean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez\, jusqu'au jour où arrive Harry\, au bras de l'incendiaire Pénélope. Ancien amant de Marianne\, l'homme trouble cette vie tranquille. La tension monte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNL9WD#showsession?id=emsx113500007350&ps=ticketingcine
-DURATION:PT2H2M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260807T200000Z
-SUMMARY:La Piscine (VOST)
-UID:06038956-a186-4ad4-9720-07e3f7d99127@0603.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : William Wyler\n\nLes tendres amours\, le temps d'une journée\, d'une princesse fugueuse et d'un séduisant journaliste américain\, dans la Ville éternelle\, Rome.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRTRPNO#showsession?id=emsx113500007380&ps=ticketingcine
-DURATION:PT1H59M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260825T163000Z
-SUMMARY:Vacances romaines (VOST)
-UID:92eaf860-3bbb-4c26-94cb-ff0f9c548df2@92ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Luca Guadagnino\n\nPour le sortir d’une série de défaites cuisantes\, une entraîneure de tennis convainc son mari\, grand champion de calibre mondial\, de jouer contre son ancien meilleur ami et son ex à elle dans un tournoi mineur.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2HVU2#showsession?id=emsx113500007388&ps=ticketingcine
-DURATION:PT2H12M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260829T163000Z
-SUMMARY:Challengers (VOST)
-UID:c8a13f7c-ee01-4725-83f9-1c1fd92126d1@c8a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Barry Jenkins\n\nAprès avoir grandi dans un quartier difficile de Miami\, Chiron\, un jeune homme tente de trouver sa place dans le monde. Moonlight évoque son parcours\, de l’enfance à l’âge adulte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5F1NO#showsession?id=emsx113500007356&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260811T193000Z
-SUMMARY:Moonlight (VOST)
-UID:38c9ac47-b14f-4a53-8dec-0ff9ec0fb072@38c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Charlie Chaplin\n\nDans le ghetto juif vit un petit barbier qui ressemble énormément à Adenoid Hynkel\, le dictateur de Tomania qui a décidé l'extermination du peuple juif. Au cours d'une rafle\, le barbier est arrêté en compagnie de Schultz\, un farouche adversaire d'Hynkel…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNSKTP#showsession?id=emsx113500007386&ps=ticketingcine
-DURATION:PT2H6M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260828T163000Z
-SUMMARY:Le Dictateur (VOST)
-UID:65635a8c-5790-47aa-ad9d-f9c18f5278a7@6563.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : David Fincher\n\nÀ New York\, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés capitaux énoncés dans la Bible : gourmandise\, avarice\, paresse\, orgueil\, luxure\, envie et colère. Vieux flic blasé à 7 jours de la retraite\, l'inspecteur Somerset mène l'enquête tout en formant son remplaçant\, l'ambitieux inspecteur David Mills…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU3JJQ#showsession?id=emsx113500007364&ps=ticketingcine
-DURATION:PT2H10M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260814T193000Z
-SUMMARY:Seven (VOST)
-UID:05574544-14b2-436f-9e3c-20583d5fae82@0557.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Franck Dubosc\n\nMichel et Cathy\, un couple usé par le temps et les difficultés financières\, ne se parlent plus vraiment. Jusqu’au jour où Michel\, pour éviter un ours sur la route\, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre\, forcément\, ça donne envie de se reparler. Et surtout de se taire.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRP5Y0E#showsession?id=emsx113500007354&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260809T200000Z
-SUMMARY:Un ours dans le Jura (VOST)
-UID:091ac826-f09a-499b-989e-f1c2146414c1@091a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Mark Waters\n\nCady débarque d'Afrique et atterrit dans un lycée de l'Illinois\, véritable élevage de lolitas branchées. Au sommet de la hiérarchie\, Régina\, barbie-manipulatrice qui voit en elle une rivale potentielle et décide de se la jouer copine. Mais quand Cady commet l'erreur de sortir avec l'ex de Régina\, une guerre impitoyable est déclarée.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBUH0R#showsession?id=emsx113500007384&ps=ticketingcine
-DURATION:PT1H38M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260827T163000Z
-SUMMARY:Lolita malgré moi (VOST)
-UID:d3c7dcb0-1bba-4b9e-ad2a-a9f4ca0463d1@d3c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jacques Deray\n\nJean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez\, jusqu'au jour où arrive Harry\, au bras de l'incendiaire Pénélope. Ancien amant de Marianne\, l'homme trouble cette vie tranquille. La tension monte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNL9WD#showsession?id=emsx113500007351&ps=ticketingcine
-DURATION:PT2H2M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260808T170000Z
-SUMMARY:La Piscine (VOST)
-UID:b0d62f7c-9c9a-4968-95af-b00eef465146@b0d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Lana Wachowski\, Lilly Wachowski\n\nProgrammeur anonyme dans un service administratif le jour\, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme\, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes\, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait\, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu\, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble\, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2LH0R#showsession?id=emsx113500007375&ps=ticketingcine
-DURATION:PT2H16M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260821T193000Z
-SUMMARY:Matrix (VOST)
-UID:fb6044be-eb2c-4efe-a471-6de41b1a7e97@fb60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : David Fincher\n\nÀ New York\, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés capitaux énoncés dans la Bible : gourmandise\, avarice\, paresse\, orgueil\, luxure\, envie et colère. Vieux flic blasé à 7 jours de la retraite\, l'inspecteur Somerset mène l'enquête tout en formant son remplaçant\, l'ambitieux inspecteur David Mills…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU3JJQ#showsession?id=emsx113500007365&ps=ticketingcine
-DURATION:PT2H10M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260816T163000Z
-SUMMARY:Seven (VOST)
-UID:dfc29452-313b-46c4-95eb-5f658cfbc297@dfc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Pier Paolo Pasolini\n\nDans les faubourgs de Rome\, Accattone\, souteneur de son état\, vient de perdre Maddalena\, celle qui\, pour lui\, se livrait à la prostitution. Stella\, sa nouvelle protégée\, va bouleverser sa vie…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7X8D6#showsession?id=emsx113500007359&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260813T163000Z
-SUMMARY:Accattone (VOST)
-UID:db7a8d8d-1bbf-422c-99d7-73eb7db7bd71@db7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Charlie Chaplin\n\nDans le ghetto juif vit un petit barbier qui ressemble énormément à Adenoid Hynkel\, le dictateur de Tomania qui a décidé l'extermination du peuple juif. Au cours d'une rafle\, le barbier est arrêté en compagnie de Schultz\, un farouche adversaire d'Hynkel…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNSKTP#showsession?id=emsx113500007385&ps=ticketingcine
-DURATION:PT2H6M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260827T193000Z
-SUMMARY:Le Dictateur (VOST)
-UID:e9111e6b-817b-4a62-8638-8a34d723e9fa@e911.org
+UID:dbefbc15-606c-43e5-a6f9-a5567efa36b4@dbef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PLEIN AIR\n\nRéalisateur : Steven Spielberg\n\nDes faits étranges se produisent un peu partout dans le monde : des avions qui avaient disparu durant la Seconde Guerre mondiale sont retrouvés au Mexique en parfait état de marche\, un cargo est découvert échoué au beau milieu du désert de Gobi. Dans l'Indiana\, pendant qu'une coupure d'électricité paralyse la banlieue\, Roy Neary\, un réparateur de câbles\, voit une "soucoupe volante" passer au-dessus de sa voiture. D'autres personnes sont également témoins de ce type de phénomène : Barry Guiler\, un petit garçon de quatre ans\, est réveillé par le bruit de ses jouets qui se mettent en route. Cherchant à savoir d'où proviennent ces ovnis\, Roy Neary se heurte aux rigoureuses consignes de silence imposées par le gouvernement fédéral. Obsédé par ce qu'il a vu et hanté par une image de montagne qu'il essaie désespérément de reconstituer\, il est abandonné par sa femme Ronnie et ses enfants. Il n'y a que Jillian\, la mère de Barry\, qui le comprenne.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRTISSE#showsession?id=emsx113500007389&ps=ticketingcine
@@ -319,39 +31,7 @@ DURATION:PT2H15M
 LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20260829T193000Z
 SUMMARY:Rencontres du troisième type (VOST)
-UID:c4dbb536-6a4d-44e1-a8cf-65d169555449@c4db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Mark Waters\n\nCady débarque d'Afrique et atterrit dans un lycée de l'Illinois\, véritable élevage de lolitas branchées. Au sommet de la hiérarchie\, Régina\, barbie-manipulatrice qui voit en elle une rivale potentielle et décide de se la jouer copine. Mais quand Cady commet l'erreur de sortir avec l'ex de Régina\, une guerre impitoyable est déclarée.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBUH0R#showsession?id=emsx113500007383&ps=ticketingcine
-DURATION:PT1H38M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260826T193000Z
-SUMMARY:Lolita malgré moi (VOST)
-UID:fbdd80a2-2ff9-4153-a8cb-c0616ffcf6f1@fbdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PLEIN AIR\n\nRéalisateur : Gints Zilbalodis\n\nUn chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRA1MB4#showsession?id=emsx113500007360&ps=ticketingcine
-DURATION:PT1H25M
-LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260813T193000Z
-SUMMARY:Flow\, le chat qui n'avait plus peur de l'eau (VOST)
-UID:0683f45c-45a9-417c-87f5-dc0402536b5c@0683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Neil Jordan\n\nSan Francisco dans les années 90. Un jeune journaliste\, Malloy\, s'entretient dans une chambre avec un homme élégant\, à l'allure aristocratique et au visage blafard\, Louis\, qui lui fait de bien étranges confidences. Malloy\, subjugué par la séduction de son interlocuteur lui demande\, à l'aube\, de le faire pénétrer dans son monde\, celui des vampires.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO6FG5#showsession?id=emsx113500007353&ps=ticketingcine
-DURATION:PT2H3M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260809T170000Z
-SUMMARY:Entretien avec un vampire (VOST)
-UID:1916fcff-fe65-4663-a33d-19d78b2d4ec1@1916.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Steven Soderbergh\n\nMère élevant seule ses trois enfants\, Erin Brockovich n'avait vraiment pas besoin d'un accident de voiture. D'autant que le responsable sort du tribunal financièrement indemne. Obligée de trouver rapidement un travail pour couvrir tous ses frais médicaux et de justice\, Erin obtient de son avocat de l'employer comme archiviste dans son cabinet. Son allure et son franc-parler ne lui valent pas des débuts faciles mais elle apprend vite. En classant des documents\, Erin déterre une affaire louche d'empoisonnement et décide de se jeter dans la bataille.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1OLPU#showsession?id=emsx113500007366&ps=ticketingcine
-DURATION:PT2H11M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260818T163000Z
-SUMMARY:Erin Brockovich\, seule contre tous (VOST)
-UID:795bd25a-38dc-4972-91f6-5c3443d39e8a@795b.org
+UID:8600bc3f-af70-4e8a-88f7-7878d00af202@8600.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 1\n\nRéalisateur : Rob Reiner\n\nLorsqu'ils se rencontrent pour la première fois dans les années 70\, Harry et Sally ne s'apprécient pas\, mais alors pas du tout. Ils se quittent\, jurant de ne plus se revoir. Cinq ans plus tard\, ils se retrouvent mais rien n'a changé : leurs avis sur les relations hommes-femmes divergent du tout au tout. Cinq autres années passent\, et Harry rencontre Sally à nouveau. Ils se racontent leurs expériences\, leurs déceptions et se rendent compte que leur vie amoureuse est un désastre. Mais l'amitié entre Harry et Sally est-elle possible ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2AZ1A#showsession?id=emsx113500007343&ps=ticketingcine
@@ -359,7 +39,39 @@ DURATION:PT1H36M
 LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20260804T170000Z
 SUMMARY:Quand Harry rencontre Sally (VOST)
-UID:d1ce3e05-252d-4b35-a11a-4fc38b22e99c@d1ce.org
+UID:e8bd5ad9-d1e1-4ebb-8a97-ca769e1405af@e8bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Jacques Deray\n\nJean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez\, jusqu'au jour où arrive Harry\, au bras de l'incendiaire Pénélope. Ancien amant de Marianne\, l'homme trouble cette vie tranquille. La tension monte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNL9WD#showsession?id=emsx113500007350&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260807T200000Z
+SUMMARY:La Piscine (VOST)
+UID:e5f6e6ad-c1c0-4bf2-9af6-bbb67162137c@e5f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Monia Chokri\n\nSophia est professeure de philosophie à Montréal et vit en couple avec Xavier depuis 10 ans. Sylvain est charpentier dans les Laurentides et doit rénover leur maison de campagne. Quand Sophia rencontre Sylvain pour la première fois\, c’est le coup de foudre. Les opposés s’attirent\, mais cela peut-il durer ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRMVNPU#showsession?id=emsx113500007381&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260825T193000Z
+SUMMARY:Simple comme Sylvain (VOST)
+UID:bc8b3e91-e66f-4da3-8b6b-7e1889b66949@bc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Charlie Chaplin\n\nDans le ghetto juif vit un petit barbier qui ressemble énormément à Adenoid Hynkel\, le dictateur de Tomania qui a décidé l'extermination du peuple juif. Au cours d'une rafle\, le barbier est arrêté en compagnie de Schultz\, un farouche adversaire d'Hynkel…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNSKTP#showsession?id=emsx113500007386&ps=ticketingcine
+DURATION:PT2H6M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260828T163000Z
+SUMMARY:Le Dictateur (VOST)
+UID:80f7d995-96fc-4335-83c6-c7ed85c2004a@80f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Steven Soderbergh\n\nMère élevant seule ses trois enfants\, Erin Brockovich n'avait vraiment pas besoin d'un accident de voiture. D'autant que le responsable sort du tribunal financièrement indemne. Obligée de trouver rapidement un travail pour couvrir tous ses frais médicaux et de justice\, Erin obtient de son avocat de l'employer comme archiviste dans son cabinet. Son allure et son franc-parler ne lui valent pas des débuts faciles mais elle apprend vite. En classant des documents\, Erin déterre une affaire louche d'empoisonnement et décide de se jeter dans la bataille.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1OLPU#showsession?id=emsx113500007366&ps=ticketingcine
+DURATION:PT2H11M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260818T163000Z
+SUMMARY:Erin Brockovich\, seule contre tous (VOST)
+UID:a91c5983-0f79-467f-a9a5-0ee228989492@a91c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 1\n\nRéalisateur : Ang Lee\n\nÉté 1963\, Wyoming. Deux jeunes cow-boys\, Jack et Ennis\, sont engagés pour garder ensemble un troupeau de moutons à Brokeback Mountain. Isolés au milieu d'une nature sauvage\, leur complicité se transforme lentement en une attirance aussi irrésistible qu'inattendue. À la fin de la saison de transhumance\, les deux hommes doivent se séparer. Ennis se marie avec sa fiancée\, Alma\, tandis que Jack épouse Lureen. Quand ils se revoient quatre ans plus tard\, un seul regard suffit pour raviver l'amour né à Brokeback Mountain.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPUVXN#showsession?id=emsx113500007374&ps=ticketingcine
@@ -367,6 +79,278 @@ DURATION:PT2H8M
 LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20260821T163000Z
 SUMMARY:Le Secret de Brokeback Mountain (VOST)
-UID:bbd478ab-c179-4ca3-97ab-504ede772d2d@bbd4.org
+UID:a58eaecb-0529-4ec1-87c5-3f31ccea00e2@a58e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : David Fincher\n\nÀ New York\, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés capitaux énoncés dans la Bible : gourmandise\, avarice\, paresse\, orgueil\, luxure\, envie et colère. Vieux flic blasé à 7 jours de la retraite\, l'inspecteur Somerset mène l'enquête tout en formant son remplaçant\, l'ambitieux inspecteur David Mills…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU3JJQ#showsession?id=emsx113500007365&ps=ticketingcine
+DURATION:PT2H10M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260816T163000Z
+SUMMARY:Seven (VOST)
+UID:b54a1937-e160-4af2-827e-55b62b31a538@b54a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Makoto Shinkai\n\nMitsuha est une lycéenne\, la fille du maire d'une petite ville nichée entre les montagnes. Vivant avec sa petite sœur et sa grand-mère\, c'est une demoiselle franche qui n'hésite pas à dire qu'elle n'a pas envie de participer aux rituels shinto\, ou d'aider son père dans ses campagnes électorales. En fait\, elle rêve de pouvoir quitter cette ville où elle s'ennuie\, pour partir tenter sa chance à la capitale. Taki est un lycéen\, un tokyoïte qui travaille à mi-temps dans un restaurant italien\, tout en aspirant à des études d'architecture ou dans les Beaux-Arts. Chaque nuit\, il fait un rêve étrange\, où il devient… une lycéenne campagnarde\, vivant dans une petite ville entre les montagnes.  Quel secret se cache derrière ces rêves mutuels\, qui unissent ces deux êtres qui ne se sont jamais rencontrés ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPNY4I#showsession?id=emsx113500007348&ps=ticketingcine
+DURATION:PT1H47M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260806T200000Z
+SUMMARY:Your Name (VOST)
+UID:6027bfaf-7005-41db-bfd2-71a25917b381@6027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Mark Waters\n\nCady débarque d'Afrique et atterrit dans un lycée de l'Illinois\, véritable élevage de lolitas branchées. Au sommet de la hiérarchie\, Régina\, barbie-manipulatrice qui voit en elle une rivale potentielle et décide de se la jouer copine. Mais quand Cady commet l'erreur de sortir avec l'ex de Régina\, une guerre impitoyable est déclarée.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBUH0R#showsession?id=emsx113500007383&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260826T193000Z
+SUMMARY:Lolita malgré moi (VOST)
+UID:58bda675-7a7b-4ec0-859b-b81a1fa9bc17@58bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Monia Chokri\n\nSophia est professeure de philosophie à Montréal et vit en couple avec Xavier depuis 10 ans. Sylvain est charpentier dans les Laurentides et doit rénover leur maison de campagne. Quand Sophia rencontre Sylvain pour la première fois\, c’est le coup de foudre. Les opposés s’attirent\, mais cela peut-il durer ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRMVNPU#showsession?id=emsx113500007382&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260826T163000Z
+SUMMARY:Simple comme Sylvain (VOST)
+UID:f39d2e8c-9bc2-4ce3-8e6c-6249f2589c65@f39d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Joachim Trier\n\n Oslo\, de nos jours. Julie est une jeune femme pleine de ressource\, mais à 30 ans\, elle cherche encore sa voie. Bien qu’heureuse avec Aksel\, un dessinateur à succès\, aimant et protecteur\, elle refuse l’enfant qu’il désire. Quand Julie le quitte pour Eivind\, elle espère\, une fois de plus\, commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAA5XM#showsession?id=emsx113500007368&ps=ticketingcine
+DURATION:PT2H8M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260819T163000Z
+SUMMARY:Julie (en 12 chapitres) (VOST)
+UID:e06ac352-4a03-429e-bde7-9bf87715603e@e06a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Francis Ford Coppola\n\nSpécialiste de la filature\, Harry Caul est engagé pour suivre un couple et enregistrer leur conversation. Une fois sa mission accomplie\, Caul écoute la bande sonore. La banalité des propos le surprend. S'agit-il d'un code secret?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO859H#showsession?id=emsx113500007372&ps=ticketingcine
+DURATION:PT1H53M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260820T163000Z
+SUMMARY:Conversation Secrète (VOST)
+UID:1846859e-ed33-42e4-a2b3-22c362b7ce33@1846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Ang Lee\n\nÉté 1963\, Wyoming. Deux jeunes cow-boys\, Jack et Ennis\, sont engagés pour garder ensemble un troupeau de moutons à Brokeback Mountain. Isolés au milieu d'une nature sauvage\, leur complicité se transforme lentement en une attirance aussi irrésistible qu'inattendue. À la fin de la saison de transhumance\, les deux hommes doivent se séparer. Ennis se marie avec sa fiancée\, Alma\, tandis que Jack épouse Lureen. Quand ils se revoient quatre ans plus tard\, un seul regard suffit pour raviver l'amour né à Brokeback Mountain.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPUVXN#showsession?id=emsx113500007373&ps=ticketingcine
+DURATION:PT2H8M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260820T193000Z
+SUMMARY:Le Secret de Brokeback Mountain (VOST)
+UID:c611c405-0cad-430d-bfd3-c42ad676bee5@c611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Wes Anderson\n\nChez les Tenenbaum\, les enfants ont toujours été des génies. Tout jeunes\, Chas était déjà un maître de la finance\, Margot une dramaturge exceptionnelle et Richie un joueur de tennis hors pair. Mais un jour\, Etheline\, leur mère\, demande le divorce. Elle ne supporte plus le caractère égoïste de Royal Tenenbaum\, son mari. Cette crise familiale a une influence négative sur le développement personnel de leur progéniture. Vingt ans plus tard\, Royal écume les palaces\, Etheline s'adonne à l'archéologie\, Chas tente d'élever ses deux fils après la mort de son épouse\, Richie est un champion déchu et Margot s'est marié avec un psy. Le père Tenenbaum annonce bientôt à ses enfants qu'il ne lui reste plus longtemps à vivre. Il souhaite se réconcilier avec eux et les invite dans la maison familiale en prétextant une grave maladie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRWF74I#showsession?id=emsx113500007347&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260806T170000Z
+SUMMARY:La Famille Tenenbaum (VOST)
+UID:faf2841c-14f7-4772-8d44-e6b421229cd2@faf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Charlotte Wells\n\nAvec mélancolie\, Sophie se remémore les vacances d’été passées avec son père vingt ans auparavant : les moments de joie partagée\, leur complicité\, parfois leurs désaccords. Elle repense aussi à ce qui planait au-dessus de ces instants si précieux : la sourde et invisible menace d’un bonheur finissant. Elle tente alors de chercher parmi ces souvenirs des réponses à la question qui l’obsède depuis tant d’années : qui était réellement cet homme qu’elle a le sentiment de ne pas connaître ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR6OLTR#showsession?id=emsx113500007345&ps=ticketingcine
+DURATION:PT1H42M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260805T170000Z
+SUMMARY:Aftersun (VOST)
+UID:afa7a014-4e00-493d-9ebd-16c7a57e2aca@afa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Charlie Chaplin\n\nDans le ghetto juif vit un petit barbier qui ressemble énormément à Adenoid Hynkel\, le dictateur de Tomania qui a décidé l'extermination du peuple juif. Au cours d'une rafle\, le barbier est arrêté en compagnie de Schultz\, un farouche adversaire d'Hynkel…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNSKTP#showsession?id=emsx113500007385&ps=ticketingcine
+DURATION:PT2H6M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260827T193000Z
+SUMMARY:Le Dictateur (VOST)
+UID:6df903e1-f51c-4bdf-b28b-e16c0aac4f8f@6df9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Gints Zilbalodis\n\nUn chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRA1MB4#showsession?id=emsx113500007361&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260814T163000Z
+SUMMARY:Flow\, le chat qui n'avait plus peur de l'eau (VOST)
+UID:22c074fd-f5f2-43e0-b842-eae3c0759b43@22c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Luca Guadagnino\n\nPour le sortir d’une série de défaites cuisantes\, une entraîneure de tennis convainc son mari\, grand champion de calibre mondial\, de jouer contre son ancien meilleur ami et son ex à elle dans un tournoi mineur.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2HVU2#showsession?id=emsx113500007388&ps=ticketingcine
+DURATION:PT2H12M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260829T163000Z
+SUMMARY:Challengers (VOST)
+UID:1d72bf21-15e9-4473-8ef4-ed455c4c5e65@1d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : David Fincher\n\nÀ New York\, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés capitaux énoncés dans la Bible : gourmandise\, avarice\, paresse\, orgueil\, luxure\, envie et colère. Vieux flic blasé à 7 jours de la retraite\, l'inspecteur Somerset mène l'enquête tout en formant son remplaçant\, l'ambitieux inspecteur David Mills…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU3JJQ#showsession?id=emsx113500007364&ps=ticketingcine
+DURATION:PT2H10M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260814T193000Z
+SUMMARY:Seven (VOST)
+UID:ac39d72e-b0d9-4110-9e7f-13eba16c5f3c@ac39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Lana Wachowski\, Lilly Wachowski\n\nProgrammeur anonyme dans un service administratif le jour\, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme\, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes\, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait\, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu\, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble\, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2LH0R#showsession?id=emsx113500007376&ps=ticketingcine
+DURATION:PT2H16M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260822T163000Z
+SUMMARY:Matrix (VOST)
+UID:a1ff7ad3-3693-44d5-898f-a5531c8e98db@a1ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jacques Deray\n\nJean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez\, jusqu'au jour où arrive Harry\, au bras de l'incendiaire Pénélope. Ancien amant de Marianne\, l'homme trouble cette vie tranquille. La tension monte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNL9WD#showsession?id=emsx113500007351&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260808T170000Z
+SUMMARY:La Piscine (VOST)
+UID:3203c62c-9643-4062-9021-a1b2a45a1f95@3203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : William Wyler\n\nLes tendres amours\, le temps d'une journée\, d'une princesse fugueuse et d'un séduisant journaliste américain\, dans la Ville éternelle\, Rome.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRTRPNO#showsession?id=emsx113500007379&ps=ticketingcine
+DURATION:PT1H59M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260823T193000Z
+SUMMARY:Vacances romaines (VOST)
+UID:dbf553b6-3da4-42fd-85b5-d5207efccce7@dbf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Pier Paolo Pasolini\n\nDans les faubourgs de Rome\, Accattone\, souteneur de son état\, vient de perdre Maddalena\, celle qui\, pour lui\, se livrait à la prostitution. Stella\, sa nouvelle protégée\, va bouleverser sa vie…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7X8D6#showsession?id=emsx113500007358&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260812T193000Z
+SUMMARY:Accattone (VOST)
+UID:41686fc8-0e72-43c8-a6cf-7a6de87d9077@4168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Barry Jenkins\n\nAprès avoir grandi dans un quartier difficile de Miami\, Chiron\, un jeune homme tente de trouver sa place dans le monde. Moonlight évoque son parcours\, de l’enfance à l’âge adulte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5F1NO#showsession?id=emsx113500007356&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260811T193000Z
+SUMMARY:Moonlight (VOST)
+UID:a6ecf3a4-d02f-4382-93b3-57a4aa02733d@a6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : William Wyler\n\nLes tendres amours\, le temps d'une journée\, d'une princesse fugueuse et d'un séduisant journaliste américain\, dans la Ville éternelle\, Rome.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRTRPNO#showsession?id=emsx113500007380&ps=ticketingcine
+DURATION:PT1H59M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260825T163000Z
+SUMMARY:Vacances romaines (VOST)
+UID:53c3817a-f037-4b87-b3a5-f181eed06a27@53c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Neil Jordan\n\nSan Francisco dans les années 90. Un jeune journaliste\, Malloy\, s'entretient dans une chambre avec un homme élégant\, à l'allure aristocratique et au visage blafard\, Louis\, qui lui fait de bien étranges confidences. Malloy\, subjugué par la séduction de son interlocuteur lui demande\, à l'aube\, de le faire pénétrer dans son monde\, celui des vampires.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO6FG5#showsession?id=emsx113500007352&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260808T200000Z
+SUMMARY:Entretien avec un vampire (VOST)
+UID:1223f79e-274a-4af5-b9bd-6b35341669e0@1223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mark Waters\n\nCady débarque d'Afrique et atterrit dans un lycée de l'Illinois\, véritable élevage de lolitas branchées. Au sommet de la hiérarchie\, Régina\, barbie-manipulatrice qui voit en elle une rivale potentielle et décide de se la jouer copine. Mais quand Cady commet l'erreur de sortir avec l'ex de Régina\, une guerre impitoyable est déclarée.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBUH0R#showsession?id=emsx113500007384&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260827T163000Z
+SUMMARY:Lolita malgré moi (VOST)
+UID:a293abac-9ae7-4629-8c4a-a9c9c0d1f3aa@a293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Franck Dubosc\n\nMichel et Cathy\, un couple usé par le temps et les difficultés financières\, ne se parlent plus vraiment. Jusqu’au jour où Michel\, pour éviter un ours sur la route\, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre\, forcément\, ça donne envie de se reparler. Et surtout de se taire.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRP5Y0E#showsession?id=emsx113500007354&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260809T200000Z
+SUMMARY:Un ours dans le Jura (VOST)
+UID:efee0a19-801d-4f23-8acb-8b1309d1046a@efee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pier Paolo Pasolini\n\nDans les faubourgs de Rome\, Accattone\, souteneur de son état\, vient de perdre Maddalena\, celle qui\, pour lui\, se livrait à la prostitution. Stella\, sa nouvelle protégée\, va bouleverser sa vie…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7X8D6#showsession?id=emsx113500007359&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260813T163000Z
+SUMMARY:Accattone (VOST)
+UID:5e6f181f-34ec-4589-9498-b54a95cbdcc7@5e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Peter Weir\n\nTodd Anderson est un garçon plutôt timide. Désormais élève de la prestigieuse académie Welton\, réputée pour être l'une des plus fermées et austères des États-Unis\, tout le monde attend de lui qu'il suive les traces de son frère\, qui avait fait à Welton de brillantes études.  C'est là qu'il va faire la rencontre de M. Keating\, un professeur de lettres anglaises qui\, c'est le moins que l'on puisse dire\, sort des sentiers battus. Jour après jour\, M. Keating encourage ses élèves à penser par eux-mêmes et à refuser l'ordre établi. Cette rencontre va bouleverser la vie du jeune Todd\, mais aussi celle de ses amis.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2XTHZ#showsession?id=emsx113500007378&ps=ticketingcine
+DURATION:PT2H8M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260823T163000Z
+SUMMARY:Le Cercle des poètes disparus (VOST)
+UID:b4148e4c-32fe-4bb1-a565-c1ebb56158c2@b414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Peter Weir\n\nTodd Anderson est un garçon plutôt timide. Désormais élève de la prestigieuse académie Welton\, réputée pour être l'une des plus fermées et austères des États-Unis\, tout le monde attend de lui qu'il suive les traces de son frère\, qui avait fait à Welton de brillantes études.  C'est là qu'il va faire la rencontre de M. Keating\, un professeur de lettres anglaises qui\, c'est le moins que l'on puisse dire\, sort des sentiers battus. Jour après jour\, M. Keating encourage ses élèves à penser par eux-mêmes et à refuser l'ordre établi. Cette rencontre va bouleverser la vie du jeune Todd\, mais aussi celle de ses amis.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2XTHZ#showsession?id=emsx113500007377&ps=ticketingcine
+DURATION:PT2H8M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260822T193000Z
+SUMMARY:Le Cercle des poètes disparus (VOST)
+UID:4e33f711-68f6-43d7-a9e5-2ac8d7fcae8f@4e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Wes Anderson\n\nChez les Tenenbaum\, les enfants ont toujours été des génies. Tout jeunes\, Chas était déjà un maître de la finance\, Margot une dramaturge exceptionnelle et Richie un joueur de tennis hors pair. Mais un jour\, Etheline\, leur mère\, demande le divorce. Elle ne supporte plus le caractère égoïste de Royal Tenenbaum\, son mari. Cette crise familiale a une influence négative sur le développement personnel de leur progéniture. Vingt ans plus tard\, Royal écume les palaces\, Etheline s'adonne à l'archéologie\, Chas tente d'élever ses deux fils après la mort de son épouse\, Richie est un champion déchu et Margot s'est marié avec un psy. Le père Tenenbaum annonce bientôt à ses enfants qu'il ne lui reste plus longtemps à vivre. Il souhaite se réconcilier avec eux et les invite dans la maison familiale en prétextant une grave maladie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRWF74I#showsession?id=emsx113500007346&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260805T200000Z
+SUMMARY:La Famille Tenenbaum (VOST)
+UID:455948b9-9807-4e91-9a0d-8fb7a29b2c09@4559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Neil Jordan\n\nSan Francisco dans les années 90. Un jeune journaliste\, Malloy\, s'entretient dans une chambre avec un homme élégant\, à l'allure aristocratique et au visage blafard\, Louis\, qui lui fait de bien étranges confidences. Malloy\, subjugué par la séduction de son interlocuteur lui demande\, à l'aube\, de le faire pénétrer dans son monde\, celui des vampires.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO6FG5#showsession?id=emsx113500007353&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260809T170000Z
+SUMMARY:Entretien avec un vampire (VOST)
+UID:e5a1ba0e-c119-4a98-9e90-64ebf4ae3bb8@e5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Lana Wachowski\, Lilly Wachowski\n\nProgrammeur anonyme dans un service administratif le jour\, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme\, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes\, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait\, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu\, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble\, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2LH0R#showsession?id=emsx113500007375&ps=ticketingcine
+DURATION:PT2H16M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260821T193000Z
+SUMMARY:Matrix (VOST)
+UID:2bdb5d4c-045d-4112-ac90-117e38d0b51b@2bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Franck Dubosc\n\nMichel et Cathy\, un couple usé par le temps et les difficultés financières\, ne se parlent plus vraiment. Jusqu’au jour où Michel\, pour éviter un ours sur la route\, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre\, forcément\, ça donne envie de se reparler. Et surtout de se taire.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRP5Y0E#showsession?id=emsx113500007355&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260811T163000Z
+SUMMARY:Un ours dans le Jura (VOST)
+UID:02509363-e28f-4bdd-b67b-fc0bdbd7db99@0250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Barry Jenkins\n\nAprès avoir grandi dans un quartier difficile de Miami\, Chiron\, un jeune homme tente de trouver sa place dans le monde. Moonlight évoque son parcours\, de l’enfance à l’âge adulte.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5F1NO#showsession?id=emsx113500007357&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260812T163000Z
+SUMMARY:Moonlight (VOST)
+UID:81cc3b44-911c-42ca-bff4-82f0bbacc6cc@81cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Luca Guadagnino\n\nPour le sortir d’une série de défaites cuisantes\, une entraîneure de tennis convainc son mari\, grand champion de calibre mondial\, de jouer contre son ancien meilleur ami et son ex à elle dans un tournoi mineur.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2HVU2#showsession?id=emsx113500007387&ps=ticketingcine
+DURATION:PT2H12M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260828T193000Z
+SUMMARY:Challengers (VOST)
+UID:3ae5bd8b-0042-425f-bc12-ce5e30054ca6@3ae5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Francis Ford Coppola\n\nSpécialiste de la filature\, Harry Caul est engagé pour suivre un couple et enregistrer leur conversation. Une fois sa mission accomplie\, Caul écoute la bande sonore. La banalité des propos le surprend. S'agit-il d'un code secret?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRO859H#showsession?id=emsx113500007369&ps=ticketingcine
+DURATION:PT1H53M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260819T193000Z
+SUMMARY:Conversation Secrète (VOST)
+UID:87e4e271-2d04-4d43-93cf-bb3841bde677@87e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Charlotte Wells\n\nAvec mélancolie\, Sophie se remémore les vacances d’été passées avec son père vingt ans auparavant : les moments de joie partagée\, leur complicité\, parfois leurs désaccords. Elle repense aussi à ce qui planait au-dessus de ces instants si précieux : la sourde et invisible menace d’un bonheur finissant. Elle tente alors de chercher parmi ces souvenirs des réponses à la question qui l’obsède depuis tant d’années : qui était réellement cet homme qu’elle a le sentiment de ne pas connaître ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR6OLTR#showsession?id=emsx113500007344&ps=ticketingcine
+DURATION:PT1H42M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260804T200000Z
+SUMMARY:Aftersun (VOST)
+UID:2ad452f1-3135-4cd5-9ef5-0e7d79e51784@2ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PLEIN AIR\n\nRéalisateur : Gints Zilbalodis\n\nUn chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRA1MB4#showsession?id=emsx113500007360&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Cinémathèque de Toulouse (PLEIN AIR)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260813T193000Z
+SUMMARY:Flow\, le chat qui n'avait plus peur de l'eau (VOST)
+UID:8fc733af-c980-4325-a1c0-29c36197a848@8fc7.org
 END:VEVENT
 END:VCALENDAR
