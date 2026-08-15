@@ -2,76 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090666&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T170000Z
-SUMMARY:Gavagai\, et autres malentendus (VOST)
-UID:b5a40d87-7e13-459c-9784-aa98b55dd79c@b5a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090659&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T164500Z
-SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:b18bbb0d-cb15-4417-9d07-20f5d5f7b578@b18b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090636&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T145000Z
-SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:06d6a1a5-bad7-4120-a50e-fdd8102a43e9@06d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090641&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T141500Z
-SUMMARY:Home stories (VOST)
-UID:92a5894b-671b-4661-888a-d212336471c4@92a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090629&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T184500Z
-SUMMARY:The Last Viking (VOST)
-UID:670b6619-97f7-4d94-ba0e-79400fc6a559@670b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090647&ps=ticketingcine
+DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090674&ps=ticketingcine
 DURATION:PT1H21M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T124500Z
-SUMMARY:Un grand raccourci (VOST)
-UID:f07532b2-58cf-4211-b434-834f037b2cd2@f075.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Youssef Chahine\n\nAu XIIème siècle\, en Espagne\, les enseignements controversés d'un penseur mettent en péril le pouvoir du Calife en place\, que ses opposants menacent de renverser.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRR7EKY#showsession?id=emsx094700090592&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T183000Z
-SUMMARY:Le Destin (VOST)
-UID:50718678-9b5c-4ce4-baad-4a04fc19b90b@5071.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090679&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T140000Z
-SUMMARY:Home stories (VOST)
-UID:612f26fc-cee3-41f9-9d3d-1acbc0c70f11@612f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090660&ps=ticketingcine
-DURATION:PT1H55M
 LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T124000Z
-SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:d5497910-ac8f-4c50-954f-9e178f2bfe8c@d549.org
+DTSTART:20260818T163000Z
+SUMMARY:Un grand raccourci (VOST)
+UID:d63799e4-22cc-44fc-b9c6-429a88ff2c55@d637.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE C\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090678&ps=ticketingcine
@@ -79,199 +15,15 @@ DURATION:PT1H55M
 LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260818T161500Z
 SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:2a13f437-4e96-4427-964c-263cd0f33a05@2a13.org
+UID:7955821b-18c2-4179-89dc-f3c584e7d6fe@7955.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090671&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T190000Z
-SUMMARY:Cotton Queen (VOST)
-UID:7f13d082-7bca-44c4-b05e-f48aa1049364@7f13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090665&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T122000Z
-SUMMARY:Home stories (VOST)
-UID:0558139d-1f90-45f0-9236-aef807fa5c2d@0558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRZ16MO#showsession?id=emsx094700090684&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T141000Z
-SUMMARY:In Waves (VOST)
-UID:ee54359e-4e11-47e3-a98f-c53370418247@ee54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090657&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T190000Z
-SUMMARY:Un grand raccourci (VOST)
-UID:b64b11a9-5a73-49ae-b307-32bc33abf433@b64b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090626&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T164500Z
-SUMMARY:Cotton Queen (VOST)
-UID:38e2990e-bd20-48e2-b6db-bf12566c00dd@38e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090654&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T130000Z
-SUMMARY:Une affaire turque (VOST)
-UID:3ea1a549-ce85-42ad-884f-dece4c4f58ab@3ea1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090623&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T190000Z
-SUMMARY:Une affaire turque (VOST)
-UID:f50181d0-4234-43dc-b1bb-2fd892114c27@f501.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090649&ps=ticketingcine
+DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090659&ps=ticketingcine
 DURATION:PT1H55M
 LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T143000Z
+DTSTART:20260817T164500Z
 SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:dd08e49e-87c0-4708-9e0e-7b6eb413a465@dd08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090696&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T123000Z
-SUMMARY:Cotton Queen (VOST)
-UID:9946de7b-7656-48eb-882e-2b848e9f64f7@9946.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Masaki Kobayashi\n\nUne collection de quatre contes populaires japonais aux thèmes surnaturels : Les Cheveux noirs\, La Femme des neiges\, Hoïchi sans oreilles\, Dans un bol de thé.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR7C2MV#showsession?id=emsx094700090599&ps=ticketingcine
-DURATION:PT3H3M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T153000Z
-SUMMARY:Kwaïdan (VOST)
-UID:981883bf-f838-491e-837a-f6e529361048@9818.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090675&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T130000Z
-SUMMARY:Un grand raccourci (VOST)
-UID:50eb735b-ec7b-4718-88ae-1f19f25905fd@50eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Jacques Tati\n\nDessinateur chez Altra\, une petite entreprise parisienne en pleine expansion\, monsieur Hulot a inventé une voiture de camping révolutionnaire\, équipée d'une tente et de multiples gadgets. Ses employeurs tiennent absolument à présenter cette merveille d'ingéniosité au Salon de l'automobile qui se tiendra bientôt à Amsterdam. Après avoir chargé le prototype sur un camion\, monsieur Hulot prend la direction des Pays-Bas\, accompagné d'une attachée de presse. Dès la sortie de Paris\, le convoi s'engage sur une autoroute surchargée. Embouteillages\, crevaison\, panne d'essence\, accident\, contrôle des douanes : la fatalité n'épargnera rien au génial inventeur...\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRSMXYB#showsession?id=emsx094700090591&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T163000Z
-SUMMARY:Trafic (VOST)
-UID:64a20019-290d-486c-bbea-cdfd554add88@64a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Juan Antin\n\n Tepulpaï et Naïra\, deux petits indiens de la Cordillère des Andes\, partent à la poursuite de la Pachamama\, totem protecteur de leur village\, confisqué par les Incas. Leur quête les mènera jusqu’à Cuzco\, capitale royale assiégée par les conquistadors.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXYY9F#showsession?id=emsx094700090589&ps=ticketingcine
-DURATION:PT1H12M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T124500Z
-SUMMARY:Pachamama (VOST)
-UID:e356a02a-3581-44d1-aba9-fd84a87f8484@e356.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090698&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T112000Z
-SUMMARY:Cotton Queen (VOST)
-UID:eeb7f274-07a8-477c-881d-e332bae7cb57@eeb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090676&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T144000Z
-SUMMARY:Une affaire turque (VOST)
-UID:f3e625b6-7bee-4769-bc5e-04181f78295e@f3e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090651&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T165000Z
-SUMMARY:Cotton Queen (VOST)
-UID:c3948e0e-9135-42cd-8f77-f7e03c39b797@c394.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Jacques Tati\n\nMonsieur Arpel est féru de modernisme. Directeur d'une fabrique de tuyaux en plastique\, il a doté sa maison de tous les perfectionnements techniques possibles à ce jour. Pourtant\, cette maison pourvue de robots est loin d'apporter une atmosphère détendue à son fils\, Gérard\, 10 ans. Le beau-frère de monsieur Arpel\, monsieur Hulot\, fantasque et bohème\, occupe un modeste deux pièces dans un quartier populaire. Il invite de temps à autre son jeune neveu\, dressé à l'ordre rigoureux qui règne chez lui\, à découvrir son domaine de fantaisie et de liberté. Sa sœur\, maintenant madame Arpel\, espère secrètement qu'il épousera sa voisine\, mais c'est compter sans l'esprit discrètement récalcitrant et frondeur de Hulot\, résolument épris de liberté...\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6FG5#showsession?id=emsx094700090587&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T160000Z
-SUMMARY:Mon Oncle (VOST)
-UID:d679046a-8fc6-4d26-a79f-cd9cafd408c4@d679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Wassim Boutaleb Joutei\n\nProgramme de deux courts métrages : Non-Non rétrécit et Non-Non dans l'espace.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5L8AN#showsession?id=emsx094700090593&ps=ticketingcine
-DURATION:PT52M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T084500Z
-SUMMARY:Non-Non dans l'espace (VOST)
-UID:ce6e7231-461b-46d8-8673-c102b4dd0f2e@ce6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090664&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T121500Z
-SUMMARY:Cotton Queen (VOST)
-UID:25a5d41c-fea9-4b0e-b296-1f12d7ee2900@25a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090627&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T143000Z
-SUMMARY:Home stories (VOST)
-UID:1d97e385-b2d5-4b05-99b5-d278c7820539@1d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Chayé\n\n1892\, Saint-Pétersbourg.\r Sacha\, une jeune fille de l’aristocratie russe\, a toujours été fascinée par la vie d’aventure de son grand-père\, Oloukine. Explorateur renommé\, concepteur du Davaï\, son magnifique navire de l’Arctique\, il n’est jamais revenu de sa dernière expédition à la conquête du Pôle Nord. Et maintenant son nom est sali et sa famille déshonorée.\r Pour laver l’honneur de la famille\, Sacha s’enfuit. En route vers le Grand Nord\, elle suit la piste de son grand-père pour retrouver le fameux navire.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXEN6M#showsession?id=emsx094700090588&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T123000Z
-SUMMARY:Tout en haut du monde (VOST)
-UID:ad5f2ba4-667e-4f8b-9568-a07eb0b02fb0@ad5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090663&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T141000Z
-SUMMARY:Une affaire turque (VOST)
-UID:cccbc2cd-a586-4c4d-b698-86cdf2d3abbc@cccb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090633&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T131000Z
-SUMMARY:Un grand raccourci (VOST)
-UID:fc2f1bdc-6eb2-4ce6-ada6-70c121812e46@fc2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090653&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T150000Z
-SUMMARY:Gavagai\, et autres malentendus (VOST)
-UID:a64b1ead-3081-4520-8a2b-69c09dc47249@a64b.org
+UID:60930cb7-157d-4fc0-af38-a82df1dfa008@6093.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE B\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090661&ps=ticketingcine
@@ -279,87 +31,7 @@ DURATION:PT2H4M
 LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260817T183000Z
 SUMMARY:Girl (VOST)
-UID:64c22d01-0d7d-47f3-884c-7566e0000f6c@64c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090622&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T152000Z
-SUMMARY:Une affaire turque (VOST)
-UID:e6cf2cec-589a-43c5-9445-450a7d498821@e6cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090643&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T142000Z
-SUMMARY:Cotton Queen (VOST)
-UID:8c3c617d-1e25-44f5-b32a-063d0bd0f730@8c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Makoto Shinkai\n\nDans une petite ville paisible de Kyushu\, une jeune fille de 17 ans\, Suzume\, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes\, elle découvre une porte délabrée trônant au milieu des ruines\, seul vestige ayant survécu au passage du temps. Cédant à une inexplicable impulsion\, Suzume tourne la poignée\, et d’autres portes s’ouvrent alors aux quatre coins du Japon\, laissant passer toutes les catastrophes qu’elles renfermaient. L’homme est formel : toute porte ouverte doit être refermée. Suzume s’est égarée où se trouvent les étoiles\, le crépuscule et l’aube\, une voûte céleste où tous les temps se confondent. Guidée par des portes nimbées de mystère\, elle entame un périple afin de toutes les refermer.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR0F5EP#showsession?id=emsx094700090594&ps=ticketingcine
-DURATION:PT2H2M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T160000Z
-SUMMARY:Suzume (VOST)
-UID:87991695-53a8-4de6-a26f-93435bb1a1db@8799.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090674&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T163000Z
-SUMMARY:Un grand raccourci (VOST)
-UID:be4d3d7a-20da-4c29-9c92-a383c611b78e@be4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090669&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T083000Z
-SUMMARY:The Last Viking (VOST)
-UID:b4590ddc-9564-489d-a47c-5542cb1e2c39@b459.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090672&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T131500Z
-SUMMARY:The Last Viking (VOST)
-UID:7045914d-7d6a-4cb5-8f49-d39bed1424d2@7045.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090620&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T171500Z
-SUMMARY:Un grand raccourci (VOST)
-UID:35243259-248b-4a35-bcaf-6b6a2fe99f0e@3524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRZ16MO#showsession?id=emsx094700090701&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T084000Z
-SUMMARY:In Waves (VOST)
-UID:8a5cba42-c5eb-4913-9555-0e9a92383f6e@8a5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090648&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T164000Z
-SUMMARY:Une affaire turque (VOST)
-UID:361bd335-6b74-4297-8e88-5dc0135be1e4@361b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090621&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T134000Z
-SUMMARY:Un grand raccourci (VOST)
-UID:d4bb9e72-4702-4e12-9e89-61a3d37d1446@d4bb.org
+UID:1cfa6039-a3b9-4a02-bf5b-f20b086270b0@1cfa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE C\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090632&ps=ticketingcine
@@ -367,87 +39,7 @@ DURATION:PT1H21M
 LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260815T190000Z
 SUMMARY:Un grand raccourci (VOST)
-UID:e13515b0-3e62-4669-a5bc-33e0ebfe4f91@e135.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090646&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T164500Z
-SUMMARY:Un grand raccourci (VOST)
-UID:e77edac4-4149-46b3-9e55-4df7fc4e7a32@e77e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090667&ps=ticketingcine
-DURATION:PT2H4M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T144000Z
-SUMMARY:Girl (VOST)
-UID:e15bd633-ea8f-4003-97bc-07d54d26b96d@e15b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090681&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T111000Z
-SUMMARY:Gavagai\, et autres malentendus (VOST)
-UID:b3be1152-acf7-4271-a4d3-0f0cfacaba64@b3be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090662&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T185000Z
-SUMMARY:Cotton Queen (VOST)
-UID:891f1993-b836-4b66-a0fa-ae0177978759@891f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090652&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T184500Z
-SUMMARY:Home stories (VOST)
-UID:d914a5be-9bd0-406f-a88e-5f5293c1a078@d914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090625&ps=ticketingcine
-DURATION:PT2H4M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T183000Z
-SUMMARY:Girl (VOST)
-UID:97b7db1a-a592-404e-b0e8-f39b8e9e573e@97b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090693&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T162000Z
-SUMMARY:The Last Viking (VOST)
-UID:4eb52623-2013-4c53-9dec-cf0c70f614be@4eb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090857&ps=ticketingcine
-DURATION:PT2H
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260827T184500Z
-SUMMARY:Salvation (VOST)
-UID:3041c97e-a02e-45e9-89a9-e278db827d55@3041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090628&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T104000Z
-SUMMARY:Gavagai\, et autres malentendus (VOST)
-UID:2e94bd82-3cb0-460b-892b-0574a53ec741@2e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090638&ps=ticketingcine
-DURATION:PT2H4M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T184500Z
-SUMMARY:Girl (VOST)
-UID:afbdeb12-8820-4740-bfd8-9f5b68d901d3@afbd.org
+UID:43b1c63d-206f-44c5-97c1-645fc10b28ad@43b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE C\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090680&ps=ticketingcine
@@ -455,95 +47,7 @@ DURATION:PT2H4M
 LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260818T114000Z
 SUMMARY:Girl (VOST)
-UID:e615c634-2ff4-47f0-afd5-fe040d5a3337@e615.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Jacques Tati\n\nLes vacances\, tout le monde le sait\, ne sont pas faites pour s'amuser. Tout le monde le sait\, sauf monsieur Hulot qui\, pipe en l'air et silhouette en éventail\, prend la vie comme elle vient\, bouleversant scandaleusement au volant de sa vieille voiture Salmson pétaradante la quiétude estivale des vacanciers qui s'installent avec leurs habitudes de citadins dans cette petite station balnéaire de la côte atlantique.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR63JJQ#showsession?id=emsx094700090595&ps=ticketingcine
-DURATION:PT1H28M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260817T083000Z
-SUMMARY:Les Vacances de Mr Hulot (VOST)
-UID:2beade46-5ff2-4181-a697-a4e6777ba294@2bea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090597&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T181500Z
-SUMMARY:Fjord (VOST)
-UID:84367f8a-1417-4a80-906e-dd9ad1f17fb8@8436.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090634&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T171000Z
-SUMMARY:Une affaire turque (VOST)
-UID:d7f622c5-9109-4fc8-99e6-c354bb80f4c6@d7f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Masaki Kobayashi\n\nUne collection de quatre contes populaires japonais aux thèmes surnaturels : Les Cheveux noirs\, La Femme des neiges\, Hoïchi sans oreilles\, Dans un bol de thé.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR7C2MV#showsession?id=emsx094700090692&ps=ticketingcine
-DURATION:PT3H3M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T110000Z
-SUMMARY:Kwaïdan (VOST)
-UID:731e092e-f28c-4910-8c7c-82d0441f966d@731e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRZ16MO#showsession?id=emsx094700090700&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T084500Z
-SUMMARY:In Waves (VOST)
-UID:4c77b00e-a991-4744-a36d-e5f86b3759eb@4c77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090695&ps=ticketingcine
-DURATION:PT1H56M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260816T183000Z
-SUMMARY:The Last Viking (VOST)
-UID:7d1e1061-c8af-4c43-99e9-7cd30af0be4d@7d1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090637&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T183000Z
-SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:10c84dee-c6be-4a30-800e-feca8e3278dd@10c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Phyllida Lloyd\n\nC'est en 1999\, sur la ravissante île grecque de Kalokairi que l'aventure romantique commence\, dans un hôtel méditerranéen isolé\, la villa Donna\, tenu par Donna\, sa fille Sophie et le fiancé de Sophie\, Sky. Juste à temps pour son mariage prochain\, Sophie poste nerveusement trois invitations destinées à trois hommes bien différents dont elle pense que l'un d'eux est son père. De trois points du globe\, trois hommes s'apprêtent à retourner sur l'île - et vers la femme - qui les avait enchantés 20 ans auparavant.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREP8D6#showsession?id=emsx094700090697&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T183000Z
-SUMMARY:Mamma Mia ! (VOST)
-UID:d488a801-aaee-49d5-8326-b3eaefccba65@d488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090624&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T113000Z
-SUMMARY:Des Fleurs pour Tokyo (VOST)
-UID:e0efd25e-6e5b-4ace-bfb8-1fd76e3966ec@e0ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : NANKE Makiko\, KARPOVA Marina\, SMATANA Martin\, DIAB Lamiaa\, ESMAT Hend\, JIRKOVA Evgeniya\n\nLa famille\, ce n'est que du bonheur ! Enfin\, à condition de ne pas se disputer ni de faire de caprices ! Et si prendre soin les uns des autres était la plus belle des aventures ? Cinq histoires de familles pour les enfants\, leurs parents et leurs grands-parents !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRHXN2Y#showsession?id=emsx094700090168&ps=ticketingcine
-DURATION:PT43M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260814T083000Z
-SUMMARY:Un petit air de famille (VOST)
-UID:cc1e5030-9b94-436a-b9c6-f43636f99eb9@cc1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090694&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260815T123000Z
-SUMMARY:Une affaire turque (VOST)
-UID:156538fc-44ea-44d1-8668-1bf863734f71@1565.org
+UID:c2374ae5-6fc1-4bda-8440-2e67a3cf33f0@c237.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE B\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090650&ps=ticketingcine
@@ -551,15 +55,23 @@ DURATION:PT2H4M
 LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260816T143000Z
 SUMMARY:Girl (VOST)
-UID:c6a27848-3fc5-4385-a7c2-cd723a0374b1@c6a2.org
+UID:f4a6925d-23f5-4e59-a4cd-2e24858989ce@f4a6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : SCHETTINI Alejo\, SODERGUIT Alfredo\, CUTLER Samantha\, SNADDON Daniel\, ROHLEDER Sonja\, TIKUNOVA Vasilisa\n\nUn programme de quatre courts métrages haut en couleur pour triompher des différences !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRMZURS#showsession?id=emsx094700090169&ps=ticketingcine
-DURATION:PT38M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260818T083000Z
-SUMMARY:Les Tourouges et les Toubleus (VOST)
-UID:0e03a1d3-0372-4206-99a4-174dd3a02c32@0e03.org
+DESCRIPTION:SALLE C\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090651&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T165000Z
+SUMMARY:Cotton Queen (VOST)
+UID:34f0852d-3244-46ae-9dbc-51e5fed4c1dc@34f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090634&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T171000Z
+SUMMARY:Une affaire turque (VOST)
+UID:5edb7771-6a37-4a78-8915-3ddc046a5e1b@5edb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090658&ps=ticketingcine
@@ -567,6 +79,366 @@ DURATION:PT1H21M
 LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260817T150000Z
 SUMMARY:Un grand raccourci (VOST)
-UID:182e12a2-366d-4b07-a784-145e522072b5@182e.org
+UID:545e6ea8-28d2-4693-b0af-a899e10eb8cb@545e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090667&ps=ticketingcine
+DURATION:PT2H4M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T144000Z
+SUMMARY:Girl (VOST)
+UID:052a526b-abae-4d63-b168-acf006dda262@052a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRZ16MO#showsession?id=emsx094700090701&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T084000Z
+SUMMARY:In Waves (VOST)
+UID:a274663c-aa67-4c2b-a5bf-b410c08d6981@a274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Juan Antin\n\n Tepulpaï et Naïra\, deux petits indiens de la Cordillère des Andes\, partent à la poursuite de la Pachamama\, totem protecteur de leur village\, confisqué par les Incas. Leur quête les mènera jusqu’à Cuzco\, capitale royale assiégée par les conquistadors.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXYY9F#showsession?id=emsx094700090589&ps=ticketingcine
+DURATION:PT1H12M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T124500Z
+SUMMARY:Pachamama (VOST)
+UID:afc8cd4f-5373-4d3d-90b5-b0409ef49077@afc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090653&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T150000Z
+SUMMARY:Gavagai\, et autres malentendus (VOST)
+UID:8463ca3b-682b-4e44-90c9-0b1677f4758a@8463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090643&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T142000Z
+SUMMARY:Cotton Queen (VOST)
+UID:ff2cef66-55b0-4a50-82ab-233380a69c4c@ff2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090662&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T185000Z
+SUMMARY:Cotton Queen (VOST)
+UID:fad2da29-2a4c-45ef-b148-36c4f3f530b6@fad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090698&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T112000Z
+SUMMARY:Cotton Queen (VOST)
+UID:bc5c4da3-6529-4f3e-beac-7d58bbbcc876@bc5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090641&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T141500Z
+SUMMARY:Home stories (VOST)
+UID:6e8ce9da-1a30-4e3f-80be-50af9e50f645@6e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090648&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T164000Z
+SUMMARY:Une affaire turque (VOST)
+UID:4a19e0f8-5c95-416f-9209-8efb701654d1@4a19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Makoto Shinkai\n\nDans une petite ville paisible de Kyushu\, une jeune fille de 17 ans\, Suzume\, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes\, elle découvre une porte délabrée trônant au milieu des ruines\, seul vestige ayant survécu au passage du temps. Cédant à une inexplicable impulsion\, Suzume tourne la poignée\, et d’autres portes s’ouvrent alors aux quatre coins du Japon\, laissant passer toutes les catastrophes qu’elles renfermaient. L’homme est formel : toute porte ouverte doit être refermée. Suzume s’est égarée où se trouvent les étoiles\, le crépuscule et l’aube\, une voûte céleste où tous les temps se confondent. Guidée par des portes nimbées de mystère\, elle entame un périple afin de toutes les refermer.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR0F5EP#showsession?id=emsx094700090594&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T160000Z
+SUMMARY:Suzume (VOST)
+UID:771fdf07-d418-473c-9d04-0436be6856fb@771f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090597&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T181500Z
+SUMMARY:Fjord (VOST)
+UID:2f26f3da-88d2-4204-bd90-e33142762ebd@2f26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090649&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T143000Z
+SUMMARY:Des Fleurs pour Tokyo (VOST)
+UID:2f189977-caaa-4777-92fc-276813eb2b19@2f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090693&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T162000Z
+SUMMARY:The Last Viking (VOST)
+UID:72c4da94-6b27-4d40-be5d-fc475ce3d7a6@72c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090637&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T183000Z
+SUMMARY:Des Fleurs pour Tokyo (VOST)
+UID:dc4ad761-10a5-483c-b376-230a4aa69375@dc4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090666&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T170000Z
+SUMMARY:Gavagai\, et autres malentendus (VOST)
+UID:e9ec8600-1444-480c-b41a-b05c5c207cc5@e9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090660&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T124000Z
+SUMMARY:Des Fleurs pour Tokyo (VOST)
+UID:33a548c7-c68f-432c-9fe0-3a164e9eebed@33a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090665&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T122000Z
+SUMMARY:Home stories (VOST)
+UID:b65cd4f4-70d8-4a58-9abc-1ad7037ee43d@b65c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Wassim Boutaleb Joutei\n\nProgramme de deux courts métrages : Non-Non rétrécit et Non-Non dans l'espace.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5L8AN#showsession?id=emsx094700090593&ps=ticketingcine
+DURATION:PT52M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T084500Z
+SUMMARY:Non-Non dans l'espace (VOST)
+UID:4212bb48-0302-4a8b-beb7-32ac26a29078@4212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Shu Qi\n\nTaïwan\, 1988. Hsiao-lee\, une jeune adolescente timide\, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li\, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit\, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté\, Hsiao-lee doit trouver sa propre voie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJM0J7#showsession?id=emsx094700090638&ps=ticketingcine
+DURATION:PT2H4M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T184500Z
+SUMMARY:Girl (VOST)
+UID:145482e9-4fad-4985-aa7d-8d7ddf8db938@1454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Masaki Kobayashi\n\nUne collection de quatre contes populaires japonais aux thèmes surnaturels : Les Cheveux noirs\, La Femme des neiges\, Hoïchi sans oreilles\, Dans un bol de thé.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR7C2MV#showsession?id=emsx094700090599&ps=ticketingcine
+DURATION:PT3H3M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T153000Z
+SUMMARY:Kwaïdan (VOST)
+UID:d53120a5-51c1-41c0-aceb-f873013a815e@d531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090669&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T083000Z
+SUMMARY:The Last Viking (VOST)
+UID:6f5a5ae1-b90f-4830-a879-9f4406db50ec@6f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090664&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T121500Z
+SUMMARY:Cotton Queen (VOST)
+UID:0384fcc0-5051-4a09-a6a8-f2c21622ac90@0384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090676&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T144000Z
+SUMMARY:Une affaire turque (VOST)
+UID:4212dab1-2469-46dd-a497-c62621ebfb08@4212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090633&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T131000Z
+SUMMARY:Un grand raccourci (VOST)
+UID:8d9577e3-a483-4abd-812f-af554fe89436@8d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090646&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T164500Z
+SUMMARY:Un grand raccourci (VOST)
+UID:f57df923-5578-4dd3-97e9-241a7bc362bd@f57d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : 団塚唯我\n\nDans le paysage en perpétuelle transformation de Shibuya\, à Tokyo\, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère\, Yumiko\, il est depuis longtemps en froid avec son père\, Hajime\, un architecte-paysagiste. Jusqu’au jour où\, lors d’une livraison ordinaire\, père et fils se retrouvent face à face…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROCLOD#showsession?id=emsx094700090636&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T145000Z
+SUMMARY:Des Fleurs pour Tokyo (VOST)
+UID:cdc2aa94-5ff5-490f-a8f0-96680f378075@cdc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Phyllida Lloyd\n\nC'est en 1999\, sur la ravissante île grecque de Kalokairi que l'aventure romantique commence\, dans un hôtel méditerranéen isolé\, la villa Donna\, tenu par Donna\, sa fille Sophie et le fiancé de Sophie\, Sky. Juste à temps pour son mariage prochain\, Sophie poste nerveusement trois invitations destinées à trois hommes bien différents dont elle pense que l'un d'eux est son père. De trois points du globe\, trois hommes s'apprêtent à retourner sur l'île - et vers la femme - qui les avait enchantés 20 ans auparavant.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREP8D6#showsession?id=emsx094700090697&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T183000Z
+SUMMARY:Mamma Mia ! (VOST)
+UID:aa77bced-eb31-4f7e-9bf2-f849c037c086@aa77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090672&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T131500Z
+SUMMARY:The Last Viking (VOST)
+UID:a0bb5e89-2d36-48f5-8f33-09c3f0b9ee44@a0bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090654&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T130000Z
+SUMMARY:Une affaire turque (VOST)
+UID:d4affdfa-879d-47ab-b6b8-94910fe6fa7b@d4af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090671&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T190000Z
+SUMMARY:Cotton Queen (VOST)
+UID:f4beb499-88ba-4622-8b44-d88bd3282613@f4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Jacques Tati\n\nDessinateur chez Altra\, une petite entreprise parisienne en pleine expansion\, monsieur Hulot a inventé une voiture de camping révolutionnaire\, équipée d'une tente et de multiples gadgets. Ses employeurs tiennent absolument à présenter cette merveille d'ingéniosité au Salon de l'automobile qui se tiendra bientôt à Amsterdam. Après avoir chargé le prototype sur un camion\, monsieur Hulot prend la direction des Pays-Bas\, accompagné d'une attachée de presse. Dès la sortie de Paris\, le convoi s'engage sur une autoroute surchargée. Embouteillages\, crevaison\, panne d'essence\, accident\, contrôle des douanes : la fatalité n'épargnera rien au génial inventeur...\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRSMXYB#showsession?id=emsx094700090591&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T163000Z
+SUMMARY:Trafic (VOST)
+UID:6747558a-1ff8-497f-910d-3d3e8ef8d1a5@6747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jacques Tati\n\nLes vacances\, tout le monde le sait\, ne sont pas faites pour s'amuser. Tout le monde le sait\, sauf monsieur Hulot qui\, pipe en l'air et silhouette en éventail\, prend la vie comme elle vient\, bouleversant scandaleusement au volant de sa vieille voiture Salmson pétaradante la quiétude estivale des vacanciers qui s'installent avec leurs habitudes de citadins dans cette petite station balnéaire de la côte atlantique.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR63JJQ#showsession?id=emsx094700090595&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T083000Z
+SUMMARY:Les Vacances de Mr Hulot (VOST)
+UID:bc650895-7886-48e0-b5b7-e147e5599099@bc65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090652&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T184500Z
+SUMMARY:Home stories (VOST)
+UID:93922543-b2ff-416e-968c-9274359f55bb@9392.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090694&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260815T123000Z
+SUMMARY:Une affaire turque (VOST)
+UID:51eb8323-0084-4a5d-b528-9627137532da@51eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRWLMJQ#showsession?id=emsx094700090696&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T123000Z
+SUMMARY:Cotton Queen (VOST)
+UID:47d42823-a4f5-4f56-acc1-a940f8a542fa@47d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Youssef Chahine\n\nAu XIIème siècle\, en Espagne\, les enseignements controversés d'un penseur mettent en péril le pouvoir du Calife en place\, que ses opposants menacent de renverser.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRR7EKY#showsession?id=emsx094700090592&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T183000Z
+SUMMARY:Le Destin (VOST)
+UID:89ebd4cd-66d6-4ca9-9f0d-c8ab754a07d5@89eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Hüseyin Aydın Gürsoy\n\nMathieu s'est éloigné de sa communauté turc à Mulhouse pour grimper l'échelle sociale. Avocat déterminé\, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Strasbourg. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRNB58D#showsession?id=emsx094700090663&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T141000Z
+SUMMARY:Une affaire turque (VOST)
+UID:74095282-67a1-4e80-9526-9e5ebf0fefe6@7409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090657&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260817T190000Z
+SUMMARY:Un grand raccourci (VOST)
+UID:f0ebad5c-0917-495f-bf20-80bfab65adfe@f0eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700090695&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T183000Z
+SUMMARY:The Last Viking (VOST)
+UID:27949999-1b8d-456d-9512-10ae4607933a@2794.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090857&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260827T184500Z
+SUMMARY:Salvation (VOST)
+UID:118db991-6e9a-4573-93bd-2ea154a5b3fd@118d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090647&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260816T124500Z
+SUMMARY:Un grand raccourci (VOST)
+UID:58e56c11-12c5-405a-b823-a0c47075847a@58e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : SCHETTINI Alejo\, SODERGUIT Alfredo\, CUTLER Samantha\, SNADDON Daniel\, ROHLEDER Sonja\, TIKUNOVA Vasilisa\n\nUn programme de quatre courts métrages haut en couleur pour triompher des différences !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRMZURS#showsession?id=emsx094700090169&ps=ticketingcine
+DURATION:PT38M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T083000Z
+SUMMARY:Les Tourouges et les Toubleus (VOST)
+UID:f766ee5d-0f4d-421e-9d5b-f4705314dadd@f766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Ulrich Köhler\n\nAu cours du tournage d'une adaptation de Médée au Sénégal. Sur le plateau\, Maja trouve du réconfort auprès de son partenaire\, Nourou. Quelques mois plus tard\, ils se retrouvent à la première du film à Berlin. Les sentiments refont surface\, mais un incident raciste vient troubler leurs retrouvailles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIRG98#showsession?id=emsx094700090681&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T111000Z
+SUMMARY:Gavagai\, et autres malentendus (VOST)
+UID:d9ea1b7f-60fd-4ad8-a55a-11e4bb90c869@d9ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRXUXJV#showsession?id=emsx094700090675&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T130000Z
+SUMMARY:Un grand raccourci (VOST)
+UID:aa95d83d-e51d-4270-8533-726d58197815@aa95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRUO76O#showsession?id=emsx094700090679&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260818T140000Z
+SUMMARY:Home stories (VOST)
+UID:22017662-2369-4f13-bfd8-62543aefd076@2201.org
 END:VEVENT
 END:VCALENDAR
