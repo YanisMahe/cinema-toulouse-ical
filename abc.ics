@@ -2,84 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090883&ps=ticketingcine
-DURATION:PT2H
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T140000Z
-SUMMARY:Salvation (VOST)
-UID:ecc5c9fe-0f95-41dc-8325-969cb8fe88dc@ecc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090869&ps=ticketingcine
-DURATION:PT1H38M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T113000Z
-SUMMARY:Les Survivants du Che (VOST)
-UID:62ebbed8-570d-4892-8ce0-b938d82c41e9@62eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700091607&ps=ticketingcine
-DURATION:PT2H20M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T160000Z
-SUMMARY:L'inconnue (VOST)
-UID:7509d503-9405-468f-9e10-2eb358c044e7@7509.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090868&ps=ticketingcine
+DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090984&ps=ticketingcine
 DURATION:PT1H38M
 LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T141500Z
+DTSTART:20260918T170000Z
 SUMMARY:Les Survivants du Che (VOST)
-UID:5f34a8ea-a4b6-45dd-b416-c2cabe53b9a9@5f34.org
+UID:4165b891-1c14-4214-a942-5d03ac56c167@4165.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090970&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T103000Z
-SUMMARY:Rose (VOST)
-UID:246478d9-e2e0-4579-bcd7-4edc5569ac19@2464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : CHEAU Louna\, CALI Tomas\, KUOH MOUKOURI Joyce\, NIQUET-RIOUX Ferdinand\, SEVERI Manuel\, BONANNI Simon\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR93MCH#showsession?id=emsx094700090840&ps=ticketingcine
-DURATION:PT2H
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T161500Z
-SUMMARY:COURTS METRAGES EN COMPETITION 2 ASSOCIATION A COTE 2026 (VOST)
-UID:bf2adfac-0e0a-49de-a620-921b1989f65f@bf2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS0947#showsession?id=emsx094700091142&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260924T183000Z
-SUMMARY:SOIREE POLARS SCM (VOST)
-UID:3ef61834-afa4-4501-9e81-21a6bc420328@3ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091134&ps=ticketingcine
+DESCRIPTION:SALLE C\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091729&ps=ticketingcine
 DURATION:PT1H56M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T154000Z
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T113000Z
 SUMMARY:The Last Viking (VOST)
-UID:70bb3b0b-1eea-4202-b0de-a622a8e057e5@70bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090964&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T133000Z
-SUMMARY:Fjord (VOST)
-UID:3c35d87f-284f-4ac6-bc4e-061ac1d353a5@3c35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Mathias Enthoven\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRURPAA#showsession?id=emsx094700091682&ps=ticketingcine
-DURATION:PT1H58M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T183000Z
-SUMMARY:L EMPIRE N A JAMAIS PRIS FIN EPISODE 20 (VOST)
-UID:4c52df3d-6c1f-418f-b367-d2d59e4626d5@4c52.org
+UID:874ee0f1-634a-41f1-a8b8-130a6063a7d4@874e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE A\n\nRéalisateur : Sarah Arnold\n\nDans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun\, céréalier en faillite\, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout\, il déraille et disparaît. Un an plus tard\, Fulda\, un gendarme corse muté dans la région pour raisons disciplinaires\, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires\, ses méthodes approximatives le mènent sur la piste des Attilas\, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement\, il y a Stéphane\, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFIS1K#showsession?id=emsx094700090687&ps=ticketingcine
@@ -87,303 +23,23 @@ DURATION:PT1H35M
 LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260918T190000Z
 SUMMARY:L'Espèce explosive (VOST)
-UID:7e5ed80c-cef4-429f-9cdb-e99d441d3f61@7e5e.org
+UID:6653607f-039d-4544-9c15-51da23e1a0b6@6653.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090867&ps=ticketingcine
-DURATION:PT1H38M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T123000Z
-SUMMARY:Les Survivants du Che (VOST)
-UID:1861a5e1-4e9f-46f6-89c3-82dba9cc5a08@1861.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090967&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T155000Z
-SUMMARY:Fjord (VOST)
-UID:f43c6784-4582-4f50-a11c-229c65522ca6@f43c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Claire Simon\n\nL'oeuvre d'Annie Ernaux vue par des lycéennes et des lycéens.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRDK1TC#showsession?id=emsx094700091002&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T181500Z
-SUMMARY:Écrire la vie - Annie Ernaux racontée par des lycéennes et des lycéens (VOST)
-UID:bebb8f68-1c82-421a-9ef1-7705e1a79a4b@bebb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090882&ps=ticketingcine
+DESCRIPTION:SALLE A\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090926&ps=ticketingcine
 DURATION:PT2H
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T114000Z
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T112000Z
 SUMMARY:Salvation (VOST)
-UID:57994518-b106-4e36-a423-560476f147d6@5799.org
+UID:c15c11ef-8e55-4e39-9c46-d1e5536db375@c15c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090995&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260920T113000Z
-SUMMARY:La dernière patiente (VOST)
-UID:3ef38c3d-e107-4308-83e8-98c314e6fcd9@3ef3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091697&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T103000Z
-SUMMARY:Fjord (VOST)
-UID:7dac01d9-af10-45fc-8963-a21c9f60f54c@7dac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Clio Barnard\n\nCinq amis. Cinq vies. D'innombrables espoirs. Patrick\, Shiv\, Rian\, Oli et Conor ont grandi à Birmingham. Ils jouaient ensemble\, séchaient les cours ensemble et rêvaient ensemble du futur. Aujourd'hui\, ils ont trente ans et sont rattrapés par le quotidien. Seul Rian a quitté la ville et fait fortune à Londres. Quand il revient s’installer à Birmingham\, les secrets enfouis refont surface.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIVIW9#showsession?id=emsx094700091394&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260922T180000Z
-SUMMARY:Je vois des immeubles tomber comme la foudre (VOST)
-UID:793eccdd-a543-4303-9ed3-e530aafb171e@793e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090969&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T161000Z
-SUMMARY:Rose (VOST)
-UID:8c348296-4852-4384-8c7b-840b77cafde1@8c34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090887&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T184500Z
-SUMMARY:La dernière patiente (VOST)
-UID:dc01b56e-cdb5-44d9-b9c4-146b82313cd1@dc01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090900&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T115000Z
-SUMMARY:La dernière patiente (VOST)
-UID:74bde234-96bd-4e50-ae1b-07b8b1e2bbed@74bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090888&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T123000Z
-SUMMARY:La dernière patiente (VOST)
-UID:c4436bdd-913d-425e-b1f4-1230ddfc1bb6@c443.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090962&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T140000Z
-SUMMARY:Rose (VOST)
-UID:ac1fe33a-291c-40e4-b0c2-55fcd2288dc7@ac1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090961&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T183000Z
-SUMMARY:Rose (VOST)
-UID:692d7cd5-4ad6-49be-ae64-c61e8cc3f293@692d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Radu Jude\n\nGianina\, jeune roumaine\, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien\, elle s’occupe de Louen\, le fils de ses employeurs\, tandis que sa propre fille grandit loin d’elle\, en Roumanie. L’absence maternelle se creuse en blessure mais à l’approche de Noël\, une promesse de retrouvailles émerge.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRK1YLF#showsession?id=emsx094700090686&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260919T160000Z
-SUMMARY:Le Journal d'une femme de chambre (VOST)
-UID:73e1ad39-146e-42c8-9a05-ec0a153a1af4@73e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700090963&ps=ticketingcine
-DURATION:PT2H20M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T180000Z
-SUMMARY:L'inconnue (VOST)
-UID:af6f7a26-435e-4548-9d6a-2d7a96a170e8@af6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090897&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T114000Z
-SUMMARY:La dernière patiente (VOST)
-UID:8a0625ff-77b0-4dd6-87d9-8dc79ef94b44@8a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Maxence Voiseux\n\nDans le nord de la France\, Gabin\, le petit dernier de la famille Jourdel\, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées\, il a d’autres rêves : dresser une vache de concours\, devenir éleveur canin\, sauver la ferme de sa mère de la faillite. GABIN nous plonge dans la vie de ce jeune garçon\, de ses 8 à ses 18 ans.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRC8QWG#showsession?id=emsx094700090689&ps=ticketingcine
-DURATION:PT1H45M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260916T170000Z
-SUMMARY:Gabin (VOST)
-UID:eb9fca9c-8c99-41c8-9a0f-008b97cf4235@eb9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700090966&ps=ticketingcine
-DURATION:PT2H20M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T184500Z
-SUMMARY:L'inconnue (VOST)
-UID:7b5f53cb-02f1-4ed2-baa8-31d9c70ce903@7b5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090864&ps=ticketingcine
+DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090993&ps=ticketingcine
 DURATION:PT1H38M
 LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T134000Z
+DTSTART:20260920T163000Z
 SUMMARY:Les Survivants du Che (VOST)
-UID:9183130a-9b73-4fe3-bf18-f24b968c5b8c@9183.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090865&ps=ticketingcine
-DURATION:PT1H38M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T161500Z
-SUMMARY:Les Survivants du Che (VOST)
-UID:15a8b0ce-92cd-419d-844f-557b59af726d@15a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090886&ps=ticketingcine
-DURATION:PT2H
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T133000Z
-SUMMARY:Salvation (VOST)
-UID:ea089ce1-0911-48cc-b142-61b025db1b21@ea08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090972&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260915T132000Z
-SUMMARY:Fjord (VOST)
-UID:4d67a26e-893c-4bde-8e1d-8da81bd16123@4d67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090968&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T111500Z
-SUMMARY:Fjord (VOST)
-UID:d112f273-4e46-4a7c-b9e8-c701d642005b@d112.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Helen Walsh\n\nJack est marié à Maggie depuis plus de la moitié de sa vie. Il travaille comme ramasseur de moules dans les bancs du nord du Pays de Galles avec son jeune frère\, Dyfan\, et ses trois fils. Jack a toujours pensé que son fils\, Tom\, rejoindrait l’entreprise familiale à la fin de ses études\, mais la réticence de Tom à suivre ses traces provoque des tensions familiales. Celles-ci sont encore exacerbées par l’arrivée d’un matelot itinérant\, Daniel\, qui avoue ses sentiments à Jack. Dans cette communauté rurale isolée où la vie tourne autour de l’Église et de la pêche\, Jack est confronté à un dilemme insurmontable.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR98CKB#showsession?id=emsx094700091604&ps=ticketingcine
-DURATION:PT1H51M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T113000Z
-SUMMARY:Face à la mer (VOST)
-UID:fa117104-4760-4930-a64d-fd20316fa979@fa11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Igor Bezinović\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1L0O1#showsession?id=emsx094700090815&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260920T130000Z
-SUMMARY:Fiume o morte! (VOST)
-UID:5098ab39-d3ef-4d3c-b862-183c148e033d@5098.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090899&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T164500Z
-SUMMARY:La dernière patiente (VOST)
-UID:fc4cc7a9-bbd7-4de9-a2fd-87d1b845f411@fc4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Guillaume Maupin\, Pablo Guarise\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRN46UC#showsession?id=emsx094700091000&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260917T163000Z
-SUMMARY:The Magic City (VOST)
-UID:518a6fb0-9a94-472a-8cb0-705f4783a69b@518a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Sarah Arnold\n\nDans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun\, céréalier en faillite\, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout\, il déraille et disparaît. Un an plus tard\, Fulda\, un gendarme corse muté dans la région pour raisons disciplinaires\, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires\, ses méthodes approximatives le mènent sur la piste des Attilas\, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement\, il y a Stéphane\, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFIS1K#showsession?id=emsx094700090812&ps=ticketingcine
-DURATION:PT1H35M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T190000Z
-SUMMARY:L'Espèce explosive (VOST)
-UID:356fcd4d-63e6-49a3-ae4b-90a16f26a9b9@356f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091684&ps=ticketingcine
-DURATION:PT2H26M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T181500Z
-SUMMARY:Fjord (VOST)
-UID:9c3e7a89-d4bc-455a-9258-11bd18be2d7b@9c3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : CHEAU Louna\, CALI Tomas\, KUOH MOUKOURI Joyce\, NIQUET-RIOUX Ferdinand\, SEVERI Manuel\, BONANNI Simon\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR93MCH#showsession?id=emsx094700090841&ps=ticketingcine
-DURATION:PT2H
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260918T150000Z
-SUMMARY:COURTS METRAGES EN COMPETITION 2 ASSOCIATION A COTE 2026 (VOST)
-UID:25ebcae0-d9b0-4bc9-a782-84293da5177b@25eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Maxence Voiseux\n\nDans le nord de la France\, Gabin\, le petit dernier de la famille Jourdel\, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées\, il a d’autres rêves : dresser une vache de concours\, devenir éleveur canin\, sauver la ferme de sa mère de la faillite. GABIN nous plonge dans la vie de ce jeune garçon\, de ses 8 à ses 18 ans.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRC8QWG#showsession?id=emsx094700090685&ps=ticketingcine
-DURATION:PT1H45M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260919T180000Z
-SUMMARY:Gabin (VOST)
-UID:cb60290f-78a7-4dfd-8932-375a278e9b7f@cb60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Radu Jude\n\nGianina\, jeune roumaine\, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien\, elle s’occupe de Louen\, le fils de ses employeurs\, tandis que sa propre fille grandit loin d’elle\, en Roumanie. L’absence maternelle se creuse en blessure mais à l’approche de Noël\, une promesse de retrouvailles émerge.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRK1YLF#showsession?id=emsx094700090690&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260917T190000Z
-SUMMARY:Le Journal d'une femme de chambre (VOST)
-UID:9b6c0df0-1336-42e2-81df-0593978554d2@9b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090880&ps=ticketingcine
-DURATION:PT2H
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260913T160000Z
-SUMMARY:Salvation (VOST)
-UID:1bb1c732-5b1a-4f6d-9bd5-4cae76010d57@1bb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Rosa von Praunheim\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJMJOG#showsession?id=emsx094700091627&ps=ticketingcine
-DURATION:PT1H18M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260916T150000Z
-SUMMARY:Chérie\, chéri (VOST)
-UID:633ef6b3-8cfb-4c39-b511-3de6c1021c02@633e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE C\n\nRéalisateur : Helen Walsh\n\nJack est marié à Maggie depuis plus de la moitié de sa vie. Il travaille comme ramasseur de moules dans les bancs du nord du Pays de Galles avec son jeune frère\, Dyfan\, et ses trois fils. Jack a toujours pensé que son fils\, Tom\, rejoindrait l’entreprise familiale à la fin de ses études\, mais la réticence de Tom à suivre ses traces provoque des tensions familiales. Celles-ci sont encore exacerbées par l’arrivée d’un matelot itinérant\, Daniel\, qui avoue ses sentiments à Jack. Dans cette communauté rurale isolée où la vie tourne autour de l’Église et de la pêche\, Jack est confronté à un dilemme insurmontable.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR98CKB#showsession?id=emsx094700091605&ps=ticketingcine
-DURATION:PT1H51M
-LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T143000Z
-SUMMARY:Face à la mer (VOST)
-UID:13c2c289-eb44-4b4d-9837-e7c6e1c648c9@13c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090866&ps=ticketingcine
-DURATION:PT1H38M
-LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T163000Z
-SUMMARY:Les Survivants du Che (VOST)
-UID:1d3aa1a2-1a22-481f-8dfe-d0b4525c1270@1d3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090965&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
-DTSTART:20260914T134000Z
-SUMMARY:Rose (VOST)
-UID:7d061e6e-05bf-4c3d-9603-570a4a24890f@7d06.org
+UID:a701923b-0d9a-4d95-a346-b96ee1e04740@a701.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700091606&ps=ticketingcine
@@ -391,7 +47,887 @@ DURATION:PT1H34M
 LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260914T104000Z
 SUMMARY:Rose (VOST)
-UID:5a01baa9-08d3-4dcc-b2b3-34d7d6624bdb@5a01.org
+UID:70ad6192-cf43-4ffd-a8e5-fb64fdab8a6d@70ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700091024&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T161000Z
+SUMMARY:L'inconnue (VOST)
+UID:7e0a415f-fdfd-4f83-984a-d32334285987@7e0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090918&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T191000Z
+SUMMARY:Rose (VOST)
+UID:0e7f2bd1-5b43-4c5b-820f-e68fbd4e071b@0e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Igor Bezinović\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1L0O1#showsession?id=emsx094700090815&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T130000Z
+SUMMARY:Fiume o morte! (VOST)
+UID:9a6f99de-4296-449b-a083-56da6a235d3f@9a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090924&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T151000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:26a6d66f-6d80-4f71-ad8f-571df1eb3c02@26a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090917&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T143000Z
+SUMMARY:Rose (VOST)
+UID:0abdf2e8-181e-4667-82bc-94673bf0ca08@0abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090995&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T113000Z
+SUMMARY:La dernière patiente (VOST)
+UID:d9ff6cb8-2425-49d3-9c53-d69649664c19@d9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : RIBOT Jean Christophe\, POCHAT Dominique\, VAN EECKHOUT Sylvain\, LABORDE Benoit\n\nIl était une fois une petite oie à la recherche d'une chaussette verte\, un ourson qui avait trouvé un bonnet\, un étrange chien au pelage bleu\, deux voisins lapins fâchés… et une lérote qui rêvait de neige plutôt que d'hiberner. Ouvrez la malle aux trésors de l'école des loisirs et découvrez Chien Bleu et quatre autres histoires comme vous ne les avez encore jamais vues ni entendues !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIQ769#showsession?id=emsx094700090835&ps=ticketingcine
+DURATION:PT33M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T133000Z
+SUMMARY:Chien bleu et autres belles histoires de l'école des loisirs (VOST)
+UID:4ec5a35d-cdaf-4112-a303-f670cce58d25@4ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091609&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T083000Z
+SUMMARY:The Last Viking (VOST)
+UID:7e734bc6-7857-4fc5-af03-be2180086b5c@7e73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090976&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T135000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:02e8e17f-8b3c-4b44-a88b-3523becc3932@02e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700091391&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T111000Z
+SUMMARY:L'inconnue (VOST)
+UID:59180f9b-f34c-45b1-9f10-0af7a73aac27@5918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090965&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T134000Z
+SUMMARY:Rose (VOST)
+UID:36fcfae6-7f50-48cd-b797-48cde5e15863@36fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090867&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T123000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:1c7b30a1-af90-48f1-ab61-10c6c9aeef5b@1c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090916&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T112000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:12c5faa1-ed3f-4f57-ade9-e56a7c0d423d@12c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090829&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T160000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:d5a66881-f2e4-4078-84aa-23bd7eb4756d@d5a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090923&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T170000Z
+SUMMARY:Rose (VOST)
+UID:8114a41e-6217-4a6a-b360-e8d842bad6a1@8114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090868&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T141500Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:f572dc58-a3ca-4973-9691-72f5c6cc883f@f572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090819&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T185000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:6c3c83bc-8ae3-449b-bb78-2c5287142b64@6c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : RIBOT Jean Christophe\, POCHAT Dominique\, VAN EECKHOUT Sylvain\, LABORDE Benoit\n\nIl était une fois une petite oie à la recherche d'une chaussette verte\, un ourson qui avait trouvé un bonnet\, un étrange chien au pelage bleu\, deux voisins lapins fâchés… et une lérote qui rêvait de neige plutôt que d'hiberner. Ouvrez la malle aux trésors de l'école des loisirs et découvrez Chien Bleu et quatre autres histoires comme vous ne les avez encore jamais vues ni entendues !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIQ769#showsession?id=emsx094700090838&ps=ticketingcine
+DURATION:PT33M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T084500Z
+SUMMARY:Chien bleu et autres belles histoires de l'école des loisirs (VOST)
+UID:a0e89bc2-2d95-4156-94bb-eb6a857200c6@a0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090977&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T114500Z
+SUMMARY:Rose (VOST)
+UID:6e48024b-6c0d-4755-9590-2c5ca7c352fe@6e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090981&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T160000Z
+SUMMARY:Fjord (VOST)
+UID:dc411b85-58fd-4a2c-9c00-9c43bed7e6ed@dc41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Rosa von Praunheim\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJMJOG#showsession?id=emsx094700091627&ps=ticketingcine
+DURATION:PT1H18M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T150000Z
+SUMMARY:Chérie\, chéri (VOST)
+UID:a4ce3c0a-af2c-4e09-b0f2-347cf397dbca@a4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Guillaume Maupin\, Pablo Guarise\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRN46UC#showsession?id=emsx094700091000&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T163000Z
+SUMMARY:The Magic City (VOST)
+UID:22617d7c-b995-4610-a4ef-bd7e8163ed3a@2261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700091019&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T162000Z
+SUMMARY:Rose (VOST)
+UID:d11a0946-d14a-4bf1-8fbe-4ec43e1b007b@d11a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700091027&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T113000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:ab5d8f7f-6d71-4fca-ac3c-cc09a3ce1f5e@ab5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090887&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T184500Z
+SUMMARY:La dernière patiente (VOST)
+UID:5460c8a8-6f1e-4fd7-8452-68659a124e5a@5460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Mathias Enthoven\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRURPAA#showsession?id=emsx094700091682&ps=ticketingcine
+DURATION:PT1H58M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T183000Z
+SUMMARY:L EMPIRE N A JAMAIS PRIS FIN EPISODE 20 (VOST)
+UID:12de230f-284f-4045-9cbd-742e04c1d3fa@12de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090990&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T140000Z
+SUMMARY:La dernière patiente (VOST)
+UID:e229251f-978c-461d-b693-66d11673d398@e229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Claire Simon\n\nL'oeuvre d'Annie Ernaux vue par des lycéennes et des lycéens.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRDK1TC#showsession?id=emsx094700091687&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T080000Z
+SUMMARY:Écrire la vie - Annie Ernaux racontée par des lycéennes et des lycéens (VOST)
+UID:8397dc73-69a5-44e7-afa8-aa2b3d76a55b@8397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS0947#showsession?id=emsx094700091142&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260924T183000Z
+SUMMARY:SOIREE POLARS SCM (VOST)
+UID:5b27796b-5079-4589-9e50-057ecf0eab7e@5b27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700091016&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T113000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:7b1ba58b-6612-407f-8931-b3d3115d6502@7b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700091714&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T080000Z
+SUMMARY:Rose (VOST)
+UID:e3d9ce88-0aa0-4237-979c-58030876a15d@e3d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090998&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T180000Z
+SUMMARY:Fjord (VOST)
+UID:84a73a74-b7d7-4862-a574-e9cdb81f2198@84a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090833&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T183000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:e4d3cfa5-7c97-4d6c-b3b1-c970d8fd611f@e4d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700091026&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T155000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:92126937-fab9-49fd-a3bc-c2512844faf8@9212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090888&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T123000Z
+SUMMARY:La dernière patiente (VOST)
+UID:bca5f978-ddf6-4c2b-8187-a1d11c67aad6@bca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090991&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T181500Z
+SUMMARY:Fjord (VOST)
+UID:dac574c6-4242-4488-85e7-77f8517eac7f@dac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090824&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T183000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:6bc70577-bfd5-4854-9b3c-9ee62a13568a@6bc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090920&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T111000Z
+SUMMARY:Salvation (VOST)
+UID:61dbd72b-35ff-4d79-9b94-fd0dae017eab@61db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700091028&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T163000Z
+SUMMARY:Rose (VOST)
+UID:e4710b25-0197-42b4-b061-c04818f3ad11@e471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091726&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T133000Z
+SUMMARY:Fjord (VOST)
+UID:0abd259a-2dbe-47c3-b15d-350f908649c3@0abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090826&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T183000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:962d3e04-6e85-4b44-815e-0c9fffe50189@962d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091610&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T185000Z
+SUMMARY:The Last Viking (VOST)
+UID:27caf871-b980-4e14-adab-afc1014897fb@27ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700090966&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T184500Z
+SUMMARY:L'inconnue (VOST)
+UID:22c04688-1622-47cb-b9a9-4dfcd1132449@22c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Clio Barnard\n\nCinq amis. Cinq vies. D'innombrables espoirs. Patrick\, Shiv\, Rian\, Oli et Conor ont grandi à Birmingham. Ils jouaient ensemble\, séchaient les cours ensemble et rêvaient ensemble du futur. Aujourd'hui\, ils ont trente ans et sont rattrapés par le quotidien. Seul Rian a quitté la ville et fait fortune à Londres. Quand il revient s’installer à Birmingham\, les secrets enfouis refont surface.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIVIW9#showsession?id=emsx094700091394&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T180000Z
+SUMMARY:Je vois des immeubles tomber comme la foudre (VOST)
+UID:7011f060-9926-4261-862c-d3022024e73a@7011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090970&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T103000Z
+SUMMARY:Rose (VOST)
+UID:e6b4f330-c333-4e23-8832-df61c3a82519@e6b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090869&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T113000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:2c8f95d8-6090-4f3e-bab1-ec5f2f69b563@2c8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090825&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T134500Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:a6a5a3cc-a11a-4791-98d3-67b590eb0f40@a6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700090983&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T155000Z
+SUMMARY:L'inconnue (VOST)
+UID:31a15e9e-2684-4068-b27b-2dde317c2368@31a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090985&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T121500Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:c274ac47-2e29-470f-b5e5-081a82534d69@c274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090831&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T183000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:4d6c0e95-c585-40e6-afdc-62c24d4fd9cb@4d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090834&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T133000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:39497d73-f4e4-46b9-a114-18286d13dc4f@3949.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090823&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T124500Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:300c77eb-1969-4dbf-9b45-74274c394ab7@300c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090883&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T140000Z
+SUMMARY:Salvation (VOST)
+UID:b419924e-4651-4161-b37e-7cb78ea1fb93@b419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091730&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T111000Z
+SUMMARY:Fjord (VOST)
+UID:d6f01ccb-b404-4846-a909-58dca31fbfd8@d6f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Claire Simon\n\nL'oeuvre d'Annie Ernaux vue par des lycéennes et des lycéens.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRDK1TC#showsession?id=emsx094700091002&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T181500Z
+SUMMARY:Écrire la vie - Annie Ernaux racontée par des lycéennes et des lycéens (VOST)
+UID:3eee8b95-94fb-43ba-9a9b-cabf6c1d1559@3eee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090922&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T190000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:47098331-877d-437e-b075-b7fd26a02d20@4709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700091021&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T142000Z
+SUMMARY:La dernière patiente (VOST)
+UID:014ce100-78a0-4c2a-97c2-6b986f61df61@014c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090925&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T113000Z
+SUMMARY:Rose (VOST)
+UID:5a6bd564-3660-4bfe-9e33-86f9e971ece8@5a6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Sarah Arnold\n\nDans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun\, céréalier en faillite\, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout\, il déraille et disparaît. Un an plus tard\, Fulda\, un gendarme corse muté dans la région pour raisons disciplinaires\, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires\, ses méthodes approximatives le mènent sur la piste des Attilas\, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement\, il y a Stéphane\, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFIS1K#showsession?id=emsx094700090812&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T190000Z
+SUMMARY:L'Espèce explosive (VOST)
+UID:03abe561-a967-4511-97c8-5b1cc9e7f634@03ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091731&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T134000Z
+SUMMARY:The Last Viking (VOST)
+UID:52a47f3a-6c6b-4daa-840b-a0ec9bd29106@52a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700091029&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T120000Z
+SUMMARY:Rose (VOST)
+UID:a7c47018-f2f8-4ac7-9ae9-6beb1f6bc172@a7c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090900&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T115000Z
+SUMMARY:La dernière patiente (VOST)
+UID:035669bc-2ce3-40c9-835d-518a40a75308@0356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090822&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T184000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:9ed1969c-1bca-4f0f-a9ef-4a02c6203613@9ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090987&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T163000Z
+SUMMARY:Rose (VOST)
+UID:038f095a-f7ce-45d1-a315-c6e566b34c34@038f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090973&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T132000Z
+SUMMARY:Fjord (VOST)
+UID:2ff97975-1f1c-41f8-8bc4-35b5a376213d@2ff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700091033&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T111500Z
+SUMMARY:Salvation (VOST)
+UID:40db15a1-8da8-4fbc-ba74-994cc32c4956@40db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090830&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T111000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:7388fc9c-75f5-447a-b461-83fa197fa410@7388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Radu Jude\n\nGianina\, jeune roumaine\, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien\, elle s’occupe de Louen\, le fils de ses employeurs\, tandis que sa propre fille grandit loin d’elle\, en Roumanie. L’absence maternelle se creuse en blessure mais à l’approche de Noël\, une promesse de retrouvailles émerge.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRK1YLF#showsession?id=emsx094700090686&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T160000Z
+SUMMARY:Le Journal d'une femme de chambre (VOST)
+UID:c586b579-b747-497c-9973-56d2d6ff40d6@c586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090899&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T164500Z
+SUMMARY:La dernière patiente (VOST)
+UID:4d71b8bd-6c4c-4d8e-b646-409b666c1d3d@4d71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090827&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T161500Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:5b6c054f-c695-468c-860c-cda600221f2a@5b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091697&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T103000Z
+SUMMARY:Fjord (VOST)
+UID:ea2db5a9-2e4d-4743-bb87-8ccb8275964d@ea2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700091023&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T113000Z
+SUMMARY:Salvation (VOST)
+UID:239d8b3e-8c72-4956-8b1c-35cec8574b6d@239d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090978&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T134000Z
+SUMMARY:Salvation (VOST)
+UID:b18d1b66-578c-42c2-bf1a-85a70c5145d9@b18d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090821&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T140000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:1e40a5c7-4c36-408c-8fad-e27d7bd20038@1e40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : CHEAU Louna\, CALI Tomas\, KUOH MOUKOURI Joyce\, NIQUET-RIOUX Ferdinand\, SEVERI Manuel\, BONANNI Simon\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR93MCH#showsession?id=emsx094700090840&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T161500Z
+SUMMARY:COURTS METRAGES EN COMPETITION 2 ASSOCIATION A COTE 2026 (VOST)
+UID:288cc580-721a-4ef1-8788-b28d5920c0f1@288c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700091017&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T184500Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:4c5c81ae-0baa-441a-a48e-e2e3976f1933@4c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091025&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T181500Z
+SUMMARY:Fjord (VOST)
+UID:06a0173c-dab0-471a-8a4b-5b1d29eabd64@06a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700091032&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T160000Z
+SUMMARY:Salvation (VOST)
+UID:4e0834a8-7a4c-467d-8e4f-2a1ec4c3c7fb@4e08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091706&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T141000Z
+SUMMARY:The Last Viking (VOST)
+UID:d9924a15-6cf3-4c30-863a-d509af1d90d7@d992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091725&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T111000Z
+SUMMARY:Fjord (VOST)
+UID:7c6b6751-a011-4af0-bcf6-78c704b0c1b3@7c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090915&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T162000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:fee0f374-f4b3-4e45-97ef-e4f88063d59c@fee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091686&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T183000Z
+SUMMARY:The Last Viking (VOST)
+UID:8932a7c7-816f-47ae-b64c-47c8eb0e1879@8932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090928&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T133000Z
+SUMMARY:Fjord (VOST)
+UID:952d3fcd-9758-4819-9c7b-5fdc7f769ef3@952d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090886&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T133000Z
+SUMMARY:Salvation (VOST)
+UID:b1727844-167e-4ed6-a76f-cb937906a2e8@b172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090969&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T161000Z
+SUMMARY:Rose (VOST)
+UID:06230d88-0d05-4b57-8470-3a009aa022c5@0623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090986&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T105000Z
+SUMMARY:Rose (VOST)
+UID:97b57967-c879-44d4-a6c3-8948ca2e4c41@97b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090996&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T181500Z
+SUMMARY:Salvation (VOST)
+UID:97e370bc-5d5c-4bee-a76c-bcee52cc4419@97e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700091607&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T160000Z
+SUMMARY:L'inconnue (VOST)
+UID:7f629ea2-df57-44c8-a2d3-80a8a4520341@7f62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090989&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T155000Z
+SUMMARY:Salvation (VOST)
+UID:2b9b373d-d7bc-4ecc-bb09-e01bf5ecf47f@2b9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Maxence Voiseux\n\nDans le nord de la France\, Gabin\, le petit dernier de la famille Jourdel\, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées\, il a d’autres rêves : dresser une vache de concours\, devenir éleveur canin\, sauver la ferme de sa mère de la faillite. GABIN nous plonge dans la vie de ce jeune garçon\, de ses 8 à ses 18 ans.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRC8QWG#showsession?id=emsx094700090685&ps=ticketingcine
+DURATION:PT1H45M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T180000Z
+SUMMARY:Gabin (VOST)
+UID:8cb26dea-d159-4cdb-a4ef-b596eb39014a@8cb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700090994&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T143000Z
+SUMMARY:Rose (VOST)
+UID:615c1ed9-897b-4ce1-a7a6-8d3c367da55c@615c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090828&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T134000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:80251a63-cac7-49de-8517-4f6ff9aa1d78@8025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090972&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260915T132000Z
+SUMMARY:Fjord (VOST)
+UID:80e7e316-46e0-470e-9dc9-5d50f2428f8b@80e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090820&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T163000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:e19b5678-cea5-4028-9c6e-cdf1cc1c8199@e19b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091707&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T161500Z
+SUMMARY:The Last Viking (VOST)
+UID:c48fc10b-64cd-4fb2-96ab-777b32f3c952@c48f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Radu Jude\n\nGianina\, jeune roumaine\, travaille comme employée de maison dans une famille bourgeoise bordelaise. Elle répète le soir avec une troupe de théâtre amateur le rôle d’une soubrette dans une adaptation du Journal d’une femme de chambre d’Octave Mirbeau. Au quotidien\, elle s’occupe de Louen\, le fils de ses employeurs\, tandis que sa propre fille grandit loin d’elle\, en Roumanie. L’absence maternelle se creuse en blessure mais à l’approche de Noël\, une promesse de retrouvailles émerge.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRK1YLF#showsession?id=emsx094700090690&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260917T190000Z
+SUMMARY:Le Journal d'une femme de chambre (VOST)
+UID:0da43a79-631b-4b87-ac22-b4e4b9a90958@0da4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : RIBOT Jean Christophe\, POCHAT Dominique\, VAN EECKHOUT Sylvain\, LABORDE Benoit\n\nIl était une fois une petite oie à la recherche d'une chaussette verte\, un ourson qui avait trouvé un bonnet\, un étrange chien au pelage bleu\, deux voisins lapins fâchés… et une lérote qui rêvait de neige plutôt que d'hiberner. Ouvrez la malle aux trésors de l'école des loisirs et découvrez Chien Bleu et quatre autres histoires comme vous ne les avez encore jamais vues ni entendues !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIQ769#showsession?id=emsx094700090837&ps=ticketingcine
+DURATION:PT33M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260920T133000Z
+SUMMARY:Chien bleu et autres belles histoires de l'école des loisirs (VOST)
+UID:40400638-f43b-4a40-a942-06a58eab1aa6@4040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Helen Walsh\n\nJack est marié à Maggie depuis plus de la moitié de sa vie. Il travaille comme ramasseur de moules dans les bancs du nord du Pays de Galles avec son jeune frère\, Dyfan\, et ses trois fils. Jack a toujours pensé que son fils\, Tom\, rejoindrait l’entreprise familiale à la fin de ses études\, mais la réticence de Tom à suivre ses traces provoque des tensions familiales. Celles-ci sont encore exacerbées par l’arrivée d’un matelot itinérant\, Daniel\, qui avoue ses sentiments à Jack. Dans cette communauté rurale isolée où la vie tourne autour de l’Église et de la pêche\, Jack est confronté à un dilemme insurmontable.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR98CKB#showsession?id=emsx094700091605&ps=ticketingcine
+DURATION:PT1H51M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T143000Z
+SUMMARY:Face à la mer (VOST)
+UID:f998726a-e7fd-4afd-83b8-4c1448a45ef4@f998.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR585EN#showsession?id=emsx094700090919&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T104500Z
+SUMMARY:La dernière patiente (VOST)
+UID:273f96c4-465a-4762-8243-69b7287ca47d@273f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090818&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T124000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:09082a37-fdf6-48e0-8072-758bb60dc367@0908.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRE5LDF#showsession?id=emsx094700091030&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T135000Z
+SUMMARY:L'inconnue (VOST)
+UID:fc05fc6c-b938-46d4-b945-a0d93345de41@fc05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090967&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T155000Z
+SUMMARY:Fjord (VOST)
+UID:2167ec7f-4b74-438a-9e7b-73353e60e6f4@2167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : CHEAU Louna\, CALI Tomas\, KUOH MOUKOURI Joyce\, NIQUET-RIOUX Ferdinand\, SEVERI Manuel\, BONANNI Simon\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR93MCH#showsession?id=emsx094700090841&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260918T150000Z
+SUMMARY:COURTS METRAGES EN COMPETITION 2 ASSOCIATION A COTE 2026 (VOST)
+UID:7d20c595-95e4-43e9-a877-dcb913220a82@7d20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : RIBOT Jean Christophe\, POCHAT Dominique\, VAN EECKHOUT Sylvain\, LABORDE Benoit\n\nIl était une fois une petite oie à la recherche d'une chaussette verte\, un ourson qui avait trouvé un bonnet\, un étrange chien au pelage bleu\, deux voisins lapins fâchés… et une lérote qui rêvait de neige plutôt que d'hiberner. Ouvrez la malle aux trésors de l'école des loisirs et découvrez Chien Bleu et quatre autres histoires comme vous ne les avez encore jamais vues ni entendues !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIQ769#showsession?id=emsx094700090836&ps=ticketingcine
+DURATION:PT33M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260919T140000Z
+SUMMARY:Chien bleu et autres belles histoires de l'école des loisirs (VOST)
+UID:2d0681be-1409-46c8-b0b5-19fd1061c84d@2d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Christophe Dimitri Réveille\n\nDepuis la victoire de la Révolution cubaine en 1959\, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967\, après leur ultime combat en Bolivie et l’exécution de leur leader\, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne\, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits\, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme\, où se croisent destins personnels et enjeux de la Guerre Froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJIU7J#showsession?id=emsx094700090866&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T163000Z
+SUMMARY:Les Survivants du Che (VOST)
+UID:51c8d04f-66ce-4bc4-9886-8e669a480c24@51c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Léa Mysius\n\nIl ne reste presque plus rien à La Bassée : un bourg et quelques hameaux\, dont celui qu’occupent Bergogne\, sa femme Marion et leur fille Ida\, ainsi qu’une voisine\, Christine\, une artiste installée ici depuis des années. On s’active\, on se prépare pour l’anniversaire de Marion\, dont on va fêter les quarante ans. Mais alors que la fête se profile\, des inconnus rôdent autour du hameau.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVZXKC#showsession?id=emsx094700090832&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T140000Z
+SUMMARY:Histoires de la nuit (VOST)
+UID:4f3fe8f4-c0bb-4874-a165-00ed7e965426@4f3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Markus Schleinzer\n\nAu XVIIe siècle\, Rose\, un mystérieux soldat  arrive dans un village protestant isolé. Prétendant être l'héritière d'un domaine abandonné depuis longtemps\, Rose présente un document pour authentifier sa demande\, ce qui suscite le malaise et la suspicion au sein de la communauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR5LMWM#showsession?id=emsx094700091018&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260921T121000Z
+SUMMARY:Rose (VOST)
+UID:f76f4150-0265-4915-9f39-8a8496d9a960@f76f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700090968&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260914T111500Z
+SUMMARY:Fjord (VOST)
+UID:c1404899-9b59-4573-a754-44be36bf31fe@c140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091727&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T182000Z
+SUMMARY:Fjord (VOST)
+UID:0971a5e7-f95b-42a1-9f80-8fd4c12c363a@0971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Anders Thomas Jensen\n\nAnker\, un braqueur de banques\, sort de prison après 15 ans de détention. Il va alors tenter de faire retrouver la mémoire à son frère aîné\, Manfred\, car il est le seul à savoir où est enterré le butin. Malheureusement\, Manfred présente depuis quelque temps un trouble dissociatif de l'identité et pense ainsi être John Lennon.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRJSCXP#showsession?id=emsx094700091728&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T082000Z
+SUMMARY:The Last Viking (VOST)
+UID:7bf749e0-7539-45d4-8aba-109d64ac29fc@7bf7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SALLE C\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR1DJN2#showsession?id=emsx094700090884&ps=ticketingcine
@@ -399,6 +935,22 @@ DURATION:PT2H
 LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
 DTSTART:20260914T184000Z
 SUMMARY:Salvation (VOST)
-UID:7837fc85-e5a9-4d86-9fbd-6f3715584956@7837.org
+UID:6b85cdca-10e5-438a-b293-defe53eceba7@6b85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Maxence Voiseux\n\nDans le nord de la France\, Gabin\, le petit dernier de la famille Jourdel\, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées\, il a d’autres rêves : dresser une vache de concours\, devenir éleveur canin\, sauver la ferme de sa mère de la faillite. GABIN nous plonge dans la vie de ce jeune garçon\, de ses 8 à ses 18 ans.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRC8QWG#showsession?id=emsx094700090689&ps=ticketingcine
+DURATION:PT1H45M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260916T170000Z
+SUMMARY:Gabin (VOST)
+UID:76552c6c-0ef0-426a-b4f7-05e24421c40c@7655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRB3CRG#showsession?id=emsx094700091034&ps=ticketingcine
+DURATION:PT2H26M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20260922T182000Z
+SUMMARY:Fjord (VOST)
+UID:b7755e29-238f-4bf4-8107-583c8ce0cab0@b775.org
 END:VEVENT
 END:VCALENDAR
