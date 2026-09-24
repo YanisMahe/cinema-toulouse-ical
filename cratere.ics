@@ -2,820 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXUXJV#showsession?id=emsx001100018899&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T125500Z
-SUMMARY:Un grand raccourci (VOST)
-UID:55cb7785-9fd8-443d-8351-d89084c3a37c@55cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Marco Nguyen\, Nicolas Athané\n\nJim\, icône sexy de la scène gay parisienne\, voit sa vie basculer lorsqu’il contracte l’Hétérose\, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur)\, Lucien\, un jeune homme qui peine à s’assumer. Ensemble\, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRMW4P3#showsession?id=emsx001100018909&ps=ticketingcine
-DURATION:PT1H25M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260927T171500Z
-SUMMARY:Jim Queen (VOST)
-UID:dafc4014-d48e-4082-9fa3-7df143cc342b@dafc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018913&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260929T183500Z
-SUMMARY:Dégel (VOST)
-UID:9b32309b-2428-4635-af6d-850c594d7134@9b32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018956&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261009T100000Z
-SUMMARY:L'Etre Aimé (VOST)
-UID:948df51e-acea-4160-83e6-df0604d3e17c@948d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018940&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261005T121000Z
-SUMMARY:Trois adieux (VOST)
-UID:1fe86bc8-e184-4ffc-85b4-11aeda2649ab@1fe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018984&ps=ticketingcine
-DURATION:PT2H5M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T171500Z
-SUMMARY:La Providence et la Guitare (VOST)
-UID:15ef993d-418c-4aae-8869-ec5ee69232e8@15ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Laura Carreira\n\nAurora\, migrante portugaise\, travaille comme préparatrice de commandes dans un entrepôt à Édimbourg\, en Écosse. Coincée entre les murs d'un immense centre de distribution et la solitude de sa propre chambre\, Aurora cherche à saisir toutes les occasions pour résister à l'aliénation et à l'isolement qui menacent son identité.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR24BOG#showsession?id=emsx001100018943&ps=ticketingcine
-DURATION:PT1H44M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261005T183000Z
-SUMMARY:On Falling (VOST)
-UID:9a9bda00-134c-4fc8-8cc2-d517b1454110@9a9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Damien Hauser\n\nEn 2094\, l'aspirant réalisateur Kuve filme un documentaire sur la Grande Guerre des années 2070\, qui a effacé les technologies modernes et fait renaître les royaumes. S'attendant au désespoir à Umata\, il y trouve des villageois vivant en paix. Il y rencontre l'actrice Mumbi\, qui révèle la beauté des moments quotidiens. Le film se déroule à travers d'anciennes séquences tournées par Kuve dans les coulisses\, montrant comment les gens trouvent un sens à un monde tragique et comment même les plus petits moments peuvent être d'une profonde beauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRM6RRW#showsession?id=emsx001100018903&ps=ticketingcine
-DURATION:PT1H19M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T192500Z
-SUMMARY:Memory of Princess Mumbi (VOST)
-UID:dbbdd838-32f0-4495-9b24-f039f3f03b3a@dbbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Bertrand Usclat\, Martin Darondeau\n\nDans 3 heures\, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions\, rien ne se passe comme prévu : retards\, coups de stress\, problèmes techniques et problèmes d’égo secouent la troupe. Pourtant\, Nina n’a pas d’autre choix que d’aller jusqu’au bout car s’il y a bien une règle d’or à la Comédie-Française\, c’est qu’on n’annule pas. Commence alors une course contre la montre pour sauver la représentation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQM478#showsession?id=emsx001100018911&ps=ticketingcine
-DURATION:PT1H15M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260928T134500Z
-SUMMARY:De la Comédie-Française (VOST)
-UID:209acffe-aadd-4792-a4a1-aa5e6444d241@209a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Marjolijn Prins\n\nFanta\, une contorsionniste de 14 ans\, vit à Conakry\, en Guinée. À force de jongler quotidiennement entre l'école\, le soutien à sa famille et ses entraînements au sein de la troupe où elle est l'une des rares filles\, Fanta commence à douter de son rêve le plus cher : participer à la prochaine grande tournée du cirque acrobatique Amoukanama.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIWEPA#showsession?id=emsx001100018889&ps=ticketingcine
-DURATION:PT1H11M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260923T134000Z
-SUMMARY:Fantastique (VOST)
-UID:b12a9acd-248f-4321-8079-864bac530e44@b12a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018979&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261012T183500Z
-SUMMARY:La reconquista (VOST)
-UID:f566fd67-4f2c-4093-bda1-d08c043bef9f@f566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018954&ps=ticketingcine
-DURATION:PT2H5M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261008T160000Z
-SUMMARY:La Providence et la Guitare (VOST)
-UID:38198c59-96c3-4c41-a02e-9df1e6566c0f@3819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Adrián Jaffé\, Ruslan Sinkevich\, Cho Su-a\, Nam Seung-min\, Cheon Ye-rim\, Ju Seo-eun\, Park Saeyeon\, KIM Manri\, Мария Румянцева\, Михаил Алдашин\n\nUn oisillon se lance dans les airs. Un petit chiot découvre la matière. Un enfant savoure une soupe cosmique. Une chouette au sommeil chaotique. Une souris veut voir le soleil. Et une autre renvoie les étoiles dans le ciel. Sept histoires vues de la Terre comme du Ciel.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR566HY#showsession?id=emsx001100019010&ps=ticketingcine
-DURATION:PT33M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261030T090000Z
-SUMMARY:Entre ciel et terre (VOST)
-UID:f41f40f3-3793-4825-93b3-64784cc416a3@f41f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Marjolijn Prins\n\nFanta\, une contorsionniste de 14 ans\, vit à Conakry\, en Guinée. À force de jongler quotidiennement entre l'école\, le soutien à sa famille et ses entraînements au sein de la troupe où elle est l'une des rares filles\, Fanta commence à douter de son rêve le plus cher : participer à la prochaine grande tournée du cirque acrobatique Amoukanama.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIWEPA#showsession?id=emsx001100018916&ps=ticketingcine
-DURATION:PT1H11M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260930T120000Z
-SUMMARY:Fantastique (VOST)
-UID:a0baff33-e34a-4169-be62-e44dada30724@a0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Víctor Erice\n\nDans l’Espagne des années 1950\, Estrella\, une jeune fille de huit ans\, vit avec ses parents au nord du pays\, dans une maison appelée “La Mouette”. Son père\, Agustín Arenas\, médecin taciturne et mystérieux\, radiesthésiste à ses heures\, est originaire du sud de l’Espagne\, région qu'il n'évoque jamais. Intriguée par ses silences\, Estrella grandit en essayant de percer le mystère qui entoure la jeunesse et les blessures passées de cet homme qu’elle admire profondément.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRAMZXN#showsession?id=emsx001100018944&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261006T170000Z
-SUMMARY:Le Sud (VOST)
-UID:0cfca74c-7738-4472-a0c5-0ef475682ac7@0cfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018912&ps=ticketingcine
-DURATION:PT2H20M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260928T150500Z
-SUMMARY:L'inconnue (VOST)
-UID:68839457-7848-4ce8-8e2c-1436f99034ac@6883.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018997&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261020T151500Z
-SUMMARY:La reconquista (VOST)
-UID:6c928afe-54b4-478a-aab0-d33bd83248b1@6c92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Almodóvar\n\nRaúl est un cinéaste culte en pleine crise créative. Lorsqu’un drame frappe l’une de ses plus proches collaboratrices\, il s’en inspire pour écrire son prochain film. Peu à peu\, il imagine Elsa\, une réalisatrice en pleine écriture\, dont le parcours commence à refléter le sien. Les deux cinéastes deviennent les deux facettes d’un même personnage\, dans un jeu de miroirs où l’impudeur de l’autofiction dévoile autant qu’elle détruit. Mais jusqu’où peut-on aller pour raconter une histoire ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRWM667#showsession?id=emsx001100018942&ps=ticketingcine
-DURATION:PT1H51M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261005T163000Z
-SUMMARY:Autofiction (VOST)
-UID:e9772232-e465-4cbc-a25c-c005cd8d10eb@e977.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Maureen Fazendeiro\n\nEntremêlant témoignages de travailleurs agricoles et extraits de carnets de terrain d'un couple d'archéologues\, images d'archives amateurs et dessins scientifiques\, légendes\, poèmes et chansons\, les Saisons est un voyage à travers l'histoire réelle et inventée d'une région du Portugal\, l'Alentejo\, et des peuples qui l'ont habitée.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLOVV1#showsession?id=emsx001100018933&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261004T083000Z
-SUMMARY:Les Saisons (VOST)
-UID:886e9387-a224-4f0e-9086-d9e233b4ece1@886e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : José Luis Guerín\n\nEn marge de Barcelone\, Vallbona est une enclave entourée par une rivière\, des voies ferrées et une autoroute. Antonio\, fils d'ouvriers catalans\, y cultive des fleurs depuis près de 90 ans. Il est rejoint par Makome\, Norma\, Tatiana\, venus de tous horizons… Au rythme de la musique\, des baignades interdites et des amours naissants\, une forme poétique de résistance émerge face aux conflits urbains\, sociaux et identitaires du monde.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRHCLUY#showsession?id=emsx001100018973&ps=ticketingcine
-DURATION:PT2H2M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261011T190000Z
-SUMMARY:Histoires de la bonne vallée (VOST)
-UID:9ad8bfc3-1402-4ba6-9404-e7ae10f91659@9ad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alejandro Amenábar\n\nEn 1575\, le jeune soldat Miguel de Cervantes est capturé en haute mer par des corsaires barbaresques et emmené à Alger comme otage. Conscient qu'une mort cruelle l'attend si sa famille ne paie pas rapidement sa rançon\, il trouve refuge dans sa passion pour les histoires.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSGQUW#showsession?id=emsx001100018938&ps=ticketingcine
-DURATION:PT2H14M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261004T184000Z
-SUMMARY:Cervantes avant Don Quichotte (VOST)
-UID:4d65a819-8a41-4439-907c-e41fb9016c5d@4d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nPendant les chauds mois d'été\, lorsque les Madrilènes quittent leurs maisons en masse pour échapper à la chaleur insupportable\, le centre de Madrid est abandonné. C’est-à-dire\, à l’exception des touristes et d’une poignée de locaux intrépides et de ceux qui ne peuvent pas partir\, comme Eva\, une charmante trentenaire. Néanmoins\, l’été est le meilleur moment pour découvrir qui nous sommes vraiment. L’histoire se déroule avec une finesse séduisante lors des festivals de la ville au mois d’août\, lorsque les troubles intérieurs peuvent être apaisés par des rencontres fugaces\, des conversations en soirée décontractées et des aventures nocturnes inattendues.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRU59JQ#showsession?id=emsx001100019001&ps=ticketingcine
-DURATION:PT2H9M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261027T150000Z
-SUMMARY:Eva en août (VOST)
-UID:34344b78-ae61-4ce3-94c3-85648e2e7fed@3434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nAprès 14 ans de vie commune\, Ale et Alex ont une idée un peu folle : organiser une fête pour célébrer leur séparation. Si cette annonce laisse leurs proches perplexes\, le couple semble certain de sa décision. Mais l’est-il vraiment ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR7SNFZ#showsession?id=emsx001100018998&ps=ticketingcine
-DURATION:PT1H53M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261022T160000Z
-SUMMARY:Septembre sans attendre (VOST)
-UID:85b5db65-6dfd-45ae-a2de-03304f065c42@85b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Myriam Schott\n\nPréhistoriques ou domestiques\, rigolos ou ramollos\, minuscules ou noctambules\, ces animaux-là font un sacré gala !\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRDB5ZN#showsession?id=emsx001100019008&ps=ticketingcine
-DURATION:PT40M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261021T080000Z
-SUMMARY:Animo Rigolo (VOST)
-UID:d3a1ebaf-5b1c-4d2d-a659-8ce5708a3cd7@d3a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018924&ps=ticketingcine
-DURATION:PT2H20M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261001T180000Z
-SUMMARY:L'inconnue (VOST)
-UID:1a5780eb-aa46-4807-9f84-d6f6c0b03aeb@1a57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018951&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261008T100000Z
-SUMMARY:Trois adieux (VOST)
-UID:1d3c3417-3d20-4eb5-812a-246775687ca5@1d3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018957&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261009T122500Z
-SUMMARY:Romería (VOST)
-UID:2cbd0119-a6fa-429e-b906-eb9e64c0320d@2cbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR585EN#showsession?id=emsx001100018925&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261002T144500Z
-SUMMARY:La dernière patiente (VOST)
-UID:981d29d6-75bb-4245-a5bf-4e1fc1d3eda8@981d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1DJN2#showsession?id=emsx001100018922&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261001T140000Z
-SUMMARY:Salvation (VOST)
-UID:f30ad48b-6d3b-4bb8-be70-ccd7c6efa1c6@f30a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Vázquez\n\nArnold\, une souris de la classe moyenne au chômage\, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société\, quitte à devoir affronter ses soi-disant amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1OV2Q#showsession?id=emsx001100018982&ps=ticketingcine
-DURATION:PT1H35M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T114000Z
-SUMMARY:Decorado (VOST)
-UID:0d337846-5e55-47c1-ba7f-15107604710b@0d33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Marco Nguyen\, Nicolas Athané\n\nJim\, icône sexy de la scène gay parisienne\, voit sa vie basculer lorsqu’il contracte l’Hétérose\, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur)\, Lucien\, un jeune homme qui peine à s’assumer. Ensemble\, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRMW4P3#showsession?id=emsx001100018898&ps=ticketingcine
-DURATION:PT1H25M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T112000Z
-SUMMARY:Jim Queen (VOST)
-UID:155c33df-9aa9-4cd3-8b10-3d3479f56ebf@155c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Julien Gaspar-Oliveri\n\nEnzo\, 19 ans et sa sœur Carla\, 20 ans\, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père\, Anthony est libéré de prison\, Enzo voit la promesse fragile d’une famille à reconstruire contrairement à Carla pour qui l’idée reste inconcevable. Rattrapé par son passé\, Enzo doit se confronter à une vérité qu’il a trop longtemps gardée pour lui.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR16IP1#showsession?id=emsx001100018917&ps=ticketingcine
-DURATION:PT1H46M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260930T132000Z
-SUMMARY:La Frappe (VOST)
-UID:e25b171e-4a52-4aaa-882d-dc5a64824e52@e25b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jérémy Comte\n\nAu Ghana\, Kojo\, adolescent marqué par la disparition de son père en mer\, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps\, au Québec\, Tony\, en quête de repères\, s’interroge sur l’homme que fréquente sa mère\, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre\, un lien insoupçonné se tisse\, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQ2BZF#showsession?id=emsx001100018908&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260927T153500Z
-SUMMARY:Paradise (VOST)
-UID:d556c827-16bc-49f7-9076-5f82d3103bdb@d556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018958&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261009T142500Z
-SUMMARY:Maspalomas (VOST)
-UID:443441b5-d611-4fc0-a1cb-73c3ab850a38@4434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nAprès 14 ans de vie commune\, Ale et Alex ont une idée un peu folle : organiser une fête pour célébrer leur séparation. Si cette annonce laisse leurs proches perplexes\, le couple semble certain de sa décision. Mais l’est-il vraiment ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR7SNFZ#showsession?id=emsx001100018936&ps=ticketingcine
-DURATION:PT1H53M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261004T144000Z
-SUMMARY:Septembre sans attendre (VOST)
-UID:59648052-1be3-419b-a062-c15a0210cacc@5964.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Rodríguez\n\nAntonio et Estrella sont un frère et une soeur dont le destin est uni à la mer : il est scaphandrier\, elle étudie les fonds marins et aide son frère sur le navire où il travaille. Bien qu'il risque sa vie tous les jours\, sa situation financière est tendue\, mais cela pourrait changer quand il trouve une cargaison de cocaïne cachée dans la coque d'un cargo coulé dans le port de Huelva.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSG0SD#showsession?id=emsx001100018952&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261008T121000Z
-SUMMARY:Los Tigres (VOST)
-UID:8d516914-b856-4ab5-8cd5-8fa266262642@8d51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Maureen Fazendeiro\n\nEntremêlant témoignages de travailleurs agricoles et extraits de carnets de terrain d'un couple d'archéologues\, images d'archives amateurs et dessins scientifiques\, légendes\, poèmes et chansons\, les Saisons est un voyage à travers l'histoire réelle et inventée d'une région du Portugal\, l'Alentejo\, et des peuples qui l'ont habitée.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLOVV1#showsession?id=emsx001100018993&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T101000Z
-SUMMARY:Les Saisons (VOST)
-UID:ce3f0ecd-c37d-46ed-babe-9206d3b83ee6@ce3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jaime Rosales\n\nFragilisée par le récent décès de sa mère\, la jeune Gwen trouve du réconfort auprès de sa bande d'amis et de son amoureux\, Thomas. Mais l'arrivée de Jean-Luc\, étudiant au charme magnétique\, la plonge dans une confusion des sentiments. Qui choisir? Un jour\, comme pour éclairer son choix\, Gwen tombe au cinéma sur un film qui semble inexplicablement lui dévoiler sa propre vie...\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRTNRQO#showsession?id=emsx001100018961&ps=ticketingcine
-DURATION:PT2H4M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T080000Z
-SUMMARY:Morlaix (VOST)
-UID:afecd2b7-309d-455f-8c9a-1ad43ddb7e6a@afec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Vázquez\n\nArnold\, une souris de la classe moyenne au chômage\, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société\, quitte à devoir affronter ses soi-disant amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1OV2Q#showsession?id=emsx001100018991&ps=ticketingcine
-DURATION:PT1H35M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T173500Z
-SUMMARY:Decorado (VOST)
-UID:f0c8f515-85bd-4fbf-8603-720805ec5d68@f0c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Cabeleira\n\nFuyant un passé trouble\, Laura se réfugie à Entroncamento pour reconstruire sa vie et se lie à une jeunesse désabusée pas si différente d’elle. Un travail honnête peut-il rivaliser avec l’appel du crime ? Violence\, malchance\, cupidité et loyauté règnent dans les rues — chacun veut une vie meilleure.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB2A6F#showsession?id=emsx001100018978&ps=ticketingcine
-DURATION:PT2H11M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261012T161000Z
-SUMMARY:Entroncamento (VOST)
-UID:09e16fec-f317-4290-b697-adadfd7166df@09e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXUXJV#showsession?id=emsx001100018891&ps=ticketingcine
-DURATION:PT1H21M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260924T140000Z
-SUMMARY:Un grand raccourci (VOST)
-UID:ab837f07-1cc1-4586-93b6-5bbc6d0da37c@ab83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Damien Hauser\n\nEn 2094\, l'aspirant réalisateur Kuve filme un documentaire sur la Grande Guerre des années 2070\, qui a effacé les technologies modernes et fait renaître les royaumes. S'attendant au désespoir à Umata\, il y trouve des villageois vivant en paix. Il y rencontre l'actrice Mumbi\, qui révèle la beauté des moments quotidiens. Le film se déroule à travers d'anciennes séquences tournées par Kuve dans les coulisses\, montrant comment les gens trouvent un sens à un monde tragique et comment même les plus petits moments peuvent être d'une profonde beauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRM6RRW#showsession?id=emsx001100018892&ps=ticketingcine
-DURATION:PT1H19M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260924T170500Z
-SUMMARY:Memory of Princess Mumbi (VOST)
-UID:c1601c36-99e7-4625-90c5-5877abd5761f@c160.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alauda Ruiz de Azúa\n\nAinara\, 17 ans\, élève dans un lycée catholique\, s’apprête à passer son bac et à choisir son futur parcours universitaire. A la surprise générale\, cette brillante jeune fille annonce à sa famille qu’elle souhaite participer à une période d’intégration dans un couvent afin d’embrasser la vie de religieuse. La nouvelle prend tout le monde au dépourvu.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXZIQ9#showsession?id=emsx001100018968&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261011T080000Z
-SUMMARY:Les Dimanches (VOST)
-UID:903023a8-4a25-4698-96f9-63b966b35d21@9030.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jaime Rosales\n\nFragilisée par le récent décès de sa mère\, la jeune Gwen trouve du réconfort auprès de sa bande d'amis et de son amoureux\, Thomas. Mais l'arrivée de Jean-Luc\, étudiant au charme magnétique\, la plonge dans une confusion des sentiments. Qui choisir? Un jour\, comme pour éclairer son choix\, Gwen tombe au cinéma sur un film qui semble inexplicablement lui dévoiler sa propre vie...\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRTNRQO#showsession?id=emsx001100018988&ps=ticketingcine
-DURATION:PT2H4M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T134500Z
-SUMMARY:Morlaix (VOST)
-UID:46e2256f-de24-4ac6-9bc7-b2e2a712fd54@46e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018932&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261003T185000Z
-SUMMARY:Romería (VOST)
-UID:d96978c8-f98c-4819-86ad-39bde0f172cb@d969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alauda Ruiz de Azúa\n\nAinara\, 17 ans\, élève dans un lycée catholique\, s’apprête à passer son bac et à choisir son futur parcours universitaire. A la surprise générale\, cette brillante jeune fille annonce à sa famille qu’elle souhaite participer à une période d’intégration dans un couvent afin d’embrasser la vie de religieuse. La nouvelle prend tout le monde au dépourvu.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXZIQ9#showsession?id=emsx001100018950&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261007T184500Z
-SUMMARY:Les Dimanches (VOST)
-UID:dad58a72-4d6c-4986-8307-49b5fcc8ba2b@dad5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018931&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261003T164500Z
-SUMMARY:Maspalomas (VOST)
-UID:c4d1d380-2777-40d9-b099-d39a4d9ae105@c4d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Cabeleira\n\nFuyant un passé trouble\, Laura se réfugie à Entroncamento pour reconstruire sa vie et se lie à une jeunesse désabusée pas si différente d’elle. Un travail honnête peut-il rivaliser avec l’appel du crime ? Violence\, malchance\, cupidité et loyauté règnent dans les rues — chacun veut une vie meilleure.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB2A6F#showsession?id=emsx001100018960&ps=ticketingcine
-DURATION:PT2H11M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261009T183000Z
-SUMMARY:Entroncamento (VOST)
-UID:e77eeed9-b82d-46fb-9ed7-78e2edf67b97@e77e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018971&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261011T163500Z
-SUMMARY:L'Etre Aimé (VOST)
-UID:6ee667de-8ad3-4a2e-86f9-4f02a9862253@6ee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZ16MO#showsession?id=emsx001100018887&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260923T120000Z
-SUMMARY:In Waves (VOST)
-UID:ad07e393-c359-4365-b763-adbb74e251b7@ad07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Ryusuke Hamaguchi\n\nDirectrice d'un établissement pour personnes âgées\, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents\, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari\, une metteuse en scène japonaise qui se bat contre un cancer\, va bouleverser sa trajectoire. En nouant une amitié profonde\, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLLFLU#showsession?id=emsx001100018904&ps=ticketingcine
-DURATION:PT3H15M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260927T080000Z
-SUMMARY:Soudain (VOST)
-UID:2db6ac1d-ee3d-454a-9328-df025f3cb092@2db6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fernanda Tovar\n\nLa Maestra et Paula\, deux amies inséparables\, sont les meilleures nageuses de leur équipe. Jusqu’à ce qu’un évènement traumatique\, survenu au cours d’une soirée\, les oblige à choisir entre garder le silence et prendre la parole\, quitte à mettre leur amitié à rude épreuve…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRJR3CL#showsession?id=emsx001100018906&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260927T112500Z
-SUMMARY:Chicas tristes (VOST)
-UID:9f79cc99-6270-4b8d-bbeb-8d433223f97d@9f79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Maureen Fazendeiro\n\nEntremêlant témoignages de travailleurs agricoles et extraits de carnets de terrain d'un couple d'archéologues\, images d'archives amateurs et dessins scientifiques\, légendes\, poèmes et chansons\, les Saisons est un voyage à travers l'histoire réelle et inventée d'une région du Portugal\, l'Alentejo\, et des peuples qui l'ont habitée.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLOVV1#showsession?id=emsx001100018987&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T121000Z
-SUMMARY:Les Saisons (VOST)
-UID:8941d812-0627-410f-9085-4bc43955f593@8941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Almodóvar\n\nRaúl est un cinéaste culte en pleine crise créative. Lorsqu’un drame frappe l’une de ses plus proches collaboratrices\, il s’en inspire pour écrire son prochain film. Peu à peu\, il imagine Elsa\, une réalisatrice en pleine écriture\, dont le parcours commence à refléter le sien. Les deux cinéastes deviennent les deux facettes d’un même personnage\, dans un jeu de miroirs où l’impudeur de l’autofiction dévoile autant qu’elle détruit. Mais jusqu’où peut-on aller pour raconter une histoire ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRWM667#showsession?id=emsx001100018930&ps=ticketingcine
-DURATION:PT1H51M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261003T143500Z
-SUMMARY:Autofiction (VOST)
-UID:450ba21d-991c-4beb-94e6-2c4ff85b9023@450b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018926&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261002T161000Z
-SUMMARY:Dégel (VOST)
-UID:45a98ad8-eb3a-494b-b8cb-556dc705bfaf@45a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Marques-Marcet\n\nClaudia\, atteinte d’une maladie en phase terminale\, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio\, son compagnon depuis quarante ans\, tandis que Violeta\, leur fille\, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBMXU3#showsession?id=emsx001100018992&ps=ticketingcine
-DURATION:PT1H46M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261011T101000Z
-SUMMARY:Polvo serán (VOST)
-UID:a8648301-fc37-4ef4-bfd3-804257000a9c@a864.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018974&ps=ticketingcine
-DURATION:PT2H5M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261011T142000Z
-SUMMARY:La Providence et la Guitare (VOST)
-UID:820caafa-4ba2-48f6-8138-c5e326efa66f@820c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : François Ruffin\, Gilles Perret\n\n« Mais qui m’a mis cette tête de con? »  Ce n'est pas le grand amour entre le député En Marche ! Bruno Bonnell et l’insoumis François Ruffin.  Et pourtant...  C'est parti pour le premier "road movie parlementaire" à la rencontre des femmes qui s’occupent de nos enfants\, nos malades\, nos personnes âgées.  Ensemble\, avec ces invisibles du soin et du lien\, ils vont traverser confinement et couvre-feu\, partager rires et larmes\, colère et espoir.  Ensemble\, ils vont se bagarrer\, des plateaux télés à la tribune de l’Hémicycle\, pour que ces travailleuses soient enfin reconnues\, dans leur statut\, dans leurs revenus.  Et s’il le faut\, ils réinventeront l’Assemblée…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRCF4PU#showsession?id=emsx001100018921&ps=ticketingcine
-DURATION:PT1H25M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261002T180000Z
-SUMMARY:Debout les femmes ! (VOST)
-UID:05fa3dfd-b110-4f39-bb5f-4e03b4ccc28c@05fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018888&ps=ticketingcine
-DURATION:PT2H20M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260923T150000Z
-SUMMARY:L'inconnue (VOST)
-UID:f433dd87-79e4-4c7d-8f9e-81c241c2be24@f433.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRWLMJQ#showsession?id=emsx001100018896&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T080000Z
-SUMMARY:Cotton Queen (VOST)
-UID:e5e27e8c-c6a6-4bc1-8a63-088aa3e0cb67@e5e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Saura\n\nUn groupe d'amis qui lutte pour survivre dans les bidonvilles de Madrid commet de petits délits afin de financer les débuts de l'un d'entre eux en tant que torero.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRUBIAF#showsession?id=emsx001100018983&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T132500Z
-SUMMARY:Los Golfos (VOST)
-UID:5ece00d8-e150-48f6-9fbe-2c949e2f263b@5ece.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018990&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T191500Z
-SUMMARY:Trois adieux (VOST)
-UID:9c31f7a6-29b9-4962-aef9-9c4fc2986696@9c31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nUne nuit d’hiver à Madrid\, deux couples d’amis trentenaires dînent. Susana et Dani se réjouissent de leur nouvelle maison\, en périphérie de la ville et proche de la campagne\, puis annoncent l’arrivée prochaine d’un enfant. La nouvelle déstabilise Elena et Guillermo qui ne semblent pas partager les mêmes projets de vie. Trois mois plus tard\, Elena et Guillermo rendent visite à leurs amis.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFKQES#showsession?id=emsx001100019000&ps=ticketingcine
-DURATION:PT1H4M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261026T170000Z
-SUMMARY:Venez voir (VOST)
-UID:9f6ed42e-24f6-4389-910f-2179cd3d8a07@9f6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nUne nuit d’hiver à Madrid\, deux couples d’amis trentenaires dînent. Susana et Dani se réjouissent de leur nouvelle maison\, en périphérie de la ville et proche de la campagne\, puis annoncent l’arrivée prochaine d’un enfant. La nouvelle déstabilise Elena et Guillermo qui ne semblent pas partager les mêmes projets de vie. Trois mois plus tard\, Elena et Guillermo rendent visite à leurs amis.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFKQES#showsession?id=emsx001100018996&ps=ticketingcine
-DURATION:PT1H4M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261020T140000Z
-SUMMARY:Venez voir (VOST)
-UID:0ebe4213-5d29-48e5-894b-7bce8f441d7b@0ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Julien Gaspar-Oliveri\n\nEnzo\, 19 ans et sa sœur Carla\, 20 ans\, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père\, Anthony est libéré de prison\, Enzo voit la promesse fragile d’une famille à reconstruire contrairement à Carla pour qui l’idée reste inconcevable. Rattrapé par son passé\, Enzo doit se confronter à une vérité qu’il a trop longtemps gardée pour lui.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR16IP1#showsession?id=emsx001100018923&ps=ticketingcine
-DURATION:PT1H46M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261001T160500Z
-SUMMARY:La Frappe (VOST)
-UID:1cd51910-24ea-4163-8e22-2f9af268dbbb@1cd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jérémy Comte\n\nAu Ghana\, Kojo\, adolescent marqué par la disparition de son père en mer\, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps\, au Québec\, Tony\, en quête de repères\, s’interroge sur l’homme que fréquente sa mère\, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre\, un lien insoupçonné se tisse\, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQ2BZF#showsession?id=emsx001100018902&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T174500Z
-SUMMARY:Paradise (VOST)
-UID:3d910c66-b85e-4831-a4d9-ca763ff124ac@3d91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018949&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261007T164500Z
-SUMMARY:Romería (VOST)
-UID:baf53385-2161-4bec-8451-70210edc4776@baf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Clint Eastwood\n\nLe 15 janvier 2009\, après son décollage de l'aéroport La Guardia de New York\, le vol 1549 de l'US Airways subit la perte des deux réacteurs et n'a plus aucune poussée motrice. L'avion réussit à se poser sans encombre sur les eaux glacées du fleuve Hudson. Les 155 passagers et membres d'équipage ont la vie sauve. Un exploit hors du commun accompli par le commandant Chesley « Sully » Sullenberger et Jeff Skiles\, son second\, relayé par les médias et l'opinion publique. Dans le pays\, la presse s'empare du « miracle sur l'Hudson ». Et pourtant\, alors même que le pilote est salué comme un héros\, la NTBS ouvre enquête une menace et cherche l'erreur humaine\, une orientation qui menace les réputations et carrières des deux pilotes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRCV6PU#showsession?id=emsx001100018582&ps=ticketingcine
-DURATION:PT1H36M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261016T160000Z
-SUMMARY:Sully (VOST)
-UID:80ba7c0a-9c23-467d-b677-fcedd9492712@80ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Rodríguez\n\nAntonio et Estrella sont un frère et une soeur dont le destin est uni à la mer : il est scaphandrier\, elle étudie les fonds marins et aide son frère sur le navire où il travaille. Bien qu'il risque sa vie tous les jours\, sa situation financière est tendue\, mais cela pourrait changer quand il trouve une cargaison de cocaïne cachée dans la coque d'un cargo coulé dans le port de Huelva.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSG0SD#showsession?id=emsx001100018975&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261012T100000Z
-SUMMARY:Los Tigres (VOST)
-UID:ca35b1b5-e0d5-4b5e-84af-98d0a733a4fe@ca35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Avril Besson\n\nDe vieux vinyles disco dans le coffre de sa Twingo\, à peine remise de la mort de sa grand-mère\, Charlie roule. Elle ne sait pas encore que ces disques ressusciteront les pas de danse de sa mère dans les yeux humides de Titou\, caviste rêveur\, ni qu’une plage méditerranéenne désertée sera le théâtre de sa rencontre avec Marina\, qui rêve son idéal de liberté dans la pizzeria du village. Pour l’instant\, elle roule.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZXRBR#showsession?id=emsx001100018890&ps=ticketingcine
-DURATION:PT1H27M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260924T153000Z
-SUMMARY:Les matins merveilleux (VOST)
-UID:90747cae-273f-4460-a5de-04946e57dbf8@9074.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZ16MO#showsession?id=emsx001100018897&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T094000Z
-SUMMARY:In Waves (VOST)
-UID:d3cf693e-1a20-4117-aa65-3ebab4822790@d3cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018894&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260925T143000Z
-SUMMARY:Dégel (VOST)
-UID:e2472a03-8a1f-49ae-bab0-3989ad20b410@e247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018929&ps=ticketingcine
-DURATION:PT2H5M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261003T122000Z
-SUMMARY:La Providence et la Guitare (VOST)
-UID:65a544eb-cc9b-4deb-aab8-a59b6fb5944b@65a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018935&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261004T121500Z
-SUMMARY:La reconquista (VOST)
-UID:49ba45dd-e534-4b16-a8b5-591e60b30446@49ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Eva Libertad\n\nAngela est sourde\, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIL76K#showsession?id=emsx001100018976&ps=ticketingcine
-DURATION:PT1H39M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261012T121500Z
-SUMMARY:Sorda (VOST)
-UID:35f7f60f-930a-4308-810b-2a77565edc4f@35f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Saura\n\nUn groupe d'amis qui lutte pour survivre dans les bidonvilles de Madrid commet de petits délits afin de financer les débuts de l'un d'entre eux en tant que torero.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRUBIAF#showsession?id=emsx001100018989&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T160000Z
-SUMMARY:Los Golfos (VOST)
-UID:f149e0e3-0da8-4a72-823a-ac31224deb50@f149.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Sylvie Ballyot\n\nEn animation et archives\, retour sur la guerre civile du Liban\, à hauteur d'enfant\, sur les traces de Fida\, née en 1975 à Beyrouth\, qui déploie les plis de sa mémoire en interrogeant d'anciens protagonistes du conflit. Entre fureur passée et poésie de la mise en scène\, un poignant récit cathartique.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBCQU6#showsession?id=emsx001100018876&ps=ticketingcine
-DURATION:PT2H30M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260928T173000Z
-SUMMARY:Green Line (VOST)
-UID:3aec70d1-49e2-4cb1-9776-390ebd720457@3aec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nPendant les chauds mois d'été\, lorsque les Madrilènes quittent leurs maisons en masse pour échapper à la chaleur insupportable\, le centre de Madrid est abandonné. C’est-à-dire\, à l’exception des touristes et d’une poignée de locaux intrépides et de ceux qui ne peuvent pas partir\, comme Eva\, une charmante trentenaire. Néanmoins\, l’été est le meilleur moment pour découvrir qui nous sommes vraiment. L’histoire se déroule avec une finesse séduisante lors des festivals de la ville au mois d’août\, lorsque les troubles intérieurs peuvent être apaisés par des rencontres fugaces\, des conversations en soirée décontractées et des aventures nocturnes inattendues.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRU59JQ#showsession?id=emsx001100018995&ps=ticketingcine
-DURATION:PT2H9M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261019T173000Z
-SUMMARY:Eva en août (VOST)
-UID:e42d4a6d-cde5-4238-a609-05594de59a31@e42d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018980&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T080000Z
-SUMMARY:Maspalomas (VOST)
-UID:91d85bdf-08ba-4406-a6c7-8719e690a179@91d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Eva Libertad\n\nAngela est sourde\, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIL76K#showsession?id=emsx001100018953&ps=ticketingcine
-DURATION:PT1H39M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261008T141000Z
-SUMMARY:Sorda (VOST)
-UID:4ecfd519-a97d-4ee8-8241-81c186aa28c2@4ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Marie Caudry\, Carlos Navarro\, Ignas Meilūnas\n\nQuatre ours\, quatre contes\, quatre saisons : qu'ils soient immenses\, ensommeillés ou gourmands\, les ours savent aussi être tendres. À leurs côtés\, un oisillon malicieux\, un petit lapin friand de noisettes ou encore un oiseau sentimental vivent des aventures extraordinaires. Tout doucement\, ils découvrent le bonheur d'être ensemble.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FROARJT#showsession?id=emsx001100019009&ps=ticketingcine
-DURATION:PT41M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261029T090000Z
-SUMMARY:L'Ourse et l'oiseau (VOST)
-UID:11575494-c457-4541-9d66-6b7f1524d15c@1157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Damien Hauser\n\nEn 2094\, l'aspirant réalisateur Kuve filme un documentaire sur la Grande Guerre des années 2070\, qui a effacé les technologies modernes et fait renaître les royaumes. S'attendant au désespoir à Umata\, il y trouve des villageois vivant en paix. Il y rencontre l'actrice Mumbi\, qui révèle la beauté des moments quotidiens. Le film se déroule à travers d'anciennes séquences tournées par Kuve dans les coulisses\, montrant comment les gens trouvent un sens à un monde tragique et comment même les plus petits moments peuvent être d'une profonde beauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRM6RRW#showsession?id=emsx001100018920&ps=ticketingcine
-DURATION:PT1H19M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260930T164500Z
-SUMMARY:Memory of Princess Mumbi (VOST)
-UID:92b969b0-dc8e-4087-880d-9c0f5321725b@92b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Vázquez\n\nArnold\, une souris de la classe moyenne au chômage\, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société\, quitte à devoir affronter ses soi-disant amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1OV2Q#showsession?id=emsx001100018955&ps=ticketingcine
-DURATION:PT1H35M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261008T181500Z
-SUMMARY:Decorado (VOST)
-UID:b26e3ff1-a789-4f4f-85bf-3c9da16cd4ad@b26e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018977&ps=ticketingcine
-DURATION:PT1H52M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261012T141000Z
-SUMMARY:Romería (VOST)
-UID:299bfeb2-71a1-402a-ab9c-d029698b60ed@299b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nAprès 14 ans de vie commune\, Ale et Alex ont une idée un peu folle : organiser une fête pour célébrer leur séparation. Si cette annonce laisse leurs proches perplexes\, le couple semble certain de sa décision. Mais l’est-il vraiment ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR7SNFZ#showsession?id=emsx001100018986&ps=ticketingcine
-DURATION:PT1H53M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261013T101000Z
-SUMMARY:Septembre sans attendre (VOST)
-UID:d27e5ccc-e773-444d-a0b7-0738dc27b8fd@d27e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Mathias Mlekuz\n\nDe l’Atlantique à la mer Noire\, Mathias embarque son meilleur ami Philippe dans un road trip à bicyclette. Ensemble ils vont refaire le voyage que Youri\, son fils\, avait entrepris avant de disparaître tragiquement. Une épopée qu’ils traverseront avec tendresse\, humour et émotion.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR6IC3M#showsession?id=emsx001100018875&ps=ticketingcine
-DURATION:PT1H29M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260925T180000Z
-SUMMARY:A bicyclette ! (VOST)
-UID:b9c3d9db-0d93-4167-b2b4-4d0302dbcd44@b9c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZ16MO#showsession?id=emsx001100018910&ps=ticketingcine
-DURATION:PT1H31M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260927T185000Z
-SUMMARY:In Waves (VOST)
-UID:396fe2ed-b525-429e-8e4c-02f209c5fce0@396f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018945&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261006T184500Z
-SUMMARY:L'Etre Aimé (VOST)
-UID:32c11629-8719-4436-b6d2-b8261c985ca0@32c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR585EN#showsession?id=emsx001100018918&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260930T151500Z
-SUMMARY:La dernière patiente (VOST)
-UID:fd7b381f-e99f-4ff4-87d8-81400ad891f0@fd7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Víctor Erice\n\nDans l’Espagne des années 1950\, Estrella\, une jeune fille de huit ans\, vit avec ses parents au nord du pays\, dans une maison appelée “La Mouette”. Son père\, Agustín Arenas\, médecin taciturne et mystérieux\, radiesthésiste à ses heures\, est originaire du sud de l’Espagne\, région qu'il n'évoque jamais. Intriguée par ses silences\, Estrella grandit en essayant de percer le mystère qui entoure la jeunesse et les blessures passées de cet homme qu’elle admire profondément.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRAMZXN#showsession?id=emsx001100018967&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T193000Z
-SUMMARY:Le Sud (VOST)
-UID:f86fcc38-0e29-439d-9fcb-a56762c48e37@f86f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jérémy Comte\n\nAu Ghana\, Kojo\, adolescent marqué par la disparition de son père en mer\, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps\, au Québec\, Tony\, en quête de repères\, s’interroge sur l’homme que fréquente sa mère\, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre\, un lien insoupçonné se tisse\, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQ2BZF#showsession?id=emsx001100018895&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260925T162000Z
-SUMMARY:Paradise (VOST)
-UID:0af47194-d66f-4fde-9117-059fd456cbb9@0af4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Rodríguez\n\nAntonio et Estrella sont un frère et une soeur dont le destin est uni à la mer : il est scaphandrier\, elle étudie les fonds marins et aide son frère sur le navire où il travaille. Bien qu'il risque sa vie tous les jours\, sa situation financière est tendue\, mais cela pourrait changer quand il trouve une cargaison de cocaïne cachée dans la coque d'un cargo coulé dans le port de Huelva.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSG0SD#showsession?id=emsx001100018941&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261005T143000Z
-SUMMARY:Los Tigres (VOST)
-UID:3595d7dc-af58-4d85-8f6b-daac989cd947@3595.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Marques-Marcet\n\nClaudia\, atteinte d’une maladie en phase terminale\, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio\, son compagnon depuis quarante ans\, tandis que Violeta\, leur fille\, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBMXU3#showsession?id=emsx001100018959&ps=ticketingcine
-DURATION:PT1H46M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261009T163000Z
-SUMMARY:Polvo serán (VOST)
-UID:9ae6e9a1-44b5-4c1e-9a0f-be1abbd20d36@9ae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rémi Durin\n\nAvoir le trac avant de monter sur scène et s’inventer un monde\, découvrir un objet bien mystérieux ou ce qui se cache dans une grande boîte\, ces trois court-métrages éveilleront l’imaginaire et aideront les jeunes spectateurs à trouver la confiance en soi.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRJE1RL#showsession?id=emsx001100018900&ps=ticketingcine
-DURATION:PT45M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T142000Z
-SUMMARY:La Grande Rêvasion (VOST)
-UID:f3e62fb3-d710-4f5a-b9e2-01c2df644f4c@f3e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1DJN2#showsession?id=emsx001100018919&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260930T181000Z
-SUMMARY:Salvation (VOST)
-UID:939ac848-2c08-4f9f-b4c2-20207b7c4dc1@939a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018893&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260924T183000Z
-SUMMARY:Dégel (VOST)
-UID:43c95eb0-dfee-41f4-9b45-ee4233ec18ef@43c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Charlotte Le Bon\n\nPour les vacances d'été\, Bastien\, 13 ans\, quitte Paris avec sa famille pour le calme d'un chalet au bord d'un lac québécois\, où sa mère\, Violette\, a grandi. Ils s'installent chez une amie de longue date\, Louise\, et sa fille Chloé\, 16 ans. Malgré les trois ans qui séparent Bastien et Chloé\, une connexion singulière se crée entre eux et un jeu charnel étrange s'installe. Prêt à braver ses pires peurs pour se faire une place dans le coeur de Chloé\, l'été devient un moment charnière trouble pour le jeune garçon.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRYDT6G#showsession?id=emsx001100018873&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260923T201500Z
-SUMMARY:Falcon Lake (VOST)
-UID:121832cf-e5fb-425e-9604-92cda58c67ba@1218.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018999&ps=ticketingcine
-DURATION:PT1H48M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261024T080000Z
-SUMMARY:La reconquista (VOST)
-UID:8e901f3a-264c-4418-8789-c3c700906cf3@8e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Cabeleira\n\nFuyant un passé trouble\, Laura se réfugie à Entroncamento pour reconstruire sa vie et se lie à une jeunesse désabusée pas si différente d’elle. Un travail honnête peut-il rivaliser avec l’appel du crime ? Violence\, malchance\, cupidité et loyauté règnent dans les rues — chacun veut une vie meilleure.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB2A6F#showsession?id=emsx001100018948&ps=ticketingcine
-DURATION:PT2H11M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261007T142500Z
-SUMMARY:Entroncamento (VOST)
-UID:d685689d-87d2-451b-b59c-3028426be9ff@d685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Eva Libertad\n\nAngela est sourde\, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIL76K#showsession?id=emsx001100018937&ps=ticketingcine
-DURATION:PT1H39M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261004T164500Z
-SUMMARY:Sorda (VOST)
-UID:73bc1c47-b8eb-4f8b-895b-e961a21e3670@73bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018927&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261003T080000Z
-SUMMARY:L'Etre Aimé (VOST)
-UID:de978be9-bf65-4d62-8a86-a7001d2e893c@de97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : José Luis Guerín\n\nEn marge de Barcelone\, Vallbona est une enclave entourée par une rivière\, des voies ferrées et une autoroute. Antonio\, fils d'ouvriers catalans\, y cultive des fleurs depuis près de 90 ans. Il est rejoint par Makome\, Norma\, Tatiana\, venus de tous horizons… Au rythme de la musique\, des baignades interdites et des amours naissants\, une forme poétique de résistance émerge face aux conflits urbains\, sociaux et identitaires du monde.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRHCLUY#showsession?id=emsx001100018934&ps=ticketingcine
-DURATION:PT2H2M
-LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261004T100000Z
-SUMMARY:Histoires de la bonne vallée (VOST)
-UID:9c64ff2c-500e-4e91-90d6-876359ea24ab@9c64.org
+DESCRIPTION:Salle 1\n\nRéalisateur : Eva Trobisch\n\nLéa a 16 ans\, un petit frère\, une grande amie\, des parents récemment divorcés\, et une tante qu'elle admire. Au cœur des forêts majestueuses de l'ex-Allemagne de l'Est\, ses grands-parents gèrent un hôtel au passé glorieux aujourd'hui menacé par la faillite. Dans cette famille\, chacun cherche sa place et son horizon. Léa\, elle\, a un talent pour le chant\, et se prépare à participer à une émission de téléréalité.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRUO76O#showsession?id=emsx001100019020&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261108T160000Z
+SUMMARY:Home stories (VOST)
+UID:b7d735d1-ec14-49ad-875d-8a770dec4b92@b7d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018939&ps=ticketingcine
@@ -823,63 +15,175 @@ DURATION:PT1H55M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
 DTSTART:20261005T100000Z
 SUMMARY:Maspalomas (VOST)
-UID:ce39a3fc-3b6c-4b92-830b-a4acf85b0872@ce39.org
+UID:82225636-302c-4d26-bd5b-0562c5c3dc50@8222.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018907&ps=ticketingcine
-DURATION:PT2H20M
+DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Vázquez\n\nArnold\, une souris de la classe moyenne au chômage\, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société\, quitte à devoir affronter ses soi-disant amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1OV2Q#showsession?id=emsx001100018955&ps=ticketingcine
+DURATION:PT1H35M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260927T130500Z
-SUMMARY:L'inconnue (VOST)
-UID:54693ad2-3479-4d14-99b7-e72c5a6d5524@5469.org
+DTSTART:20261008T181500Z
+SUMMARY:Decorado (VOST)
+UID:7d29334d-df41-4301-8633-88ce8e78186a@7d29.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Alejandro Amenábar\n\nEn 1575\, le jeune soldat Miguel de Cervantes est capturé en haute mer par des corsaires barbaresques et emmené à Alger comme otage. Conscient qu'une mort cruelle l'attend si sa famille ne paie pas rapidement sa rançon\, il trouve refuge dans sa passion pour les histoires.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSGQUW#showsession?id=emsx001100018947&ps=ticketingcine
-DURATION:PT2H14M
+DESCRIPTION:Salle 1\n\nRéalisateur : Alauda Ruiz de Azúa\n\nAinara\, 17 ans\, élève dans un lycée catholique\, s’apprête à passer son bac et à choisir son futur parcours universitaire. A la surprise générale\, cette brillante jeune fille annonce à sa famille qu’elle souhaite participer à une période d’intégration dans un couvent afin d’embrasser la vie de religieuse. La nouvelle prend tout le monde au dépourvu.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXZIQ9#showsession?id=emsx001100018950&ps=ticketingcine
+DURATION:PT1H57M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261007T120000Z
-SUMMARY:Cervantes avant Don Quichotte (VOST)
-UID:41411dca-ab46-486c-b68f-69f659a5d8f3@4141.org
+DTSTART:20261007T184500Z
+SUMMARY:Les Dimanches (VOST)
+UID:99ac8b60-a837-442a-a655-e4a5134104d8@99ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Marques-Marcet\n\nClaudia\, atteinte d’une maladie en phase terminale\, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio\, son compagnon depuis quarante ans\, tandis que Violeta\, leur fille\, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBMXU3#showsession?id=emsx001100018928&ps=ticketingcine
-DURATION:PT1H46M
+DESCRIPTION:Salle 1\n\nRéalisateur : Jérémy Comte\n\nAu Ghana\, Kojo\, adolescent marqué par la disparition de son père en mer\, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps\, au Québec\, Tony\, en quête de repères\, s’interroge sur l’homme que fréquente sa mère\, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre\, un lien insoupçonné se tisse\, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQ2BZF#showsession?id=emsx001100018908&ps=ticketingcine
+DURATION:PT1H30M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261003T102500Z
-SUMMARY:Polvo serán (VOST)
-UID:4641f6df-e60c-47b4-b294-2703564e15f9@4641.org
+DTSTART:20260927T153500Z
+SUMMARY:Paradise (VOST)
+UID:5f0ce72a-f611-4b47-b0b9-684fdd9a299a@5f0c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018965&ps=ticketingcine
+DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018932&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261003T185000Z
+SUMMARY:Romería (VOST)
+UID:364b3e5d-6401-4f33-b2d4-498fa0a5b3de@364b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Damien Hauser\n\nEn 2094\, l'aspirant réalisateur Kuve filme un documentaire sur la Grande Guerre des années 2070\, qui a effacé les technologies modernes et fait renaître les royaumes. S'attendant au désespoir à Umata\, il y trouve des villageois vivant en paix. Il y rencontre l'actrice Mumbi\, qui révèle la beauté des moments quotidiens. Le film se déroule à travers d'anciennes séquences tournées par Kuve dans les coulisses\, montrant comment les gens trouvent un sens à un monde tragique et comment même les plus petits moments peuvent être d'une profonde beauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRM6RRW#showsession?id=emsx001100018920&ps=ticketingcine
+DURATION:PT1H19M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260930T164500Z
+SUMMARY:Memory of Princess Mumbi (VOST)
+UID:862b837f-d003-4e05-bafa-c057150fbffb@862b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nPendant les chauds mois d'été\, lorsque les Madrilènes quittent leurs maisons en masse pour échapper à la chaleur insupportable\, le centre de Madrid est abandonné. C’est-à-dire\, à l’exception des touristes et d’une poignée de locaux intrépides et de ceux qui ne peuvent pas partir\, comme Eva\, une charmante trentenaire. Néanmoins\, l’été est le meilleur moment pour découvrir qui nous sommes vraiment. L’histoire se déroule avec une finesse séduisante lors des festivals de la ville au mois d’août\, lorsque les troubles intérieurs peuvent être apaisés par des rencontres fugaces\, des conversations en soirée décontractées et des aventures nocturnes inattendues.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRU59JQ#showsession?id=emsx001100019001&ps=ticketingcine
+DURATION:PT2H9M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261027T150000Z
+SUMMARY:Eva en août (VOST)
+UID:98155d5e-0b05-4328-bed7-72f6413291ab@9815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marco Nguyen\, Nicolas Athané\n\nJim\, icône sexy de la scène gay parisienne\, voit sa vie basculer lorsqu’il contracte l’Hétérose\, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur)\, Lucien\, un jeune homme qui peine à s’assumer. Ensemble\, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRMW4P3#showsession?id=emsx001100018909&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260927T171500Z
+SUMMARY:Jim Queen (VOST)
+UID:7a160e4d-3e44-49b1-a62e-e7c20a5fcb61@7a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Ryusuke Hamaguchi\n\nDirectrice d'un établissement pour personnes âgées\, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents\, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari\, une metteuse en scène japonaise qui se bat contre un cancer\, va bouleverser sa trajectoire. En nouant une amitié profonde\, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLLFLU#showsession?id=emsx001100018904&ps=ticketingcine
+DURATION:PT3H15M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260927T080000Z
+SUMMARY:Soudain (VOST)
+UID:67752560-e266-445d-8dee-96a0dec0abf7@6775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : DELLA TORRE Roberto\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR3EXQ8#showsession?id=emsx001100019025&ps=ticketingcine
+DURATION:PT56M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261115T143000Z
+SUMMARY:DES RICOCHETS EN EAU DOUCE (VOST)
+UID:fa2ad3ee-7617-4a84-9845-14c8f75a9d0e@fa2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : François Ruffin\, Gilles Perret\n\n« Mais qui m’a mis cette tête de con? »  Ce n'est pas le grand amour entre le député En Marche ! Bruno Bonnell et l’insoumis François Ruffin.  Et pourtant...  C'est parti pour le premier "road movie parlementaire" à la rencontre des femmes qui s’occupent de nos enfants\, nos malades\, nos personnes âgées.  Ensemble\, avec ces invisibles du soin et du lien\, ils vont traverser confinement et couvre-feu\, partager rires et larmes\, colère et espoir.  Ensemble\, ils vont se bagarrer\, des plateaux télés à la tribune de l’Hémicycle\, pour que ces travailleuses soient enfin reconnues\, dans leur statut\, dans leurs revenus.  Et s’il le faut\, ils réinventeront l’Assemblée…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRCF4PU#showsession?id=emsx001100018921&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261002T180000Z
+SUMMARY:Debout les femmes ! (VOST)
+UID:7ea0e8a9-646c-43be-bf22-078b39a2ec46@7ea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Eva Libertad\n\nAngela est sourde\, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIL76K#showsession?id=emsx001100018976&ps=ticketingcine
+DURATION:PT1H39M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261012T121500Z
+SUMMARY:Sorda (VOST)
+UID:c3bbe27f-7ff9-4583-9bde-5fd20ae67259@c3bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018951&ps=ticketingcine
 DURATION:PT2H
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261010T150500Z
+DTSTART:20261008T100000Z
 SUMMARY:Trois adieux (VOST)
-UID:af97c81b-3c2b-4323-afe8-0b727f13bf24@af97.org
+UID:db4af4be-8312-4579-800c-0e3d1c255f7e@db4a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Laura Carreira\n\nAurora\, migrante portugaise\, travaille comme préparatrice de commandes dans un entrepôt à Édimbourg\, en Écosse. Coincée entre les murs d'un immense centre de distribution et la solitude de sa propre chambre\, Aurora cherche à saisir toutes les occasions pour résister à l'aliénation et à l'isolement qui menacent son identité.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR24BOG#showsession?id=emsx001100018946&ps=ticketingcine
-DURATION:PT1H44M
+DESCRIPTION:Salle 1\n\nRéalisateur : Damien Hauser\n\nEn 2094\, l'aspirant réalisateur Kuve filme un documentaire sur la Grande Guerre des années 2070\, qui a effacé les technologies modernes et fait renaître les royaumes. S'attendant au désespoir à Umata\, il y trouve des villageois vivant en paix. Il y rencontre l'actrice Mumbi\, qui révèle la beauté des moments quotidiens. Le film se déroule à travers d'anciennes séquences tournées par Kuve dans les coulisses\, montrant comment les gens trouvent un sens à un monde tragique et comment même les plus petits moments peuvent être d'une profonde beauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRM6RRW#showsession?id=emsx001100018903&ps=ticketingcine
+DURATION:PT1H19M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20261007T100000Z
-SUMMARY:On Falling (VOST)
-UID:02aeb72f-9189-4396-944b-f5e6f580c43d@02ae.org
+DTSTART:20260926T192500Z
+SUMMARY:Memory of Princess Mumbi (VOST)
+UID:12fdbd83-2f66-4bae-b70f-847a73b4294a@12fd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018901&ps=ticketingcine
+DESCRIPTION:Salle 1\n\nRéalisateur : Avril Besson\n\nDe vieux vinyles disco dans le coffre de sa Twingo\, à peine remise de la mort de sa grand-mère\, Charlie roule. Elle ne sait pas encore que ces disques ressusciteront les pas de danse de sa mère dans les yeux humides de Titou\, caviste rêveur\, ni qu’une plage méditerranéenne désertée sera le théâtre de sa rencontre avec Marina\, qui rêve son idéal de liberté dans la pizzeria du village. Pour l’instant\, elle roule.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZXRBR#showsession?id=emsx001100018890&ps=ticketingcine
+DURATION:PT1H27M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260924T153000Z
+SUMMARY:Les matins merveilleux (VOST)
+UID:465ebb9c-9ab1-4985-9ff3-c27b88f14d3c@465e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Bertrand Usclat\, Martin Darondeau\n\nDans 3 heures\, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions\, rien ne se passe comme prévu : retards\, coups de stress\, problèmes techniques et problèmes d’égo secouent la troupe. Pourtant\, Nina n’a pas d’autre choix que d’aller jusqu’au bout car s’il y a bien une règle d’or à la Comédie-Française\, c’est qu’on n’annule pas. Commence alors une course contre la montre pour sauver la représentation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQM478#showsession?id=emsx001100018911&ps=ticketingcine
+DURATION:PT1H15M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260928T134500Z
+SUMMARY:De la Comédie-Française (VOST)
+UID:c3849919-27ea-49e7-962a-8888c0530d5e@c384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alauda Ruiz de Azúa\n\nAinara\, 17 ans\, élève dans un lycée catholique\, s’apprête à passer son bac et à choisir son futur parcours universitaire. A la surprise générale\, cette brillante jeune fille annonce à sa famille qu’elle souhaite participer à une période d’intégration dans un couvent afin d’embrasser la vie de religieuse. La nouvelle prend tout le monde au dépourvu.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXZIQ9#showsession?id=emsx001100018968&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261011T080000Z
+SUMMARY:Les Dimanches (VOST)
+UID:67807d0e-ea32-4b7b-ad6e-d928cbfc92f4@6780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018912&ps=ticketingcine
 DURATION:PT2H20M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260926T151500Z
+DTSTART:20260928T150500Z
 SUMMARY:L'inconnue (VOST)
-UID:3107b75d-8bc4-439d-aaeb-8255b9542121@3107.org
+UID:df76c87b-3ef0-40a5-b733-5273cfa410e6@df76.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Paul Thomas Anderson\n\n1973\, dans la région de Los Angeles. Alana Kane et Gary Valentine font connaissance le jour de la photo de classe au lycée du garçon. Alana n’est plus lycéenne\, mais tente de trouver sa voie tout en travaillant comme assistante du photographe. Gary\, lui\, a déjà une expérience d’acteur\, ce qu’il s’empresse de dire à la jeune fille pour l’impressionner. Amusée et intriguée par son assurance hors normes\, elle accepte de l’accompagner à New York pour une émission de télévision. Mais rien ne se passe comme prévu…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRAD4G5#showsession?id=emsx001100018874&ps=ticketingcine
-DURATION:PT2H14M
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nAprès 14 ans de vie commune\, Ale et Alex ont une idée un peu folle : organiser une fête pour célébrer leur séparation. Si cette annonce laisse leurs proches perplexes\, le couple semble certain de sa décision. Mais l’est-il vraiment ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR7SNFZ#showsession?id=emsx001100018936&ps=ticketingcine
+DURATION:PT1H53M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
-DTSTART:20260923T173000Z
-SUMMARY:Licorice Pizza (VOST)
-UID:d76e69dc-4598-4cad-9753-df20de3318cb@d76e.org
+DTSTART:20261004T144000Z
+SUMMARY:Septembre sans attendre (VOST)
+UID:b76d4d59-184f-4ea2-b675-dabf6017b77a@b76d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Dominique Fischbach\n\nÀ la veille d’une célébration familiale\, Manon\, jeune femme sourde et lumineuse\, rejoint ses parents en Haute-Savoie. Dans la beauté des paysages alpestres\, l’histoire du clan se redéploie entre archives familiales et images filmées par la réalisatrice depuis 25 ans. Porté par la force intérieure de Manon\, le film trace un chemin d’épreuve et de résilience. La parole émerge enfin\, là où le silence a longtemps régné.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9SM2K#showsession?id=emsx001100019013&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261015T183000Z
+SUMMARY:Elle entend pas la moto (VOST)
+UID:0ed3b191-2b6e-445c-bd37-8b193e84bfb2@0ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Cabeleira\n\nFuyant un passé trouble\, Laura se réfugie à Entroncamento pour reconstruire sa vie et se lie à une jeunesse désabusée pas si différente d’elle. Un travail honnête peut-il rivaliser avec l’appel du crime ? Violence\, malchance\, cupidité et loyauté règnent dans les rues — chacun veut une vie meilleure.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB2A6F#showsession?id=emsx001100018960&ps=ticketingcine
+DURATION:PT2H11M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261009T183000Z
+SUMMARY:Entroncamento (VOST)
+UID:6bdf043a-b208-4995-a231-008deeccf4be@6bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018956&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261009T100000Z
+SUMMARY:L'Etre Aimé (VOST)
+UID:64dda055-3be0-4ad9-a93b-7b06edeca2ee@64dd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 1\n\nRéalisateur : Cristian Mungiu\n\nLes Gheorghiu\, un couple roumano-norvégien très pieux\, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins\, les Halberg. Les enfants des deux familles deviennent très proches\, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu\, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB3CRG#showsession?id=emsx001100018915&ps=ticketingcine
@@ -887,7 +191,135 @@ DURATION:PT2H26M
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
 DTSTART:20260929T160000Z
 SUMMARY:Fjord (VOST)
-UID:e4cd029f-880a-4ff2-99f6-a8ffab190980@e4cd.org
+UID:dbd43f97-8f00-4b22-91dc-240decd66b95@dbd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Cabeleira\n\nFuyant un passé trouble\, Laura se réfugie à Entroncamento pour reconstruire sa vie et se lie à une jeunesse désabusée pas si différente d’elle. Un travail honnête peut-il rivaliser avec l’appel du crime ? Violence\, malchance\, cupidité et loyauté règnent dans les rues — chacun veut une vie meilleure.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB2A6F#showsession?id=emsx001100018948&ps=ticketingcine
+DURATION:PT2H11M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261007T142500Z
+SUMMARY:Entroncamento (VOST)
+UID:2b42b301-457e-43bb-b8a8-9c21769063bd@2b42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018893&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260924T183000Z
+SUMMARY:Dégel (VOST)
+UID:a729bbca-c59d-485d-922b-f675d089fb65@a729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Saura\n\nUn groupe d'amis qui lutte pour survivre dans les bidonvilles de Madrid commet de petits délits afin de financer les débuts de l'un d'entre eux en tant que torero.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRUBIAF#showsession?id=emsx001100018983&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T132500Z
+SUMMARY:Los Golfos (VOST)
+UID:9ee5f4ee-749d-40c9-ab18-5b70c9f6951d@9ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018971&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261011T163500Z
+SUMMARY:L'Etre Aimé (VOST)
+UID:6545f064-69be-4489-9619-b28ecabc01e0@6545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Víctor Erice\n\nDans l’Espagne des années 1950\, Estrella\, une jeune fille de huit ans\, vit avec ses parents au nord du pays\, dans une maison appelée “La Mouette”. Son père\, Agustín Arenas\, médecin taciturne et mystérieux\, radiesthésiste à ses heures\, est originaire du sud de l’Espagne\, région qu'il n'évoque jamais. Intriguée par ses silences\, Estrella grandit en essayant de percer le mystère qui entoure la jeunesse et les blessures passées de cet homme qu’elle admire profondément.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRAMZXN#showsession?id=emsx001100018967&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T193000Z
+SUMMARY:Le Sud (VOST)
+UID:4677123a-17cd-433f-a593-de0d89122ed2@4677.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018935&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261004T121500Z
+SUMMARY:La reconquista (VOST)
+UID:708b345b-d4ba-4b42-a7bd-612386b45b43@708b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018945&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261006T184500Z
+SUMMARY:L'Etre Aimé (VOST)
+UID:e7ea28b2-7371-4fa7-aa44-6ecb9ad2b09f@e7ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018984&ps=ticketingcine
+DURATION:PT2H5M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T171500Z
+SUMMARY:La Providence et la Guitare (VOST)
+UID:91c67b71-6d27-44ff-8eba-01dd5e80fb8f@91c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Vázquez\n\nArnold\, une souris de la classe moyenne au chômage\, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société\, quitte à devoir affronter ses soi-disant amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1OV2Q#showsession?id=emsx001100018982&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T114000Z
+SUMMARY:Decorado (VOST)
+UID:d3ca1ed2-ad1c-449f-bbd6-17f33d96f18c@d3ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jaime Rosales\n\nFragilisée par le récent décès de sa mère\, la jeune Gwen trouve du réconfort auprès de sa bande d'amis et de son amoureux\, Thomas. Mais l'arrivée de Jean-Luc\, étudiant au charme magnétique\, la plonge dans une confusion des sentiments. Qui choisir? Un jour\, comme pour éclairer son choix\, Gwen tombe au cinéma sur un film qui semble inexplicablement lui dévoiler sa propre vie...\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRTNRQO#showsession?id=emsx001100018988&ps=ticketingcine
+DURATION:PT2H4M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T134500Z
+SUMMARY:Morlaix (VOST)
+UID:d8cf7cef-2197-4e70-8c9c-71c3824e3398@d8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rodrigo Sorogoyen\n\nRéalisateur mondialement célèbre\, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille\, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité\, mais sait qu’à l’occasion de ce tournage\, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR61N83#showsession?id=emsx001100018927&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261003T080000Z
+SUMMARY:L'Etre Aimé (VOST)
+UID:0fb0a9a7-fa96-4166-93e1-17ffbcd7c415@0fb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Eva Libertad\n\nAngela est sourde\, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIL76K#showsession?id=emsx001100018953&ps=ticketingcine
+DURATION:PT1H39M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261008T141000Z
+SUMMARY:Sorda (VOST)
+UID:fb6766df-cae4-4ad2-8ae7-0fe66ca44a96@fb67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Laura Carreira\n\nAurora\, migrante portugaise\, travaille comme préparatrice de commandes dans un entrepôt à Édimbourg\, en Écosse. Coincée entre les murs d'un immense centre de distribution et la solitude de sa propre chambre\, Aurora cherche à saisir toutes les occasions pour résister à l'aliénation et à l'isolement qui menacent son identité.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR24BOG#showsession?id=emsx001100018943&ps=ticketingcine
+DURATION:PT1H44M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261005T183000Z
+SUMMARY:On Falling (VOST)
+UID:fd01e65d-3ae7-4028-9a59-72ff0d13db7c@fd01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1DJN2#showsession?id=emsx001100018922&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261001T140000Z
+SUMMARY:Salvation (VOST)
+UID:05254df0-e7bb-48b1-a303-379e29879b57@0525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : José Luis Guerín\n\nEn marge de Barcelone\, Vallbona est une enclave entourée par une rivière\, des voies ferrées et une autoroute. Antonio\, fils d'ouvriers catalans\, y cultive des fleurs depuis près de 90 ans. Il est rejoint par Makome\, Norma\, Tatiana\, venus de tous horizons… Au rythme de la musique\, des baignades interdites et des amours naissants\, une forme poétique de résistance émerge face aux conflits urbains\, sociaux et identitaires du monde.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRHCLUY#showsession?id=emsx001100018973&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261011T190000Z
+SUMMARY:Histoires de la bonne vallée (VOST)
+UID:eefce690-86be-4460-a4e2-64aa3374927c@eefc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Sandhya Suri\n\nUne région rurale du nord de l’Inde. Après la mort de son mari\, Santosh\, une jeune femme\, hérite de son poste et devient policière comme la loi le permet. Lorsqu’elle est appelée sur le lieu du meurtre d’une jeune fille de caste inférieure\, Santosh se retrouve plongée dans une enquête tortueuse aux côtés de la charismatique inspectrice Sharma\, qui la prend sous son aile.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRJ5EFC#showsession?id=emsx001100019012&ps=ticketingcine
+DURATION:PT2H8M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261014T180000Z
+SUMMARY:Santosh (VOST)
+UID:c5e0cbf3-5b91-45ba-a4b2-33a742d928fd@c5e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018981&ps=ticketingcine
@@ -895,6 +327,646 @@ DURATION:PT2H
 LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
 DTSTART:20261011T120500Z
 SUMMARY:Trois adieux (VOST)
-UID:2997be0c-38b8-4e04-aeb1-d00b6feb737c@2997.org
+UID:92dc0a7d-3a72-4d1d-bcd3-0b4948f56ae5@92dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018997&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261020T151500Z
+SUMMARY:La reconquista (VOST)
+UID:955ee2f3-6a6a-49f6-bff5-7ffdeb48345d@955e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Emin Alper\n\nDeux villages turcs\, l’un à flanc de montagne\, l’autre dans la plaine. Quand les habitants du bas\, exilés\, décident de revenir sur leurs terres\, des conflits ancestraux ressurgissent avec ceux du haut. Progressivement\, croyances\, paranoïa et luttes de pouvoir s’exacerbent\, mettant en péril la fragile cohabitation des deux communautés.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1DJN2#showsession?id=emsx001100018919&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260930T181000Z
+SUMMARY:Salvation (VOST)
+UID:2ec5b6a1-7b90-43a3-8620-64877a4f96b5@2ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mathias Mlekuz\n\nDe l’Atlantique à la mer Noire\, Mathias embarque son meilleur ami Philippe dans un road trip à bicyclette. Ensemble ils vont refaire le voyage que Youri\, son fils\, avait entrepris avant de disparaître tragiquement. Une épopée qu’ils traverseront avec tendresse\, humour et émotion.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR6IC3M#showsession?id=emsx001100018875&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260925T180000Z
+SUMMARY:A bicyclette ! (VOST)
+UID:d87c0cc6-506a-4b7a-a488-cc5eb164a84c@d87c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Rodríguez\n\nAntonio et Estrella sont un frère et une soeur dont le destin est uni à la mer : il est scaphandrier\, elle étudie les fonds marins et aide son frère sur le navire où il travaille. Bien qu'il risque sa vie tous les jours\, sa situation financière est tendue\, mais cela pourrait changer quand il trouve une cargaison de cocaïne cachée dans la coque d'un cargo coulé dans le port de Huelva.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSG0SD#showsession?id=emsx001100018952&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261008T121000Z
+SUMMARY:Los Tigres (VOST)
+UID:8943975b-5605-4ba8-b4aa-f2647efdb366@8943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Philippe Riche\n\nProvidence\, une jeune parisienne\, découvre qu’elle est la voisine de l’auteur des romans jeunesse dont elle est fan. Quand l’écrivain lui avoue les avoir rédigés avec une plume qui rend réel tout ce qu’on écrit avec et lui confie l’objet magique\, elle réalise qu’elle peut accomplir tous ses rêves et s’envole pour un incroyable voyage…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRYTL3B#showsession?id=emsx001100019023&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261115T090000Z
+SUMMARY:La Fille dans les nuages (VOST)
+UID:1065c157-8c1b-4c12-84ca-f14825132c18@1065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018999&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261024T080000Z
+SUMMARY:La reconquista (VOST)
+UID:5c188433-2d1a-434a-8618-efaa729e7f4c@5c18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jaime Rosales\n\nFragilisée par le récent décès de sa mère\, la jeune Gwen trouve du réconfort auprès de sa bande d'amis et de son amoureux\, Thomas. Mais l'arrivée de Jean-Luc\, étudiant au charme magnétique\, la plonge dans une confusion des sentiments. Qui choisir? Un jour\, comme pour éclairer son choix\, Gwen tombe au cinéma sur un film qui semble inexplicablement lui dévoiler sa propre vie...\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRTNRQO#showsession?id=emsx001100018961&ps=ticketingcine
+DURATION:PT2H4M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T080000Z
+SUMMARY:Morlaix (VOST)
+UID:c25df0ef-7a66-44f2-bdaa-728d28ce9204@c25d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alejandro Amenábar\n\nEn 1575\, le jeune soldat Miguel de Cervantes est capturé en haute mer par des corsaires barbaresques et emmené à Alger comme otage. Conscient qu'une mort cruelle l'attend si sa famille ne paie pas rapidement sa rançon\, il trouve refuge dans sa passion pour les histoires.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSGQUW#showsession?id=emsx001100018938&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261004T184000Z
+SUMMARY:Cervantes avant Don Quichotte (VOST)
+UID:30e247a3-95e8-4dc1-a44c-18ab1cabedb7@30e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alice Diop\n\n Rama\, romancière d’une trentaine d’années\, assiste au procès de Laurence Coly aux assises de Saint-Omer. Celle-ci est accusée d’avoir tué sa fille de quinze mois en l’abandonnant sur une plage du nord de la France\, au moment où la marée montait. De cette histoire\, Rama voudrait écrire une adaptation contemporaine du mythe antique de Médée. Mais au cours du procès\, rien ne se passe comme prévu. C’est finalement son propre rapport à la maternité que le huis clos du procès vient questionner...\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB5QSV#showsession?id=emsx001100019016&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261021T180000Z
+SUMMARY:Saint Omer (VOST)
+UID:1c697ac0-e564-4752-8cb5-5843b9aa389e@1c69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Nelson Foix\n\nChris\, jeune guadeloupéen de vingt-six ans\, partage son temps entre ses petits trafics dans les ruelles sombres de Pointe-à-Pitre et des parties fines avec de jolies jeunes filles. Odell\, un dangereux caïd d’un quartier voisin\, lui propose de transporter des stupéfiants en échange d’un bolide flambant neuf. Chris accepte cette périlleuse mission. Le soir même\, il reçoit un colis inattendu et anonyme sur le palier de sa porte : un bébé qui lui semble destiné.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRY88DY#showsession?id=emsx001100019021&ps=ticketingcine
+DURATION:PT1H39M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261108T190000Z
+SUMMARY:Zion (VOST)
+UID:e8a41cf8-d708-4cb8-af92-3b0e14715009@e8a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nAprès 14 ans de vie commune\, Ale et Alex ont une idée un peu folle : organiser une fête pour célébrer leur séparation. Si cette annonce laisse leurs proches perplexes\, le couple semble certain de sa décision. Mais l’est-il vraiment ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR7SNFZ#showsession?id=emsx001100018986&ps=ticketingcine
+DURATION:PT1H53M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T101000Z
+SUMMARY:Septembre sans attendre (VOST)
+UID:18194c7b-8412-46ae-a0c3-44d4f688c7b8@1819.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : ROBIN Marie Monique\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRS6A51#showsession?id=emsx001100019024&ps=ticketingcine
+DURATION:PT41M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261115T130000Z
+SUMMARY:DE LA RESISTANCE A LA RESILIENCE (VOST)
+UID:a194950c-293a-434e-bdb2-f0b162912209@a194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018931&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261003T164500Z
+SUMMARY:Maspalomas (VOST)
+UID:4338c74c-4af6-46d9-aa68-7d7158b980ad@4338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Marques-Marcet\n\nClaudia\, atteinte d’une maladie en phase terminale\, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio\, son compagnon depuis quarante ans\, tandis que Violeta\, leur fille\, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBMXU3#showsession?id=emsx001100018928&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261003T102500Z
+SUMMARY:Polvo serán (VOST)
+UID:e566c43c-ce8a-4766-9872-2fada30c4f85@e566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Cabeleira\n\nFuyant un passé trouble\, Laura se réfugie à Entroncamento pour reconstruire sa vie et se lie à une jeunesse désabusée pas si différente d’elle. Un travail honnête peut-il rivaliser avec l’appel du crime ? Violence\, malchance\, cupidité et loyauté règnent dans les rues — chacun veut une vie meilleure.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRB2A6F#showsession?id=emsx001100018978&ps=ticketingcine
+DURATION:PT2H11M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261012T161000Z
+SUMMARY:Entroncamento (VOST)
+UID:10b8dd54-e0ca-4519-83d2-be090dc89e35@10b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018929&ps=ticketingcine
+DURATION:PT2H5M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261003T122000Z
+SUMMARY:La Providence et la Guitare (VOST)
+UID:a7df1aae-ff71-47ae-a225-b49b0c764a18@a7df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Suzannah Mirghani\n\nDans un village cotonier du Soudan\, l'adolescente Nafisa est<br/>élevée au milieu des récits héroïques de la lutte contre les<br/>colonisateurs britanniques racontés par sa grand-mère\, la<br/>matriarche du village\, Al-Sit. Mais lorsqu'un jeune homme<br/>d'affaires arrive de l'étranger avec un nouveau plan de<br/>développement et du coton génétiquement modifié\, Nafisa se<br/>retrouve au centre d'un jeu de pouvoir qui déterminera l'avenir du<br/>village. Prenant conscience de sa propre force\, Nafisa se lance<br/>dans une quête pour sauver les champs de coton – et elle-même.<br/>Ni elle ni sa communauté ne seront plus jamais les mêmes.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRWLMJQ#showsession?id=emsx001100018896&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T080000Z
+SUMMARY:Cotton Queen (VOST)
+UID:854e84e5-34cc-4bea-ac39-c5dbc038b705@854e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marco Nguyen\, Nicolas Athané\n\nJim\, icône sexy de la scène gay parisienne\, voit sa vie basculer lorsqu’il contracte l’Hétérose\, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur)\, Lucien\, un jeune homme qui peine à s’assumer. Ensemble\, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRMW4P3#showsession?id=emsx001100018898&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T112000Z
+SUMMARY:Jim Queen (VOST)
+UID:ca155bff-f273-4a79-8924-fa8e5a6364a0@ca15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018907&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260927T130500Z
+SUMMARY:L'inconnue (VOST)
+UID:2626c75d-8958-4509-8557-269453e540c6@2626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Clint Eastwood\n\nLe 15 janvier 2009\, après son décollage de l'aéroport La Guardia de New York\, le vol 1549 de l'US Airways subit la perte des deux réacteurs et n'a plus aucune poussée motrice. L'avion réussit à se poser sans encombre sur les eaux glacées du fleuve Hudson. Les 155 passagers et membres d'équipage ont la vie sauve. Un exploit hors du commun accompli par le commandant Chesley « Sully » Sullenberger et Jeff Skiles\, son second\, relayé par les médias et l'opinion publique. Dans le pays\, la presse s'empare du « miracle sur l'Hudson ». Et pourtant\, alors même que le pilote est salué comme un héros\, la NTBS ouvre enquête une menace et cherche l'erreur humaine\, une orientation qui menace les réputations et carrières des deux pilotes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRCV6PU#showsession?id=emsx001100018582&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261016T160000Z
+SUMMARY:Sully (VOST)
+UID:64a82af5-4389-40bc-b337-147848177493@64a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018990&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T191500Z
+SUMMARY:Trois adieux (VOST)
+UID:4703e7ba-c034-4769-a9ee-4e5037b22f7f@4703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Almodóvar\n\nRaúl est un cinéaste culte en pleine crise créative. Lorsqu’un drame frappe l’une de ses plus proches collaboratrices\, il s’en inspire pour écrire son prochain film. Peu à peu\, il imagine Elsa\, une réalisatrice en pleine écriture\, dont le parcours commence à refléter le sien. Les deux cinéastes deviennent les deux facettes d’un même personnage\, dans un jeu de miroirs où l’impudeur de l’autofiction dévoile autant qu’elle détruit. Mais jusqu’où peut-on aller pour raconter une histoire ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRWM667#showsession?id=emsx001100018930&ps=ticketingcine
+DURATION:PT1H51M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261003T143500Z
+SUMMARY:Autofiction (VOST)
+UID:ae153c9f-6492-4d9c-bc54-aec106bde2ab@ae15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR585EN#showsession?id=emsx001100018925&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261002T144500Z
+SUMMARY:La dernière patiente (VOST)
+UID:41876e34-e68d-4bc4-aa86-72e57a281c37@4187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jérémy Comte\n\nAu Ghana\, Kojo\, adolescent marqué par la disparition de son père en mer\, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps\, au Québec\, Tony\, en quête de repères\, s’interroge sur l’homme que fréquente sa mère\, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre\, un lien insoupçonné se tisse\, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQ2BZF#showsession?id=emsx001100018902&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T174500Z
+SUMMARY:Paradise (VOST)
+UID:927d4fee-1007-4531-abb8-229f0aab0168@927d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Marques-Marcet\n\nClaudia\, atteinte d’une maladie en phase terminale\, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio\, son compagnon depuis quarante ans\, tandis que Violeta\, leur fille\, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBMXU3#showsession?id=emsx001100018959&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261009T163000Z
+SUMMARY:Polvo serán (VOST)
+UID:01d6fd4c-50f3-4ee2-b26f-91b35588dfea@01d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Saura\n\nUn groupe d'amis qui lutte pour survivre dans les bidonvilles de Madrid commet de petits délits afin de financer les débuts de l'un d'entre eux en tant que torero.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRUBIAF#showsession?id=emsx001100018989&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T160000Z
+SUMMARY:Los Golfos (VOST)
+UID:da12592b-3bc6-48d5-b901-fa2962924a35@da12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nManuela et Olmo se retrouvent comme ils s'étaient promis quinze ans plus tôt à l'adolescence\, lorsqu'ils ont vécu leur premier amour.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1ARAF#showsession?id=emsx001100018979&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261012T183500Z
+SUMMARY:La reconquista (VOST)
+UID:7cd69403-14c8-4afc-9ab0-891d321dce03@7cd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Vincent Dieutre\n\nLe réalisateur\, profondément marqué par les films de Chantal Akerman\, entreprend de retrouver les traces qu’elle a laissé dans sa ville natale\, Bruxelles\, mais aussi dans sa façon à lui de faire du cinéma. Arpentant la capitale européenne d’aujourd’hui\, il est amené à clarifier ses souvenirs de spectateur\, à confronter sa mémoire à celle d’autres gens qui l’ont connue\, aimée\, ou celle d’autres artistes qui ont\, comme lui\, été fabriqués par son cinéma\, guidés par son exigence. Méditation sur le devenir du cinéma\, son enquête en forme de tendre dérive bruxelloise se fait peu à peu. Exercice d'admiration\, à la recherche de Chantal A.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1M9G9#showsession?id=emsx001100019017&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261028T183000Z
+SUMMARY:Chantal A.\, Bruxelles (VOST)
+UID:e98cd3bc-3d77-4f39-bce6-2c41a1553ed2@e98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018958&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261009T142500Z
+SUMMARY:Maspalomas (VOST)
+UID:6eafc3f0-3fd4-41aa-a48c-c7230e707590@6eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pedro Almodóvar\n\nRaúl est un cinéaste culte en pleine crise créative. Lorsqu’un drame frappe l’une de ses plus proches collaboratrices\, il s’en inspire pour écrire son prochain film. Peu à peu\, il imagine Elsa\, une réalisatrice en pleine écriture\, dont le parcours commence à refléter le sien. Les deux cinéastes deviennent les deux facettes d’un même personnage\, dans un jeu de miroirs où l’impudeur de l’autofiction dévoile autant qu’elle détruit. Mais jusqu’où peut-on aller pour raconter une histoire ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRWM667#showsession?id=emsx001100018942&ps=ticketingcine
+DURATION:PT1H51M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261005T163000Z
+SUMMARY:Autofiction (VOST)
+UID:5b406ef3-c4cf-487b-931c-d320d4db79ad@5b40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carlos Marques-Marcet\n\nClaudia\, atteinte d’une maladie en phase terminale\, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio\, son compagnon depuis quarante ans\, tandis que Violeta\, leur fille\, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBMXU3#showsession?id=emsx001100018992&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261011T101000Z
+SUMMARY:Polvo serán (VOST)
+UID:6b516af6-82c9-4326-af3d-c739375a5abe@6b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZ16MO#showsession?id=emsx001100018910&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260927T185000Z
+SUMMARY:In Waves (VOST)
+UID:9793543b-749c-42c0-b59e-863aeefd2d2b@9793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018926&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261002T161000Z
+SUMMARY:Dégel (VOST)
+UID:f967dd7a-692f-476c-96b1-5968ceec6029@f967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Myriam Schott\n\nPréhistoriques ou domestiques\, rigolos ou ramollos\, minuscules ou noctambules\, ces animaux-là font un sacré gala !\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRDB5ZN#showsession?id=emsx001100019008&ps=ticketingcine
+DURATION:PT40M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261021T080000Z
+SUMMARY:Animo Rigolo (VOST)
+UID:ff217d09-a11d-439c-a76a-0e38d559ade2@ff21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018913&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260929T183500Z
+SUMMARY:Dégel (VOST)
+UID:d42932b8-ae67-4bfb-b51a-b7836caff02c@d429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018949&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261007T164500Z
+SUMMARY:Romería (VOST)
+UID:c361ce26-f278-4a61-8de3-9bdeb8a05102@c361.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nAprès 14 ans de vie commune\, Ale et Alex ont une idée un peu folle : organiser une fête pour célébrer leur séparation. Si cette annonce laisse leurs proches perplexes\, le couple semble certain de sa décision. Mais l’est-il vraiment ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR7SNFZ#showsession?id=emsx001100018998&ps=ticketingcine
+DURATION:PT1H53M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261022T160000Z
+SUMMARY:Septembre sans attendre (VOST)
+UID:799e0a63-eacd-4ed7-b6b6-0f09c8fdc56f@799e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nPendant les chauds mois d'été\, lorsque les Madrilènes quittent leurs maisons en masse pour échapper à la chaleur insupportable\, le centre de Madrid est abandonné. C’est-à-dire\, à l’exception des touristes et d’une poignée de locaux intrépides et de ceux qui ne peuvent pas partir\, comme Eva\, une charmante trentenaire. Néanmoins\, l’été est le meilleur moment pour découvrir qui nous sommes vraiment. L’histoire se déroule avec une finesse séduisante lors des festivals de la ville au mois d’août\, lorsque les troubles intérieurs peuvent être apaisés par des rencontres fugaces\, des conversations en soirée décontractées et des aventures nocturnes inattendues.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRU59JQ#showsession?id=emsx001100018995&ps=ticketingcine
+DURATION:PT2H9M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261019T173000Z
+SUMMARY:Eva en août (VOST)
+UID:b5644552-9317-4aca-8a7e-c94b06ab4dfd@b564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Manuela Martelli\n\nChili\, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace\, l’enfant cherche à comprendre…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLPQL5#showsession?id=emsx001100018894&ps=ticketingcine
+DURATION:PT1H48M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260925T143000Z
+SUMMARY:Dégel (VOST)
+UID:3c0ce95e-96f8-40ef-975e-b9b1ce597bdd@3c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018965&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T150500Z
+SUMMARY:Trois adieux (VOST)
+UID:9dc1c0ef-3e0c-4de6-849c-05243bf52e95@9dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alauda Ruiz de Azúa\n\nAinara\, 17 ans\, élève dans un lycée catholique\, s’apprête à passer son bac et à choisir son futur parcours universitaire. A la surprise générale\, cette brillante jeune fille annonce à sa famille qu’elle souhaite participer à une période d’intégration dans un couvent afin d’embrasser la vie de religieuse. La nouvelle prend tout le monde au dépourvu.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXZIQ9#showsession?id=emsx001100019018&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261107T160000Z
+SUMMARY:Les Dimanches (VOST)
+UID:3dc34d17-a849-4624-ac32-6876e487de06@3dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXUXJV#showsession?id=emsx001100018899&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T125500Z
+SUMMARY:Un grand raccourci (VOST)
+UID:dc565c4b-906a-4538-84b9-6b72839cda0d@dc56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Maureen Fazendeiro\n\nEntremêlant témoignages de travailleurs agricoles et extraits de carnets de terrain d'un couple d'archéologues\, images d'archives amateurs et dessins scientifiques\, légendes\, poèmes et chansons\, les Saisons est un voyage à travers l'histoire réelle et inventée d'une région du Portugal\, l'Alentejo\, et des peuples qui l'ont habitée.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLOVV1#showsession?id=emsx001100018987&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T121000Z
+SUMMARY:Les Saisons (VOST)
+UID:1cba14a8-356a-4760-b74c-bbd640dc64ce@1cba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018924&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261001T180000Z
+SUMMARY:L'inconnue (VOST)
+UID:c9ae94e3-e477-4b03-b580-c7740bb52003@c9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018974&ps=ticketingcine
+DURATION:PT2H5M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261011T142000Z
+SUMMARY:La Providence et la Guitare (VOST)
+UID:70228200-e03c-40d2-a10e-b1f159cd6b07@7022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Adrián Jaffé\, Ruslan Sinkevich\, Cho Su-a\, Nam Seung-min\, Cheon Ye-rim\, Ju Seo-eun\, Park Saeyeon\, KIM Manri\, Мария Румянцева\, Михаил Алдашин\n\nUn oisillon se lance dans les airs. Un petit chiot découvre la matière. Un enfant savoure une soupe cosmique. Une chouette au sommeil chaotique. Une souris veut voir le soleil. Et une autre renvoie les étoiles dans le ciel. Sept histoires vues de la Terre comme du Ciel.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR566HY#showsession?id=emsx001100019010&ps=ticketingcine
+DURATION:PT33M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261030T090000Z
+SUMMARY:Entre ciel et terre (VOST)
+UID:da2a55d5-36b0-4672-ab0d-6e54aa2af984@da2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Sylvie Ballyot\n\nEn animation et archives\, retour sur la guerre civile du Liban\, à hauteur d'enfant\, sur les traces de Fida\, née en 1975 à Beyrouth\, qui déploie les plis de sa mémoire en interrogeant d'anciens protagonistes du conflit. Entre fureur passée et poésie de la mise en scène\, un poignant récit cathartique.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRBCQU6#showsession?id=emsx001100018876&ps=ticketingcine
+DURATION:PT2H30M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260928T173000Z
+SUMMARY:Green Line (VOST)
+UID:1fa1b78a-c0d1-4fbb-831a-10f196feb38b@1fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Rodríguez\n\nAntonio et Estrella sont un frère et une soeur dont le destin est uni à la mer : il est scaphandrier\, elle étudie les fonds marins et aide son frère sur le navire où il travaille. Bien qu'il risque sa vie tous les jours\, sa situation financière est tendue\, mais cela pourrait changer quand il trouve une cargaison de cocaïne cachée dans la coque d'un cargo coulé dans le port de Huelva.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSG0SD#showsession?id=emsx001100018941&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261005T143000Z
+SUMMARY:Los Tigres (VOST)
+UID:518714a0-6525-4b11-8e87-9ce544db67b8@5187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Maureen Fazendeiro\n\nEntremêlant témoignages de travailleurs agricoles et extraits de carnets de terrain d'un couple d'archéologues\, images d'archives amateurs et dessins scientifiques\, légendes\, poèmes et chansons\, les Saisons est un voyage à travers l'histoire réelle et inventée d'une région du Portugal\, l'Alentejo\, et des peuples qui l'ont habitée.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLOVV1#showsession?id=emsx001100018993&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261010T101000Z
+SUMMARY:Les Saisons (VOST)
+UID:8eab0b2a-c956-4711-ae1d-bf1ddb2c220c@8eab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nUne nuit d’hiver à Madrid\, deux couples d’amis trentenaires dînent. Susana et Dani se réjouissent de leur nouvelle maison\, en périphérie de la ville et proche de la campagne\, puis annoncent l’arrivée prochaine d’un enfant. La nouvelle déstabilise Elena et Guillermo qui ne semblent pas partager les mêmes projets de vie. Trois mois plus tard\, Elena et Guillermo rendent visite à leurs amis.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFKQES#showsession?id=emsx001100019000&ps=ticketingcine
+DURATION:PT1H4M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261026T170000Z
+SUMMARY:Venez voir (VOST)
+UID:b6ee4b8e-f37c-4dfe-a642-aa31f8e17228@b6ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Julien Gaspar-Oliveri\n\nEnzo\, 19 ans et sa sœur Carla\, 20 ans\, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père\, Anthony est libéré de prison\, Enzo voit la promesse fragile d’une famille à reconstruire contrairement à Carla pour qui l’idée reste inconcevable. Rattrapé par son passé\, Enzo doit se confronter à une vérité qu’il a trop longtemps gardée pour lui.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR16IP1#showsession?id=emsx001100018917&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260930T132000Z
+SUMMARY:La Frappe (VOST)
+UID:592c8f23-cfe7-417d-8fd0-bfe49ce327b7@592c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marjolijn Prins\n\nFanta\, une contorsionniste de 14 ans\, vit à Conakry\, en Guinée. À force de jongler quotidiennement entre l'école\, le soutien à sa famille et ses entraînements au sein de la troupe où elle est l'une des rares filles\, Fanta commence à douter de son rêve le plus cher : participer à la prochaine grande tournée du cirque acrobatique Amoukanama.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIWEPA#showsession?id=emsx001100018916&ps=ticketingcine
+DURATION:PT1H11M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260930T120000Z
+SUMMARY:Fantastique (VOST)
+UID:6ebcae5f-cf00-48f9-b54f-3a9ed0f11fe3@6ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Robert Eggers\n\nLe film se passe dans une île lointaine et mystérieuse de Nouvelle Angleterre à la fin du XIXème siècle\, et met en scène une "histoire hypnotique et hallucinatoire" de deux gardiens de phare.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR252SE#showsession?id=emsx001100019022&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261110T190000Z
+SUMMARY:The Lighthouse (VOST)
+UID:c8986142-b4fb-4ca7-820e-0d85caa46b59@c898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Arthur Harari\n\nDavid Zimmerman a bientôt 40 ans\, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui\, des amis le traînent dans une fête insensée. Il y repère une femme dans la foule\, ne peut en détacher le regard\, la suit… Quelques heures plus tard\, David se réveille : il est dans le corps de l’inconnue.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRE5LDF#showsession?id=emsx001100018901&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T151500Z
+SUMMARY:L'inconnue (VOST)
+UID:41ef96a0-ac25-4e05-8bee-7802c681b511@41ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marie Caudry\, Carlos Navarro\, Ignas Meilūnas\n\nQuatre ours\, quatre contes\, quatre saisons : qu'ils soient immenses\, ensommeillés ou gourmands\, les ours savent aussi être tendres. À leurs côtés\, un oisillon malicieux\, un petit lapin friand de noisettes ou encore un oiseau sentimental vivent des aventures extraordinaires. Tout doucement\, ils découvrent le bonheur d'être ensemble.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FROARJT#showsession?id=emsx001100019009&ps=ticketingcine
+DURATION:PT41M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261029T090000Z
+SUMMARY:L'Ourse et l'oiseau (VOST)
+UID:73fac016-a135-4576-b7f5-fab725226938@73fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rémi Bassaler\n\nLa veille de son départ à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confrontée à un système de santé à bout de souffle\, Judith accepte d'héberger la jeune femme et s'engage alors dans une nuit où toutes ses convictions de soignante seront mises à l’épreuve.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR585EN#showsession?id=emsx001100018918&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260930T151500Z
+SUMMARY:La dernière patiente (VOST)
+UID:2289e305-7944-4fbf-adcc-bf245951a83c@2289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Clément Devilliers\, Armand Foëx\n\nQuand le restaurant familial menace de fermer\, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été\, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces quatre débrouillards en quête d’avenir finissent par se percuter.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRXUXJV#showsession?id=emsx001100018891&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260924T140000Z
+SUMMARY:Un grand raccourci (VOST)
+UID:4cdd4c8b-41aa-4cd8-bb6a-1877f29e9724@4cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jonás Trueba\n\nUne nuit d’hiver à Madrid\, deux couples d’amis trentenaires dînent. Susana et Dani se réjouissent de leur nouvelle maison\, en périphérie de la ville et proche de la campagne\, puis annoncent l’arrivée prochaine d’un enfant. La nouvelle déstabilise Elena et Guillermo qui ne semblent pas partager les mêmes projets de vie. Trois mois plus tard\, Elena et Guillermo rendent visite à leurs amis.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFKQES#showsession?id=emsx001100018996&ps=ticketingcine
+DURATION:PT1H4M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261020T140000Z
+SUMMARY:Venez voir (VOST)
+UID:4fe8281f-26c1-458a-a00f-f08a1c5d347b@4fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : João Nicolau\n\nDans un passé lointain\, Léon et Elvira Berthelini parcourent les routes de village en village\, vivant de chansons\, de spectacles et se nourrissant d’illusions. Chassés d’une petite ville par un policier autoritaire\, ils prennent sous leur aile un étudiant anglais égaré et trouvent refuge chez un peintre et sa femme en rupture conjugale: l’amour de l’art sera-t-il le remède pour sauver l’art de l’amour ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRFXN4X#showsession?id=emsx001100018954&ps=ticketingcine
+DURATION:PT2H5M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261008T160000Z
+SUMMARY:La Providence et la Guitare (VOST)
+UID:68d39fb9-8fb8-4630-94e5-63255b19909e@68d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : José Luis Guerín\n\nEn marge de Barcelone\, Vallbona est une enclave entourée par une rivière\, des voies ferrées et une autoroute. Antonio\, fils d'ouvriers catalans\, y cultive des fleurs depuis près de 90 ans. Il est rejoint par Makome\, Norma\, Tatiana\, venus de tous horizons… Au rythme de la musique\, des baignades interdites et des amours naissants\, une forme poétique de résistance émerge face aux conflits urbains\, sociaux et identitaires du monde.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRHCLUY#showsession?id=emsx001100018934&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261004T100000Z
+SUMMARY:Histoires de la bonne vallée (VOST)
+UID:42582b72-edf4-4855-b9ec-3f184e7afe7c@4258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018977&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261012T141000Z
+SUMMARY:Romería (VOST)
+UID:cfdc4067-c058-421b-80e0-7a37c303c963@cfdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Carla Simón\n\nAfin d’obtenir un document d’état civil pour ses études supérieures\, Marina\, adoptée depuis l’enfance\, doit renouer avec une partie de sa véritable famille. Guidée par le journal intime de sa mère qui ne l’a jamais quittée\, elle se rend sur la côte atlantique et rencontre tout un pan de sa famille paternelle qu’elle ne connaît pas. L’arrivée de Marina va faire ressurgir le passé. En ravivant le souvenir de ses parents\, elle va découvrir les secrets de cette famille\, les non-dits et les hontes…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR9DDWP#showsession?id=emsx001100018957&ps=ticketingcine
+DURATION:PT1H52M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261009T122500Z
+SUMMARY:Romería (VOST)
+UID:d2b33fd6-0e2b-437d-a5fd-e0eabeaedb19@d2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Pascal Magontier\n\n\n\nRéservervation : https://www.ticketingcine.com?EMS0011#showsession?id=emsx001100019015&ps=ticketingcine
+DURATION:PT28M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261020T173000Z
+SUMMARY:LE DERNIER PASSAGE (VOST)
+UID:5dc614a2-97c4-4bfe-bc5e-5aab917ca7c5@5dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Maureen Fazendeiro\n\nEntremêlant témoignages de travailleurs agricoles et extraits de carnets de terrain d'un couple d'archéologues\, images d'archives amateurs et dessins scientifiques\, légendes\, poèmes et chansons\, les Saisons est un voyage à travers l'histoire réelle et inventée d'une région du Portugal\, l'Alentejo\, et des peuples qui l'ont habitée.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRLOVV1#showsession?id=emsx001100018933&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261004T083000Z
+SUMMARY:Les Saisons (VOST)
+UID:7fd74849-c178-44a2-8135-84faf84397a4@7fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fernanda Tovar\n\nLa Maestra et Paula\, deux amies inséparables\, sont les meilleures nageuses de leur équipe. Jusqu’à ce qu’un évènement traumatique\, survenu au cours d’une soirée\, les oblige à choisir entre garder le silence et prendre la parole\, quitte à mettre leur amitié à rude épreuve…\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRJR3CL#showsession?id=emsx001100018906&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260927T112500Z
+SUMMARY:Chicas tristes (VOST)
+UID:64f92e0e-5464-4334-b1ab-6a703b91b9d4@64f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Rodríguez\n\nAntonio et Estrella sont un frère et une soeur dont le destin est uni à la mer : il est scaphandrier\, elle étudie les fonds marins et aide son frère sur le navire où il travaille. Bien qu'il risque sa vie tous les jours\, sa situation financière est tendue\, mais cela pourrait changer quand il trouve une cargaison de cocaïne cachée dans la coque d'un cargo coulé dans le port de Huelva.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSG0SD#showsession?id=emsx001100018975&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261012T100000Z
+SUMMARY:Los Tigres (VOST)
+UID:8daf7372-855a-4e6c-8aae-1eded6ee6e6d@8daf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Rémi Durin\n\nAvoir le trac avant de monter sur scène et s’inventer un monde\, découvrir un objet bien mystérieux ou ce qui se cache dans une grande boîte\, ces trois court-métrages éveilleront l’imaginaire et aideront les jeunes spectateurs à trouver la confiance en soi.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRJE1RL#showsession?id=emsx001100018900&ps=ticketingcine
+DURATION:PT45M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T142000Z
+SUMMARY:La Grande Rêvasion (VOST)
+UID:6be579af-9b98-4b8f-bf9e-38b56269f812@6be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Damien Hauser\n\nEn 2094\, l'aspirant réalisateur Kuve filme un documentaire sur la Grande Guerre des années 2070\, qui a effacé les technologies modernes et fait renaître les royaumes. S'attendant au désespoir à Umata\, il y trouve des villageois vivant en paix. Il y rencontre l'actrice Mumbi\, qui révèle la beauté des moments quotidiens. Le film se déroule à travers d'anciennes séquences tournées par Kuve dans les coulisses\, montrant comment les gens trouvent un sens à un monde tragique et comment même les plus petits moments peuvent être d'une profonde beauté.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRM6RRW#showsession?id=emsx001100018892&ps=ticketingcine
+DURATION:PT1H19M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260924T170500Z
+SUMMARY:Memory of Princess Mumbi (VOST)
+UID:1f69cd80-4aac-481f-9c2a-5a69d4e7317e@1f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Julien Gaspar-Oliveri\n\nEnzo\, 19 ans et sa sœur Carla\, 20 ans\, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père\, Anthony est libéré de prison\, Enzo voit la promesse fragile d’une famille à reconstruire contrairement à Carla pour qui l’idée reste inconcevable. Rattrapé par son passé\, Enzo doit se confronter à une vérité qu’il a trop longtemps gardée pour lui.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR16IP1#showsession?id=emsx001100018923&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261001T160500Z
+SUMMARY:La Frappe (VOST)
+UID:d769a19f-8c55-4f45-af7f-53d5c141dc13@d769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Francesco Sossai\n\nCarlobianchi et Doriano\, deux quinquagénaires fauchés\, sont obsédés par une chose : aller boire un dernier verre. Un soir\, par hasard\, alors qu'ils roulent sans but de bar en bar\, ils tombent sur Giulio\, un timide étudiant en architecture. La rencontre avec ces deux mentors improbables va profondément transformer la façon dont Giulio voit le monde et l'amour\, et dont il imagine l'avenir.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVCZIX#showsession?id=emsx001100019019&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261107T190000Z
+SUMMARY:Le dernier pour la route (VOST)
+UID:bac7b0ee-c779-4742-aa9c-27bf592580ef@bac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alejandro Amenábar\n\nEn 1575\, le jeune soldat Miguel de Cervantes est capturé en haute mer par des corsaires barbaresques et emmené à Alger comme otage. Conscient qu'une mort cruelle l'attend si sa famille ne paie pas rapidement sa rançon\, il trouve refuge dans sa passion pour les histoires.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRSGQUW#showsession?id=emsx001100018947&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261007T120000Z
+SUMMARY:Cervantes avant Don Quichotte (VOST)
+UID:667f929f-1526-4cf7-8fbb-54a89d84eb54@667f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alberto Vázquez\n\nArnold\, une souris de la classe moyenne au chômage\, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société\, quitte à devoir affronter ses soi-disant amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR1OV2Q#showsession?id=emsx001100018991&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T173500Z
+SUMMARY:Decorado (VOST)
+UID:798176e4-4530-49b5-bc46-cf5755409a74@7981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Aitor Arregi\, Jose Mari Goenaga\n\nVicente\, un vieil homme ouvertement homosexuel qui\, lorsqu'il est admis dans une maison de retraite\, décide de cacher son orientation sexuelle.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FREFJXJ#showsession?id=emsx001100018980&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261013T080000Z
+SUMMARY:Maspalomas (VOST)
+UID:13762677-b033-4aec-a740-1de177e0dca8@1376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isabel Coixet\n\nMarta et Antonio se séparent. Marta réagit à la rupture en se repliant sur elle-même. Le seul symptôme qu'elle ne peut ignorer est son manque soudain d'appétit. Antonio\, un chef cuisinier en pleine ascension\, se plonge dans son travail. Mais bien que ce soit lui qui ait mis fin à sa relation avec Marta\, il n'arrive pas à l'oublier. Bientôt Marta découvre que sa perte d'appétit est plus liée à sa santé qu'à la douleur de la séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRVQ7WL#showsession?id=emsx001100018940&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261005T121000Z
+SUMMARY:Trois adieux (VOST)
+UID:5499eae0-5680-4e66-9588-5887ceade470@5499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Eva Libertad\n\nAngela est sourde\, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRIL76K#showsession?id=emsx001100018937&ps=ticketingcine
+DURATION:PT1H39M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261004T164500Z
+SUMMARY:Sorda (VOST)
+UID:4f33c274-e13e-4e82-9e1b-d71b00b689a2@4f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Víctor Erice\n\nDans l’Espagne des années 1950\, Estrella\, une jeune fille de huit ans\, vit avec ses parents au nord du pays\, dans une maison appelée “La Mouette”. Son père\, Agustín Arenas\, médecin taciturne et mystérieux\, radiesthésiste à ses heures\, est originaire du sud de l’Espagne\, région qu'il n'évoque jamais. Intriguée par ses silences\, Estrella grandit en essayant de percer le mystère qui entoure la jeunesse et les blessures passées de cet homme qu’elle admire profondément.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRAMZXN#showsession?id=emsx001100018944&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261006T170000Z
+SUMMARY:Le Sud (VOST)
+UID:8f8572a3-e4fc-40a2-ab9f-39e911faeaa6@8f85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Laura Carreira\n\nAurora\, migrante portugaise\, travaille comme préparatrice de commandes dans un entrepôt à Édimbourg\, en Écosse. Coincée entre les murs d'un immense centre de distribution et la solitude de sa propre chambre\, Aurora cherche à saisir toutes les occasions pour résister à l'aliénation et à l'isolement qui menacent son identité.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR24BOG#showsession?id=emsx001100018946&ps=ticketingcine
+DURATION:PT1H44M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261007T100000Z
+SUMMARY:On Falling (VOST)
+UID:cac5ac42-bfbd-435b-af51-0b807002cf85@cac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Phuong Mai Nguyen\n\nÀ Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle est passionnée de surf\, lui de skateboard et de dessin. Ils tombent follement amoureux \; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre l’adversité\, portés par la force de leur amour\, leurs amis et leur passion désormais commune pour le surf et l’océan.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRZ16MO#showsession?id=emsx001100018897&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260926T094000Z
+SUMMARY:In Waves (VOST)
+UID:81c444d5-738c-41eb-8584-b5b25034d8ed@81c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Frances O'Connor\n\nAussi énigmatique que provocatrice\, Emily Brontë demeure l’une des autrices les plus célèbres au monde. EMILY imagine le parcours initiatique de cette jeune femme rebelle et marginale\, qui la mènera à écrire son chef-d’œuvre Les Hauts de Hurlevent. Une ode à l’exaltation\, à la différence et à la féminité.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FR2487T#showsession?id=emsx001100019014&ps=ticketingcine
+DURATION:PT2H10M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20261017T110000Z
+SUMMARY:Emily (VOST)
+UID:8c1a5767-ef3d-4b13-b21a-b8fd86950da6@8c1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jérémy Comte\n\nAu Ghana\, Kojo\, adolescent marqué par la disparition de son père en mer\, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps\, au Québec\, Tony\, en quête de repères\, s’interroge sur l’homme que fréquente sa mère\, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre\, un lien insoupçonné se tisse\, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.\n\nRéservervation : https://www.ticketingcine.com/EMS0011/FRQ2BZF#showsession?id=emsx001100018895&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Le Cratère (Salle 1)\, 95 Grande Rue Saint-Michel\, 31400 Toulouse
+DTSTART:20260925T162000Z
+SUMMARY:Paradise (VOST)
+UID:cda3af5a-9d43-412c-b5e2-6789cdb6aadb@cda3.org
 END:VEVENT
 END:VCALENDAR

@@ -2,684 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nLe Dr Mabuse dirige\, de l'asile psychiatrique où il est interné\, un gang de malfaiteurs et le docteur Baum\, directeur de l'établissement\, grâce à ses pouvoirs hypnotiques. Le commissaire Karl Lehmann et le bandit repenti Kent parviendront après nombre de rebondissements à démanteler le réseau.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSUPNO#showsession?id=emsx113500007423&ps=ticketingcine
-DURATION:PT2H1M
+DESCRIPTION:Salle 1\n\nRéalisateur : Rintaro\n\nÀ Metropolis\, une cité futuriste\, humains et robots cohabitent\, mais vivent dans des espaces bien délimités… Dans une atmosphère baignée par la musique de jazz\, cette cité est le théâtre d'une enquête de police menée par un inspecteur japonais et son jeune neveu\, Kenichi\, au sujet d'un savant accusé de trafic d'organes\, le docteur Laugthon\, et qui va s'avérer être au service de l'homme le plus puissant de la ville. Celui-ci utilise les services du savant pour créer un robot ultra-moderne\, ayant l'apparence d'une petite fille\, Tima. Ce robot est la clé d'une arme secrète destinée à lui assurer la domination du monde\, la Ziggurat\, une haute tour à l'image de la tour de Babel\, conçue pour égaler Dieu.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1IQ6M#showsession?id=emsx113500007429&ps=ticketingcine
+DURATION:PT1H53M
 LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260923T190000Z
-SUMMARY:Le Testament du docteur Mabuse (VOST)
-UID:731497df-00ff-4002-9e92-580001951009@7314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : ÁNGEL SANTOS TOUZA\n\nPablo\, un sculpteur entre deux âges\, vit dans une zone\r\nrurale de la côte galicienne au milieu des marais et des\r\ncheminées des anciennes fabriques. Par-delà son\r\nactivité artistique\, Pablo est en quête de solitude\,\r\ns’isolant sans cesse davantage\, allant presque jusqu’à\r\ns’inventer une nouvelle identité. Mais un jour\, le passé\r\nvient à sa rencontre en la personne de son ancien\r\namour\, Andrea\, désormais installée au Canada.\r\nL’espace de quelques jours\, Pablo et Andrea ravivent\r\nleur ancienne relation\, jusqu’à ce qu’un événement\r\ninattendu vienne bousculer toutes les certitudes.\r\nRythmes alanguis\, paysages fantomatiques\, mystères\r\ndu cœur humain… L’œuvre du cinéaste galicien Ángel\r\nSantos Touza réinvente le Romantisme au cinéma.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007489&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T184500Z
-SUMMARY:ASI LLEGO LA NOCHE (VOST)
-UID:b5b312c5-f8e4-4080-bbcc-bb79b2d4632e@b5b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : JOSÉ MARÍA CASTELLVÍ\n\nSantos sort de prison après avoir tué un ami. Il est suivi\r\npar un gang de vieux notables qui veut jouer avec lui.\r\nUn film de chasse à l’homme où le gibier se fait\r\nprédateur. Une chasse à la Zaroff taillée dans le\r\nCruising de Friedkin. À coups de cuir et de gorges\r\ntranchées. Une plongée dans les nuits de la Movida\,\r\ndans le trash et l’outrance. Pour éclairer la nuit de\r\nnéons 80’s et régler ses comptes aux derniers\r\nsymboles du franquisme\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007531&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T171000Z
-SUMMARY:POPPERS (VOST)
-UID:fb20f79e-5e1e-468a-87da-edb9da5cdc26@fb20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 3\n\nRéalisateur : \n\nCarte blanche au Nouveau Printemps en 5 courts métrages\r\nLa sélection rassemble ainsi fiction\, documentaire et essai\, des films qui jouent parfois eux-mêmes avec les limites des cadres habituels. Diverses préoccupations existentielles — intimes\, sociales ou écologiques —\r\nnous entraînent dans une poésie du quotidien et des relations que le cinéma\, et particulièrement le court-\r\nmétrage\, semble capable de saisir avec amour\, humour et subtilité.\r\n\r\nENTRÓ CON UN HACHA de CANDE LÁZARO\r\nFERIDES de ALBA CROS\r\nA PLANET PAINTED BY HAND de MARTÍ MADAULA ESQUIROL\r\nLIKE MOTHS TO LIGHT de GALA HERNÁNDEZ LOPEZ\r\nSONO SOLTO de RODRIGO SOARES TEXEIRA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007499&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261006T171000Z
-SUMMARY:UN MUNDO DE SUENOS (VOST)
-UID:b6f072ed-9338-4a89-8c60-52fb97688ed0@b6f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : Koji Yamamura\n\nSi on ouvrait cette boîte à malice… On y trouverait des oiseaux espiègles\, un petit chien et ses amis musiciens ou encore un crocodile hirsute qui a mal aux dents…Cinq films d'animation réalisé de 1993 à 1999 : "Une Maison"\,"Les Sandwiches"\,"Imagination"\,"Kipling Junior"\, et "Quel Est Ton Choix ? ".\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR8MO8K#showsession?id=emsx113500007433&ps=ticketingcine
-DURATION:PT38M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260927T143000Z
-SUMMARY:La Boîte à malice (VOST)
-UID:a2383623-a3b9-4d0f-a6a7-3974b3ba7fe8@a238.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : MIGUEL EEK\n\nIngénieur agronome\, poète\, penseur utopique et\r\nrévolutionnaire\, parfois surnommé le Che Guevara\r\nafricain\, Amílcar Cabral défia le Portugal et mena le\r\nmouvement de décolonisation en Guinée-Bissau et au\r\nCap Vert du milieu des années 1950 au début des\r\nannées 1970. À travers de riches images d’archives et\r\nun journal imaginaire\, filmé en 16mm et composé de\r\nlettres de Cabral\, Amílcar est une tentative pour\r\nreconstituer la vie\, les trahisons et les ambitions d’un\r\npersonnage polémique\, qui continue de réveiller des\r\nsentiments opposés. Réalisé sur cinq ans\, le\r\ndocumentaire de Miguel Eek est une revendication\r\nhistorique et poétique de la vision du monde\r\npanafricaine de Cabral\, qui demeure d’une indéniable\r\nmodernité\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007529&ps=ticketingcine
-DURATION:PT1H29M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T134000Z
-SUMMARY:AMILCAR (VOST)
-UID:bab8d9f5-cb6b-4713-adac-36efeb41388b@bab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Goro Miyazaki\n\nLes aventures du jeune Arren\, prince du royaume d'Enlad\, qui va s'allier aux forces du grand magicien Epervier\, pour rétablir l'équilibre du monde rompu par une sorcière maléfique. Dans le combat qui s'annonce\, Arren et Epervier croiseront la route de Therru\, une mystérieuse jeune fille. Ensemble\, ils dépasseront leurs peurs et uniront leurs destins pour mener le plus fascinant des voyages.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRVS1L7#showsession?id=emsx113500007442&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260930T170000Z
-SUMMARY:Les Contes de Terremer (VOST)
-UID:952622f2-598a-4d11-9487-145539bd2311@9526.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : HELENA GIRÓN & SAMUEL DELGADO\n\nAu XVe siècle\, sur l’aride île canarienne de la Graciosa\,\r\nFátima est l’esclave de Don Gaspar\, un marquis\r\nd’origine française décadent\, qui possède l’unique\r\nsource d’eau douce. Quand le puits s’assèche et que\r\nla population se rebelle\, Fátima doit entreprendre un\r\npériple à la recherche d’une chance de survie pour sa\r\ncommunauté. Après Un corps sous la lave\, le deuxième\r\nlong-métrage d’Helena Girón et Samuel Delgado est\r\nune fable historique qui oppose la pénurie comme\r\ninstrument de pouvoir colonial et la solidarité des\r\ngestes émancipateurs des dominées. Las islas\r\nafortunadas creuse ainsi le sillon d’un cinéma des\r\ncorps et des éléments\, éminemment poétique\,\r\npolitique et personnel.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007495&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261006T151500Z
-SUMMARY:LAS ISLAS AFORTUNADAS (VOST)
-UID:0a986432-3331-44d2-b1e8-f900aaff6aca@0a98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JORDI CADENA\n\nGumer sort de prison et veut monter un gang. Elle\r\nretrouve son amie Charo qui doit rendre des comptes\r\nà son proxénète… Barcelona Sur a d’abord un aspect\r\ndocumentaire\, saisissant la Barcelone d’avant les Jeux\r\nolympiques\, le quartier du port et ses ruelles marginales\,\r\nmais c’est esthétiquement qu’il claque. Il devrait\r\nrappeler le film quinqui de délinquance juvénile dont\r\nce sont les derniers feux\, mais on pense plutôt au\r\ncinéma américain de Michael Mann\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007517&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261009T123000Z
-SUMMARY:BARCELONA SUR (VOST)
-UID:f0346f53-2beb-4d25-aa80-4b970d2a80f8@f034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nMei\, 4 ans\, et Satsuki\, 10 ans\, s’installent à la campagne avec leur père pour se rapprocher de l’hôpital où séjourne leur mère. Elles découvrent la nature tout autour de la maison et\, surtout\, l’existence d’animaux étranges et merveilleux\, les Totoros\, avec qui elles deviennent très amies. Un jour\, alors que Satsuki et Mei attendent le retour de leur mère\, elles apprennent que sa sortie de l’hôpital a été repoussée. Mei décide alors d’aller lui rendre visite seule. Satsuki et les gens du village la recherchent en vain. Désespérée\, Satsuki va finalement demander de l’aide à son voisin Totoro.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRCDFG5#showsession?id=emsx113500007434&ps=ticketingcine
-DURATION:PT1H27M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260927T160000Z
-SUMMARY:Mon voisin Totoro (VOST)
-UID:e58f0f33-fbf7-4d01-b029-8f159d6e90cd@e58f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : IRENE BARTOLOMÉ\n\nAlicia\, une jeune femme espagnole\, revient à Beyrouth\r\noù elle habitait lors de l’explosion du port de la ville\, le\r\n4 août 2020. Alicia est à la recherche de réponses sur\r\nce que signifie le “progrès” et la destruction\, sur\r\ncomment la ville vit au milieu d’un paysage mutilé et\r\npartiellement en ruines. Suivant les déambulations de\r\nla protagoniste dans les rues\, la caméra devient son\r\npropre regard\, non seulement enregistre le réel\, mais\r\ninterroge aussi les souvenirs des lieux et des\r\nhabitant·es. À mesure que croît l’obsession d’Alicia\,\r\nDream of another summer interroge sur le sens de la\r\nmémoire. Faut-il conserver ou plutôt effacer les traces\r\nqui nous rappellent les événements tragiques du\r\npassé ?\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007490&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T143000Z
-SUMMARY:DREAM OF ANOTHER SUMMER (VOST)
-UID:ebd82bf1-d7e0-4b6b-847e-e68c31d7794d@ebd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : ELOY DE LA IGLESIA\n\nDans l’Espagne franquiste des années 1960\, un jeune\r\nprêtre est en proie à sa libido refoulée qu’une pieuse\r\nparoissienne agite en lui confessant les turpitudes de ses\r\ndevoirs conjugaux. À coups de fantasmes illuminés et\r\nprovocants\, jusqu’au tranchant\, Eloy de la Iglesia\, le\r\nfutur pape du cinéma quinqui\, livre une satire des plus\r\nsubversives de l’Église catholique franquiste\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007484&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261004T180000Z
-SUMMARY:EL SACERDOTE (VOST)
-UID:873cbc21-2f95-4bf5-bfd6-803997f92a4b@873c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : \n\nCe programme\, composé de cinq courts- métrages récemment sélectionnés au festival Punto de Vista\, est un échantillon de la recherche cinématographique menée par des artistes et cinéastes de la Péninsule Ibérique. Leur expérimentation s’articule autour de l’animation\, de la non-fiction et de l’hybridation\, explorant les éléments naturels du territoire ainsi que les vastes possibilités offertes par les supports cinématographiques\, du celluloïde au numérique.\r\n\r\nFLOGISTO de CARLOS BAIXAULI\r\nCOROA DE ESPINHOS de FRANCISCO DE MOURA\r\nPORTALES d'ELENA DUQUE\r\nVEGETARE d' ADRIÀ EXPOSIT-GOY\r\nSIN TON NI SON de VICTOR LADERA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007536&ps=ticketingcine
-DURATION:PT1H28M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261011T120000Z
-SUMMARY:HUELLAS\, SENDAS\, CAMINANTES (VOST)
-UID:9ff9e36f-65c0-4c47-bd7a-595defccb71c@9ff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : \n\nCarte blanche au Nouveau Printemps en 5 courts métrages\r\nLa sélection rassemble ainsi fiction\, documentaire et essai\, des films qui jouent parfois eux-mêmes avec les limites des cadres habituels. Diverses préoccupations existentielles — intimes\, sociales ou écologiques —\r\nnous entraînent dans une poésie du quotidien et des relations que le cinéma\, et particulièrement le court-\r\nmétrage\, semble capable de saisir avec amour\, humour et subtilité.\r\n\r\nENTRÓ CON UN HACHA de CANDE LÁZARO\r\nFERIDES de ALBA CROS\r\nA PLANET PAINTED BY HAND de MARTÍ MADAULA ESQUIROL\r\nLIKE MOTHS TO LIGHT de GALA HERNÁNDEZ LOPEZ\r\nSONO SOLTO de RODRIGO SOARES TEXEIRA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007530&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T153000Z
-SUMMARY:UN MUNDO DE SUENOS (VOST)
-UID:b18cdddf-d266-4e44-a8b6-4e8cd4cf05c1@b18c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nTrois amis traversent la France sans raison apparente\,\r\nà la rencontre d’amours idylliques et éphémères. De\r\nToulouse à Annecy en passant par Paris\, certains diront\r\nqu’ils brûlent les derniers bateaux de la jeunesse tandis\r\nque d’autres parleront du déclin du genre masculin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007524&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T123000Z
-SUMMARY:LOS EXILIADOS ROMANTICOS (VOST)
-UID:ca8f15d7-2f53-4f6e-aefe-13598fa5aeef@ca8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nJoe Wilson va rejoindre sa fiancée\, Katherine\, mais il est arrêté car on le prend par erreur pour un criminel qui a kidnappé un enfant et exigé une rançon. Il est incarcéré\, certaines coïncidences suffisant à établir sa culpabilité : il détient\, par exemple\, un billet qui faisait partie de la rançon versée. La nouvelle se propage rapidement\, et les gens s'assemblent autour de la prison pour glaner des informations. Le shérif les disperse\, mais la colère monte dans la foule. Il demande alors au gouverneur de faire envoyer la garde nationale pour prévenir un éventuel lynchage. Cependant\, l'adjoint du shérif révèle aux meneurs l'indice qui a permis d'inculper le suspect…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7IYCL#showsession?id=emsx113500007432&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260927T140000Z
-SUMMARY:Furie (VOST)
-UID:0e789db8-1b99-418c-a43b-f19f9aac998d@0e78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nProfesseur émérite en criminologie\, Richard Wanley rejoint des amis dans le club où ils ont l’habitude de passer leurs soirées. Après avoir un peu trop bu\, le professeur repart et\, tandis qu’il s’attarde devant la vitrine d’une galerie d’art pour contempler l’envoûtant portrait d’une jeune femme mystérieuse\, celle-ci apparaît…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR9SNU2#showsession?id=emsx113500007424&ps=ticketingcine
-DURATION:PT1H39M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260924T170000Z
-SUMMARY:La Femme au portrait (VOST)
-UID:07dcfbab-d91b-40c9-88d3-4653fc55dbec@07dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : CARLOS CASAS\n\nUn pêcheur solitaire vit sur une plateforme en bambou\r\nau large de l’île volcanique de Krakatoa en Indonésie.\r\nAprès une nuit inquiétante où les poissons ont disparu\,\r\nil est rejeté par une éruption dévastatrice sur un\r\nterritoire inconnu. Avec cette fable écologique qui suit\r\nles pas de Roni Herliansyah\, survivant de l’éruption du\r\nvolcan en 2018\, Carlos Casas propose une réflexion\r\nsur l’apocalypse climatique autant qu’une exploration\r\nfilmique sensorielle. Nature sauvage\, conscience\r\nenvironnementale\, explosion sonore et chromatique\r\ns’entrelacent dans un flux d’images hypnotiques :\r\nl’écran de cinéma devient un lieu où sentir vibrer la\r\npuissance de la terre et la vulnérabilité de celles et\r\nceux qui l’habitent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007513&ps=ticketingcine
-DURATION:PT1H14M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T143000Z
-SUMMARY:KRAKATOA (VOST)
-UID:0a7c544a-9c1b-43ac-94ad-17a01a0e7a89@0a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nAprès la mort d'Amos Kyne\, grand magnat de la presse\, son fils et héritier\, Walter Kyne\, lance un défi à quatre de ses reporters qui le méprisent cordialement\, proposant un poste d'éditorialiste à celui qui trouvera le fameux « tueur au rouge à lèvres » qui sème la terreur dans la ville…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1RFG5#showsession?id=emsx113500007426&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260924T190000Z
-SUMMARY:La Cinquième victime (VOST)
-UID:96bb2e69-03da-4a40-b93f-635a956c3f5a@96bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Hiroyuki Morita\n\nHaru est une jeune lycéenne de 17 ans pleine de doutes qui ne trouve pas sa place au milieu des autres. Sa vie bascule le jour où\, sur le chemin du retour du lycée avec sa meilleure amie Hiromi\, elle sauve la vie d'un chat qui manque d'être écrasé par un camion. Mais il ne s'agit pas de n'importe quel chat\, car celui-ci parle et se présente comme Loon\, le prince du Royaume des chats...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPLJJQ#showsession?id=emsx113500007422&ps=ticketingcine
-DURATION:PT1H15M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260923T170000Z
-SUMMARY:Le Royaume des chats (VOST)
-UID:d8040b8a-3f17-4e5b-a510-001462fd4faf@d804.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : JORDI CADENA\n\nGumer sort de prison et veut monter un gang. Elle\r\nretrouve son amie Charo qui doit rendre des comptes\r\nà son proxénète… Barcelona Sur a d’abord un aspect\r\ndocumentaire\, saisissant la Barcelone d’avant les Jeux\r\nolympiques\, le quartier du port et ses ruelles marginales\,\r\nmais c’est esthétiquement qu’il claque. Il devrait\r\nrappeler le film quinqui de délinquance juvénile dont\r\nce sont les derniers feux\, mais on pense plutôt au\r\ncinéma américain de Michael Mann\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007507&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T174000Z
-SUMMARY:BARCELONA SUR (VOST)
-UID:6e1e16c5-90cb-4d42-b1a7-37159c84ff0c@6e1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : PEDRO ALMODOVAR\n\nJorge est mort\, le shoot de la fin. Comme un clap. Yolanda\, son amie chanteuse\, quitte la scène et les nuits madrilènes coupées à la strychnine et se réfugie dans un couvent de bonnes soeurs. Le couvent des Rédemptrices humiliées qui n’est pas le moins rock’n’roll des repères. Yolanda trouvera-t-elle la paix ou a-t-elle mis les pieds dans les ténèbres ? Le troisième film d’un Almodóvar provocateur avec une belle dose de mélancolie musicale qui deviendra sa griffe.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007533&ps=ticketingcine
-DURATION:PT1H54M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261011T133000Z
-SUMMARY:DANS LES TENEBRES (VOST)
-UID:6b5527c4-b2f2-4842-9bbf-f1b8c045563f@6b55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nDans un futur très proche\, un groupe de brillants scientifiques ont créé une machine capable de contrôler nos rêves. Mais cette merveille technologique a été dérobée. Pour éviter le chaos et sauver l'humanité\, Paprika doit découvrir qui sont les coupables et empêcher ces terroristes du rêve de contrôler nos esprits.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQNR7T#showsession?id=emsx113500007431&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260926T170000Z
-SUMMARY:Paprika (VOST)
-UID:b05802d9-611d-4a58-adbc-9ddb942f886a@b058.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nÀ Tokyo\, dans le quartier populaire de Shinjuku\, pendant les fêtes de Noël. Alors que le froid a envahi la ville\, Gin\, un homme bourru\, Miyuki\, un adolescent fugueur et Hana\, un travesti\, vivent ensemble dans les rues de la ville. Un soir\, à la recherche de nourriture\, ils trouvent un bébé abandonné dans une poubelle. Dans ses langes\, une clef dont les comparses ignorent à quoi elle peut bien servir. Bien décidés à protéger le nourrisson des rigueurs du froid\, les trois clochards cherchent également à retrouver les parents du bambin le plus rapidement possible. La clef s'avère être leur seul indice. Commence pour eux un parcours semé d'embûches…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRLJR7T#showsession?id=emsx113500007441&ps=ticketingcine
-DURATION:PT1H32M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260930T190000Z
-SUMMARY:Tokyo Godfathers (VOST)
-UID:82423937-2f39-4ba3-9aea-bb34c15c4e83@8242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : MERITXELL COLELL APARICIO\n\nAdela\, une artiste sonore mexicaine installée en\r\nEurope\, voyage de la jungle aux Andes accompagnée\r\nde Lucho\, son guide et traducteur. Dans le sillage de\r\nson grand-père\, un républicain catalan exilé au\r\nMexique\, elle cherche à dresser une carte sonore des\r\nlangues autochtones menacées de disparition. Quand\r\nsurvient la peur de la mort\, la réalité d’Adela se fracture\r\net son périple devient alors un voyage intime de retour\r\nvers l’enfance. Mêlant différents formats d’images\,\r\nLejos de los árboles est une histoire sur le\r\ndéracinement\, la fragilité de la vie\, le besoin de se\r\nsouvenir\, d’écouter et d’aimer. Avec ce troisième long-\r\nmétrage\, Meritxell Colell Aparicio trouve l’équilibre\r\nparfait entre roadtrip et autofiction.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007518&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261009T143000Z
-SUMMARY:LEJOS DE LOS ARBOLES (VOST)
-UID:a08051d0-622e-4090-a8a5-e57d5c561a99@a080.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : ELOY DE LA IGLESIA\n\nDans l’Espagne franquiste des années 1960\, un jeune\r\nprêtre est en proie à sa libido refoulée qu’une pieuse\r\nparoissienne agite en lui confessant les turpitudes de ses\r\ndevoirs conjugaux. À coups de fantasmes illuminés et\r\nprovocants\, jusqu’au tranchant\, Eloy de la Iglesia\, le\r\nfutur pape du cinéma quinqui\, livre une satire des plus\r\nsubversives de l’Église catholique franquiste\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007501&ps=ticketingcine
-DURATION:PT1H40M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T124000Z
-SUMMARY:EL SACERDOTE (VOST)
-UID:70505a64-c193-43b6-94f8-6661bff14097@7050.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : SOUMAYA HIDALGO DJAHDOU\n\nQuand Soumaya\, 29 ans\, décide d’aller voir sa grand-\r\nmère en Algérie\, cette simple visite se transforme\r\nen périple à travers l’identité et le sentiment\r\nd’appartenance. Ayant grandi à Barcelone\, la cinéaste\r\nse sent en décalage vis-à-vis de sa mère algérienne\,\r\nprincipalement sur la question de la foi et de la\r\ntradition. En filmant son retour\, Soumaya va se plonger\r\ndans un monde qu’elle méconnait\, n’ayant de cesse\r\nd’écouter\, de partager et de revisiter les archives\r\nfamiliales. El vol de la cigonya associe humour\,\r\nconversations intimes et films de famille pour révéler\r\nla persistance des liens entre trois générations de\r\nfemmes et livrer une réflexion pleine de fraîcheur sur\r\nla migration\, l’amour et la mémoire.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007521&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261009T140000Z
-SUMMARY:EL VOL DE LA CIGONYA (VOST)
-UID:ec25c3e9-5988-4fb5-9517-e0efb87d7b92@ec25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : MAURICIO FREYRE\n\nEstados Generales s’ouvre sur un baiser échangé au\r\ncreux de la végétation du Jardin Botanique de Madrid.\r\nOutre des arbres venus d’Amérique\, d’Europe et du\r\nPacifique\, on y trouve les archives d’expéditions\r\nscientifiques menées dans les anciennes colonies\, dont\r\ndes spécimens végétaux non identifiés. Mauricio Freyre\r\nimagine le voyage de retour d’un échantillon de ces\r\ngraines\, du pays colonisateur au pays colonisé :\r\nle Pérou\, où la nature est désormais dominée par\r\nles normes de l’industrie agroalimentaire. Patiemment\,\r\nle film construit son contre-récit décolonial. L’enfance\,\r\nles anciens rites et la nuit sont les lieux qui disent que\r\ntout est possible et qu’une graine centenaire peut\r\nencore germer\;\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007476&ps=ticketingcine
-DURATION:PT1H16M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T160000Z
-SUMMARY:ESTADOS GENERALES (VOST)
-UID:7c1eaca5-4bc8-42a4-bc18-0a7425058d18@7c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : IVÁN ZULUETA\n\nQuand un cinéaste de films d’horreur fauché reçoit une\r\nbobine de super 8 impressionnée de mystère. Zulueta\r\ncasse les codes du cinéma pour y chercher dans les\r\ndébris une transfiguration littérale. Toxicomanie et\r\ncinéphilie. Le cinéma comme état de conscience\, de la\r\nprise de vue au lâcher prise. Narration explosée\, image\r\ndévoreuse : Arrebato ne se résume pas\, il se vit.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007538&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261011T161500Z
-SUMMARY:ARREBATO (VOST)
-UID:1a9640f8-87d7-4b7e-8471-c40d77af9154@1a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : MIGUEL EEK\n\nIngénieur agronome\, poète\, penseur utopique et\r\nrévolutionnaire\, parfois surnommé le Che Guevara\r\nafricain\, Amílcar Cabral défia le Portugal et mena le\r\nmouvement de décolonisation en Guinée-Bissau et au\r\nCap Vert du milieu des années 1950 au début des\r\nannées 1970. À travers de riches images d’archives et\r\nun journal imaginaire\, filmé en 16mm et composé de\r\nlettres de Cabral\, Amílcar est une tentative pour\r\nreconstituer la vie\, les trahisons et les ambitions d’un\r\npersonnage polémique\, qui continue de réveiller des\r\nsentiments opposés. Réalisé sur cinq ans\, le\r\ndocumentaire de Miguel Eek est une revendication\r\nhistorique et poétique de la vision du monde\r\npanafricaine de Cabral\, qui demeure d’une indéniable\r\nmodernité\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007491&ps=ticketingcine
-DURATION:PT1H29M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T160000Z
-SUMMARY:AMILCAR (VOST)
-UID:99d225f1-4ba2-424f-9bc3-573e6d67bcb6@99d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : MIGUEL EEK\n\nIngénieur agronome\, poète\, penseur utopique et\r\nrévolutionnaire\, parfois surnommé le Che Guevara\r\nafricain\, Amílcar Cabral défia le Portugal et mena le\r\nmouvement de décolonisation en Guinée-Bissau et au\r\nCap Vert du milieu des années 1950 au début des\r\nannées 1970. À travers de riches images d’archives et\r\nun journal imaginaire\, filmé en 16mm et composé de\r\nlettres de Cabral\, Amílcar est une tentative pour\r\nreconstituer la vie\, les trahisons et les ambitions d’un\r\npersonnage polémique\, qui continue de réveiller des\r\nsentiments opposés. Réalisé sur cinq ans\, le\r\ndocumentaire de Miguel Eek est une revendication\r\nhistorique et poétique de la vision du monde\r\npanafricaine de Cabral\, qui demeure d’une indéniable\r\nmodernité\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007508&ps=ticketingcine
-DURATION:PT1H29M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T193000Z
-SUMMARY:AMILCAR (VOST)
-UID:25df3ec0-acd8-4adc-b487-67318d32b08b@25df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : collectif\n\nBarcelone\, début du XXe siècle : ville des prodiges techniques\, d’une bourgeoisie puissante\, d’un monde ouvrier qui se fait entendre\, d’une culture qui ne cesse de se légitimer et de s’exhiber… Ce programme de courts-métrages nous montre diverses coutures d’une capitale en perpétuelle transformation.\r\n\r\nGent i paisatge de Catalunya de Josep Gaspar\, 1926\, 1h\r\nIris park. Construcción e inauguración de Joan Solà Mestres\, Pathé frères\, 1911\, 9 min\r\nActuació del transformista Derkas de Anonyme\, 3 min\r\nBarcelona se prepara para la exposición internacional de Anonyme\, 1929\, 21 min\r\nEncara que sembli bola de Llorenç Llobet Gràcia\, 1929\, 3 min\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007537&ps=ticketingcine
-DURATION:PT1H36M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261011T134500Z
-SUMMARY:BENVINGUTS A LA GRAN CIUTAT ! (VOST)
-UID:a154ed54-a698-4f3b-b7e1-98f4f95fc6d3@a154.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007438&ps=ticketingcine
-DURATION:PT55M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260929T173000Z
-SUMMARY:PROD.AUDIO EN REGION (VOST)
-UID:ecf3a683-f878-44e6-a149-9cca7176d867@ecf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nLe policier Tom Duncan se suicide en laissant une lettre où il révèle la corruption de l'administration de la ville qui est sous la coupe du gangster Mike Lagana. Dave Bannion pense qu'il y a une autre raison au suicide de son collègue. Ses soupçons sont confirmés lorsque Lucy Chapman\, une entraîneuse\, lui apprend qu'il était en parfaite santé et décidé à divorcer pour elle. Le lendemain\, Dave reçoit l'ordre d'abandonner l'enquête\, mais ne s'y résout pas...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR9E4R9#showsession?id=emsx113500007437&ps=ticketingcine
-DURATION:PT1H29M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260929T170000Z
-SUMMARY:Règlement de comptes (VOST)
-UID:d12d88ae-429e-4745-b054-ad0960cf8804@d12d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : IRENE BARTOLOMÉ\n\nAlicia\, une jeune femme espagnole\, revient à Beyrouth\r\noù elle habitait lors de l’explosion du port de la ville\, le\r\n4 août 2020. Alicia est à la recherche de réponses sur\r\nce que signifie le “progrès” et la destruction\, sur\r\ncomment la ville vit au milieu d’un paysage mutilé et\r\npartiellement en ruines. Suivant les déambulations de\r\nla protagoniste dans les rues\, la caméra devient son\r\npropre regard\, non seulement enregistre le réel\, mais\r\ninterroge aussi les souvenirs des lieux et des\r\nhabitant·es. À mesure que croît l’obsession d’Alicia\,\r\nDream of another summer interroge sur le sens de la\r\nmémoire. Faut-il conserver ou plutôt effacer les traces\r\nqui nous rappellent les événements tragiques du\r\npassé ?\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007474&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T123000Z
-SUMMARY:DREAM OF ANOTHER SUMMER (VOST)
-UID:dea2df87-1183-45db-8d05-156a4ad9ec12@dea2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : AFIOCO GNECCO & CAROLINA YUSTE\n\nUni·es par une profonde amitié\, Rafael et Carolina\r\ndécident d’un commun accord de filmer Rafael durant\r\nles premières années de sa transition de genre. Le film\r\nretrace un processus intime marqué par la vulnérabilité\,\r\nle courage\, parfois le découragement\, et la découverte.\r\nEntre les paysages lointains du Chili\, d’où est originaire\r\nRafael\, et les moments de complicité partagés à\r\nMadrid\, le documentaire dévoile la beauté – et aussi\r\nla difficulté – d’habiter un corps en pleine transformation\r\ndans une société qui commence tout juste à apprendre\r\nà regarder différemment. Este cuerpo mío est un tendre\r\nvoyage géographique et émotionnel en quête de\r\nréconciliation et d’acceptation de soi\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007505&ps=ticketingcine
-DURATION:PT1H26M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T140000Z
-SUMMARY:ESTE CUERPO ES MIO (VOST)
-UID:0dbd21e4-c951-4cd5-91ed-2a4d3577b907@0dbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : ELOY ENCISO CACHAFEIRO\n\nElsa\, artiste espagnole installée à Berlin\, effectue des repérages à travers l’Espagne pour un projet de film sur\r\nles camps de Franco. La mort d’un vieil oncle la contraint à un détour par le manoir familial\, l’amenant à confronter ses recherches à sa propre histoire. Le récit entrelace les tribulations actuelles d’Elsa à l’histoire tragique de Carmen et Ángel\, amants séparés par la défaite en 1939 et internés dans les camps des vainqueurs. Avec son troisième film\, Eloy Enciso Cachafeiro affronte l’amnésie collective de l’Espagne en employant les puissances de la fiction. Entremêlant les temporalités\, Todo es cárcel rappelle que tout peut redevenir prison dans une société qui refuse de connaître son histoire\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007488&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T161500Z
-SUMMARY:TODO ES CARCEL (VOST)
-UID:a180d57b-19f0-48a7-8b41-cffa05bbb2d8@a180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : MARTHA MATUTE\n\nÀ 18 ans\, Claudia ne veut pas être une héroïne. Mais\r\nla maladie neurodégénérative de sa mère s’abat sur\r\nelle comme une tempête silencieuse\, entraînant la\r\nredéfinition des rôles au sein de sa famille. Entre devoir\r\nfilial et désir de vivre sa vie comme n’importe quelle\r\nfille de son âge\, Claudia cherche une façon d’habiter\r\ncette nouvelle réalité qui bouleverse son quotidien.\r\nGrâce à une mise en scène concise et dépourvue de\r\npathos\, Marta Matute signe une première œuvre intime\r\net pleine de grâce\, entre récit d’apprentissage et\r\ncritique sociale\, dans laquelle les ellipses et les regards\r\npèsent plus que les mots. Loin des clichés\, Yo no moriré\r\nde amor n’est pas un film sur la maladie\, mais sur la\r\nbeauté et la difficulté du soin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007520&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261009T191000Z
-SUMMARY:YO NO MORIRÉ DE AMOR (VOST)
-UID:46f6787c-9a74-481a-83eb-1d4eaac0b128@46f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO COLOMO\n\nMadrid\, 1977. Alors que se jouent les premières\r\nélections démocratiques\, une femme et deux hommes\r\néprouvent la libération des mœurs et de la pensée. Un\r\nchemin vers les idées progressistes de l’intime et du\r\npolitique\, qui ne se fait pas sans doutes ni confusions.\r\nUn fleuron de la comédie madrilène et le parfait\r\nexemple des films de la Transition démocratique.\r\nIndispensable.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007486&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T130000Z
-SUMMARY:TIGRES DE PAPEL (VOST)
-UID:f0f026d8-d714-4a7a-9c8f-56d5095f9633@f0f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : SOUMAYA HIDALGO DJAHDOU\n\nQuand Soumaya\, 29 ans\, décide d’aller voir sa grand-\r\nmère en Algérie\, cette simple visite se transforme\r\nen périple à travers l’identité et le sentiment\r\nd’appartenance. Ayant grandi à Barcelone\, la cinéaste\r\nse sent en décalage vis-à-vis de sa mère algérienne\,\r\nprincipalement sur la question de la foi et de la\r\ntradition. En filmant son retour\, Soumaya va se plonger\r\ndans un monde qu’elle méconnait\, n’ayant de cesse\r\nd’écouter\, de partager et de revisiter les archives\r\nfamiliales. El vol de la cigonya associe humour\,\r\nconversations intimes et films de famille pour révéler\r\nla persistance des liens entre trois générations de\r\nfemmes et livrer une réflexion pleine de fraîcheur sur\r\nla migration\, l’amour et la mémoire.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007492&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T180000Z
-SUMMARY:EL VOL DE LA CIGONYA (VOST)
-UID:25c1cb4d-9153-4078-ba6d-54d53803eabc@25c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007475&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T140000Z
-SUMMARY:VIDA EN SOMBRAS (VOST)
-UID:2d197e82-7aeb-4472-b2ea-bfe9646c15af@2d19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : collectif\n\nBarcelone\, début du XXe siècle : ville des prodiges techniques\, d’une bourgeoisie puissante\, d’un monde ouvrier qui se fait entendre\, d’une culture qui ne cesse de se légitimer et de s’exhiber… Ce programme de courts-métrages nous montre diverses coutures d’une capitale en perpétuelle transformation.\r\n\r\nGent i paisatge de Catalunya de Josep Gaspar\, 1926\, 1h\r\nIris park. Construcción e inauguración de Joan Solà Mestres\, Pathé frères\, 1911\, 9 min\r\nActuació del transformista Derkas de Anonyme\, 3 min\r\nBarcelona se prepara para la exposición internacional de Anonyme\, 1929\, 21 min\r\nEncara que sembli bola de Llorenç Llobet Gràcia\, 1929\, 3 min\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007515&ps=ticketingcine
-DURATION:PT1H36M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T174500Z
-SUMMARY:BENVINGUTS A LA GRAN CIUTAT ! (VOST)
-UID:c6c60aad-dd67-4af9-a0a9-f9c8069f2e22@c6c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nTrois amis traversent la France sans raison apparente\,\r\nà la rencontre d’amours idylliques et éphémères. De\r\nToulouse à Annecy en passant par Paris\, certains diront\r\nqu’ils brûlent les derniers bateaux de la jeunesse tandis\r\nque d’autres parleront du déclin du genre masculin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007487&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T144500Z
-SUMMARY:LOS EXILIADOS ROMANTICOS (VOST)
-UID:ca6d596e-0c31-4bbd-8899-7a170f2f9679@ca6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : PEDRO ALMODOVAR\n\nJorge est mort\, le shoot de la fin. Comme un clap. Yolanda\, son amie chanteuse\, quitte la scène et les nuits madrilènes coupées à la strychnine et se réfugie dans un couvent de bonnes soeurs. Le couvent des Rédemptrices humiliées qui n’est pas le moins rock’n’roll des repères. Yolanda trouvera-t-elle la paix ou a-t-elle mis les pieds dans les ténèbres ? Le troisième film d’un Almodóvar provocateur avec une belle dose de mélancolie musicale qui deviendra sa griffe.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007465&ps=ticketingcine
-DURATION:PT1H54M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261006T191000Z
-SUMMARY:DANS LES TENEBRES (VOST)
-UID:c19f9d51-c2a8-4eac-b489-9316bcc15851@c19f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JUAN ANTONIO BARDEM\n\nLe road movie de la Transition. Juan\, mécanicien à\r\nMadrid\, enfourche sa moto pour se rendre à Torremolinos\r\nà l’occasion d’un pont. Sur la route\, faite de rencontres\r\ndiverses\, il va prendre conscience du changement\r\nen cours… Alfredo Landa\, star de la comédie sexy\r\nà l’espagnole – le genre portera même son nom :\r\nel landismo –\, va subvertir ici le personnage de macho\r\nibérique qu’il incarnait à l’écran. Un film majeur\, dont la\r\nplaie à la main dans le final achève la transformation du\r\nhéros. La Transition est d’abord une cicatrisation.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007509&ps=ticketingcine
-DURATION:PT1H50M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T124500Z
-SUMMARY:EL PUENTE (VOST)
-UID:021aad70-7c37-4e1c-8e85-eb6ce17a6ad1@021a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : MERITXELL COLELL APARICIO\n\nAdela\, une artiste sonore mexicaine installée en\r\nEurope\, voyage de la jungle aux Andes accompagnée\r\nde Lucho\, son guide et traducteur. Dans le sillage de\r\nson grand-père\, un républicain catalan exilé au\r\nMexique\, elle cherche à dresser une carte sonore des\r\nlangues autochtones menacées de disparition. Quand\r\nsurvient la peur de la mort\, la réalité d’Adela se fracture\r\net son périple devient alors un voyage intime de retour\r\nvers l’enfance. Mêlant différents formats d’images\,\r\nLejos de los árboles est une histoire sur le\r\ndéracinement\, la fragilité de la vie\, le besoin de se\r\nsouvenir\, d’écouter et d’aimer. Avec ce troisième long-\r\nmétrage\, Meritxell Colell Aparicio trouve l’équilibre\r\nparfait entre roadtrip et autofiction.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007480&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261004T153000Z
-SUMMARY:LEJOS DE LOS ARBOLES (VOST)
-UID:98476d40-7457-49d0-a42d-bbd212e841a3@9847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : ALBERTO SEDANO\n\nAvec la fin de la dictature\, le cinéma espagnol donne\r\njour à des films d’exploitation complètement\r\ndébridés. Érotisme\, violence\, horreur\, un vrai\r\ndéferlement d’interdits charriés par une production\r\naussi chaotique qu’effervescente. C’est cheap\, c’est\r\nvulgaire\, c’est trash. Le public adore. La jeune\r\ndémocratie\, qui a fait sauter la censure\, met en place\r\nune classification spécifique pour encadrer cette\r\nproduction : la catégorie “S”… Une histoire courte et\r\nintense\, comme le punk\, qu’Alberto Sedano nous\r\nraconte avec celles et ceux qui l’ont faite. Le film est\r\nnarré par Iggy Pop et compte avec la participation de\r\nGaspar Noé et Álex de la Iglesia\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007532&ps=ticketingcine
-DURATION:PT2H3M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T185000Z
-SUMMARY:EXORCISMO (VOST)
-UID:57bff6fd-5cf0-4f22-9e8d-d75fc4877a9a@57bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nParti en quête d'un remède\, un prince affecté par un mal fatal se retrouve dans une contrée où se livre une bataille entre une ville minière et les animaux de la forêt.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRD6FG5#showsession?id=emsx113500007445&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261001T190000Z
-SUMMARY:Princesse Mononoke (VOST)
-UID:ae1b595b-3e47-4a5f-a19d-88da35349849@ae1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Ayumu Watanabe\n\nNikuko est une mère célibataire bien en chair et fière de l'être\, tout en désir et joie de vivre - un véritable outrage à la culture patriarcale japonaise ! Elle aime bien manger\, plaisanter\, et a un faible pour des hommes qui n’en valent pas toujours la peine. Après avoir ballotté sa fille Kikurin la moitié de sa vie\, elle s’installe dans un petit village de pêcheurs et trouve un travail dans un restaurant traditionnel. Kikurin ne veut pas ressembler à sa mère et ses relations avec Nikuko ne sont pas toujours simples. Jusqu’au jour où ressurgit un secret du passé.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU2R2Y#showsession?id=emsx113500007421&ps=ticketingcine
-DURATION:PT1H37M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260923T143000Z
-SUMMARY:La chance sourit à madame Nikuko (VOST)
-UID:a0041f9b-6826-45d8-82f2-53f29c7c8762@a004.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : JOSÉ MARÍA CASTELLVÍ\n\nSantos sort de prison après avoir tué un ami. Il est suivi\r\npar un gang de vieux notables qui veut jouer avec lui.\r\nUn film de chasse à l’homme où le gibier se fait\r\nprédateur. Une chasse à la Zaroff taillée dans le\r\nCruising de Friedkin. À coups de cuir et de gorges\r\ntranchées. Une plongée dans les nuits de la Movida\,\r\ndans le trash et l’outrance. Pour éclairer la nuit de\r\nnéons 80’s et régler ses comptes aux derniers\r\nsymboles du franquisme\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007478&ps=ticketingcine
-DURATION:PT1H23M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T193000Z
-SUMMARY:POPPERS (VOST)
-UID:9e0ba0ea-20c3-4283-850a-34c33fa926f5@9e0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : SOUMAYA HIDALGO DJAHDOU\n\nQuand Soumaya\, 29 ans\, décide d’aller voir sa grand-\r\nmère en Algérie\, cette simple visite se transforme\r\nen périple à travers l’identité et le sentiment\r\nd’appartenance. Ayant grandi à Barcelone\, la cinéaste\r\nse sent en décalage vis-à-vis de sa mère algérienne\,\r\nprincipalement sur la question de la foi et de la\r\ntradition. En filmant son retour\, Soumaya va se plonger\r\ndans un monde qu’elle méconnait\, n’ayant de cesse\r\nd’écouter\, de partager et de revisiter les archives\r\nfamiliales. El vol de la cigonya associe humour\,\r\nconversations intimes et films de famille pour révéler\r\nla persistance des liens entre trois générations de\r\nfemmes et livrer une réflexion pleine de fraîcheur sur\r\nla migration\, l’amour et la mémoire.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007506&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T160000Z
-SUMMARY:EL VOL DE LA CIGONYA (VOST)
-UID:4ece29bc-e379-4576-8ff8-16ffb12dcecd@4ece.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : Fritz Lang\n\nTravaillant dans le même magasin\, Joe et Helen\, deux condamnés libérés sur parole\, sont épris l'un de l'autre. Des deux amants\, seul Joe a avoué son passé. Lorsqu'il découvre la vérité sur Helen\, trahi et déçu\, il se lance par désespoir dans la préparation d'un mauvais coup.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7VGIC#showsession?id=emsx113500007428&ps=ticketingcine
-DURATION:PT1H30M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260925T180000Z
-SUMMARY:Casier judiciaire (VOST)
-UID:2defb8d1-72bf-4467-9993-5d64a5faa7f7@2def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : Fritz Lang\n\nStephen Byrne est romancier en panne d'inspiration qui vit et travaille près d'une rivière. Insistant violemment après lui avoir fait des avances\, il tue sa jolie femme de chambre. L'écrivain\, avec l'aide de son frère boiteux\, dissimule le corps dans un sac qu'ils jettent dans la rivière. Mais\, quelque temps plus tard\, le corps revient à la surface et flotte près de la maison. En dépit des efforts de Stephen Byrne pour récupérer le corps\, la police s'en empare avant eux. L'écrivain se rend bientôt compte que le drame profite aux ventes de ses romans et que\, complice forcé\, son frère va se retrouver accusé seul du meurtre. Dans un état d'exaltation dû à la force des émotions vécues à partir du meurtre\, il retrouve son inspiration et entreprend la rédaction d'un livre sur le crime. Alors qu'il sombre dans la folie\, son frère\, dont la condamnation semble inéluctable\, et sa femme\, délaissée malgré ses efforts\, tombent amoureux…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRFWB33#showsession?id=emsx113500007435&ps=ticketingcine
-DURATION:PT1H28M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260926T160000Z
-SUMMARY:House by the River (VOST)
-UID:3b83d2ee-bedb-4d53-b8fe-8beee6ad5623@3b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007523&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261009T181500Z
-SUMMARY:VIDA EN SOMBRAS (VOST)
-UID:1be1d1c4-0513-4926-b43a-90bb3b4d4e3d@1be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : HELENA GIRÓN & SAMUEL DELGADO\n\nAu XVe siècle\, sur l’aride île canarienne de la Graciosa\,\r\nFátima est l’esclave de Don Gaspar\, un marquis\r\nd’origine française décadent\, qui possède l’unique\r\nsource d’eau douce. Quand le puits s’assèche et que\r\nla population se rebelle\, Fátima doit entreprendre un\r\npériple à la recherche d’une chance de survie pour sa\r\ncommunauté. Après Un corps sous la lave\, le deuxième\r\nlong-métrage d’Helena Girón et Samuel Delgado est\r\nune fable historique qui oppose la pénurie comme\r\ninstrument de pouvoir colonial et la solidarité des\r\ngestes émancipateurs des dominées. Las islas\r\nafortunadas creuse ainsi le sillon d’un cinéma des\r\ncorps et des éléments\, éminemment poétique\,\r\npolitique et personnel.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007481&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261004T174500Z
-SUMMARY:LAS ISLAS AFORTUNADAS (VOST)
-UID:20ef2577-83c6-40ed-a1a3-7bc5a1eb4189@20ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : AFIOCO GNECCO & CAROLINA YUSTE\n\nUni·es par une profonde amitié\, Rafael et Carolina\r\ndécident d’un commun accord de filmer Rafael durant\r\nles premières années de sa transition de genre. Le film\r\nretrace un processus intime marqué par la vulnérabilité\,\r\nle courage\, parfois le découragement\, et la découverte.\r\nEntre les paysages lointains du Chili\, d’où est originaire\r\nRafael\, et les moments de complicité partagés à\r\nMadrid\, le documentaire dévoile la beauté – et aussi\r\nla difficulté – d’habiter un corps en pleine transformation\r\ndans une société qui commence tout juste à apprendre\r\nà regarder différemment. Este cuerpo mío est un tendre\r\nvoyage géographique et émotionnel en quête de\r\nréconciliation et d’acceptation de soi\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007522&ps=ticketingcine
-DURATION:PT1H26M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261009T160000Z
-SUMMARY:ESTE CUERPO ES MIO (VOST)
-UID:850e37f5-e37f-40f5-b10a-0ab89e08bf9c@850e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO TRUEBA\n\nAuteur-compositeur de chansons emblématiques de la\r\nrésistance franquiste\, Chicho Sánchez Ferlosio (1961-\r\n2003) avait choisi une voie politique\, intellectuelle et\r\npersonnelle radicalement opposée à celle de son père\,\r\nl’écrivain phalangiste Rafael Sánchez Mazas. Évoluant\r\nentre portrait documentaire\, film musical\, comédie et\r\nconversation philosophique\, ce second long-métrage\r\nde Fernando Trueba est à redécouvrir d’urgence. Le film\r\nest présenté dans sa version récemment restaurée par\r\nla ECAM et distribuée par Los Ilusos.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007473&ps=ticketingcine
-DURATION:PT1H29M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T193000Z
-SUMMARY:CHICHO O MIENTRAS (VOST)
-UID:8785efeb-d231-4be0-a9ea-426f8d56ce14@8785.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nLos ilusos 13+13 est un film sur le désir de faire des\r\nfilms\, ou sur ce que font les cinéastes lorsqu’ils ne font\r\npas de films \; sur les conversations\, l’ivresse\, les repas\r\net les routines \; sur les balades après la séance de\r\ncinéma \; sur le fait d’être amoureux·se \; d’être seul·e\r\net avec des ami·es\, de construire des souvenirs pour\r\nun futur film. L’équation “13+13” dans le nouveau titre\r\nfait référence à la date de sortie\, en 2013\, de la version\r\nprécédente en noir et blanc\, plus les treize années\r\nécoulées\, pour cette nouvelle version en couleur.\r\nLes deux versions coexistent et se complètent\, résultant\r\nen un film plus juste.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007527&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T184500Z
-SUMMARY:LOS ILUSOS 13+13 (VOST)
-UID:34e9a3d2-a6c8-44c0-b5ee-d59a8084c971@34e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : Fritz Lang\n\nLe Dr Mabuse dirige\, de l'asile psychiatrique où il est interné\, un gang de malfaiteurs et le docteur Baum\, directeur de l'établissement\, grâce à ses pouvoirs hypnotiques. Le commissaire Karl Lehmann et le bandit repenti Kent parviendront après nombre de rebondissements à démanteler le réseau.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSUPNO#showsession?id=emsx113500007444&ps=ticketingcine
-DURATION:PT2H1M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261001T180000Z
-SUMMARY:Le Testament du docteur Mabuse (VOST)
-UID:fc64fe2f-f16a-46da-8dc4-abe9abef4aa1@fc64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : IRENE BARTOLOMÉ\n\nAlicia\, une jeune femme espagnole\, revient à Beyrouth\r\noù elle habitait lors de l’explosion du port de la ville\, le\r\n4 août 2020. Alicia est à la recherche de réponses sur\r\nce que signifie le “progrès” et la destruction\, sur\r\ncomment la ville vit au milieu d’un paysage mutilé et\r\npartiellement en ruines. Suivant les déambulations de\r\nla protagoniste dans les rues\, la caméra devient son\r\npropre regard\, non seulement enregistre le réel\, mais\r\ninterroge aussi les souvenirs des lieux et des\r\nhabitant·es. À mesure que croît l’obsession d’Alicia\,\r\nDream of another summer interroge sur le sens de la\r\nmémoire. Faut-il conserver ou plutôt effacer les traces\r\nqui nous rappellent les événements tragiques du\r\npassé ?\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007514&ps=ticketingcine
-DURATION:PT1H10M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T161000Z
-SUMMARY:DREAM OF ANOTHER SUMMER (VOST)
-UID:07bace8a-a2a7-4561-8d44-ad3829f673db@07ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nNonoko Yamada\, une petite fille espiègle au franc parler\, nous présente chaque membre de sa famille peu ordinaire : son père\, Takashi Yamada\, homme d'affaires un peu bougon \; sa mère\, Matsuko\, au naturel spontané\, un peu fainéante\, vite démoralisée par les tâches ménagères et autres travaux domestiques. Quant à Naboru\, son grand frère\, il déteste étudier. Et enfin Shige\, sa grand-mère\, une septuagénaire bien bavarde qui ne rate pas une occasion de donner son avis sur tout et de s'amuser des querelles du couple.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPGGIC#showsession?id=emsx113500007443&ps=ticketingcine
-DURATION:PT1H44M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261001T170000Z
-SUMMARY:Mes voisins les Yamada (VOST)
-UID:5ed50a39-a151-40af-93fe-723653e18c41@5ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nDans Prague\, au début des années 40\, le professeurdu Reich Heydrich - surnommé « Le Bourreau » - vient de décréter de nouvelles mesures de terreur quand le Docteur Svoboda\, membre d’un réseau de résistance tchèque \, tente de l’assassiner. Menacé par le couvre-feu\, ce dernier finit par se réfugier chez la famille du professeur Novotny\, un ancien révolutionnaire dont la fille\, Mascha\, l’a déjà aidé dans sa fuite. Mais la Gestapo ne tarde pas à s’emparer de nombreux otages \, dont le professeur…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSC8D6#showsession?id=emsx113500007440&ps=ticketingcine
-DURATION:PT2H15M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260930T143000Z
-SUMMARY:Les Bourreaux meurent aussi (VOST)
-UID:0e4d4e05-c1e2-4e33-8fd2-72c30a0c9540@0e4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : ÁNGEL SANTOS TOUZA\n\nPablo\, un sculpteur entre deux âges\, vit dans une zone\r\nrurale de la côte galicienne au milieu des marais et des\r\ncheminées des anciennes fabriques. Par-delà son\r\nactivité artistique\, Pablo est en quête de solitude\,\r\ns’isolant sans cesse davantage\, allant presque jusqu’à\r\ns’inventer une nouvelle identité. Mais un jour\, le passé\r\nvient à sa rencontre en la personne de son ancien\r\namour\, Andrea\, désormais installée au Canada.\r\nL’espace de quelques jours\, Pablo et Andrea ravivent\r\nleur ancienne relation\, jusqu’à ce qu’un événement\r\ninattendu vienne bousculer toutes les certitudes.\r\nRythmes alanguis\, paysages fantomatiques\, mystères\r\ndu cœur humain… L’œuvre du cinéaste galicien Ángel\r\nSantos Touza réinvente le Romantisme au cinéma.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007502&ps=ticketingcine
-DURATION:PT2H
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T143500Z
-SUMMARY:ASI LLEGO LA NOCHE (VOST)
-UID:d78912fb-1f64-47cd-a99d-e56ca4b03333@d789.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : AFIOCO GNECCO & CAROLINA YUSTE\n\nUni·es par une profonde amitié\, Rafael et Carolina\r\ndécident d’un commun accord de filmer Rafael durant\r\nles premières années de sa transition de genre. Le film\r\nretrace un processus intime marqué par la vulnérabilité\,\r\nle courage\, parfois le découragement\, et la découverte.\r\nEntre les paysages lointains du Chili\, d’où est originaire\r\nRafael\, et les moments de complicité partagés à\r\nMadrid\, le documentaire dévoile la beauté – et aussi\r\nla difficulté – d’habiter un corps en pleine transformation\r\ndans une société qui commence tout juste à apprendre\r\nà regarder différemment. Este cuerpo mío est un tendre\r\nvoyage géographique et émotionnel en quête de\r\nréconciliation et d’acceptation de soi\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007477&ps=ticketingcine
-DURATION:PT1H26M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T175000Z
-SUMMARY:ESTE CUERPO ES MIO (VOST)
-UID:742df9b3-cfcc-4362-888d-1f521e23a052@742d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : ELOY ENCISO CACHAFEIRO\n\nElsa\, artiste espagnole installée à Berlin\, effectue des repérages à travers l’Espagne pour un projet de film sur\r\nles camps de Franco. La mort d’un vieil oncle la contraint à un détour par le manoir familial\, l’amenant à confronter ses recherches à sa propre histoire. Le récit entrelace les tribulations actuelles d’Elsa à l’histoire tragique de Carmen et Ángel\, amants séparés par la défaite en 1939 et internés dans les camps des vainqueurs. Avec son troisième film\, Eloy Enciso Cachafeiro affronte l’amnésie collective de l’Espagne en employant les puissances de la fiction. Entremêlant les temporalités\, Todo es cárcel rappelle que tout peut redevenir prison dans une société qui refuse de connaître son histoire\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007470&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T123000Z
-SUMMARY:TODO ES CARCEL (VOST)
-UID:4081fb03-a54d-432e-b272-ac9491efc75b@4081.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JUAN ANTONIO BARDEM\n\nLe road movie de la Transition. Juan\, mécanicien à\r\nMadrid\, enfourche sa moto pour se rendre à Torremolinos\r\nà l’occasion d’un pont. Sur la route\, faite de rencontres\r\ndiverses\, il va prendre conscience du changement\r\nen cours… Alfredo Landa\, star de la comédie sexy\r\nà l’espagnole – le genre portera même son nom :\r\nel landismo –\, va subvertir ici le personnage de macho\r\nibérique qu’il incarnait à l’écran. Un film majeur\, dont la\r\nplaie à la main dans le final achève la transformation du\r\nhéros. La Transition est d’abord une cicatrisation.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007496&ps=ticketingcine
-DURATION:PT1H50M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261006T170000Z
-SUMMARY:EL PUENTE (VOST)
-UID:7cba478d-6fa8-4088-9749-c37d21615973@7cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : Goro Miyazaki\n\nLes aventures du jeune Arren\, prince du royaume d'Enlad\, qui va s'allier aux forces du grand magicien Epervier\, pour rétablir l'équilibre du monde rompu par une sorcière maléfique. Dans le combat qui s'annonce\, Arren et Epervier croiseront la route de Therru\, une mystérieuse jeune fille. Ensemble\, ils dépasseront leurs peurs et uniront leurs destins pour mener le plus fascinant des voyages.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRVS1L7#showsession?id=emsx113500007425&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260924T180000Z
-SUMMARY:Les Contes de Terremer (VOST)
-UID:b55a6597-5016-47ea-8eca-a83c37b7b53a@b55a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nToute la presse ne parle que de ça : le maniaque tueur d’enfants\, qui terrorise la ville depuis quelques temps\, vient de faire une nouvelle victime. Chargé de l’enquête\, le commissaire Lohmann multiplie les rafles dans les bas-fonds. Gênée par toute cette agitation\, la pègre décide de retrouver elle-même le criminel : elle charge les mendiants et les clochards de surveiller chaque coin de rue…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRCFMZX#showsession?id=emsx113500007436&ps=ticketingcine
-DURATION:PT1H50M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260926T190000Z
-SUMMARY:M le Maudit (VOST)
-UID:052b312a-5386-4ba2-b653-e2f49cd66043@052b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : MARTHA MATUTE\n\nÀ 18 ans\, Claudia ne veut pas être une héroïne. Mais\r\nla maladie neurodégénérative de sa mère s’abat sur\r\nelle comme une tempête silencieuse\, entraînant la\r\nredéfinition des rôles au sein de sa famille. Entre devoir\r\nfilial et désir de vivre sa vie comme n’importe quelle\r\nfille de son âge\, Claudia cherche une façon d’habiter\r\ncette nouvelle réalité qui bouleverse son quotidien.\r\nGrâce à une mise en scène concise et dépourvue de\r\npathos\, Marta Matute signe une première œuvre intime\r\net pleine de grâce\, entre récit d’apprentissage et\r\ncritique sociale\, dans laquelle les ellipses et les regards\r\npèsent plus que les mots. Loin des clichés\, Yo no moriré\r\nde amor n’est pas un film sur la maladie\, mais sur la\r\nbeauté et la difficulté du soin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007503&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T165000Z
-SUMMARY:YO NO MORIRÉ DE AMOR (VOST)
-UID:b99e1f7f-3b88-4548-890a-fd61ea421401@b99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : MARTHA MATUTE\n\nÀ 18 ans\, Claudia ne veut pas être une héroïne. Mais\r\nla maladie neurodégénérative de sa mère s’abat sur\r\nelle comme une tempête silencieuse\, entraînant la\r\nredéfinition des rôles au sein de sa famille. Entre devoir\r\nfilial et désir de vivre sa vie comme n’importe quelle\r\nfille de son âge\, Claudia cherche une façon d’habiter\r\ncette nouvelle réalité qui bouleverse son quotidien.\r\nGrâce à une mise en scène concise et dépourvue de\r\npathos\, Marta Matute signe une première œuvre intime\r\net pleine de grâce\, entre récit d’apprentissage et\r\ncritique sociale\, dans laquelle les ellipses et les regards\r\npèsent plus que les mots. Loin des clichés\, Yo no moriré\r\nde amor n’est pas un film sur la maladie\, mais sur la\r\nbeauté et la difficulté du soin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007479&ps=ticketingcine
-DURATION:PT1H34M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261004T133000Z
-SUMMARY:YO NO MORIRÉ DE AMOR (VOST)
-UID:9320093c-9450-418b-b37f-f7a6052fe6a3@9320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : \n\nCe programme\, composé de cinq courts- métrages récemment sélectionnés au festival Punto de Vista\, est un échantillon de la recherche cinématographique menée par des artistes et cinéastes de la Péninsule Ibérique. Leur expérimentation s’articule autour de l’animation\, de la non-fiction et de l’hybridation\, explorant les éléments naturels du territoire ainsi que les vastes possibilités offertes par les supports cinématographiques\, du celluloïde au numérique.\r\n\r\nFLOGISTO de CARLOS BAIXAULI\r\nCOROA DE ESPINHOS de FRANCISCO DE MOURA\r\nPORTALES d'ELENA DUQUE\r\nVEGETARE d' ADRIÀ EXPOSIT-GOY\r\nSIN TON NI SON de VICTOR LADERA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007493&ps=ticketingcine
-DURATION:PT1H28M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261005T192000Z
-SUMMARY:HUELLAS\, SENDAS\, CAMINANTES (VOST)
-UID:87ab982a-1c4a-4c38-9ade-ce620512b23b@87ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nNonoko Yamada\, une petite fille espiègle au franc parler\, nous présente chaque membre de sa famille peu ordinaire : son père\, Takashi Yamada\, homme d'affaires un peu bougon \; sa mère\, Matsuko\, au naturel spontané\, un peu fainéante\, vite démoralisée par les tâches ménagères et autres travaux domestiques. Quant à Naboru\, son grand frère\, il déteste étudier. Et enfin Shige\, sa grand-mère\, une septuagénaire bien bavarde qui ne rate pas une occasion de donner son avis sur tout et de s'amuser des querelles du couple.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPGGIC#showsession?id=emsx113500007427&ps=ticketingcine
-DURATION:PT1H44M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260925T170000Z
-SUMMARY:Mes voisins les Yamada (VOST)
-UID:3cc999aa-7c0e-452b-86cb-460a560b14c2@3cc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nLos ilusos 13+13 est un film sur le désir de faire des\r\nfilms\, ou sur ce que font les cinéastes lorsqu’ils ne font\r\npas de films \; sur les conversations\, l’ivresse\, les repas\r\net les routines \; sur les balades après la séance de\r\ncinéma \; sur le fait d’être amoureux·se \; d’être seul·e\r\net avec des ami·es\, de construire des souvenirs pour\r\nun futur film. L’équation “13+13” dans le nouveau titre\r\nfait référence à la date de sortie\, en 2013\, de la version\r\nprécédente en noir et blanc\, plus les treize années\r\nécoulées\, pour cette nouvelle version en couleur.\r\nLes deux versions coexistent et se complètent\, résultant\r\nen un film plus juste.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007471&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261003T153000Z
-SUMMARY:LOS ILUSOS 13+13 (VOST)
-UID:ea60dbbb-b8d4-45bb-ac7f-811c30b9a8c8@ea60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : MAURICIO FREYRE\n\nEstados Generales s’ouvre sur un baiser échangé au\r\ncreux de la végétation du Jardin Botanique de Madrid.\r\nOutre des arbres venus d’Amérique\, d’Europe et du\r\nPacifique\, on y trouve les archives d’expéditions\r\nscientifiques menées dans les anciennes colonies\, dont\r\ndes spécimens végétaux non identifiés. Mauricio Freyre\r\nimagine le voyage de retour d’un échantillon de ces\r\ngraines\, du pays colonisateur au pays colonisé :\r\nle Pérou\, où la nature est désormais dominée par\r\nles normes de l’industrie agroalimentaire. Patiemment\,\r\nle film construit son contre-récit décolonial. L’enfance\,\r\nles anciens rites et la nuit sont les lieux qui disent que\r\ntout est possible et qu’une graine centenaire peut\r\nencore germer\;\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007516&ps=ticketingcine
-DURATION:PT1H16M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T193000Z
-SUMMARY:ESTADOS GENERALES (VOST)
-UID:86987762-c047-42a7-9456-9185df84a754@8698.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : HELENA GIRÓN & SAMUEL DELGADO\n\nAu XVe siècle\, sur l’aride île canarienne de la Graciosa\,\r\nFátima est l’esclave de Don Gaspar\, un marquis\r\nd’origine française décadent\, qui possède l’unique\r\nsource d’eau douce. Quand le puits s’assèche et que\r\nla population se rebelle\, Fátima doit entreprendre un\r\npériple à la recherche d’une chance de survie pour sa\r\ncommunauté. Après Un corps sous la lave\, le deuxième\r\nlong-métrage d’Helena Girón et Samuel Delgado est\r\nune fable historique qui oppose la pénurie comme\r\ninstrument de pouvoir colonial et la solidarité des\r\ngestes émancipateurs des dominées. Las islas\r\nafortunadas creuse ainsi le sillon d’un cinéma des\r\ncorps et des éléments\, éminemment poétique\,\r\npolitique et personnel.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007511&ps=ticketingcine
-DURATION:PT1H20M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T170000Z
-SUMMARY:LAS ISLAS AFORTUNADAS (VOST)
-UID:369a752d-acf7-4836-895d-0fc81f5ed825@369a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : MAURICIO FREYRE\n\nEstados Generales s’ouvre sur un baiser échangé au\r\ncreux de la végétation du Jardin Botanique de Madrid.\r\nOutre des arbres venus d’Amérique\, d’Europe et du\r\nPacifique\, on y trouve les archives d’expéditions\r\nscientifiques menées dans les anciennes colonies\, dont\r\ndes spécimens végétaux non identifiés. Mauricio Freyre\r\nimagine le voyage de retour d’un échantillon de ces\r\ngraines\, du pays colonisateur au pays colonisé :\r\nle Pérou\, où la nature est désormais dominée par\r\nles normes de l’industrie agroalimentaire. Patiemment\,\r\nle film construit son contre-récit décolonial. L’enfance\,\r\nles anciens rites et la nuit sont les lieux qui disent que\r\ntout est possible et qu’une graine centenaire peut\r\nencore germer\;\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007497&ps=ticketingcine
-DURATION:PT1H16M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261006T133000Z
-SUMMARY:ESTADOS GENERALES (VOST)
-UID:5c2b0f80-3558-4a85-af3a-817ff4ece262@5c2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : ALBERTO SEDANO\n\nAvec la fin de la dictature\, le cinéma espagnol donne\r\njour à des films d’exploitation complètement\r\ndébridés. Érotisme\, violence\, horreur\, un vrai\r\ndéferlement d’interdits charriés par une production\r\naussi chaotique qu’effervescente. C’est cheap\, c’est\r\nvulgaire\, c’est trash. Le public adore. La jeune\r\ndémocratie\, qui a fait sauter la censure\, met en place\r\nune classification spécifique pour encadrer cette\r\nproduction : la catégorie “S”… Une histoire courte et\r\nintense\, comme le punk\, qu’Alberto Sedano nous\r\nraconte avec celles et ceux qui l’ont faite. Le film est\r\nnarré par Iggy Pop et compte avec la participation de\r\nGaspar Noé et Álex de la Iglesia\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007482&ps=ticketingcine
-DURATION:PT2H3M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261004T130000Z
-SUMMARY:EXORCISMO (VOST)
-UID:c63043a6-4c45-418f-aae7-1043e3aeb181@c630.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : MERITXELL COLELL APARICIO\n\nAdela\, une artiste sonore mexicaine installée en\r\nEurope\, voyage de la jungle aux Andes accompagnée\r\nde Lucho\, son guide et traducteur. Dans le sillage de\r\nson grand-père\, un républicain catalan exilé au\r\nMexique\, elle cherche à dresser une carte sonore des\r\nlangues autochtones menacées de disparition. Quand\r\nsurvient la peur de la mort\, la réalité d’Adela se fracture\r\net son périple devient alors un voyage intime de retour\r\nvers l’enfance. Mêlant différents formats d’images\,\r\nLejos de los árboles est une histoire sur le\r\ndéracinement\, la fragilité de la vie\, le besoin de se\r\nsouvenir\, d’écouter et d’aimer. Avec ce troisième long-\r\nmétrage\, Meritxell Colell Aparicio trouve l’équilibre\r\nparfait entre roadtrip et autofiction.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007504&ps=ticketingcine
-DURATION:PT1H57M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261007T184500Z
-SUMMARY:LEJOS DE LOS ARBOLES (VOST)
-UID:570b75d7-7b38-4480-933b-320761240759@570b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : ELOY ENCISO CACHAFEIRO\n\nElsa\, artiste espagnole installée à Berlin\, effectue des repérages à travers l’Espagne pour un projet de film sur\r\nles camps de Franco. La mort d’un vieil oncle la contraint à un détour par le manoir familial\, l’amenant à confronter ses recherches à sa propre histoire. Le récit entrelace les tribulations actuelles d’Elsa à l’histoire tragique de Carmen et Ángel\, amants séparés par la défaite en 1939 et internés dans les camps des vainqueurs. Avec son troisième film\, Eloy Enciso Cachafeiro affronte l’amnésie collective de l’Espagne en employant les puissances de la fiction. Entremêlant les temporalités\, Todo es cárcel rappelle que tout peut redevenir prison dans une société qui refuse de connaître son histoire\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007510&ps=ticketingcine
-DURATION:PT1H49M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T145000Z
-SUMMARY:TODO ES CARCEL (VOST)
-UID:e2e4948c-59dc-443c-bf5e-d58b8658ec5e@e2e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 2\n\nRéalisateur : CARLOS CASAS\n\nUn pêcheur solitaire vit sur une plateforme en bambou\r\nau large de l’île volcanique de Krakatoa en Indonésie.\r\nAprès une nuit inquiétante où les poissons ont disparu\,\r\nil est rejeté par une éruption dévastatrice sur un\r\nterritoire inconnu. Avec cette fable écologique qui suit\r\nles pas de Roni Herliansyah\, survivant de l’éruption du\r\nvolcan en 2018\, Carlos Casas propose une réflexion\r\nsur l’apocalypse climatique autant qu’une exploration\r\nfilmique sensorielle. Nature sauvage\, conscience\r\nenvironnementale\, explosion sonore et chromatique\r\ns’entrelacent dans un flux d’images hypnotiques :\r\nl’écran de cinéma devient un lieu où sentir vibrer la\r\npuissance de la terre et la vulnérabilité de celles et\r\nceux qui l’habitent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007528&ps=ticketingcine
-DURATION:PT1H14M
-LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T120000Z
-SUMMARY:KRAKATOA (VOST)
-UID:3a64c087-e864-4fd5-a889-4ca6ba5dd67f@3a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO COLOMO\n\nQue fait une fille comme toi dans un endroit comme\r\nça ? Quand une femme divorce et rencontre un jeune\r\nrocker\, c’est la panique qui résonne au salon de\r\ncoiffure et dans les nuits madrilènes aux accords du\r\ngroupe de rock Burning. Avec ce film scandale\, partagé\r\nentre drame et comédie décalée\, ce sont les piliers de\r\nla société franquiste que sont le mariage et la\r\nsoumission de la femme qui vacillent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007525&ps=ticketingcine
-DURATION:PT1H25M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T140000Z
-SUMMARY:QUE HACE UNA CHICA (VOST)
-UID:ff653132-8673-4472-8d90-01fca2295465@ff65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO COLOMO\n\nMadrid\, 1977. Alors que se jouent les premières\r\nélections démocratiques\, une femme et deux hommes\r\néprouvent la libération des mœurs et de la pensée. Un\r\nchemin vers les idées progressistes de l’intime et du\r\npolitique\, qui ne se fait pas sans doutes ni confusions.\r\nUn fleuron de la comédie madrilène et le parfait\r\nexemple des films de la Transition démocratique.\r\nIndispensable.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007526&ps=ticketingcine
-DURATION:PT1H33M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261010T163000Z
-SUMMARY:TIGRES DE PAPEL (VOST)
-UID:e902f5b6-f92a-4da0-ae09-14fad8a5f4d5@e902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nSheeta\, seule héritière des secrets de Laputa\, la cité volante\, attire l’avidité des pirates et de l’armée. Poursuivie\, elle est sauvée par Pazu\, un jeune pilote d’avion travaillant dans une cité minière.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FREEJJQ#showsession?id=emsx113500007430&ps=ticketingcine
-DURATION:PT2H4M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260926T140000Z
-SUMMARY:Le Château dans le Ciel (VOST)
-UID:2ba2c7d5-5e13-4dc3-b526-3866b167ed2d@2ba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : IVÁN ZULUETA\n\nQuand un cinéaste de films d’horreur fauché reçoit une\r\nbobine de super 8 impressionnée de mystère. Zulueta\r\ncasse les codes du cinéma pour y chercher dans les\r\ndébris une transfiguration littérale. Toxicomanie et\r\ncinéphilie. Le cinéma comme état de conscience\, de la\r\nprise de vue au lâcher prise. Narration explosée\, image\r\ndévoreuse : Arrebato ne se résume pas\, il se vit.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007512&ps=ticketingcine
-DURATION:PT1H55M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20261008T190000Z
-SUMMARY:ARREBATO (VOST)
-UID:b17b8c4b-4df3-407b-8f27-65973adfe686@b17b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Makoto Shinkai\n\nDans une petite ville paisible de Kyushu\, une jeune fille de 17 ans\, Suzume\, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes\, elle découvre une porte délabrée trônant au milieu des ruines\, seul vestige ayant survécu au passage du temps. Cédant à une inexplicable impulsion\, Suzume tourne la poignée\, et d’autres portes s’ouvrent alors aux quatre coins du Japon\, laissant passer toutes les catastrophes qu’elles renfermaient. L’homme est formel : toute porte ouverte doit être refermée. Suzume s’est égarée où se trouvent les étoiles\, le crépuscule et l’aube\, une voûte céleste où tous les temps se confondent. Guidée par des portes nimbées de mystère\, elle entame un périple afin de toutes les refermer.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR0F5EP#showsession?id=emsx113500007439&ps=ticketingcine
-DURATION:PT2H2M
-LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260929T190000Z
-SUMMARY:Suzume (VOST)
-UID:985635a9-f009-42cd-a5d7-352fdb98f2dc@9856.org
+DTSTART:20260925T190000Z
+SUMMARY:Metropolis (VOST)
+UID:26602c62-a563-4d2a-a028-fb55fb081a8c@2660.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 2\n\nRéalisateur : FERNANDO COLOMO\n\nQue fait une fille comme toi dans un endroit comme\r\nça ? Quand une femme divorce et rencontre un jeune\r\nrocker\, c’est la panique qui résonne au salon de\r\ncoiffure et dans les nuits madrilènes aux accords du\r\ngroupe de rock Burning. Avec ce film scandale\, partagé\r\nentre drame et comédie décalée\, ce sont les piliers de\r\nla société franquiste que sont le mariage et la\r\nsoumission de la femme qui vacillent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007498&ps=ticketingcine
@@ -687,7 +15,95 @@ DURATION:PT1H25M
 LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20261006T150000Z
 SUMMARY:QUE HACE UNA CHICA (VOST)
-UID:397c0ef2-2e3d-462b-b1c3-f00e86a397df@397c.org
+UID:ba504862-e440-484b-a7dc-23f78a31d05e@ba50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : ELOY DE LA IGLESIA\n\nDans l’Espagne franquiste des années 1960\, un jeune\r\nprêtre est en proie à sa libido refoulée qu’une pieuse\r\nparoissienne agite en lui confessant les turpitudes de ses\r\ndevoirs conjugaux. À coups de fantasmes illuminés et\r\nprovocants\, jusqu’au tranchant\, Eloy de la Iglesia\, le\r\nfutur pape du cinéma quinqui\, livre une satire des plus\r\nsubversives de l’Église catholique franquiste\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007501&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T124000Z
+SUMMARY:EL SACERDOTE (VOST)
+UID:ae633f9b-4d51-41c2-8daf-517bb11bccd4@ae63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\nCe programme\, composé de cinq courts- métrages récemment sélectionnés au festival Punto de Vista\, est un échantillon de la recherche cinématographique menée par des artistes et cinéastes de la Péninsule Ibérique. Leur expérimentation s’articule autour de l’animation\, de la non-fiction et de l’hybridation\, explorant les éléments naturels du territoire ainsi que les vastes possibilités offertes par les supports cinématographiques\, du celluloïde au numérique.\r\n\r\nFLOGISTO de CARLOS BAIXAULI\r\nCOROA DE ESPINHOS de FRANCISCO DE MOURA\r\nPORTALES d'ELENA DUQUE\r\nVEGETARE d' ADRIÀ EXPOSIT-GOY\r\nSIN TON NI SON de VICTOR LADERA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007493&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T192000Z
+SUMMARY:HUELLAS\, SENDAS\, CAMINANTES (VOST)
+UID:5a7a0899-9b40-4c04-a5d3-25a5328e5950@5a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : JOSÉ MARÍA CASTELLVÍ\n\nSantos sort de prison après avoir tué un ami. Il est suivi\r\npar un gang de vieux notables qui veut jouer avec lui.\r\nUn film de chasse à l’homme où le gibier se fait\r\nprédateur. Une chasse à la Zaroff taillée dans le\r\nCruising de Friedkin. À coups de cuir et de gorges\r\ntranchées. Une plongée dans les nuits de la Movida\,\r\ndans le trash et l’outrance. Pour éclairer la nuit de\r\nnéons 80’s et régler ses comptes aux derniers\r\nsymboles du franquisme\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007478&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T193000Z
+SUMMARY:POPPERS (VOST)
+UID:7c168ed2-ff76-4bde-8710-147ae5e6b552@7c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Goro Miyazaki\n\nLes aventures du jeune Arren\, prince du royaume d'Enlad\, qui va s'allier aux forces du grand magicien Epervier\, pour rétablir l'équilibre du monde rompu par une sorcière maléfique. Dans le combat qui s'annonce\, Arren et Epervier croiseront la route de Therru\, une mystérieuse jeune fille. Ensemble\, ils dépasseront leurs peurs et uniront leurs destins pour mener le plus fascinant des voyages.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRVS1L7#showsession?id=emsx113500007442&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260930T170000Z
+SUMMARY:Les Contes de Terremer (VOST)
+UID:5361e8b7-1812-4b9b-a92a-eba4ae4c847d@5361.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : ELOY ENCISO CACHAFEIRO\n\nElsa\, artiste espagnole installée à Berlin\, effectue des repérages à travers l’Espagne pour un projet de film sur\r\nles camps de Franco. La mort d’un vieil oncle la contraint à un détour par le manoir familial\, l’amenant à confronter ses recherches à sa propre histoire. Le récit entrelace les tribulations actuelles d’Elsa à l’histoire tragique de Carmen et Ángel\, amants séparés par la défaite en 1939 et internés dans les camps des vainqueurs. Avec son troisième film\, Eloy Enciso Cachafeiro affronte l’amnésie collective de l’Espagne en employant les puissances de la fiction. Entremêlant les temporalités\, Todo es cárcel rappelle que tout peut redevenir prison dans une société qui refuse de connaître son histoire\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007510&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T145000Z
+SUMMARY:TODO ES CARCEL (VOST)
+UID:1b0d9842-e1c7-4bf3-abee-c964237f51bc@1b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nJoe Wilson va rejoindre sa fiancée\, Katherine\, mais il est arrêté car on le prend par erreur pour un criminel qui a kidnappé un enfant et exigé une rançon. Il est incarcéré\, certaines coïncidences suffisant à établir sa culpabilité : il détient\, par exemple\, un billet qui faisait partie de la rançon versée. La nouvelle se propage rapidement\, et les gens s'assemblent autour de la prison pour glaner des informations. Le shérif les disperse\, mais la colère monte dans la foule. Il demande alors au gouverneur de faire envoyer la garde nationale pour prévenir un éventuel lynchage. Cependant\, l'adjoint du shérif révèle aux meneurs l'indice qui a permis d'inculper le suspect…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7IYCL#showsession?id=emsx113500007432&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260927T140000Z
+SUMMARY:Furie (VOST)
+UID:86cd8e81-65b7-4411-a435-54d07309e243@86cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nMei\, 4 ans\, et Satsuki\, 10 ans\, s’installent à la campagne avec leur père pour se rapprocher de l’hôpital où séjourne leur mère. Elles découvrent la nature tout autour de la maison et\, surtout\, l’existence d’animaux étranges et merveilleux\, les Totoros\, avec qui elles deviennent très amies. Un jour\, alors que Satsuki et Mei attendent le retour de leur mère\, elles apprennent que sa sortie de l’hôpital a été repoussée. Mei décide alors d’aller lui rendre visite seule. Satsuki et les gens du village la recherchent en vain. Désespérée\, Satsuki va finalement demander de l’aide à son voisin Totoro.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRCDFG5#showsession?id=emsx113500007434&ps=ticketingcine
+DURATION:PT1H27M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260927T160000Z
+SUMMARY:Mon voisin Totoro (VOST)
+UID:3e888cd1-3e01-4b24-89bd-2f0f9d5928af@3e88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : collectif\n\nBarcelone\, début du XXe siècle : ville des prodiges techniques\, d’une bourgeoisie puissante\, d’un monde ouvrier qui se fait entendre\, d’une culture qui ne cesse de se légitimer et de s’exhiber… Ce programme de courts-métrages nous montre diverses coutures d’une capitale en perpétuelle transformation.\r\n\r\nGent i paisatge de Catalunya de Josep Gaspar\, 1926\, 1h\r\nIris park. Construcción e inauguración de Joan Solà Mestres\, Pathé frères\, 1911\, 9 min\r\nActuació del transformista Derkas de Anonyme\, 3 min\r\nBarcelona se prepara para la exposición internacional de Anonyme\, 1929\, 21 min\r\nEncara que sembli bola de Llorenç Llobet Gràcia\, 1929\, 3 min\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007515&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T174500Z
+SUMMARY:BENVINGUTS A LA GRAN CIUTAT ! (VOST)
+UID:b87e35cf-894d-4890-b7b3-b083347ad727@b87e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nLe policier Tom Duncan se suicide en laissant une lettre où il révèle la corruption de l'administration de la ville qui est sous la coupe du gangster Mike Lagana. Dave Bannion pense qu'il y a une autre raison au suicide de son collègue. Ses soupçons sont confirmés lorsque Lucy Chapman\, une entraîneuse\, lui apprend qu'il était en parfaite santé et décidé à divorcer pour elle. Le lendemain\, Dave reçoit l'ordre d'abandonner l'enquête\, mais ne s'y résout pas...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR9E4R9#showsession?id=emsx113500007437&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260929T170000Z
+SUMMARY:Règlement de comptes (VOST)
+UID:cae7cc09-e0ea-4a49-bc36-59a54ab4e4a6@cae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : ELOY ENCISO CACHAFEIRO\n\nElsa\, artiste espagnole installée à Berlin\, effectue des repérages à travers l’Espagne pour un projet de film sur\r\nles camps de Franco. La mort d’un vieil oncle la contraint à un détour par le manoir familial\, l’amenant à confronter ses recherches à sa propre histoire. Le récit entrelace les tribulations actuelles d’Elsa à l’histoire tragique de Carmen et Ángel\, amants séparés par la défaite en 1939 et internés dans les camps des vainqueurs. Avec son troisième film\, Eloy Enciso Cachafeiro affronte l’amnésie collective de l’Espagne en employant les puissances de la fiction. Entremêlant les temporalités\, Todo es cárcel rappelle que tout peut redevenir prison dans une société qui refuse de connaître son histoire\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007470&ps=ticketingcine
+DURATION:PT1H49M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T123000Z
+SUMMARY:TODO ES CARCEL (VOST)
+UID:a3be8c09-4c48-4674-b083-2466808db7ea@a3be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : ÁNGEL SANTOS TOUZA\n\nPablo\, un sculpteur entre deux âges\, vit dans une zone\r\nrurale de la côte galicienne au milieu des marais et des\r\ncheminées des anciennes fabriques. Par-delà son\r\nactivité artistique\, Pablo est en quête de solitude\,\r\ns’isolant sans cesse davantage\, allant presque jusqu’à\r\ns’inventer une nouvelle identité. Mais un jour\, le passé\r\nvient à sa rencontre en la personne de son ancien\r\namour\, Andrea\, désormais installée au Canada.\r\nL’espace de quelques jours\, Pablo et Andrea ravivent\r\nleur ancienne relation\, jusqu’à ce qu’un événement\r\ninattendu vienne bousculer toutes les certitudes.\r\nRythmes alanguis\, paysages fantomatiques\, mystères\r\ndu cœur humain… L’œuvre du cinéaste galicien Ángel\r\nSantos Touza réinvente le Romantisme au cinéma.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007502&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T143500Z
+SUMMARY:ASI LLEGO LA NOCHE (VOST)
+UID:72b51493-8ace-47e0-9d18-f1dd9c999d9d@72b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 1\n\nRéalisateur : ÁNGEL SANTOS TOUZA\n\nPablo\, un sculpteur entre deux âges\, vit dans une zone\r\nrurale de la côte galicienne au milieu des marais et des\r\ncheminées des anciennes fabriques. Par-delà son\r\nactivité artistique\, Pablo est en quête de solitude\,\r\ns’isolant sans cesse davantage\, allant presque jusqu’à\r\ns’inventer une nouvelle identité. Mais un jour\, le passé\r\nvient à sa rencontre en la personne de son ancien\r\namour\, Andrea\, désormais installée au Canada.\r\nL’espace de quelques jours\, Pablo et Andrea ravivent\r\nleur ancienne relation\, jusqu’à ce qu’un événement\r\ninattendu vienne bousculer toutes les certitudes.\r\nRythmes alanguis\, paysages fantomatiques\, mystères\r\ndu cœur humain… L’œuvre du cinéaste galicien Ángel\r\nSantos Touza réinvente le Romantisme au cinéma.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007519&ps=ticketingcine
@@ -695,15 +111,567 @@ DURATION:PT2H
 LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20261009T164500Z
 SUMMARY:ASI LLEGO LA NOCHE (VOST)
-UID:1abfde53-0d86-4479-a1eb-4a4011bdc983@1abf.org
+UID:b46a0d45-6eea-4e4e-8a50-a2b88ad03031@b46a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Salle 1\n\nRéalisateur : Rintaro\n\nÀ Metropolis\, une cité futuriste\, humains et robots cohabitent\, mais vivent dans des espaces bien délimités… Dans une atmosphère baignée par la musique de jazz\, cette cité est le théâtre d'une enquête de police menée par un inspecteur japonais et son jeune neveu\, Kenichi\, au sujet d'un savant accusé de trafic d'organes\, le docteur Laugthon\, et qui va s'avérer être au service de l'homme le plus puissant de la ville. Celui-ci utilise les services du savant pour créer un robot ultra-moderne\, ayant l'apparence d'une petite fille\, Tima. Ce robot est la clé d'une arme secrète destinée à lui assurer la domination du monde\, la Ziggurat\, une haute tour à l'image de la tour de Babel\, conçue pour égaler Dieu.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1IQ6M#showsession?id=emsx113500007429&ps=ticketingcine
-DURATION:PT1H53M
+DESCRIPTION:Salle 1\n\nRéalisateur : ELOY ENCISO CACHAFEIRO\n\nElsa\, artiste espagnole installée à Berlin\, effectue des repérages à travers l’Espagne pour un projet de film sur\r\nles camps de Franco. La mort d’un vieil oncle la contraint à un détour par le manoir familial\, l’amenant à confronter ses recherches à sa propre histoire. Le récit entrelace les tribulations actuelles d’Elsa à l’histoire tragique de Carmen et Ángel\, amants séparés par la défaite en 1939 et internés dans les camps des vainqueurs. Avec son troisième film\, Eloy Enciso Cachafeiro affronte l’amnésie collective de l’Espagne en employant les puissances de la fiction. Entremêlant les temporalités\, Todo es cárcel rappelle que tout peut redevenir prison dans une société qui refuse de connaître son histoire\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007488&ps=ticketingcine
+DURATION:PT1H49M
 LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
-DTSTART:20260925T190000Z
-SUMMARY:Metropolis (VOST)
-UID:b378c249-b565-4bad-a50f-30ff5a047cf8@b378.org
+DTSTART:20261005T161500Z
+SUMMARY:TODO ES CARCEL (VOST)
+UID:78bfa6ae-9649-4dc1-9e98-46b2b0d96530@78bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : ELOY DE LA IGLESIA\n\nDans l’Espagne franquiste des années 1960\, un jeune\r\nprêtre est en proie à sa libido refoulée qu’une pieuse\r\nparoissienne agite en lui confessant les turpitudes de ses\r\ndevoirs conjugaux. À coups de fantasmes illuminés et\r\nprovocants\, jusqu’au tranchant\, Eloy de la Iglesia\, le\r\nfutur pape du cinéma quinqui\, livre une satire des plus\r\nsubversives de l’Église catholique franquiste\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007484&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261004T180000Z
+SUMMARY:EL SACERDOTE (VOST)
+UID:a7e0d6dd-0a81-4ef1-a01d-928f398d1894@a7e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : HELENA GIRÓN & SAMUEL DELGADO\n\nAu XVe siècle\, sur l’aride île canarienne de la Graciosa\,\r\nFátima est l’esclave de Don Gaspar\, un marquis\r\nd’origine française décadent\, qui possède l’unique\r\nsource d’eau douce. Quand le puits s’assèche et que\r\nla population se rebelle\, Fátima doit entreprendre un\r\npériple à la recherche d’une chance de survie pour sa\r\ncommunauté. Après Un corps sous la lave\, le deuxième\r\nlong-métrage d’Helena Girón et Samuel Delgado est\r\nune fable historique qui oppose la pénurie comme\r\ninstrument de pouvoir colonial et la solidarité des\r\ngestes émancipateurs des dominées. Las islas\r\nafortunadas creuse ainsi le sillon d’un cinéma des\r\ncorps et des éléments\, éminemment poétique\,\r\npolitique et personnel.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007481&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261004T174500Z
+SUMMARY:LAS ISLAS AFORTUNADAS (VOST)
+UID:dd364ac0-dfb3-42f1-8b81-65370644f647@dd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JUAN ANTONIO BARDEM\n\nLe road movie de la Transition. Juan\, mécanicien à\r\nMadrid\, enfourche sa moto pour se rendre à Torremolinos\r\nà l’occasion d’un pont. Sur la route\, faite de rencontres\r\ndiverses\, il va prendre conscience du changement\r\nen cours… Alfredo Landa\, star de la comédie sexy\r\nà l’espagnole – le genre portera même son nom :\r\nel landismo –\, va subvertir ici le personnage de macho\r\nibérique qu’il incarnait à l’écran. Un film majeur\, dont la\r\nplaie à la main dans le final achève la transformation du\r\nhéros. La Transition est d’abord une cicatrisation.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007509&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T124500Z
+SUMMARY:EL PUENTE (VOST)
+UID:449fb9f4-d98b-49e0-a407-b478dc733fcc@449f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : JORDI CADENA\n\nGumer sort de prison et veut monter un gang. Elle\r\nretrouve son amie Charo qui doit rendre des comptes\r\nà son proxénète… Barcelona Sur a d’abord un aspect\r\ndocumentaire\, saisissant la Barcelone d’avant les Jeux\r\nolympiques\, le quartier du port et ses ruelles marginales\,\r\nmais c’est esthétiquement qu’il claque. Il devrait\r\nrappeler le film quinqui de délinquance juvénile dont\r\nce sont les derniers feux\, mais on pense plutôt au\r\ncinéma américain de Michael Mann\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007507&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T174000Z
+SUMMARY:BARCELONA SUR (VOST)
+UID:46a3c45e-adbf-4c00-b85b-46a51b684b6b@46a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : MAURICIO FREYRE\n\nEstados Generales s’ouvre sur un baiser échangé au\r\ncreux de la végétation du Jardin Botanique de Madrid.\r\nOutre des arbres venus d’Amérique\, d’Europe et du\r\nPacifique\, on y trouve les archives d’expéditions\r\nscientifiques menées dans les anciennes colonies\, dont\r\ndes spécimens végétaux non identifiés. Mauricio Freyre\r\nimagine le voyage de retour d’un échantillon de ces\r\ngraines\, du pays colonisateur au pays colonisé :\r\nle Pérou\, où la nature est désormais dominée par\r\nles normes de l’industrie agroalimentaire. Patiemment\,\r\nle film construit son contre-récit décolonial. L’enfance\,\r\nles anciens rites et la nuit sont les lieux qui disent que\r\ntout est possible et qu’une graine centenaire peut\r\nencore germer\;\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007516&ps=ticketingcine
+DURATION:PT1H16M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T193000Z
+SUMMARY:ESTADOS GENERALES (VOST)
+UID:def51323-ca6d-4b88-84e8-255d46ce2ac6@def5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nDans un futur très proche\, un groupe de brillants scientifiques ont créé une machine capable de contrôler nos rêves. Mais cette merveille technologique a été dérobée. Pour éviter le chaos et sauver l'humanité\, Paprika doit découvrir qui sont les coupables et empêcher ces terroristes du rêve de contrôler nos esprits.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQNR7T#showsession?id=emsx113500007431&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260926T170000Z
+SUMMARY:Paprika (VOST)
+UID:c35e974c-7fcd-4643-bd24-d8b8068687b8@c35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nTrois amis traversent la France sans raison apparente\,\r\nà la rencontre d’amours idylliques et éphémères. De\r\nToulouse à Annecy en passant par Paris\, certains diront\r\nqu’ils brûlent les derniers bateaux de la jeunesse tandis\r\nque d’autres parleront du déclin du genre masculin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007524&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T123000Z
+SUMMARY:LOS EXILIADOS ROMANTICOS (VOST)
+UID:878d73e2-f163-47e5-b5ea-780e3b04568d@878d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : IVÁN ZULUETA\n\nQuand un cinéaste de films d’horreur fauché reçoit une\r\nbobine de super 8 impressionnée de mystère. Zulueta\r\ncasse les codes du cinéma pour y chercher dans les\r\ndébris une transfiguration littérale. Toxicomanie et\r\ncinéphilie. Le cinéma comme état de conscience\, de la\r\nprise de vue au lâcher prise. Narration explosée\, image\r\ndévoreuse : Arrebato ne se résume pas\, il se vit.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007538&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261011T161500Z
+SUMMARY:ARREBATO (VOST)
+UID:defbd002-ba52-4bb0-bcbe-8fb021790d88@defb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : AFIOCO GNECCO & CAROLINA YUSTE\n\nUni·es par une profonde amitié\, Rafael et Carolina\r\ndécident d’un commun accord de filmer Rafael durant\r\nles premières années de sa transition de genre. Le film\r\nretrace un processus intime marqué par la vulnérabilité\,\r\nle courage\, parfois le découragement\, et la découverte.\r\nEntre les paysages lointains du Chili\, d’où est originaire\r\nRafael\, et les moments de complicité partagés à\r\nMadrid\, le documentaire dévoile la beauté – et aussi\r\nla difficulté – d’habiter un corps en pleine transformation\r\ndans une société qui commence tout juste à apprendre\r\nà regarder différemment. Este cuerpo mío est un tendre\r\nvoyage géographique et émotionnel en quête de\r\nréconciliation et d’acceptation de soi\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007522&ps=ticketingcine
+DURATION:PT1H26M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261009T160000Z
+SUMMARY:ESTE CUERPO ES MIO (VOST)
+UID:6034d4eb-8988-4acf-a1df-acac14415621@6034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : CARLOS CASAS\n\nUn pêcheur solitaire vit sur une plateforme en bambou\r\nau large de l’île volcanique de Krakatoa en Indonésie.\r\nAprès une nuit inquiétante où les poissons ont disparu\,\r\nil est rejeté par une éruption dévastatrice sur un\r\nterritoire inconnu. Avec cette fable écologique qui suit\r\nles pas de Roni Herliansyah\, survivant de l’éruption du\r\nvolcan en 2018\, Carlos Casas propose une réflexion\r\nsur l’apocalypse climatique autant qu’une exploration\r\nfilmique sensorielle. Nature sauvage\, conscience\r\nenvironnementale\, explosion sonore et chromatique\r\ns’entrelacent dans un flux d’images hypnotiques :\r\nl’écran de cinéma devient un lieu où sentir vibrer la\r\npuissance de la terre et la vulnérabilité de celles et\r\nceux qui l’habitent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007528&ps=ticketingcine
+DURATION:PT1H14M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T120000Z
+SUMMARY:KRAKATOA (VOST)
+UID:bf2c957f-53be-487e-9e82-d95372e3e3d6@bf2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : CARLOS CASAS\n\nUn pêcheur solitaire vit sur une plateforme en bambou\r\nau large de l’île volcanique de Krakatoa en Indonésie.\r\nAprès une nuit inquiétante où les poissons ont disparu\,\r\nil est rejeté par une éruption dévastatrice sur un\r\nterritoire inconnu. Avec cette fable écologique qui suit\r\nles pas de Roni Herliansyah\, survivant de l’éruption du\r\nvolcan en 2018\, Carlos Casas propose une réflexion\r\nsur l’apocalypse climatique autant qu’une exploration\r\nfilmique sensorielle. Nature sauvage\, conscience\r\nenvironnementale\, explosion sonore et chromatique\r\ns’entrelacent dans un flux d’images hypnotiques :\r\nl’écran de cinéma devient un lieu où sentir vibrer la\r\npuissance de la terre et la vulnérabilité de celles et\r\nceux qui l’habitent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007513&ps=ticketingcine
+DURATION:PT1H14M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T143000Z
+SUMMARY:KRAKATOA (VOST)
+UID:56a42632-ddde-4cf3-94b1-c27d9d3d4e81@56a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nNonoko Yamada\, une petite fille espiègle au franc parler\, nous présente chaque membre de sa famille peu ordinaire : son père\, Takashi Yamada\, homme d'affaires un peu bougon \; sa mère\, Matsuko\, au naturel spontané\, un peu fainéante\, vite démoralisée par les tâches ménagères et autres travaux domestiques. Quant à Naboru\, son grand frère\, il déteste étudier. Et enfin Shige\, sa grand-mère\, une septuagénaire bien bavarde qui ne rate pas une occasion de donner son avis sur tout et de s'amuser des querelles du couple.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPGGIC#showsession?id=emsx113500007427&ps=ticketingcine
+DURATION:PT1H44M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260925T170000Z
+SUMMARY:Mes voisins les Yamada (VOST)
+UID:41bfdd73-045f-43bf-a405-3f864f1db303@41bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : MAURICIO FREYRE\n\nEstados Generales s’ouvre sur un baiser échangé au\r\ncreux de la végétation du Jardin Botanique de Madrid.\r\nOutre des arbres venus d’Amérique\, d’Europe et du\r\nPacifique\, on y trouve les archives d’expéditions\r\nscientifiques menées dans les anciennes colonies\, dont\r\ndes spécimens végétaux non identifiés. Mauricio Freyre\r\nimagine le voyage de retour d’un échantillon de ces\r\ngraines\, du pays colonisateur au pays colonisé :\r\nle Pérou\, où la nature est désormais dominée par\r\nles normes de l’industrie agroalimentaire. Patiemment\,\r\nle film construit son contre-récit décolonial. L’enfance\,\r\nles anciens rites et la nuit sont les lieux qui disent que\r\ntout est possible et qu’une graine centenaire peut\r\nencore germer\;\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007497&ps=ticketingcine
+DURATION:PT1H16M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261006T133000Z
+SUMMARY:ESTADOS GENERALES (VOST)
+UID:64671570-b625-42ed-be14-1271c76a292a@6467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007475&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T140000Z
+SUMMARY:VIDA EN SOMBRAS (VOST)
+UID:bfe4e955-aa71-4a17-9df7-1a7683b73d93@bfe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO COLOMO\n\nMadrid\, 1977. Alors que se jouent les premières\r\nélections démocratiques\, une femme et deux hommes\r\néprouvent la libération des mœurs et de la pensée. Un\r\nchemin vers les idées progressistes de l’intime et du\r\npolitique\, qui ne se fait pas sans doutes ni confusions.\r\nUn fleuron de la comédie madrilène et le parfait\r\nexemple des films de la Transition démocratique.\r\nIndispensable.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007526&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T163000Z
+SUMMARY:TIGRES DE PAPEL (VOST)
+UID:0a94c1f1-ef5d-481c-8e7d-4179c4e47066@0a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : MIGUEL EEK\n\nIngénieur agronome\, poète\, penseur utopique et\r\nrévolutionnaire\, parfois surnommé le Che Guevara\r\nafricain\, Amílcar Cabral défia le Portugal et mena le\r\nmouvement de décolonisation en Guinée-Bissau et au\r\nCap Vert du milieu des années 1950 au début des\r\nannées 1970. À travers de riches images d’archives et\r\nun journal imaginaire\, filmé en 16mm et composé de\r\nlettres de Cabral\, Amílcar est une tentative pour\r\nreconstituer la vie\, les trahisons et les ambitions d’un\r\npersonnage polémique\, qui continue de réveiller des\r\nsentiments opposés. Réalisé sur cinq ans\, le\r\ndocumentaire de Miguel Eek est une revendication\r\nhistorique et poétique de la vision du monde\r\npanafricaine de Cabral\, qui demeure d’une indéniable\r\nmodernité\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007508&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T193000Z
+SUMMARY:AMILCAR (VOST)
+UID:28477568-03f6-4658-895a-ca0060004e06@2847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007438&ps=ticketingcine
+DURATION:PT55M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260929T173000Z
+SUMMARY:PROD.AUDIO EN REGION (VOST)
+UID:4af75ec2-d3d7-477c-b968-de26f0bb9e77@4af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Fritz Lang\n\nLe Dr Mabuse dirige\, de l'asile psychiatrique où il est interné\, un gang de malfaiteurs et le docteur Baum\, directeur de l'établissement\, grâce à ses pouvoirs hypnotiques. Le commissaire Karl Lehmann et le bandit repenti Kent parviendront après nombre de rebondissements à démanteler le réseau.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSUPNO#showsession?id=emsx113500007444&ps=ticketingcine
+DURATION:PT2H1M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261001T180000Z
+SUMMARY:Le Testament du docteur Mabuse (VOST)
+UID:365df3e4-ece5-4c47-b2e0-f7562ba6cf7a@365d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : MIGUEL EEK\n\nIngénieur agronome\, poète\, penseur utopique et\r\nrévolutionnaire\, parfois surnommé le Che Guevara\r\nafricain\, Amílcar Cabral défia le Portugal et mena le\r\nmouvement de décolonisation en Guinée-Bissau et au\r\nCap Vert du milieu des années 1950 au début des\r\nannées 1970. À travers de riches images d’archives et\r\nun journal imaginaire\, filmé en 16mm et composé de\r\nlettres de Cabral\, Amílcar est une tentative pour\r\nreconstituer la vie\, les trahisons et les ambitions d’un\r\npersonnage polémique\, qui continue de réveiller des\r\nsentiments opposés. Réalisé sur cinq ans\, le\r\ndocumentaire de Miguel Eek est une revendication\r\nhistorique et poétique de la vision du monde\r\npanafricaine de Cabral\, qui demeure d’une indéniable\r\nmodernité\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007491&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T160000Z
+SUMMARY:AMILCAR (VOST)
+UID:92b769f8-1781-44d1-b7c9-d6c84597f6e7@92b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : collectif\n\nBarcelone\, début du XXe siècle : ville des prodiges techniques\, d’une bourgeoisie puissante\, d’un monde ouvrier qui se fait entendre\, d’une culture qui ne cesse de se légitimer et de s’exhiber… Ce programme de courts-métrages nous montre diverses coutures d’une capitale en perpétuelle transformation.\r\n\r\nGent i paisatge de Catalunya de Josep Gaspar\, 1926\, 1h\r\nIris park. Construcción e inauguración de Joan Solà Mestres\, Pathé frères\, 1911\, 9 min\r\nActuació del transformista Derkas de Anonyme\, 3 min\r\nBarcelona se prepara para la exposición internacional de Anonyme\, 1929\, 21 min\r\nEncara que sembli bola de Llorenç Llobet Gràcia\, 1929\, 3 min\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007537&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261011T134500Z
+SUMMARY:BENVINGUTS A LA GRAN CIUTAT ! (VOST)
+UID:05fdf22a-591c-46da-a8dd-e42498512bde@05fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : HELENA GIRÓN & SAMUEL DELGADO\n\nAu XVe siècle\, sur l’aride île canarienne de la Graciosa\,\r\nFátima est l’esclave de Don Gaspar\, un marquis\r\nd’origine française décadent\, qui possède l’unique\r\nsource d’eau douce. Quand le puits s’assèche et que\r\nla population se rebelle\, Fátima doit entreprendre un\r\npériple à la recherche d’une chance de survie pour sa\r\ncommunauté. Après Un corps sous la lave\, le deuxième\r\nlong-métrage d’Helena Girón et Samuel Delgado est\r\nune fable historique qui oppose la pénurie comme\r\ninstrument de pouvoir colonial et la solidarité des\r\ngestes émancipateurs des dominées. Las islas\r\nafortunadas creuse ainsi le sillon d’un cinéma des\r\ncorps et des éléments\, éminemment poétique\,\r\npolitique et personnel.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007511&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T170000Z
+SUMMARY:LAS ISLAS AFORTUNADAS (VOST)
+UID:d2ef757c-aaac-4670-bc2f-baa2354aff7a@d2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\nCarte blanche au Nouveau Printemps en 5 courts métrages\r\nLa sélection rassemble ainsi fiction\, documentaire et essai\, des films qui jouent parfois eux-mêmes avec les limites des cadres habituels. Diverses préoccupations existentielles — intimes\, sociales ou écologiques —\r\nnous entraînent dans une poésie du quotidien et des relations que le cinéma\, et particulièrement le court-\r\nmétrage\, semble capable de saisir avec amour\, humour et subtilité.\r\n\r\nENTRÓ CON UN HACHA de CANDE LÁZARO\r\nFERIDES de ALBA CROS\r\nA PLANET PAINTED BY HAND de MARTÍ MADAULA ESQUIROL\r\nLIKE MOTHS TO LIGHT de GALA HERNÁNDEZ LOPEZ\r\nSONO SOLTO de RODRIGO SOARES TEXEIRA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007530&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T153000Z
+SUMMARY:UN MUNDO DE SUENOS (VOST)
+UID:dccc43b9-90f8-4dbf-a523-58a92df0e16e@dccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO COLOMO\n\nQue fait une fille comme toi dans un endroit comme\r\nça ? Quand une femme divorce et rencontre un jeune\r\nrocker\, c’est la panique qui résonne au salon de\r\ncoiffure et dans les nuits madrilènes aux accords du\r\ngroupe de rock Burning. Avec ce film scandale\, partagé\r\nentre drame et comédie décalée\, ce sont les piliers de\r\nla société franquiste que sont le mariage et la\r\nsoumission de la femme qui vacillent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007525&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T140000Z
+SUMMARY:QUE HACE UNA CHICA (VOST)
+UID:13578707-d81d-4f03-b499-848e38990e19@1357.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : AFIOCO GNECCO & CAROLINA YUSTE\n\nUni·es par une profonde amitié\, Rafael et Carolina\r\ndécident d’un commun accord de filmer Rafael durant\r\nles premières années de sa transition de genre. Le film\r\nretrace un processus intime marqué par la vulnérabilité\,\r\nle courage\, parfois le découragement\, et la découverte.\r\nEntre les paysages lointains du Chili\, d’où est originaire\r\nRafael\, et les moments de complicité partagés à\r\nMadrid\, le documentaire dévoile la beauté – et aussi\r\nla difficulté – d’habiter un corps en pleine transformation\r\ndans une société qui commence tout juste à apprendre\r\nà regarder différemment. Este cuerpo mío est un tendre\r\nvoyage géographique et émotionnel en quête de\r\nréconciliation et d’acceptation de soi\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007505&ps=ticketingcine
+DURATION:PT1H26M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T140000Z
+SUMMARY:ESTE CUERPO ES MIO (VOST)
+UID:b7e776ff-6f2e-40ed-ab62-8e79b4abcd24@b7e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\nCe programme\, composé de cinq courts- métrages récemment sélectionnés au festival Punto de Vista\, est un échantillon de la recherche cinématographique menée par des artistes et cinéastes de la Péninsule Ibérique. Leur expérimentation s’articule autour de l’animation\, de la non-fiction et de l’hybridation\, explorant les éléments naturels du territoire ainsi que les vastes possibilités offertes par les supports cinématographiques\, du celluloïde au numérique.\r\n\r\nFLOGISTO de CARLOS BAIXAULI\r\nCOROA DE ESPINHOS de FRANCISCO DE MOURA\r\nPORTALES d'ELENA DUQUE\r\nVEGETARE d' ADRIÀ EXPOSIT-GOY\r\nSIN TON NI SON de VICTOR LADERA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007536&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261011T120000Z
+SUMMARY:HUELLAS\, SENDAS\, CAMINANTES (VOST)
+UID:4feba229-eb62-4edf-8620-0892001bdc1a@4feb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Fritz Lang\n\nStephen Byrne est romancier en panne d'inspiration qui vit et travaille près d'une rivière. Insistant violemment après lui avoir fait des avances\, il tue sa jolie femme de chambre. L'écrivain\, avec l'aide de son frère boiteux\, dissimule le corps dans un sac qu'ils jettent dans la rivière. Mais\, quelque temps plus tard\, le corps revient à la surface et flotte près de la maison. En dépit des efforts de Stephen Byrne pour récupérer le corps\, la police s'en empare avant eux. L'écrivain se rend bientôt compte que le drame profite aux ventes de ses romans et que\, complice forcé\, son frère va se retrouver accusé seul du meurtre. Dans un état d'exaltation dû à la force des émotions vécues à partir du meurtre\, il retrouve son inspiration et entreprend la rédaction d'un livre sur le crime. Alors qu'il sombre dans la folie\, son frère\, dont la condamnation semble inéluctable\, et sa femme\, délaissée malgré ses efforts\, tombent amoureux…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRFWB33#showsession?id=emsx113500007435&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260926T160000Z
+SUMMARY:House by the River (VOST)
+UID:6367c35d-a19e-4e72-a8d0-5fe98dcf55ff@6367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : MIGUEL EEK\n\nIngénieur agronome\, poète\, penseur utopique et\r\nrévolutionnaire\, parfois surnommé le Che Guevara\r\nafricain\, Amílcar Cabral défia le Portugal et mena le\r\nmouvement de décolonisation en Guinée-Bissau et au\r\nCap Vert du milieu des années 1950 au début des\r\nannées 1970. À travers de riches images d’archives et\r\nun journal imaginaire\, filmé en 16mm et composé de\r\nlettres de Cabral\, Amílcar est une tentative pour\r\nreconstituer la vie\, les trahisons et les ambitions d’un\r\npersonnage polémique\, qui continue de réveiller des\r\nsentiments opposés. Réalisé sur cinq ans\, le\r\ndocumentaire de Miguel Eek est une revendication\r\nhistorique et poétique de la vision du monde\r\npanafricaine de Cabral\, qui demeure d’une indéniable\r\nmodernité\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007529&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T134000Z
+SUMMARY:AMILCAR (VOST)
+UID:a39cd69e-0fa8-402b-a70b-082401d45a43@a39c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nParti en quête d'un remède\, un prince affecté par un mal fatal se retrouve dans une contrée où se livre une bataille entre une ville minière et les animaux de la forêt.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRD6FG5#showsession?id=emsx113500007445&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261001T190000Z
+SUMMARY:Princesse Mononoke (VOST)
+UID:5a8728af-0c8a-4d51-9ac5-a268a2e10f16@5a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nÀ Tokyo\, dans le quartier populaire de Shinjuku\, pendant les fêtes de Noël. Alors que le froid a envahi la ville\, Gin\, un homme bourru\, Miyuki\, un adolescent fugueur et Hana\, un travesti\, vivent ensemble dans les rues de la ville. Un soir\, à la recherche de nourriture\, ils trouvent un bébé abandonné dans une poubelle. Dans ses langes\, une clef dont les comparses ignorent à quoi elle peut bien servir. Bien décidés à protéger le nourrisson des rigueurs du froid\, les trois clochards cherchent également à retrouver les parents du bambin le plus rapidement possible. La clef s'avère être leur seul indice. Commence pour eux un parcours semé d'embûches…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRLJR7T#showsession?id=emsx113500007441&ps=ticketingcine
+DURATION:PT1H32M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260930T190000Z
+SUMMARY:Tokyo Godfathers (VOST)
+UID:ea563c0c-8c49-4e55-9686-a2cbe98e4b75@ea56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : AFIOCO GNECCO & CAROLINA YUSTE\n\nUni·es par une profonde amitié\, Rafael et Carolina\r\ndécident d’un commun accord de filmer Rafael durant\r\nles premières années de sa transition de genre. Le film\r\nretrace un processus intime marqué par la vulnérabilité\,\r\nle courage\, parfois le découragement\, et la découverte.\r\nEntre les paysages lointains du Chili\, d’où est originaire\r\nRafael\, et les moments de complicité partagés à\r\nMadrid\, le documentaire dévoile la beauté – et aussi\r\nla difficulté – d’habiter un corps en pleine transformation\r\ndans une société qui commence tout juste à apprendre\r\nà regarder différemment. Este cuerpo mío est un tendre\r\nvoyage géographique et émotionnel en quête de\r\nréconciliation et d’acceptation de soi\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007477&ps=ticketingcine
+DURATION:PT1H26M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T175000Z
+SUMMARY:ESTE CUERPO ES MIO (VOST)
+UID:af994ca4-1299-40c7-9602-06edb049bed2@af99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nSheeta\, seule héritière des secrets de Laputa\, la cité volante\, attire l’avidité des pirates et de l’armée. Poursuivie\, elle est sauvée par Pazu\, un jeune pilote d’avion travaillant dans une cité minière.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FREEJJQ#showsession?id=emsx113500007430&ps=ticketingcine
+DURATION:PT2H4M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260926T140000Z
+SUMMARY:Le Château dans le Ciel (VOST)
+UID:b66c7e18-d96a-4336-92ac-44ed9752b750@b66c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : SOUMAYA HIDALGO DJAHDOU\n\nQuand Soumaya\, 29 ans\, décide d’aller voir sa grand-\r\nmère en Algérie\, cette simple visite se transforme\r\nen périple à travers l’identité et le sentiment\r\nd’appartenance. Ayant grandi à Barcelone\, la cinéaste\r\nse sent en décalage vis-à-vis de sa mère algérienne\,\r\nprincipalement sur la question de la foi et de la\r\ntradition. En filmant son retour\, Soumaya va se plonger\r\ndans un monde qu’elle méconnait\, n’ayant de cesse\r\nd’écouter\, de partager et de revisiter les archives\r\nfamiliales. El vol de la cigonya associe humour\,\r\nconversations intimes et films de famille pour révéler\r\nla persistance des liens entre trois générations de\r\nfemmes et livrer une réflexion pleine de fraîcheur sur\r\nla migration\, l’amour et la mémoire.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007506&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T160000Z
+SUMMARY:EL VOL DE LA CIGONYA (VOST)
+UID:774d68e9-08c2-475e-878e-0868c28b6b3b@774d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO COLOMO\n\nMadrid\, 1977. Alors que se jouent les premières\r\nélections démocratiques\, une femme et deux hommes\r\néprouvent la libération des mœurs et de la pensée. Un\r\nchemin vers les idées progressistes de l’intime et du\r\npolitique\, qui ne se fait pas sans doutes ni confusions.\r\nUn fleuron de la comédie madrilène et le parfait\r\nexemple des films de la Transition démocratique.\r\nIndispensable.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007486&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T130000Z
+SUMMARY:TIGRES DE PAPEL (VOST)
+UID:77caf989-cd1a-4935-bcce-00f784ad8040@77ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : PEDRO ALMODOVAR\n\nJorge est mort\, le shoot de la fin. Comme un clap. Yolanda\, son amie chanteuse\, quitte la scène et les nuits madrilènes coupées à la strychnine et se réfugie dans un couvent de bonnes soeurs. Le couvent des Rédemptrices humiliées qui n’est pas le moins rock’n’roll des repères. Yolanda trouvera-t-elle la paix ou a-t-elle mis les pieds dans les ténèbres ? Le troisième film d’un Almodóvar provocateur avec une belle dose de mélancolie musicale qui deviendra sa griffe.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007533&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261011T133000Z
+SUMMARY:DANS LES TENEBRES (VOST)
+UID:56090e9e-e372-4716-9be2-321c0e12015b@5609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nToute la presse ne parle que de ça : le maniaque tueur d’enfants\, qui terrorise la ville depuis quelques temps\, vient de faire une nouvelle victime. Chargé de l’enquête\, le commissaire Lohmann multiplie les rafles dans les bas-fonds. Gênée par toute cette agitation\, la pègre décide de retrouver elle-même le criminel : elle charge les mendiants et les clochards de surveiller chaque coin de rue…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRCFMZX#showsession?id=emsx113500007436&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260926T190000Z
+SUMMARY:M le Maudit (VOST)
+UID:444acb05-02d3-4add-8b33-4869acdb253c@444a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : MARTHA MATUTE\n\nÀ 18 ans\, Claudia ne veut pas être une héroïne. Mais\r\nla maladie neurodégénérative de sa mère s’abat sur\r\nelle comme une tempête silencieuse\, entraînant la\r\nredéfinition des rôles au sein de sa famille. Entre devoir\r\nfilial et désir de vivre sa vie comme n’importe quelle\r\nfille de son âge\, Claudia cherche une façon d’habiter\r\ncette nouvelle réalité qui bouleverse son quotidien.\r\nGrâce à une mise en scène concise et dépourvue de\r\npathos\, Marta Matute signe une première œuvre intime\r\net pleine de grâce\, entre récit d’apprentissage et\r\ncritique sociale\, dans laquelle les ellipses et les regards\r\npèsent plus que les mots. Loin des clichés\, Yo no moriré\r\nde amor n’est pas un film sur la maladie\, mais sur la\r\nbeauté et la difficulté du soin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007503&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T165000Z
+SUMMARY:YO NO MORIRÉ DE AMOR (VOST)
+UID:6b4efda3-be85-4205-a092-4a56fd21e28d@6b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : ALBERTO SEDANO\n\nAvec la fin de la dictature\, le cinéma espagnol donne\r\njour à des films d’exploitation complètement\r\ndébridés. Érotisme\, violence\, horreur\, un vrai\r\ndéferlement d’interdits charriés par une production\r\naussi chaotique qu’effervescente. C’est cheap\, c’est\r\nvulgaire\, c’est trash. Le public adore. La jeune\r\ndémocratie\, qui a fait sauter la censure\, met en place\r\nune classification spécifique pour encadrer cette\r\nproduction : la catégorie “S”… Une histoire courte et\r\nintense\, comme le punk\, qu’Alberto Sedano nous\r\nraconte avec celles et ceux qui l’ont faite. Le film est\r\nnarré par Iggy Pop et compte avec la participation de\r\nGaspar Noé et Álex de la Iglesia\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007532&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T185000Z
+SUMMARY:EXORCISMO (VOST)
+UID:1b2648be-d893-4bb0-b228-0818fb717f8b@1b26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : IRENE BARTOLOMÉ\n\nAlicia\, une jeune femme espagnole\, revient à Beyrouth\r\noù elle habitait lors de l’explosion du port de la ville\, le\r\n4 août 2020. Alicia est à la recherche de réponses sur\r\nce que signifie le “progrès” et la destruction\, sur\r\ncomment la ville vit au milieu d’un paysage mutilé et\r\npartiellement en ruines. Suivant les déambulations de\r\nla protagoniste dans les rues\, la caméra devient son\r\npropre regard\, non seulement enregistre le réel\, mais\r\ninterroge aussi les souvenirs des lieux et des\r\nhabitant·es. À mesure que croît l’obsession d’Alicia\,\r\nDream of another summer interroge sur le sens de la\r\nmémoire. Faut-il conserver ou plutôt effacer les traces\r\nqui nous rappellent les événements tragiques du\r\npassé ?\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007490&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T143000Z
+SUMMARY:DREAM OF ANOTHER SUMMER (VOST)
+UID:f349fab4-aef0-4460-a87d-c1d94f16a559@f349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : MERITXELL COLELL APARICIO\n\nAdela\, une artiste sonore mexicaine installée en\r\nEurope\, voyage de la jungle aux Andes accompagnée\r\nde Lucho\, son guide et traducteur. Dans le sillage de\r\nson grand-père\, un républicain catalan exilé au\r\nMexique\, elle cherche à dresser une carte sonore des\r\nlangues autochtones menacées de disparition. Quand\r\nsurvient la peur de la mort\, la réalité d’Adela se fracture\r\net son périple devient alors un voyage intime de retour\r\nvers l’enfance. Mêlant différents formats d’images\,\r\nLejos de los árboles est une histoire sur le\r\ndéracinement\, la fragilité de la vie\, le besoin de se\r\nsouvenir\, d’écouter et d’aimer. Avec ce troisième long-\r\nmétrage\, Meritxell Colell Aparicio trouve l’équilibre\r\nparfait entre roadtrip et autofiction.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007504&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261007T184500Z
+SUMMARY:LEJOS DE LOS ARBOLES (VOST)
+UID:9149a9e1-e291-4f29-a355-2e7a8e1caf80@9149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : MERITXELL COLELL APARICIO\n\nAdela\, une artiste sonore mexicaine installée en\r\nEurope\, voyage de la jungle aux Andes accompagnée\r\nde Lucho\, son guide et traducteur. Dans le sillage de\r\nson grand-père\, un républicain catalan exilé au\r\nMexique\, elle cherche à dresser une carte sonore des\r\nlangues autochtones menacées de disparition. Quand\r\nsurvient la peur de la mort\, la réalité d’Adela se fracture\r\net son périple devient alors un voyage intime de retour\r\nvers l’enfance. Mêlant différents formats d’images\,\r\nLejos de los árboles est une histoire sur le\r\ndéracinement\, la fragilité de la vie\, le besoin de se\r\nsouvenir\, d’écouter et d’aimer. Avec ce troisième long-\r\nmétrage\, Meritxell Colell Aparicio trouve l’équilibre\r\nparfait entre roadtrip et autofiction.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007480&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261004T153000Z
+SUMMARY:LEJOS DE LOS ARBOLES (VOST)
+UID:3fbdd998-a65c-441a-a716-9b95c8c9dda1@3fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : MARTHA MATUTE\n\nÀ 18 ans\, Claudia ne veut pas être une héroïne. Mais\r\nla maladie neurodégénérative de sa mère s’abat sur\r\nelle comme une tempête silencieuse\, entraînant la\r\nredéfinition des rôles au sein de sa famille. Entre devoir\r\nfilial et désir de vivre sa vie comme n’importe quelle\r\nfille de son âge\, Claudia cherche une façon d’habiter\r\ncette nouvelle réalité qui bouleverse son quotidien.\r\nGrâce à une mise en scène concise et dépourvue de\r\npathos\, Marta Matute signe une première œuvre intime\r\net pleine de grâce\, entre récit d’apprentissage et\r\ncritique sociale\, dans laquelle les ellipses et les regards\r\npèsent plus que les mots. Loin des clichés\, Yo no moriré\r\nde amor n’est pas un film sur la maladie\, mais sur la\r\nbeauté et la difficulté du soin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007479&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261004T133000Z
+SUMMARY:YO NO MORIRÉ DE AMOR (VOST)
+UID:1b277d65-affe-4099-af2d-a4aea4a76ddf@1b27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : SOUMAYA HIDALGO DJAHDOU\n\nQuand Soumaya\, 29 ans\, décide d’aller voir sa grand-\r\nmère en Algérie\, cette simple visite se transforme\r\nen périple à travers l’identité et le sentiment\r\nd’appartenance. Ayant grandi à Barcelone\, la cinéaste\r\nse sent en décalage vis-à-vis de sa mère algérienne\,\r\nprincipalement sur la question de la foi et de la\r\ntradition. En filmant son retour\, Soumaya va se plonger\r\ndans un monde qu’elle méconnait\, n’ayant de cesse\r\nd’écouter\, de partager et de revisiter les archives\r\nfamiliales. El vol de la cigonya associe humour\,\r\nconversations intimes et films de famille pour révéler\r\nla persistance des liens entre trois générations de\r\nfemmes et livrer une réflexion pleine de fraîcheur sur\r\nla migration\, l’amour et la mémoire.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007492&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T180000Z
+SUMMARY:EL VOL DE LA CIGONYA (VOST)
+UID:0551f457-c296-4cc8-93ec-d7146703bc6b@0551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nDans Prague\, au début des années 40\, le professeurdu Reich Heydrich - surnommé « Le Bourreau » - vient de décréter de nouvelles mesures de terreur quand le Docteur Svoboda\, membre d’un réseau de résistance tchèque \, tente de l’assassiner. Menacé par le couvre-feu\, ce dernier finit par se réfugier chez la famille du professeur Novotny\, un ancien révolutionnaire dont la fille\, Mascha\, l’a déjà aidé dans sa fuite. Mais la Gestapo ne tarde pas à s’emparer de nombreux otages \, dont le professeur…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSC8D6#showsession?id=emsx113500007440&ps=ticketingcine
+DURATION:PT2H15M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260930T143000Z
+SUMMARY:Les Bourreaux meurent aussi (VOST)
+UID:be3b5729-6b74-4d86-98fc-207a41cd5559@be3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nNonoko Yamada\, une petite fille espiègle au franc parler\, nous présente chaque membre de sa famille peu ordinaire : son père\, Takashi Yamada\, homme d'affaires un peu bougon \; sa mère\, Matsuko\, au naturel spontané\, un peu fainéante\, vite démoralisée par les tâches ménagères et autres travaux domestiques. Quant à Naboru\, son grand frère\, il déteste étudier. Et enfin Shige\, sa grand-mère\, une septuagénaire bien bavarde qui ne rate pas une occasion de donner son avis sur tout et de s'amuser des querelles du couple.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPGGIC#showsession?id=emsx113500007443&ps=ticketingcine
+DURATION:PT1H44M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261001T170000Z
+SUMMARY:Mes voisins les Yamada (VOST)
+UID:c4278548-413e-4786-afe1-f9ab58679536@c427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Fritz Lang\n\nTravaillant dans le même magasin\, Joe et Helen\, deux condamnés libérés sur parole\, sont épris l'un de l'autre. Des deux amants\, seul Joe a avoué son passé. Lorsqu'il découvre la vérité sur Helen\, trahi et déçu\, il se lance par désespoir dans la préparation d'un mauvais coup.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7VGIC#showsession?id=emsx113500007428&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260925T180000Z
+SUMMARY:Casier judiciaire (VOST)
+UID:717e3c40-ac59-4882-8e78-c585d23fbbda@717e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : ÁNGEL SANTOS TOUZA\n\nPablo\, un sculpteur entre deux âges\, vit dans une zone\r\nrurale de la côte galicienne au milieu des marais et des\r\ncheminées des anciennes fabriques. Par-delà son\r\nactivité artistique\, Pablo est en quête de solitude\,\r\ns’isolant sans cesse davantage\, allant presque jusqu’à\r\ns’inventer une nouvelle identité. Mais un jour\, le passé\r\nvient à sa rencontre en la personne de son ancien\r\namour\, Andrea\, désormais installée au Canada.\r\nL’espace de quelques jours\, Pablo et Andrea ravivent\r\nleur ancienne relation\, jusqu’à ce qu’un événement\r\ninattendu vienne bousculer toutes les certitudes.\r\nRythmes alanguis\, paysages fantomatiques\, mystères\r\ndu cœur humain… L’œuvre du cinéaste galicien Ángel\r\nSantos Touza réinvente le Romantisme au cinéma.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007489&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T184500Z
+SUMMARY:ASI LLEGO LA NOCHE (VOST)
+UID:3f6c54f0-3735-4f59-a86a-36dc0dfd69b7@3f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JORDI CADENA\n\nGumer sort de prison et veut monter un gang. Elle\r\nretrouve son amie Charo qui doit rendre des comptes\r\nà son proxénète… Barcelona Sur a d’abord un aspect\r\ndocumentaire\, saisissant la Barcelone d’avant les Jeux\r\nolympiques\, le quartier du port et ses ruelles marginales\,\r\nmais c’est esthétiquement qu’il claque. Il devrait\r\nrappeler le film quinqui de délinquance juvénile dont\r\nce sont les derniers feux\, mais on pense plutôt au\r\ncinéma américain de Michael Mann\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007517&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261009T123000Z
+SUMMARY:BARCELONA SUR (VOST)
+UID:d8c6435a-0202-4516-a640-eacf5ba4d9a8@d8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nProfesseur émérite en criminologie\, Richard Wanley rejoint des amis dans le club où ils ont l’habitude de passer leurs soirées. Après avoir un peu trop bu\, le professeur repart et\, tandis qu’il s’attarde devant la vitrine d’une galerie d’art pour contempler l’envoûtant portrait d’une jeune femme mystérieuse\, celle-ci apparaît…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR9SNU2#showsession?id=emsx113500007424&ps=ticketingcine
+DURATION:PT1H39M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260924T170000Z
+SUMMARY:La Femme au portrait (VOST)
+UID:6e14b782-615e-42fb-beb6-5157c6aa5822@6e14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : IRENE BARTOLOMÉ\n\nAlicia\, une jeune femme espagnole\, revient à Beyrouth\r\noù elle habitait lors de l’explosion du port de la ville\, le\r\n4 août 2020. Alicia est à la recherche de réponses sur\r\nce que signifie le “progrès” et la destruction\, sur\r\ncomment la ville vit au milieu d’un paysage mutilé et\r\npartiellement en ruines. Suivant les déambulations de\r\nla protagoniste dans les rues\, la caméra devient son\r\npropre regard\, non seulement enregistre le réel\, mais\r\ninterroge aussi les souvenirs des lieux et des\r\nhabitant·es. À mesure que croît l’obsession d’Alicia\,\r\nDream of another summer interroge sur le sens de la\r\nmémoire. Faut-il conserver ou plutôt effacer les traces\r\nqui nous rappellent les événements tragiques du\r\npassé ?\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007474&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T123000Z
+SUMMARY:DREAM OF ANOTHER SUMMER (VOST)
+UID:77829cbe-aa62-4276-b408-8155bb8936c8@7782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nTrois amis traversent la France sans raison apparente\,\r\nà la rencontre d’amours idylliques et éphémères. De\r\nToulouse à Annecy en passant par Paris\, certains diront\r\nqu’ils brûlent les derniers bateaux de la jeunesse tandis\r\nque d’autres parleront du déclin du genre masculin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007487&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261005T144500Z
+SUMMARY:LOS EXILIADOS ROMANTICOS (VOST)
+UID:4c27af17-a73e-433e-82df-1cdd1dbfd536@4c27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : SOUMAYA HIDALGO DJAHDOU\n\nQuand Soumaya\, 29 ans\, décide d’aller voir sa grand-\r\nmère en Algérie\, cette simple visite se transforme\r\nen périple à travers l’identité et le sentiment\r\nd’appartenance. Ayant grandi à Barcelone\, la cinéaste\r\nse sent en décalage vis-à-vis de sa mère algérienne\,\r\nprincipalement sur la question de la foi et de la\r\ntradition. En filmant son retour\, Soumaya va se plonger\r\ndans un monde qu’elle méconnait\, n’ayant de cesse\r\nd’écouter\, de partager et de revisiter les archives\r\nfamiliales. El vol de la cigonya associe humour\,\r\nconversations intimes et films de famille pour révéler\r\nla persistance des liens entre trois générations de\r\nfemmes et livrer une réflexion pleine de fraîcheur sur\r\nla migration\, l’amour et la mémoire.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007521&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261009T140000Z
+SUMMARY:EL VOL DE LA CIGONYA (VOST)
+UID:da966446-852e-48e3-bb4a-aac1d999ef4e@da96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Makoto Shinkai\n\nDans une petite ville paisible de Kyushu\, une jeune fille de 17 ans\, Suzume\, rencontre un homme qui dit voyager à la recherche d’une porte. Décidant de le suivre dans les montagnes\, elle découvre une porte délabrée trônant au milieu des ruines\, seul vestige ayant survécu au passage du temps. Cédant à une inexplicable impulsion\, Suzume tourne la poignée\, et d’autres portes s’ouvrent alors aux quatre coins du Japon\, laissant passer toutes les catastrophes qu’elles renfermaient. L’homme est formel : toute porte ouverte doit être refermée. Suzume s’est égarée où se trouvent les étoiles\, le crépuscule et l’aube\, une voûte céleste où tous les temps se confondent. Guidée par des portes nimbées de mystère\, elle entame un périple afin de toutes les refermer.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR0F5EP#showsession?id=emsx113500007439&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260929T190000Z
+SUMMARY:Suzume (VOST)
+UID:7ba1f701-c38c-4e21-92a7-41d7a5da0ceb@7ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nLos ilusos 13+13 est un film sur le désir de faire des\r\nfilms\, ou sur ce que font les cinéastes lorsqu’ils ne font\r\npas de films \; sur les conversations\, l’ivresse\, les repas\r\net les routines \; sur les balades après la séance de\r\ncinéma \; sur le fait d’être amoureux·se \; d’être seul·e\r\net avec des ami·es\, de construire des souvenirs pour\r\nun futur film. L’équation “13+13” dans le nouveau titre\r\nfait référence à la date de sortie\, en 2013\, de la version\r\nprécédente en noir et blanc\, plus les treize années\r\nécoulées\, pour cette nouvelle version en couleur.\r\nLes deux versions coexistent et se complètent\, résultant\r\nen un film plus juste.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007471&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T153000Z
+SUMMARY:LOS ILUSOS 13+13 (VOST)
+UID:d261833e-4bd8-4ecc-857d-f46d621d4d33@d261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : ALBERTO SEDANO\n\nAvec la fin de la dictature\, le cinéma espagnol donne\r\njour à des films d’exploitation complètement\r\ndébridés. Érotisme\, violence\, horreur\, un vrai\r\ndéferlement d’interdits charriés par une production\r\naussi chaotique qu’effervescente. C’est cheap\, c’est\r\nvulgaire\, c’est trash. Le public adore. La jeune\r\ndémocratie\, qui a fait sauter la censure\, met en place\r\nune classification spécifique pour encadrer cette\r\nproduction : la catégorie “S”… Une histoire courte et\r\nintense\, comme le punk\, qu’Alberto Sedano nous\r\nraconte avec celles et ceux qui l’ont faite. Le film est\r\nnarré par Iggy Pop et compte avec la participation de\r\nGaspar Noé et Álex de la Iglesia\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007482&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261004T130000Z
+SUMMARY:EXORCISMO (VOST)
+UID:74c932db-580c-4da2-a8a4-e6a801684c23@74c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : MAURICIO FREYRE\n\nEstados Generales s’ouvre sur un baiser échangé au\r\ncreux de la végétation du Jardin Botanique de Madrid.\r\nOutre des arbres venus d’Amérique\, d’Europe et du\r\nPacifique\, on y trouve les archives d’expéditions\r\nscientifiques menées dans les anciennes colonies\, dont\r\ndes spécimens végétaux non identifiés. Mauricio Freyre\r\nimagine le voyage de retour d’un échantillon de ces\r\ngraines\, du pays colonisateur au pays colonisé :\r\nle Pérou\, où la nature est désormais dominée par\r\nles normes de l’industrie agroalimentaire. Patiemment\,\r\nle film construit son contre-récit décolonial. L’enfance\,\r\nles anciens rites et la nuit sont les lieux qui disent que\r\ntout est possible et qu’une graine centenaire peut\r\nencore germer\;\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007476&ps=ticketingcine
+DURATION:PT1H16M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T160000Z
+SUMMARY:ESTADOS GENERALES (VOST)
+UID:020954c0-a3a1-4306-9ed6-31ab95ccb4f7@0209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : HELENA GIRÓN & SAMUEL DELGADO\n\nAu XVe siècle\, sur l’aride île canarienne de la Graciosa\,\r\nFátima est l’esclave de Don Gaspar\, un marquis\r\nd’origine française décadent\, qui possède l’unique\r\nsource d’eau douce. Quand le puits s’assèche et que\r\nla population se rebelle\, Fátima doit entreprendre un\r\npériple à la recherche d’une chance de survie pour sa\r\ncommunauté. Après Un corps sous la lave\, le deuxième\r\nlong-métrage d’Helena Girón et Samuel Delgado est\r\nune fable historique qui oppose la pénurie comme\r\ninstrument de pouvoir colonial et la solidarité des\r\ngestes émancipateurs des dominées. Las islas\r\nafortunadas creuse ainsi le sillon d’un cinéma des\r\ncorps et des éléments\, éminemment poétique\,\r\npolitique et personnel.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007495&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261006T151500Z
+SUMMARY:LAS ISLAS AFORTUNADAS (VOST)
+UID:2a87582f-3369-4101-ae71-3a5b8f9e6796@2a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : FERNANDO TRUEBA\n\nAuteur-compositeur de chansons emblématiques de la\r\nrésistance franquiste\, Chicho Sánchez Ferlosio (1961-\r\n2003) avait choisi une voie politique\, intellectuelle et\r\npersonnelle radicalement opposée à celle de son père\,\r\nl’écrivain phalangiste Rafael Sánchez Mazas. Évoluant\r\nentre portrait documentaire\, film musical\, comédie et\r\nconversation philosophique\, ce second long-métrage\r\nde Fernando Trueba est à redécouvrir d’urgence. Le film\r\nest présenté dans sa version récemment restaurée par\r\nla ECAM et distribuée par Los Ilusos.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007473&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261003T193000Z
+SUMMARY:CHICHO O MIENTRAS (VOST)
+UID:fe759950-401c-4d86-818d-0afe46b5cb6a@fe75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : IVÁN ZULUETA\n\nQuand un cinéaste de films d’horreur fauché reçoit une\r\nbobine de super 8 impressionnée de mystère. Zulueta\r\ncasse les codes du cinéma pour y chercher dans les\r\ndébris une transfiguration littérale. Toxicomanie et\r\ncinéphilie. Le cinéma comme état de conscience\, de la\r\nprise de vue au lâcher prise. Narration explosée\, image\r\ndévoreuse : Arrebato ne se résume pas\, il se vit.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007512&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T190000Z
+SUMMARY:ARREBATO (VOST)
+UID:9c041ad2-c98b-49bf-99d9-9a55f6b390e9@9c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : JOSÉ MARÍA CASTELLVÍ\n\nSantos sort de prison après avoir tué un ami. Il est suivi\r\npar un gang de vieux notables qui veut jouer avec lui.\r\nUn film de chasse à l’homme où le gibier se fait\r\nprédateur. Une chasse à la Zaroff taillée dans le\r\nCruising de Friedkin. À coups de cuir et de gorges\r\ntranchées. Une plongée dans les nuits de la Movida\,\r\ndans le trash et l’outrance. Pour éclairer la nuit de\r\nnéons 80’s et régler ses comptes aux derniers\r\nsymboles du franquisme\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007531&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T171000Z
+SUMMARY:POPPERS (VOST)
+UID:82573204-e0b3-436f-9f35-6a336d8d96c1@8257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007523&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261009T181500Z
+SUMMARY:VIDA EN SOMBRAS (VOST)
+UID:cf9b1ef7-4cc9-42af-9ece-1a23bf49885d@cf9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Koji Yamamura\n\nSi on ouvrait cette boîte à malice… On y trouverait des oiseaux espiègles\, un petit chien et ses amis musiciens ou encore un crocodile hirsute qui a mal aux dents…Cinq films d'animation réalisé de 1993 à 1999 : "Une Maison"\,"Les Sandwiches"\,"Imagination"\,"Kipling Junior"\, et "Quel Est Ton Choix ? ".\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR8MO8K#showsession?id=emsx113500007433&ps=ticketingcine
+DURATION:PT38M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260927T143000Z
+SUMMARY:La Boîte à malice (VOST)
+UID:7d21afe2-5ebe-437f-8154-32c94f0dd6e7@7d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : MARTHA MATUTE\n\nÀ 18 ans\, Claudia ne veut pas être une héroïne. Mais\r\nla maladie neurodégénérative de sa mère s’abat sur\r\nelle comme une tempête silencieuse\, entraînant la\r\nredéfinition des rôles au sein de sa famille. Entre devoir\r\nfilial et désir de vivre sa vie comme n’importe quelle\r\nfille de son âge\, Claudia cherche une façon d’habiter\r\ncette nouvelle réalité qui bouleverse son quotidien.\r\nGrâce à une mise en scène concise et dépourvue de\r\npathos\, Marta Matute signe une première œuvre intime\r\net pleine de grâce\, entre récit d’apprentissage et\r\ncritique sociale\, dans laquelle les ellipses et les regards\r\npèsent plus que les mots. Loin des clichés\, Yo no moriré\r\nde amor n’est pas un film sur la maladie\, mais sur la\r\nbeauté et la difficulté du soin.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007520&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261009T191000Z
+SUMMARY:YO NO MORIRÉ DE AMOR (VOST)
+UID:cbb6cade-7da2-4693-b6c1-5cc11430be10@cbb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : IRENE BARTOLOMÉ\n\nAlicia\, une jeune femme espagnole\, revient à Beyrouth\r\noù elle habitait lors de l’explosion du port de la ville\, le\r\n4 août 2020. Alicia est à la recherche de réponses sur\r\nce que signifie le “progrès” et la destruction\, sur\r\ncomment la ville vit au milieu d’un paysage mutilé et\r\npartiellement en ruines. Suivant les déambulations de\r\nla protagoniste dans les rues\, la caméra devient son\r\npropre regard\, non seulement enregistre le réel\, mais\r\ninterroge aussi les souvenirs des lieux et des\r\nhabitant·es. À mesure que croît l’obsession d’Alicia\,\r\nDream of another summer interroge sur le sens de la\r\nmémoire. Faut-il conserver ou plutôt effacer les traces\r\nqui nous rappellent les événements tragiques du\r\npassé ?\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007514&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261008T161000Z
+SUMMARY:DREAM OF ANOTHER SUMMER (VOST)
+UID:aa087684-b5db-4107-a220-3e6878e5fd2e@aa08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : \n\nCarte blanche au Nouveau Printemps en 5 courts métrages\r\nLa sélection rassemble ainsi fiction\, documentaire et essai\, des films qui jouent parfois eux-mêmes avec les limites des cadres habituels. Diverses préoccupations existentielles — intimes\, sociales ou écologiques —\r\nnous entraînent dans une poésie du quotidien et des relations que le cinéma\, et particulièrement le court-\r\nmétrage\, semble capable de saisir avec amour\, humour et subtilité.\r\n\r\nENTRÓ CON UN HACHA de CANDE LÁZARO\r\nFERIDES de ALBA CROS\r\nA PLANET PAINTED BY HAND de MARTÍ MADAULA ESQUIROL\r\nLIKE MOTHS TO LIGHT de GALA HERNÁNDEZ LOPEZ\r\nSONO SOLTO de RODRIGO SOARES TEXEIRA\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007499&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261006T171000Z
+SUMMARY:UN MUNDO DE SUENOS (VOST)
+UID:4eb78417-3a90-44bf-8f15-859792d734a6@4eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : MERITXELL COLELL APARICIO\n\nAdela\, une artiste sonore mexicaine installée en\r\nEurope\, voyage de la jungle aux Andes accompagnée\r\nde Lucho\, son guide et traducteur. Dans le sillage de\r\nson grand-père\, un républicain catalan exilé au\r\nMexique\, elle cherche à dresser une carte sonore des\r\nlangues autochtones menacées de disparition. Quand\r\nsurvient la peur de la mort\, la réalité d’Adela se fracture\r\net son périple devient alors un voyage intime de retour\r\nvers l’enfance. Mêlant différents formats d’images\,\r\nLejos de los árboles est une histoire sur le\r\ndéracinement\, la fragilité de la vie\, le besoin de se\r\nsouvenir\, d’écouter et d’aimer. Avec ce troisième long-\r\nmétrage\, Meritxell Colell Aparicio trouve l’équilibre\r\nparfait entre roadtrip et autofiction.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007518&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261009T143000Z
+SUMMARY:LEJOS DE LOS ARBOLES (VOST)
+UID:67cf0c77-4345-4036-a1ed-2edf46badc2c@67cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JUAN ANTONIO BARDEM\n\nLe road movie de la Transition. Juan\, mécanicien à\r\nMadrid\, enfourche sa moto pour se rendre à Torremolinos\r\nà l’occasion d’un pont. Sur la route\, faite de rencontres\r\ndiverses\, il va prendre conscience du changement\r\nen cours… Alfredo Landa\, star de la comédie sexy\r\nà l’espagnole – le genre portera même son nom :\r\nel landismo –\, va subvertir ici le personnage de macho\r\nibérique qu’il incarnait à l’écran. Un film majeur\, dont la\r\nplaie à la main dans le final achève la transformation du\r\nhéros. La Transition est d’abord une cicatrisation.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007496&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261006T170000Z
+SUMMARY:EL PUENTE (VOST)
+UID:c77371ef-8d93-49b6-91ee-5d7c54f17dd4@c773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Goro Miyazaki\n\nLes aventures du jeune Arren\, prince du royaume d'Enlad\, qui va s'allier aux forces du grand magicien Epervier\, pour rétablir l'équilibre du monde rompu par une sorcière maléfique. Dans le combat qui s'annonce\, Arren et Epervier croiseront la route de Therru\, une mystérieuse jeune fille. Ensemble\, ils dépasseront leurs peurs et uniront leurs destins pour mener le plus fascinant des voyages.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRVS1L7#showsession?id=emsx113500007425&ps=ticketingcine
+DURATION:PT1H55M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260924T180000Z
+SUMMARY:Les Contes de Terremer (VOST)
+UID:28269563-ee10-406c-97f0-c26fa5e4b06a@2826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Fritz Lang\n\nAprès la mort d'Amos Kyne\, grand magnat de la presse\, son fils et héritier\, Walter Kyne\, lance un défi à quatre de ses reporters qui le méprisent cordialement\, proposant un poste d'éditorialiste à celui qui trouvera le fameux « tueur au rouge à lèvres » qui sème la terreur dans la ville…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR1RFG5#showsession?id=emsx113500007426&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20260924T190000Z
+SUMMARY:La Cinquième victime (VOST)
+UID:399f662f-88dd-45c0-b4f2-8c218dc71d1d@399f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : JONAS TRUEBA\n\nLos ilusos 13+13 est un film sur le désir de faire des\r\nfilms\, ou sur ce que font les cinéastes lorsqu’ils ne font\r\npas de films \; sur les conversations\, l’ivresse\, les repas\r\net les routines \; sur les balades après la séance de\r\ncinéma \; sur le fait d’être amoureux·se \; d’être seul·e\r\net avec des ami·es\, de construire des souvenirs pour\r\nun futur film. L’équation “13+13” dans le nouveau titre\r\nfait référence à la date de sortie\, en 2013\, de la version\r\nprécédente en noir et blanc\, plus les treize années\r\nécoulées\, pour cette nouvelle version en couleur.\r\nLes deux versions coexistent et se complètent\, résultant\r\nen un film plus juste.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007527&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261010T184500Z
+SUMMARY:LOS ILUSOS 13+13 (VOST)
+UID:08f19fa2-3453-4cbd-b300-4f006cd7200e@08f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Salle 2\n\nRéalisateur : CARLOS CASAS\n\nUn pêcheur solitaire vit sur une plateforme en bambou\r\nau large de l’île volcanique de Krakatoa en Indonésie.\r\nAprès une nuit inquiétante où les poissons ont disparu\,\r\nil est rejeté par une éruption dévastatrice sur un\r\nterritoire inconnu. Avec cette fable écologique qui suit\r\nles pas de Roni Herliansyah\, survivant de l’éruption du\r\nvolcan en 2018\, Carlos Casas propose une réflexion\r\nsur l’apocalypse climatique autant qu’une exploration\r\nfilmique sensorielle. Nature sauvage\, conscience\r\nenvironnementale\, explosion sonore et chromatique\r\ns’entrelacent dans un flux d’images hypnotiques :\r\nl’écran de cinéma devient un lieu où sentir vibrer la\r\npuissance de la terre et la vulnérabilité de celles et\r\nceux qui l’habitent.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007500&ps=ticketingcine
@@ -711,6 +679,14 @@ DURATION:PT1H14M
 LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
 DTSTART:20261006T184500Z
 SUMMARY:KRAKATOA (VOST)
-UID:3918af8c-90df-4624-ae1b-b5cafe2b9ad4@3918.org
+UID:c2f65fbe-7ecf-44be-bee2-b47afc94c9c1@c2f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : PEDRO ALMODOVAR\n\nJorge est mort\, le shoot de la fin. Comme un clap. Yolanda\, son amie chanteuse\, quitte la scène et les nuits madrilènes coupées à la strychnine et se réfugie dans un couvent de bonnes soeurs. Le couvent des Rédemptrices humiliées qui n’est pas le moins rock’n’roll des repères. Yolanda trouvera-t-elle la paix ou a-t-elle mis les pieds dans les ténèbres ? Le troisième film d’un Almodóvar provocateur avec une belle dose de mélancolie musicale qui deviendra sa griffe.\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007465&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261006T191000Z
+SUMMARY:DANS LES TENEBRES (VOST)
+UID:08aa87c0-fa03-456a-97bf-227d9d5d0ace@08aa.org
 END:VEVENT
 END:VCALENDAR
