@@ -6,6 +6,7 @@ Un petit programme Python qui récupère les séances de différents cinéma tou
 
 ## Liens des calendriers
 
-ABC : https://YanisMahe.github.io/cinema-toulouse-ical/american_cosmograph.ics  
+ABC : https://YanisMahe.github.io/cinema-toulouse-ical/abc.ics  
+American Cosmograph : https://YanisMahe.github.io/cinema-toulouse-ical/american_cosmograph.ics  
 Cinémathèque de Toulouse : https://YanisMahe.github.io/cinema-toulouse-ical/cinematheque_toulouse.ics  
 Cratère : https://YanisMahe.github.io/cinema-toulouse-ical/cratere.ics
