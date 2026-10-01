@@ -6,8 +6,9 @@ from zoneinfo import ZoneInfo
 
 CINEOFFICE_TOKEN = os.environ.get("CINEOFFICE_TOKEN", "4a55fe53-3b66-4c25-88f9-340b4381ada2")
 
-
 TICKETINGCINE_API_URL = "https://ws.ticketingcine.com/site"
+
+os.makedirs("dist", exist_ok=True)
 
 
 CINEMAS = [
@@ -141,8 +142,8 @@ def generate_cineoffice_calendar(cinema):
         except Exception as e:
             print(f"Erreur sur une séance du film '{title}' : {e}")
 
-    # Sauvegarde du fichier .ics
-    with open(filename, "w", encoding="utf-8") as f:
+    output_path = os.path.join("dist", cinema["filename"])
+    with open(output_path, "w", encoding="utf-8") as f:
         f.writelines(cal.serialize_iter())
 
     print(f"Fichier '{filename}' généré avec {seances_count} séances.")
@@ -228,7 +229,8 @@ def generate_ticketingcine_calendar(cinema):
             except Exception as e:
                 print(f"Erreur sur une séance du film '{title}' : {e}")
 
-    with open(filename, "w", encoding="utf-8") as f:
+    output_path = os.path.join("dist", cinema["filename"])
+    with open(output_path, "w", encoding="utf-8") as f:
         f.writelines(cal.serialize_iter())
 
     print(f"Fichier '{filename}' généré avec {seances_count} séances.")
