@@ -26,6 +26,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script
+        env:
+          CINEOFFICE_TOKEN: ${{ secrets.CINEOFFICE_TOKEN }}
         run: python main.py
 
       - name: Deploy to GitHub Pages
