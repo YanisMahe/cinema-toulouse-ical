@@ -1,0 +1,580 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Samantha Cutler\, Jeroen Jaspaert\n\nD’après l’album illustré de Julia Donaldson et Axel Scheffler.\n\nBetty Delorge et Harry Fortepaille\, deux épouvantails très amoureux\, rêvent d’un mariage inoubliable. Tout semble prêt pour le grand jour… jusqu’à ce que Harry parte chercher une dernière chose indispensable à la célébration : des fleurs roses. Pendant son absence\, Réginald Dufoin\, un épouvantail malin et un peu trop sûr de lui\, arrive avec des idées qui pourraient bien gâcher la fête.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/51?showId=743
+DURATION:PT44M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261020T085000Z
+SUMMARY:UN AMOUR D EPOUVANTAIL (VOST)
+UID:f478ddf5-a4bb-4c0d-8c58-0e12564761af@f478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=660
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T144000Z
+SUMMARY:GARANCE (VOST)
+UID:f16fcc25-5261-4bc2-b090-1045c527e179@f16f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Alex Camilleri\n\nSur le point de quitter Malte\, Mar hérite de terrains après la mort de sa mère. En parcourant l’île pour récupérer ses terres\, elle rencontre Nenu\, gardien d’un chant ancestral qui l’entraîne dans des duels musicaux improvisés et met à l’épreuve son désir de fuir. Peu à peu\, la jeune femme se réconcilie avec le pays auquel elle voulait tourner le dos.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/63?showId=709
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T143000Z
+SUMMARY:LE CHANT DES OLIVIERS (VOST)
+UID:dc7a1fe5-b4dd-4517-831f-e827fd94b54c@dc7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=675
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T090000Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:a2a30a0c-6eea-476c-b0f9-be8f6e46d18c@a2a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=659
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T114000Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:b24fa88a-9a52-4d99-93be-aa574d811aae@b24f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Alex Camilleri\n\nSur le point de quitter Malte\, Mar hérite de terrains après la mort de sa mère. En parcourant l’île pour récupérer ses terres\, elle rencontre Nenu\, gardien d’un chant ancestral qui l’entraîne dans des duels musicaux improvisés et met à l’épreuve son désir de fuir. Peu à peu\, la jeune femme se réconcilie avec le pays auquel elle voulait tourner le dos.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/63?showId=698
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T163000Z
+SUMMARY:LE CHANT DES OLIVIERS (VOST)
+UID:0ce60f7b-c681-4450-a015-8e7588cceaa7@0ce6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Ryûsuke Hamaguchi\n\nDirectrice d'un établissement pour personnes âgées\, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents\, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari\, une metteuse en scène japonaise qui se bat contre un cancer\, va bouleverser sa trajectoire. En nouant une amitié profonde\, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/3?showId=693
+DURATION:PT3H16M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T143000Z
+SUMMARY:SOUDAIN (VOST)
+UID:8054a16a-40aa-4a5d-b06e-0ca5d53dfccf@8054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Alex Camilleri\n\nSur le point de quitter Malte\, Mar hérite de terrains après la mort de sa mère. En parcourant l’île pour récupérer ses terres\, elle rencontre Nenu\, gardien d’un chant ancestral qui l’entraîne dans des duels musicaux improvisés et met à l’épreuve son désir de fuir. Peu à peu\, la jeune femme se réconcilie avec le pays auquel elle voulait tourner le dos.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/63?showId=668
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T173000Z
+SUMMARY:LE CHANT DES OLIVIERS (VOST)
+UID:3f2fef50-1d4c-46d2-84e6-5874536407ca@3f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=679
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T190000Z
+SUMMARY:GARANCE (VOST)
+UID:45033359-faec-44d7-a70f-2c150f9fc63d@4503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=689
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T164000Z
+SUMMARY:GARANCE (VOST)
+UID:d8a49c11-ab9a-408c-9eaf-dcf7eb3f6be3@d8a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=658
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T184500Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:483151eb-fe43-403d-8a6d-d695b3cabc53@4831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Abinash Bikram Shah\n\nDans un village népalais niché au coeur d'une forêt peuplée d'éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati\, l'une des mères de la communauté\, rêve de s'échapper avec l'homme qu'elle aime. Mais lorsqu'une de ses filles disparaît\, elle doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/49?showId=710
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T164000Z
+SUMMARY:LES ELEPHANTS DANS LA BRUME (VOST)
+UID:e50ce5e3-1576-442e-9114-aa469922facc@e50c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Takashi Miike\n\nSeiichi Yabushita\, professeur d'école élémentaire\, se veut strict mais juste. Lorsqu'une mère l'accuse d'avoir humilié son fils\, tout bascule : la presse s'enflamme\, la rumeur enfle\, l'opinion s'emballe. Pris dans la tourmente\, Yabushita tente de défendre sa propre vérité... Au risque de la voir se retourner contre lui.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/39?showId=684
+DURATION:PT2H10M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T162000Z
+SUMMARY:SHAM (VOST)
+UID:ea689a81-3a54-4b8c-acd4-9c654a814750@ea68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Alex Camilleri\n\nSur le point de quitter Malte\, Mar hérite de terrains après la mort de sa mère. En parcourant l’île pour récupérer ses terres\, elle rencontre Nenu\, gardien d’un chant ancestral qui l’entraîne dans des duels musicaux improvisés et met à l’épreuve son désir de fuir. Peu à peu\, la jeune femme se réconcilie avec le pays auquel elle voulait tourner le dos.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/63?showId=685
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T185000Z
+SUMMARY:LE CHANT DES OLIVIERS (VOST)
+UID:ec7fb3e2-24b8-48d2-81f8-53e1796afd30@ec7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Matéo Larroque\, Clara Menais\, Mila Branco\n\nEn France\, rire des puissants est devenu un sport à risque. En trente ans\, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés\, marginalisés\, censurés\, voire virés. Dans l'audiovisuel public comme dans les médias privés\, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir\, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions\, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron\, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/50?showId=704
+DURATION:PT1H38M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T113000Z
+SUMMARY:FINI DE RIRE L HUMOUR POLITIQUE AU GARDE A VOUS (VOST)
+UID:4a646d51-f782-47ee-a502-9680c6ba5e5c@4a64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : DARIO Isabelle\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/78?showId=742
+DURATION:PT1H12M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261020T183000Z
+SUMMARY:JE VEUX BIEN (VOST)
+UID:65f2065f-102c-4212-8b0a-2c707301c59d@65f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=702
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T170000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:206ccf84-e7a6-4a4b-8681-bbcd19d6b2d2@206c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=671
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T113000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:c4c0bfa5-2e74-4665-85a0-b89de51a967f@c4c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Isabel Coixet\n\nAprès une dispute sans importance\, Marta et Antonio se séparent.\n\nLui\, chef en pleine ascension\, se réfugie derrière ses fourneaux.\n\nElle\, dans son silence\, commence à ressentir quelque chose de plus que de la tristesse : elle a perdu l’appétit.\n\nQuand elle découvre ce que son corps lui dit vraiment\, tout prend un tour inattendu : la nourriture a meilleur goût\, la musique la touche comme jamais\, et le désir réveille en elle l’envie de vivre sans peur.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/13?showId=667
+DURATION:PT2H2M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T151000Z
+SUMMARY:TROIS ADIEUX (VOST)
+UID:c4b6ca70-d731-4733-a9c5-12f7342e1974@c4b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Robin Shaw\n\nQue feriez-vous si un tigre géant frappait à votre porte un après-midi\, pour manger votre goûter\, dévorer le dîner qui mijote et engloutir tout ce qui se trouve dans vos placards ? Ce délicieux conte\, adapté du flamboyant album de Judith Kerr\, est précédé de trois courts-métrages qui vous mettront en appétit… de tigre ! Un programme de 4 courts métrages.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/73?showId=736
+DURATION:PT24M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261027T090000Z
+SUMMARY:LE TIGRE QUI S'INVITA POUR LE THE (VOST)
+UID:7add9cf5-d2de-4a50-af5d-fb7afac371e1@7add.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=662
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T190000Z
+SUMMARY:GARANCE (VOST)
+UID:7ea60092-b8d2-4349-9aea-698295df8871@7ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Abinash Bikram Shah\n\nDans un village népalais niché au coeur d'une forêt peuplée d'éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati\, l'une des mères de la communauté\, rêve de s'échapper avec l'homme qu'elle aime. Mais lorsqu'une de ses filles disparaît\, elle doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/49?showId=699
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T184000Z
+SUMMARY:LES ELEPHANTS DANS LA BRUME (VOST)
+UID:f8da79ee-562f-4faa-8c45-6d9fbba92972@f8da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=657
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T154500Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:2f0cfce7-8baa-4c9c-a151-fb7afdca6540@2f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=677
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T142000Z
+SUMMARY:GARANCE (VOST)
+UID:6d09363c-6c93-438c-9a24-a0f5ece59c49@6d09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : DUMONT Bruno\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/28?showId=696
+DURATION:PT1H32M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T120000Z
+SUMMARY:LES ROCHES ROUGES (VOST)
+UID:d3ca3ff5-3527-4d99-b60b-83a6bc32754b@d3ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Charline Bourgeois-Taquet\n\nGabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public\, elle court et se démultiplie\, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre\, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit\, y a-t-il de la place pour l’inattendu ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/23?showId=711
+DURATION:PT1H39M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T184500Z
+SUMMARY:LA VIE D UNE FEMME (VOST)
+UID:be3e621a-7c4e-4763-ae48-a5e33a3ead43@be3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Matéo Larroque\, Clara Menais\, Mila Branco\n\nEn France\, rire des puissants est devenu un sport à risque. En trente ans\, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés\, marginalisés\, censurés\, voire virés. Dans l'audiovisuel public comme dans les médias privés\, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir\, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions\, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron\, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/50?showId=661
+DURATION:PT1H38M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T170000Z
+SUMMARY:FINI DE RIRE L HUMOUR POLITIQUE AU GARDE A VOUS (VOST)
+UID:f121aae2-a513-469b-835e-19ce9816fd99@f121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=700
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T114500Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:9a3ccc90-0449-4472-b4be-428c3aea0c86@9a3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=676
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T120000Z
+SUMMARY:GARANCE (VOST)
+UID:96ec8a93-cce6-4c60-a36b-22ef70fe42f0@96ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Edmunds Jansons\n\nC’est les vacances ! Elizabeth\, 9 ans\, rentre chez ses parents qui vivent dans la forêt tropicale. Alors qu’elle espérait passer ses vacances à lire dans un hamac\, elle doit garder son petit frère Léo et le voilà qui disparaît… Quand elle comprend qu’il a été emporté dans une pirogue\, elle n’a plus le choix : il faut immédiatement partir à sa recherche. Tant pis pour la lecture\, cet été\, c’est l’aventure !\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/65?showId=680
+DURATION:PT1H10M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T085000Z
+SUMMARY:JOYEUSE JUNGLE (VOST)
+UID:4ee4ab15-9aa9-4955-afc5-a583c3370bc4@4ee4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Takashi Miike\n\nSeiichi Yabushita\, professeur d'école élémentaire\, se veut strict mais juste. Lorsqu'une mère l'accuse d'avoir humilié son fils\, tout bascule : la presse s'enflamme\, la rumeur enfle\, l'opinion s'emballe. Pris dans la tourmente\, Yabushita tente de défendre sa propre vérité... Au risque de la voir se retourner contre lui.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/39?showId=697
+DURATION:PT2H10M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T140000Z
+SUMMARY:SHAM (VOST)
+UID:7fc291be-2472-4a63-b3fc-f5ec74e72703@7fc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Uzi et Lotta Geffenblad\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/72?showId=735
+DURATION:PT42M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261023T080000Z
+SUMMARY:GROS POIS ET PETIT POINT (VOST)
+UID:72fbdf65-b6bf-4198-a498-c260542ec834@72fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Steven Spielberg\n\nUne soucoupe volante atterrit en pleine nuit près de Los Angeles. Quelques extraterrestres\, envoyés sur Terre en mission d'exploration botanique\, sortent de l'engin\, mais un des leurs s'aventure au-delà de la clairière où se trouve la navette. Celui-ci se dirige alors vers la ville. C'est sa première découverte de la civilisation humaine. Bientôt traquée par des militaires et abandonnée par les siens\, cette petite créature apeurée se nommant E.T. se réfugie dans une résidence de banlieue. Elliot\, un garçon de dix ans\, le découvre et lui construit un abri dans son armoire. Rapprochés par un échange télépathique\, les deux êtres ne tardent pas à devenir amis. Aidé par sa soeur Gertie et son frère aîné Michael\, Elliot va alors tenter de garder la présence d'E.T. secrète.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/76?showId=739
+DURATION:PT2H1M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261103T082000Z
+SUMMARY:ET L EXTRA TERRESTRE (VOST)
+UID:64ad17cf-7d91-4164-8db5-39a8319e4d06@64ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Matéo Larroque\, Clara Menais\, Mila Branco\n\nEn France\, rire des puissants est devenu un sport à risque. En trente ans\, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés\, marginalisés\, censurés\, voire virés. Dans l'audiovisuel public comme dans les médias privés\, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir\, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions\, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron\, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/50?showId=670
+DURATION:PT1H38M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T093000Z
+SUMMARY:FINI DE RIRE L HUMOUR POLITIQUE AU GARDE A VOUS (VOST)
+UID:e4593cc0-a0b6-4550-acb4-296948332d3f@e459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Nanni Moretti\n\nLa vie de Nanni\, "splendide quadragénaire"\, entre les élections de 94 (remportées par Berlusconi) et 97. Les doutes\, pannes d'inspiration et interrogations sur l'avenir de la gauche italienne\, mais aussi l'entrée dans la paternité. Un autre enjeu\, non des moindres : Nanni parviendra-t-il afin à lancer son projet de comédie musicale sur un pâtissier trotskyste ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/55?showId=683
+DURATION:PT1H19M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T144000Z
+SUMMARY:APRILE (VOST)
+UID:1b3ed33b-43d7-41b1-97ea-f171dc21d6ff@1b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Gessica Généus\n\nÀ Jacmel\, en Haïti\, la mer\, les églises et les esprits façonnent la vie. Marie Madeleine est une femme libre. Elle vit de la prostitution et traverse les nuits sans se soumettre aux règles de ceux qui sauvent les âmes. Sa route croise celle de Joseph\, un jeune évangéliste. Une relation se noue entre ces deux êtres que tout oppose. Alors que Joseph vacille dans sa foi\, Marie Madeleine l’entraîne vers un monde dans lequel désir et quête de liberté ouvrent un espace où tout peut être réinventé.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/79?showId=745
+DURATION:PT1H45M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261021T190000Z
+SUMMARY:MARIE MADELEINE (VOST)
+UID:bc2fc9db-2941-447e-98b2-219de3bacd95@bc2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Robert Zemeckis\n\nLors de son premier voyage en 1985\, Marty a commis quelques erreurs. L'avenir qu'il s'était tracé n'est pas si rose\, et son rejeton est tombé sous la coupe du voyou Griff Tannen\, qui veut régner sur la ville. En compagnie de son ami Emmett "Doc" Brown et de sa fiancée Jennifer\, Marty va devoir entreprendre un voyage vers le futur\, pour tenter de donner un peu plus de moralité à son héritier. Un voyage aux conséquences dramatiques...\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/69?showId=730
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261017T180000Z
+SUMMARY:RETOUR VERS LE FUTUR 2EME PARTIE (VOST)
+UID:75ccbc7d-3edf-4830-9461-a0387d9962d3@75cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : GONZALEZ Sonia\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/66?showId=712
+DURATION:PT52M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261016T190000Z
+SUMMARY:L ODYSSEE MUSICALE DE KATE BUSH (VOST)
+UID:4ff7a210-5139-46ce-9662-ddec3514ca89@4ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=678
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T164000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:0733f32e-a11e-43c7-954a-a905bd501929@0733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : DUMONT Bruno\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/28?showId=681
+DURATION:PT1H32M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T103000Z
+SUMMARY:LES ROCHES ROUGES (VOST)
+UID:bfafe756-e24e-412c-a89c-4b9d33411bb6@bfaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Abinash Bikram Shah\n\nDans un village népalais niché au coeur d'une forêt peuplée d'éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati\, l'une des mères de la communauté\, rêve de s'échapper avec l'homme qu'elle aime. Mais lorsqu'une de ses filles disparaît\, elle doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/49?showId=669
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T194000Z
+SUMMARY:LES ELEPHANTS DANS LA BRUME (VOST)
+UID:ee739116-29d0-42d6-85c3-d7e5e8922f59@ee73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=701
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T140000Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:bbc6c612-927f-456c-acc8-e6fe6e1efbfc@bbc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Boris Lojkine\n\nTandis qu’il pédale dans les rues de Paris pour livrer des repas\, Souleymane répète son histoire. Dans deux jours\, il doit passer son entretien de demande d’asile\, le sésame pour obtenir des papiers. Mais Souleymane n’est pas prêt.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/71?showId=725
+DURATION:PT1H34M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T073000Z
+SUMMARY:L'HISTOIRE DE SOULEYMANE (VOST)
+UID:beb6d914-e4b4-49c4-b8dc-2aa88297b300@beb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Abinash Bikram Shah\n\nDans un village népalais niché au coeur d'une forêt peuplée d'éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédiction. Pirati\, l'une des mères de la communauté\, rêve de s'échapper avec l'homme qu'elle aime. Mais lorsqu'une de ses filles disparaît\, elle doit mener l'enquête et choisir entre son désir de liberté et ses responsabilités envers sa communauté.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/49?showId=682
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T123000Z
+SUMMARY:LES ELEPHANTS DANS LA BRUME (VOST)
+UID:c6a9ffea-faa4-41e0-86fa-d2be534be131@c6a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=690
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T190000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:8ca87574-0151-4243-9f2c-39c29bab034d@8ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=687
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T114000Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:b0e737cd-c432-4afb-a12b-06c5ed2a32f6@b0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=708
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T121000Z
+SUMMARY:GARANCE (VOST)
+UID:58c8047a-4de4-43e1-bfed-4c4341e43ab5@58c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Robert Zemeckis\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/68?showId=729
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261017T150000Z
+SUMMARY:RETOUR VERS LE FUTUR (VOST)
+UID:542713d8-b554-45bd-8fe9-a1e277d177d0@5427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Edmunds Jansons\n\nC’est les vacances ! Elizabeth\, 9 ans\, rentre chez ses parents qui vivent dans la forêt tropicale. Alors qu’elle espérait passer ses vacances à lire dans un hamac\, elle doit garder son petit frère Léo et le voilà qui disparaît… Quand elle comprend qu’il a été emporté dans une pirogue\, elle n’a plus le choix : il faut immédiatement partir à sa recherche. Tant pis pour la lecture\, cet été\, c’est l’aventure !\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/65?showId=666
+DURATION:PT1H10M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T134000Z
+SUMMARY:JOYEUSE JUNGLE (VOST)
+UID:32850c41-bf5c-4db8-a191-870de2739b02@3285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Robert Zemeckis\n\nAprès son voyage mouvementé entre passé\, présent et futur\, Marty McFly apprend par une lettre vieille de cent ans que son vieil ami Emmett "Doc" Brown se serait crashé en 1880 au volant de sa DeLorean\, restant ainsi prisonnier du far-west\, sous la menace de Buford "Molosse" Tannen qui s'est juré de le tuer. Il n'a que cinq jours pour retrouver Doc et le ramener vivant vers le présent...\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/70?showId=731
+DURATION:PT1H53M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261017T201500Z
+SUMMARY:RETOUR VERS LE FUTUR 3EME PARTIE (VOST)
+UID:28c6772e-d2f4-4963-a077-5c176f64a249@28c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=686
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T092000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:f19b7355-a27e-4dd2-983e-6eb0c0c16e5e@f19b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Charline Bourgeois-Taquet\n\nGabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public\, elle court et se démultiplie\, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre\, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit\, y a-t-il de la place pour l’inattendu ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/23?showId=655
+DURATION:PT1H39M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T113000Z
+SUMMARY:LA VIE D UNE FEMME (VOST)
+UID:e839e08d-8202-4c0a-9998-6bbd9ef0b37d@e839.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Collectif\n\nUn oisillon se lance dans les airs. Un petit chiot découvre la matière. Un enfant savoure une soupe cosmique. Une chouette au sommeil chaotique. Une souris veut voir le soleil. Et une autre renvoie les étoiles dans le ciel. Sept histoires vues de la Terre comme du Ciel.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/77?showId=740
+DURATION:PT35M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261105T084500Z
+SUMMARY:ENTRE CIEL ET TERRE (VOST)
+UID:ffb2d1e1-d498-4b04-90ad-fbdf2c657637@ffb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Matéo Larroque\, Clara Menais\, Mila Branco\n\nEn France\, rire des puissants est devenu un sport à risque. En trente ans\, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés\, marginalisés\, censurés\, voire virés. Dans l'audiovisuel public comme dans les médias privés\, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir\, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions\, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron\, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/50?showId=688
+DURATION:PT1H38M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T144000Z
+SUMMARY:FINI DE RIRE L HUMOUR POLITIQUE AU GARDE A VOUS (VOST)
+UID:6b3a5604-bcf2-4776-bdf8-2345dcd4de1c@6b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=664
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T094000Z
+SUMMARY:GARANCE (VOST)
+UID:9faeae95-c347-49a6-ba22-a72975211eb8@9fae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=691
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T095000Z
+SUMMARY:GARANCE (VOST)
+UID:9cf73a26-8cc8-49d2-9d1c-738daa9c8e48@9cf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : PANIJEL Jacques\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/80?showId=746
+DURATION:PT1H10M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261022T183000Z
+SUMMARY:OCTOBRE A PARIS (VOST)
+UID:68b03fe6-ff62-4ceb-9f77-5dafc2c74190@68b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=656
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T133000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:88ef2b66-ffe6-4f74-86eb-1c6d5e28ff35@88ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Charline Bourgeois-Taquet\n\nGabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public\, elle court et se démultiplie\, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre\, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit\, y a-t-il de la place pour l’inattendu ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/23?showId=695
+DURATION:PT1H39M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T100000Z
+SUMMARY:LA VIE D UNE FEMME (VOST)
+UID:bf9900e0-f0c9-4d5e-8eee-47783aa25a0e@bf99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 4\n\nRéalisateur : Nanni Moretti\n\nLa vie de Nanni\, "splendide quadragénaire"\, entre les élections de 94 (remportées par Berlusconi) et 97. Les doutes\, pannes d'inspiration et interrogations sur l'avenir de la gauche italienne\, mais aussi l'entrée dans la paternité. Un autre enjeu\, non des moindres : Nanni parviendra-t-il afin à lancer son projet de comédie musicale sur un pâtissier trotskyste ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/55?showId=665
+DURATION:PT1H19M
+LOCATION:American Cosmograph (Salle 4)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T120000Z
+SUMMARY:APRILE (VOST)
+UID:79fbdb3f-ed5e-4689-b5ed-5b1fab34584c@79fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=703
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T191500Z
+SUMMARY:GARANCE (VOST)
+UID:aa245ae3-72a1-4620-b7fc-1b4ce1fa12f0@aa24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=706
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T152000Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:630f136a-8f12-48e1-853f-19d664b920c1@630f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=674
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T181500Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:241e4657-c25c-4686-afea-8dfc91241a61@241e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Charline Bourgeois-Taquet\n\nGabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public\, elle court et se démultiplie\, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre\, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit\, y a-t-il de la place pour l’inattendu ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/23?showId=673
+DURATION:PT1H39M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T160000Z
+SUMMARY:LA VIE D UNE FEMME (VOST)
+UID:03ff72c4-3c2d-4b8d-bd3e-2e50ba5f37c5@03ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : DUMONT Bruno\n\n\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/28?showId=705
+DURATION:PT1H32M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T133000Z
+SUMMARY:LES ROCHES ROUGES (VOST)
+UID:eefa498e-ceb3-4f47-b02a-5f7b14a359d7@eefa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Alex Camilleri\n\nSur le point de quitter Malte\, Mar hérite de terrains après la mort de sa mère. En parcourant l’île pour récupérer ses terres\, elle rencontre Nenu\, gardien d’un chant ancestral qui l’entraîne dans des duels musicaux improvisés et met à l’épreuve son désir de fuir. Peu à peu\, la jeune femme se réconcilie avec le pays auquel elle voulait tourner le dos.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/63?showId=741
+DURATION:PT1H48M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261019T181000Z
+SUMMARY:LE CHANT DES OLIVIERS (VOST)
+UID:de9b9135-6ca5-48b2-9c36-144ce6aef2d8@de9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Quentin Perez\n\nUne équipe de personnes fragilisées par des troubles psychiques s'embarque dans une folle épopée : la création d'un film d'aventure.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/67?showId=707
+DURATION:PT2H9M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261013T183000Z
+SUMMARY:SOYONS FOUS (VOST)
+UID:024a20a7-c182-44a6-9e45-5de99c5a7247@024a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Jeanne Herry\n\nGarance est une jeune actrice alcoolique. Huit ans d’un parcours fait de déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de coups durs… Mais aussi une révolution intime\, amicale et sexuelle\, un chaos aux allures de « grande récré » où se mêlent autant d’amour que de destruction.\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/48?showId=692
+DURATION:PT1H56M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T121000Z
+SUMMARY:GARANCE (VOST)
+UID:bcac0fc8-acc8-43c8-8d5a-7716611a71ed@bcac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Lotte Reiniger\n\nProgramme de quatre courts métrages de Lotte Reiniger.  - La Belle au bois dormant - Blanche-Neige et Rose-Rouge - Poucette - Hansel et Gretel  La bande son est une création originale de Laurent Marode et Isabelle Seleskovitch\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/75?showId=738
+DURATION:PT43M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261102T083000Z
+SUMMARY:CONTES ET SILHOUETTES (VOST)
+UID:0c7c9de6-49d9-410c-8946-9b1abc46e9df@0c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Emmanuel Marre\n\nSeptembre 1940. Henri Marre débarque seul à Vichy. Sans connaissances\, il aspire à se faire une place dans le nouveau régime. Dans sa valise\, son manuscrit politique autodidacte Notre salut qu’il entend faire publier. Henri veut aider à sauver la France de la débâcle\, mais peut-être et surtout se sauver de sa propre débâcle…\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/29?showId=694
+DURATION:PT2H39M
+LOCATION:American Cosmograph (Salle 3)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261012T181000Z
+SUMMARY:NOTRE SALUT (VOST)
+UID:5acb61e9-65c6-400c-90a6-15b5156935ee@5acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=672
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261011T134500Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:128c70ac-1776-4c65-8c84-cbe26b5a55fc@128c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marc Fitoussi\n\nCorinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l'espoir d'être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu'une relation commence à se nouer entre les deux\, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l'aider à se faire une place au sein de la grande famille du cinéma ?\n\nRéservervation : https://toulousecosmograph.cine.boutique/media/64?showId=654
+DURATION:PT1H55M
+LOCATION:American Cosmograph (Salle 2)\, 24 Rue Montardy\, 31000 Toulouse
+DTSTART:20261010T091000Z
+SUMMARY:NI VUE NI CONNUE (VOST)
+UID:42537105-5913-4785-afbb-ce3dbc46f5eb@4253.org
+END:VEVENT
+END:VCALENDAR
