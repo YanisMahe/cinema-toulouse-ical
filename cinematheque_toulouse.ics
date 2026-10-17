@@ -1,0 +1,724 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marguerite Duras\n\nRapports douloureux et incommunicabilité brisent des êtres se rencontrant dans un hotel\, en plein foret.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR6NMVW#showsession?id=emsx113500007569&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261023T180000Z
+SUMMARY:Détruire\, dit-elle (VOST)
+UID:9a9c0c14-419c-47bc-8af4-98b4b5195d5a@9a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Alexandra Májová\, Kateřina Karhánková\n\nL’un des deux est bien en chair alors que l’autre est tout menu… Nico et Mika ne sont pas n’importe quels ours. Comme tout le monde le sait\, les ours bruns ont tendance à être solitaires\, mais ces deux-là sont très amis\, vivant dans une confortable maison au milieu de la forêt. Ils partagent la même passion pour les bons petits plats et sont prêts à tout pour s’en procurer sans effort\, quels qu’en soient les risques.  Leurs plans sont parfois contrariés\, mais chacune de leurs aventures se termine toujours bien.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2QZI5#showsession?id=emsx113500007612&ps=ticketingcine
+DURATION:PT42M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261108T153000Z
+SUMMARY:Les Ours gloutons (VOST)
+UID:3f8de0ec-5346-46fe-8f4a-37fb07397a6c@3f8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alexandre Steiger\n\nLola\, une jeune militante engagée dans la cause animale\, se rend mystérieusement à Paris pendant le salon de l’agriculture. Alors qu’elle s’installe dans sa chambre d’hôtel où rien ne fonctionne\, elle fait appel au garçon d’étage\, Félix\, un jeune homme fantasque qui fait une crise de panique sur son lit.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRES90Z#showsession?id=emsx113500007647&ps=ticketingcine
+DURATION:PT1H24M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261112T200000Z
+SUMMARY:L'écologie des sentiments (VOST)
+UID:0976f999-c423-44ab-812c-2219c875cddc@0976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Alexandra Májová\, Kateřina Karhánková\n\nL’un des deux est bien en chair alors que l’autre est tout menu… Nico et Mika ne sont pas n’importe quels ours. Comme tout le monde le sait\, les ours bruns ont tendance à être solitaires\, mais ces deux-là sont très amis\, vivant dans une confortable maison au milieu de la forêt. Ils partagent la même passion pour les bons petits plats et sont prêts à tout pour s’en procurer sans effort\, quels qu’en soient les risques.  Leurs plans sont parfois contrariés\, mais chacune de leurs aventures se termine toujours bien.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR2QZI5#showsession?id=emsx113500007576&ps=ticketingcine
+DURATION:PT42M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261025T153000Z
+SUMMARY:Les Ours gloutons (VOST)
+UID:c124817e-eaec-4cfd-bafb-8abebf5df4e6@c124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Masaaki Yuasa\n\nC'est l'histoire de Nishi\, un râté amoureux de son amie d'enfance. Après une rencontre avec la mafia japonaise\, Nishi fait un aller-retour au paradis avant de se retrouver piégé dans un endroit plus invraisemblable encore.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRC18D6#showsession?id=emsx113500007555&ps=ticketingcine
+DURATION:PT1H43M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T170000Z
+SUMMARY:Mind Game (VOST)
+UID:29fa5ccd-0ed2-4319-a61e-6909acd41ce5@29fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Orson Welles\, François Reichenbach\n\nUn essai en forme d'enquête sur l'illusion et le faux où sont convoqués Howard Hugues\, Picasso\, le faussaire Elmyr de Hory et Welles lui-même.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5CKTP#showsession?id=emsx113500007589&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261030T190000Z
+SUMMARY:Vérités et mensonges (VOST)
+UID:f50d6e43-6042-40ad-973b-21a8b6437daa@f50d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nDans les années 1960\, le Japon connaît une forte croissance et les logements font défaut. De vastes programmes de construction sont lancés\, destinés à transformer les campagnes en villes nouvelles\, en particulier la haute vallée de la Tama\, à l'ouest de Tokyo. Dans les bois à la périphérie de Tokyo vivent les tanuki. Ce sont à la fois des animaux réels et des animaux mythiques assimilés aux kitsune. La destruction quotidienne de leur espace vital inquiète les tanuki. Ils décident de s'unir et d'enrayer la progression nuisible des travaux en se transformant en divers objets pour garder leur campagne dans laquelle ils vivent…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5FEKY#showsession?id=emsx113500007618&ps=ticketingcine
+DURATION:PT1H59M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261114T150000Z
+SUMMARY:Pompoko (VOST)
+UID:d7023c33-db8b-421c-a536-2a326a2f1e4b@d702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Shinichiro Watanabe\n\nSur la planète Mars\, en 2071\, un camion-citerne explose dans le cratère d'Alba City. Aux dizaines de victimes tuées par l'explosion s'ajoutent des centaines de personnes qui succombent à une mystérieuse maladie. Les autorités soupçonnent une attaque biologique terroriste et offrent une énorme récompense pour la capture des responsables.Sans un sou en poche\, les chasseurs de prime du Bebop voient là l'occasion de se renflouer et entament leur enquête. Une ombre entraperçue\, une capsule de poison\, un consortium pharmaceutique\, un tatouage\, un suspect mort depuis longtemps et une unité militaire spéciale\, telles sont les pièces du puzzle qu'il leur faudra rassembler pour espérer percer le secret...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRX9EKY#showsession?id=emsx113500007603&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261104T200000Z
+SUMMARY:Cowboy Bebop (VOST)
+UID:4c6c896d-8f74-42f1-adc1-265eb5e7882c@4c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nDans un monde où la nature est hostile à l’Homme\, Nausicaä – princesse de la Vallée du Vent – se bat pour protéger son village. Mais la guerre des hommes frappe à leur porte. Les vestiges d’une humanité industrielle menacent l’équilibre entre les rescapés humains du grand cataclysme et les insectes\, protecteurs de la forêt toxique.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQ6FG5#showsession?id=emsx113500007626&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261117T200000Z
+SUMMARY:Nausicaä de la Vallée du Vent (VOST)
+UID:93fe4b84-55d5-4689-8e1d-0097253526da@93fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marguerite Duras\n\nAprès de longues années à l'étranger\, une vieille dame revient à Paris pour voir son fils\, un quinquagénaire vivant d'expédients.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRL2ESE#showsession?id=emsx113500007628&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261118T153000Z
+SUMMARY:Des journées entières dans les arbres (VOST)
+UID:21e57d76-bd4b-4415-80f0-aa3c46f31027@21e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mamoru Hosoda\n\nBienvenue dans le monde virtuel de OZ : la plateforme communautaire d'internet\, véritable réseau social entre Mixi\, Facebook et Second Life ! En se connectant avec son avatar depuis un ordinateur\, une télévision ou un téléphone\, des millions d'avatars amis ou ennemies alimentent le plus grand réseau social en ligne de tous les temps pour une nouvelle vie\, hors des limites de la réalité.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRS31L7#showsession?id=emsx113500007611&ps=ticketingcine
+DURATION:PT1H54M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261108T150000Z
+SUMMARY:Summer Wars (VOST)
+UID:986b4fb4-a5a5-4415-a132-2e5328579884@986b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jean-Pierre Thorn\n\nUn portrait de Bouda\, jeune danseur Hip Hop de 30 ans\, entré en France à l'âge de 4 mois avec sa famille\, victime de la loi dite de "double peine" qui\, au sortir d'une peine de prison\, expulse les enfants de l'immigration vers des pays d'origine qui leur sont devenus étrangers. Un destin à la fois individuel et collectif - son utopie et sa chute - l'histoire d'une génération au cœur des banlieues nord de Paris (le fameux "93") où naquit en France le mouvement Hip Hop au début des années 80. Une épopée musicale Hip Hop\, dansée et "rappée" puisqu'il s'agit d'une fable\, scratchée de "tags" et de "graffs" pour en bousculer les images.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRFFIJH#showsession?id=emsx113500007642&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261029T193000Z
+SUMMARY:On n'est pas des marques de vélo (VOST)
+UID:bd90146e-0eac-402c-bbfb-8e9b509fb099@bd90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Katsuhiro Ōtomo\n\nTetsuo\, un adolescent ayant vécu une enfance difficile\, est la victime d'expériences visant à développer les capacités psychiques qui dorment en chacun de nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo décide de partir en guerre contre le monde qui l'a opprimé. Dès lors\, il se retrouve au cœur d'une légende populaire qui annonce le retour prochain d'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer Tokyo du chaos ...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBTW5K#showsession?id=emsx113500007610&ps=ticketingcine
+DURATION:PT2H4M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261107T200000Z
+SUMMARY:Akira (VOST)
+UID:68847d4b-f16d-4560-9511-e2c42a045d9f@6884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jean-Pierre Thorn\n\nA TRAVERS UN ITINERAIRE INDIVIDUEL\, UNE EPOPEE QUI EMBRASSE EN RACCOURCI L'HISTOIRE D'UNE GENERATION ET DE SES REVES LES PLUS FOUS DES ANNEES 50 AUX ANNEES 80. UN GRAND ROMAN D'AMOUR\, UNE HISTOIRE PASSIONNELLE ET LYRIQUE POUR FAIRE REVER\, RIRE ET PLEURER LE PUBLIC LE PLUS LARGE\, PRECISEMENT PARCE QU'IL PEUT SE RECONNAITRE DANS SES PROTAGONISTES.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR9IMWD#showsession?id=emsx113500007627&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261117T180000Z
+SUMMARY:Je t'ai dans la peau (VOST)
+UID:bb578864-bfd3-4c0c-a274-dd093141161c@bb57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Kenji Iwaisawa\n\nUne bande de lycéens marginaux menée par Kenji décide de créer un groupe de musique\, sans savoir jouer. Le groupe Kobujutsu est né.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSME60#showsession?id=emsx113500007567&ps=ticketingcine
+DURATION:PT1H11M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261022T190000Z
+SUMMARY:On-Gaku : Notre Rock ! (VOST)
+UID:37ab1d04-04ef-4aec-bf66-e12ffb5efd9e@37ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 立川譲\n\nLa vie de Dai Miyamoto change lorsqu'il découvre le jazz. Il se met alors au saxophone et s'entraîne tous les jours. Il quitte Sendai\, sa ville natale\, pour poursuivre sa carrière musicale à Tokyo avec l'aide de son ami Shunji. Jouant avec passion\, Dai arrive un jour à convaincre le talentueux pianiste Yukinori de monter un groupe avec lui. Accompagné de Shunji qui débute à la batterie\, ils forment le trio JASS. Au fil des concerts\, ils se rapprochent de leur but : se produire au So Blue\, le club de jazz le plus célèbre du Japon\, avec l'espoir de changer à jamais le monde du jazz.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSEKXN#showsession?id=emsx113500007635&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261119T180000Z
+SUMMARY:Blue Giant (VOST)
+UID:82344469-d33e-4433-b9d1-6f4698868538@8234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marguerite Duras\n\nParis\, au crépuscule. Dans la ville qui s'éteint\, une voix s'élève\, racontant l'histoire d'un homme qui\, par désœuvrement\, compose des numéros de téléphone non attribués.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR0WJTP#showsession?id=emsx113500007653&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261118T183000Z
+SUMMARY:Le Navire Night (VOST)
+UID:e0e7c946-ff57-4ba2-862f-d66a24cafb3d@e0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hiromasa Yonebayashi\n\nAnna\, jeune fille solitaire\, vit en ville avec ses parents adoptifs. Un été\, elle est envoyée dans un petit village au nord d’Hokkaïdo. Dans une vieille demeure inhabitée\, au cœur des marais\, elle va se lier d’amitié avec l’étrange Marnie…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRJ5LES#showsession?id=emsx113500007609&ps=ticketingcine
+DURATION:PT1H44M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261107T180000Z
+SUMMARY:Souvenirs de Marnie (VOST)
+UID:756252e8-7c98-40e8-b885-050b25bc2f15@7562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hiromasa Yonebayashi\n\nDans la banlieue de Tokyo\, sous le plancher d’une vieille maison perdue au cœur d’un immense jardin\, la minuscule Arrietty vit en secret avec sa famille. Ce sont des Chapardeurs. Arrietty connaît les règles : on n’emprunte que ce dont on a besoin\, en tellement petite quantité que les habitants de la maison ne s’en aperçoivent pas. Plus important encore\, on se méfie du chat\, des rats\, et interdiction absolue d’être vus par les humains sous peine d’être obligés de déménager et de perdre cet univers miniature fascinant fait d’objets détournés. Arrietty sait tout cela. Pourtant\, lorsqu’un jeune garçon\, Sho\, arrive à la maison pour se reposer avant une grave opération\, elle sent que tout sera différent. Entre la jeune fille et celui qu’elle voit comme un géant\, commence une aventure et une amitié que personne ne pourra oublier…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAD0R9#showsession?id=emsx113500007580&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261028T153000Z
+SUMMARY:Arrietty\, le petit monde des chapardeurs (VOST)
+UID:f696ad3b-78c6-429b-82e8-786987bf7a4d@f696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nJapon\, été 1945. Après le bombardement de Kobé\, Seita\, un adolescent de quatorze ans et sa petite sœur de quatre ans\, Setsuko\, orphelins\, vont s’installer chez leur tante à quelques dizaines de kilomètres de chez eux. Celle‐ci leur fait comprendre qu’ils sont une gêne pour la famille et doivent mériter leur riz quotidien. Seita décide de partir avec sa petite sœur. Ils se réfugient dans un bunker désaffecté en pleine campagne et vivent des jours heureux illuminés par la présence de milliers de lucioles. Mais bientôt la nourriture commence cruellement à manquer.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR8CYCL#showsession?id=emsx113500007574&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261024T190000Z
+SUMMARY:Le Tombeau des lucioles (VOST)
+UID:97c403f4-c97b-4480-a659-3ffd0762cc0c@97c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Ayumu Watanabe\n\nRuka\, jeune lycéenne\, vit avec sa mère. Elle se consacre à sa passion\, le handball. Hélas\, elle se fait injustement exclure de son équipe le premier jour des vacances. Furieuse\, elle décide de rendre visite à son père à l'aquarium où il travaille. Elle y rencontre Umi\, qui semble avoir le don de communiquer avec les animaux marins. Ruka est fascinée. Un soir\, des événements surnaturels se produisent.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBZTQ0#showsession?id=emsx113500007575&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261025T150000Z
+SUMMARY:Les Enfants de la mer (VOST)
+UID:05a8d22e-6cd0-4865-804e-2146257bbcca@05a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Shinichiro Watanabe\n\nSur la planète Mars\, en 2071\, un camion-citerne explose dans le cratère d'Alba City. Aux dizaines de victimes tuées par l'explosion s'ajoutent des centaines de personnes qui succombent à une mystérieuse maladie. Les autorités soupçonnent une attaque biologique terroriste et offrent une énorme récompense pour la capture des responsables.Sans un sou en poche\, les chasseurs de prime du Bebop voient là l'occasion de se renflouer et entament leur enquête. Une ombre entraperçue\, une capsule de poison\, un consortium pharmaceutique\, un tatouage\, un suspect mort depuis longtemps et une unité militaire spéciale\, telles sont les pièces du puzzle qu'il leur faudra rassembler pour espérer percer le secret...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRX9EKY#showsession?id=emsx113500007562&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261021T170000Z
+SUMMARY:Cowboy Bebop (VOST)
+UID:a880c025-a0b0-4464-95f7-9a72e578c085@a880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Peter Brook\n\nAnne Desbaredes\, femme d'un industriel d'une petite ville du Bordelais\, s'ennuie. Seul son fils l'occupe. Un jour\, pendant que l'enfant étudie une sonatine au piano\, on entend un cri épouvantable. Une femme vient d’être assassinée. À cette occasion\, Anne fait la connaissance d'un jeune ouvrier qu'elle va bientôt aimer.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPXCL7#showsession?id=emsx113500007579&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261027T180000Z
+SUMMARY:Moderato Cantabile (VOST)
+UID:bd4bbb31-8a86-4ed2-afbe-beb524733226@bd4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007651&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261118T173000Z
+SUMMARY:LECTURE MUSICALE (VOST)
+UID:d7ff5ee4-bf8c-4d4a-9262-87fa4061b255@d7ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Bruno Rafael\n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007665&ps=ticketingcine
+DURATION:PT20M
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T143000Z
+SUMMARY:IL ETAIT UNE FOIS ....EN CORDEL (VOST)
+UID:0395d376-a540-4a65-866e-8a5f15a07b0c@0395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Salomé Stévenin\n\nNos âmes libres est une invitation au sensible. Une aventure qui traverse le temps\, les pays\, les éléments\, l’eau\, la terre\, la forme : une expédition qui interroge intimement notre rapport au vivant. De sa rencontre avec l'animal libre et sauvage\, de ses plongées avec les dauphins et les baleines aux cérémonies ancestrales des peuples premiers\, Salomée Stévenin offre un récit qui remonte à l’origine en réalisant un film hymne à la vie.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRMC0PK#showsession?id=emsx113500007650&ps=ticketingcine
+DURATION:PT1H13M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261114T190000Z
+SUMMARY:Nos âmes libres (VOST)
+UID:e57abe2b-4bf1-4803-991c-05fee7571e38@e57a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Andrzej Wajda\n\nAu tournant du siècle\, Lódz\, en Pologne\, était un centre de fabrication de textiles au rythme rapide\, regorgeant d'industriels acharnés et de conditions de travail dangereuses. Trois jeunes amis\, un Polonais\, un Juif et un Allemand\, mettent leur argent en commun pour construire une usine. Le film suit leur quête impitoyable de fortune.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAK4R9#showsession?id=emsx113500007602&ps=ticketingcine
+DURATION:PT2H49M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261104T193000Z
+SUMMARY:La Terre de la grande promesse (VOST)
+UID:898eb387-c9da-403d-9cd8-7678466b0cf3@898e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jean-Pierre Thorn\n\nUn poème épique - une chanson de geste - à la gloire d’une caravane de femmes\, se donnant la main des deux côtés de la Méditerranée\, pour combattre ce fléau de l’intégrisme religieux remettant en cause leurs droits universels à l’égalité. A pieds\, en bus\, en taxis... sous des tentes berbères dressées chaque jour dans une localité différente\, au cœur des douars et bidonvilles du Maroc comme des banlieues déglinguées de France\, une poignée de caravanières - musulmanes et non musulmanes - réunissent  les femmes dans l’espace public pour dire leurs droits\, prendre conscience de leur force et danser leur soif de liberté. Un pied de nez aux islamistes et machos de tous bords. Une approche nuancée et pleine d’humanité d’un sujet ô combien brûlant. Nous les suivons pas à pas dans leur combat\, aux rythmes des textes engagés de la rappeuse Bams et du chant poétique de Sapho.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRR7WYX#showsession?id=emsx113500007616&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261113T190000Z
+SUMMARY:Allez Yallah ! (VOST)
+UID:b9c9fc00-ba67-48ac-9338-ba994800b30b@b9c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nDans les années 1960\, le Japon connaît une forte croissance et les logements font défaut. De vastes programmes de construction sont lancés\, destinés à transformer les campagnes en villes nouvelles\, en particulier la haute vallée de la Tama\, à l'ouest de Tokyo. Dans les bois à la périphérie de Tokyo vivent les tanuki. Ce sont à la fois des animaux réels et des animaux mythiques assimilés aux kitsune. La destruction quotidienne de leur espace vital inquiète les tanuki. Ils décident de s'unir et d'enrayer la progression nuisible des travaux en se transformant en divers objets pour garder leur campagne dans laquelle ils vivent…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR5FEKY#showsession?id=emsx113500007586&ps=ticketingcine
+DURATION:PT1H59M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261029T200000Z
+SUMMARY:Pompoko (VOST)
+UID:398ccd6c-d487-4a16-b56c-287a10b531ff@398c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nChiyoko Fujiwara est une ancienne gloire du cinéma japonais. Aujourd'hui\, âgée de 70 ans\, elle vit recluse chez elle. Un jour\, un homme vient lui rendre visite pour l'interviewer sur son passé. Il lui remet une clé\, que Chiyoko avait perdu voilà 30 ans. Devant le journaliste et son caméraman elle se met à raconter son histoire. Une vie pleine d'amour et de passion\, passée à rechercher un étrange inconnu\, celui-là même qui lui a un jour remis cette clé en lui faisant la promesse de se revoir…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRDJW5K#showsession?id=emsx113500007578&ps=ticketingcine
+DURATION:PT1H27M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261027T200000Z
+SUMMARY:Millennium Actress (VOST)
+UID:d22a0f8b-eafa-42e6-b9fb-84bd895b093b@d22a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Makoto Shinkai\n\nMitsuha est une lycéenne\, la fille du maire d'une petite ville nichée entre les montagnes. Vivant avec sa petite sœur et sa grand-mère\, c'est une demoiselle franche qui n'hésite pas à dire qu'elle n'a pas envie de participer aux rituels shinto\, ou d'aider son père dans ses campagnes électorales. En fait\, elle rêve de pouvoir quitter cette ville où elle s'ennuie\, pour partir tenter sa chance à la capitale. Taki est un lycéen\, un tokyoïte qui travaille à mi-temps dans un restaurant italien\, tout en aspirant à des études d'architecture ou dans les Beaux-Arts. Chaque nuit\, il fait un rêve étrange\, où il devient… une lycéenne campagnarde\, vivant dans une petite ville entre les montagnes.  Quel secret se cache derrière ces rêves mutuels\, qui unissent ces deux êtres qui ne se sont jamais rencontrés ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRPNY4I#showsession?id=emsx113500007568&ps=ticketingcine
+DURATION:PT1H47M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261023T170000Z
+SUMMARY:Your Name (VOST)
+UID:e4742edc-6f66-4194-afb5-1e0e809a3e27@e474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007652&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261118T200000Z
+SUMMARY:MEMOIRES DE PALESTINE (VOST)
+UID:9a2bc142-4cbd-429b-97e7-ee374b3249fd@9a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Nacer Khemir\n\nUn instituteur est nommé dans le désert du Sud tunisien pour enseigner la grammaire dans un village où il n'y a pas d'école. Il découvre un univers singulier et irréel\, où les enfants veulent faire pousser un jardin dans un désert dont les hommes recherchent les limites. Amoureux de la fille du cheikh qui l'héberge\, il se laisse finalement envoûter par le monde de sable et le chant andalou de ses baliseurs. Dans ce conte\, la magie et le réel s'imbriquent pour chanter la beauté du désert. Le cinéaste\, par l'attention portée à la composition des plans et des séquences\, traités comme des tableaux\, et par la poétique de son écriture rend hommage à la splendeur de la culture arabe\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR76G5K#showsession?id=emsx113500007573&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261024T180000Z
+SUMMARY:Les Baliseurs du désert (VOST)
+UID:ca53b98a-ed08-4e36-be90-9f3ec181b392@ca53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hiromasa Yonebayashi\n\nAnna\, jeune fille solitaire\, vit en ville avec ses parents adoptifs. Un été\, elle est envoyée dans un petit village au nord d’Hokkaïdo. Dans une vieille demeure inhabitée\, au cœur des marais\, elle va se lier d’amitié avec l’étrange Marnie…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRJ5LES#showsession?id=emsx113500007583&ps=ticketingcine
+DURATION:PT1H44M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261029T150000Z
+SUMMARY:Souvenirs de Marnie (VOST)
+UID:ef599e3d-008d-4bf7-8fdd-212c3b431a59@ef59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mamoru Hosoda\n\nDans la vie réelle\, Suzu est une adolescente complexée\, coincée dans sa petite ville de montagne avec son père. Mais dans le monde virtuel de U\, Suzu devient Belle\, une icône musicale suivie par plus de 5 milliards de followers. Une double vie difficile pour la timide Suzu\, qui va prendre une envolée inattendue lorsque Belle rencontre la Bête\, une créature aussi fascinante qu’effrayante. S’engage alors un chassé-croisé virtuel entre Belle et la Bête\, au terme duquel Suzu va découvrir qui elle est.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR060CB#showsession?id=emsx113500007560&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261020T190000Z
+SUMMARY:Belle (VOST)
+UID:dafbd755-ef63-4788-aa9f-19d12790a848@dafb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 立川譲\n\nLa vie de Dai Miyamoto change lorsqu'il découvre le jazz. Il se met alors au saxophone et s'entraîne tous les jours. Il quitte Sendai\, sa ville natale\, pour poursuivre sa carrière musicale à Tokyo avec l'aide de son ami Shunji. Jouant avec passion\, Dai arrive un jour à convaincre le talentueux pianiste Yukinori de monter un groupe avec lui. Accompagné de Shunji qui débute à la batterie\, ils forment le trio JASS. Au fil des concerts\, ils se rapprochent de leur but : se produire au So Blue\, le club de jazz le plus célèbre du Japon\, avec l'espoir de changer à jamais le monde du jazz.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSEKXN#showsession?id=emsx113500007582&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261028T200000Z
+SUMMARY:Blue Giant (VOST)
+UID:053559f7-a395-4fec-8a31-814b3b1175d8@0535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marguerite Duras\n\nUn homme revient sur les lieux où il a vécu une grande et passionnante histoire d'amour avec une femme aujourd'hui décédée. La sensation qu'il ressent est tellement forte qu'il s'imagine qu'elle est toujours vivante et organise sa vie de la sorte...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FREGXNO#showsession?id=emsx113500007621&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261115T160000Z
+SUMMARY:La Femme du Gange (VOST)
+UID:453f0af4-8776-4247-a654-1a9d322ff7da@453f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007669&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261018T133000Z
+SUMMARY:NOSY HIRA\, MADAGASCAR (VOST)
+UID:bc3a36f1-cb30-4ed8-985d-7407ad13a8f8@bc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Goro Miyazaki\n\nUmi est une jeune lycéenne qui vit dans une vieille bâtisse perchée au sommet d’une colline surplombant le port de Yokohama. Chaque matin\, depuis que son père a disparu en mer\, elle hisse face à la baie deux pavillons\, comme un message lancé à l’horizon. Au lycée\, quelqu’un a même écrit un article sur cet émouvant signal dans le journal du campus. C’est peut‐être l’intrépide Shun\, le séduisant jeune homme qu’Umi n’a pas manqué de remarquer. Attirés l’un par l’autre\, les deux jeunes gens vont partager de plus en plus d’activités\, de la sauvegarde du vieux foyer jusqu’à la rédaction du journal. Pourtant\, leur relation va prendre un tour inattendu avec la découverte d’un secret qui entoure leur naissance et semble les lier…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRYNL7T#showsession?id=emsx113500007585&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261029T180000Z
+SUMMARY:La Colline aux coquelicots (VOST)
+UID:fa77caf3-b1b8-4827-bf52-debf0054259f@fa77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nAdapté d’un conte populaire japonais "Le coupeur de bambou"\, un des textes fondateurs de la littérature japonaise\, Kaguya\, "la princesse lumineuse"\, est découverte dans la tige d'un bambou par des paysans. Elle devient très vite une magnifique jeune femme que les plus grands princes convoitent : ceux-ci vont devoir relever d’impossibles défis dans l’espoir d’obtenir sa main.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRE6HF1#showsession?id=emsx113500007632&ps=ticketingcine
+DURATION:PT2H17M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261119T200000Z
+SUMMARY:Le Conte de la princesse Kaguya (VOST)
+UID:d636a3ce-1558-48f0-83a1-33a6874fe8ae@d636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Artan Minarolli\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRMFX7N#showsession?id=emsx113500007656&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T123000Z
+SUMMARY:Nuit sans lune (VOST)
+UID:6fb48350-2fde-4960-9596-96d20aed6292@6fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Katsuhiro Ōtomo\, Koji Morimoto\, Tensai Okamura\n\nTrois petites histoires composent Memories. La première : « Magnetic Rose »\, deux voyageurs de l'espace sont aspirés dans un monde parallèle sur un astéroïde. Un monde créé par les souvenirs d'une femme. Dans la deuxième\, « Stink Bomb »\, un jeune assistant dans un laboratoire se transforme accidentellement en un arme biologique humaine qui menace Tokyo. L'épisode final et troisième\, « Cannon Fodder »\, relate un jour de la vie d'une ville qui a pour unique préoccupation d'anéantir ses ennemies.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR3Y9WD#showsession?id=emsx113500007559&ps=ticketingcine
+DURATION:PT1H53M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261020T170000Z
+SUMMARY:Memories (VOST)
+UID:b8c73e8e-77a1-4fa2-b6b7-2571c711baae@b8c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jean-Pierre Thorn\n\nLe 27 septembre 1979 éclate dans l'usine d'Alsthom Atlantique à Belfort une grève\, avec occupation des locaux\, qui durera 2 mois. Ce n'est pas un film de parti. C'est un film ouvert. Un spectacle qui cherche l'audience la plus large. Un spectacle qui permette de donner un coup de projecteur sur la permanence de la lutte ouvrière des années 80\, ses espoirs et ses interrogations. Le film suit à travers la grève\, 4 ou 5 trajectoires individuelles. On écoute Rocky\, le loubard\, que personne ne connaissait avant la grève\, devenu responsable dans la commission solidarité. On suit Danielle\, petite employée qui devient méchante malgré elle. On découvre Henri\, le militant CGT\, qui se demande si\, en France\, on peut obtenir satisfaction à la moindre revendication autrement que par la violence. C'est en quelque sorte\, une tentative de photographie à un moment donné de cette conscience ouvrière en pleine évolution historique.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR96U0W#showsession?id=emsx113500007566&ps=ticketingcine
+DURATION:PT1H45M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261022T173000Z
+SUMMARY:Le Dos au mur (VOST)
+UID:b7967ef8-353c-40de-91c7-a037a645d50b@b796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mamoru Hosoda\n\nHana et ses deux enfants\, Ame et Yuki\, vivent discrètement dans un coin tranquille de la ville. Leur vie est simple et joyeuse\, mais ils cachent un secret : leur père est un homme‐loup. Quand celui‐ci disparaît brutalement\, Hana décide de quitter la ville pour élever ses enfants à l’abri des regards. Ils emménagent dans un village proche d’une forêt luxuriante…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRJYOQ0#showsession?id=emsx113500007557&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261018T140000Z
+SUMMARY:Les enfants loups\, Ame et Yuki (VOST)
+UID:18b4b9d4-cbdc-48cd-a153-4144061e1cc8@18b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mamoru Hosoda\n\nKun est un petit garçon à l’enfance heureuse jusqu’à l’arrivée de Miraï\, sa petite soeur. Jaloux de ce bébé qui monopolise l’attention de ses parents\, il se replie peu à peu sur lui-même. Au fond de son jardin\, où il se réfugie souvent\, se trouve un arbre généalo-magique. Soudain\, Kun est propulsé dans un monde fantastique où vont se mêler passé et futur. Il rencontrera tour à tour ses proches à divers âges de leur vie : sa mère petite fille\, son arrière-grand-père dans sa trépidante jeunesse et sa petite soeur adolescente !\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRGY9PE#showsession?id=emsx113500007591&ps=ticketingcine
+DURATION:PT1H38M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261031T150000Z
+SUMMARY:Miraï\, ma petite sœur (VOST)
+UID:ba27cc83-99c6-47b6-8c54-ed8efb81e4c4@ba27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jean-Pierre Thorn\n\nUne épopée - du rock au slam en passant par le punk et le hip hop - incarnant un demi-siècle de résistance musicale  en Seine-Saint-Denis et se faisant porte-voix d’une jeunesse et de territoires en perte d’identité\, sous les coups des mutations industrielles\, des désillusions politiques et de l’agression constante des pouvoirs successifs. La banlieue - à contrario des clichés – se révèle un espace incroyablement riche de métissages engendrant une créativité époustouflante.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRRMMPU#showsession?id=emsx113500007592&ps=ticketingcine
+DURATION:PT1H13M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261031T170000Z
+SUMMARY:93 la belle rebelle (VOST)
+UID:a0087d18-21f9-4392-8597-35d720728795@a008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jean-Pierre Thorn\n\nAu récit enflammé d’une passion amoureuse se mêle la folle espérance soulevée par Mai 68. Jean-Pierre Thorn remonte le fil de sa vie pour retrouver les figures rebelles qui ont peuplé ses films : des ouvriers en lutte des années 70 jusqu’à leurs enfants du mouvement hip-hop… et aujourd’hui les gilets jaunes d’un rond-point à Montabon.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRNUE3E#showsession?id=emsx113500007604&ps=ticketingcine
+DURATION:PT1H19M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261106T190000Z
+SUMMARY:L'Âcre Parfum des immortelles (VOST)
+UID:75b6cfc3-043d-44b7-b5b3-909792acc15f@75b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : LORRAINE ROBINSON\n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007667&ps=ticketingcine
+DURATION:PT1H
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T183000Z
+SUMMARY:LE GAMELAN DE BALI (VOST)
+UID:6a4de863-f8b3-4137-8a6c-39ab1e9aec5d@6a4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nDans l'entre-deux-guerres quelque part en Italie\, le pilote Marco\, aventurier solitaire\, vit dans le repaire qu'il a établi sur une île déserte de l'Adriatique. À bord de son splendide hydravion rouge\, il vient en aide aux personnes en difficulté.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRGN62G#showsession?id=emsx113500007605&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261106T200000Z
+SUMMARY:Porco Rosso (VOST)
+UID:5cc581f3-0a2c-4be4-be98-5ed184015d24@5cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Alain Resnais\n\nAoût 1957\, à Hiroshima. L'histoire de l'impossible amour d'une jeune actrice française d'une trentaine d'années venue pour jouer dans un film sur la paix\, et d'un architecte japonais.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR9CJJQ#showsession?id=emsx113500007598&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261103T200000Z
+SUMMARY:Hiroshima mon amour (VOST)
+UID:aeb395a2-48ca-4f87-aea4-8f2154ea28e3@aeb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Todd Morris\n\nApres avoir tué son mari psychopathe en Ohio\, Allison fuit vers New York. Elle est sauvée d'un viol par un groupe de féministes activistes.  (Interdit aux moins de 16 ans)\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR796G5#showsession?id=emsx113500007588&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261030T183000Z
+SUMMARY:A Gun for Jennifer (VOST)
+UID:10d75fdc-1378-424d-a287-325c4f24d640@10d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007661&ps=ticketingcine
+DURATION:PT1H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261105T193000Z
+SUMMARY:CINE CONCERT (VOST)
+UID:2dc4a0b2-e2f1-406e-b9e7-83bf72864f81@2dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nDans l'entre-deux-guerres quelque part en Italie\, le pilote Marco\, aventurier solitaire\, vit dans le repaire qu'il a établi sur une île déserte de l'Adriatique. À bord de son splendide hydravion rouge\, il vient en aide aux personnes en difficulté.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRGN62G#showsession?id=emsx113500007571&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261024T140000Z
+SUMMARY:Porco Rosso (VOST)
+UID:faa70a4d-bce2-4a5d-a996-fafc78a7c9bf@faa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nÀ l'âge de 13 ans\, une future sorcière doit partir faire son apprentissage dans une ville inconnue durant un an. Une expérience que va vivre la jeune et espiègle Kiki aux côtés de Osono\, une gentille boulangère qui lui propose un emploi de livreuse.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR4USSE#showsession?id=emsx113500007561&ps=ticketingcine
+DURATION:PT1H42M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261021T143000Z
+SUMMARY:Kiki la Petite Sorcière (VOST)
+UID:7784d63b-5b50-4191-90b6-0fc9f9b50ba4@7784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 沖浦啓之\n\nTokyo\, dans les années 1970… Les révoltes font rage\, opposant les forces de police à la Secte\, une organisation formée d'opposants au pouvoir en place. Pour remédier à ce problème\, l'État crée la POSEM et ses divisions Panzer dont l'unique but est d'éliminer tout opposant. Fusé\, fraîchement émoulu de l'académie de la POSEM\, en fait partie. Lors d'une révolte\, il n'arrive pas à tirer sur une jeune rebelle. Alors que son incapacité d'agir le hante\, il rencontre la sœur aînée de la victime avec laquelle il noue une relation…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRXH62G#showsession?id=emsx113500007614&ps=ticketingcine
+DURATION:PT1H42M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261110T200000Z
+SUMMARY:Jin-Roh\, la brigade des loups (VOST)
+UID:8ba4b32e-171c-4a52-848e-40174e5e219c@8ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 原恵一\n\nEn 1814\, HOKUSAI est un peintre reconnu de tout le Japon. Il réside avec sa fille O-Ei dans la ville d’EDO (l’actuelle TOKYO)\, enfermés la plupart du temps dans leur étrange atelier aux allures de taudis. Le "fou du dessin"\, comme il se plaisait lui-même à se nommer et sa fille réalisent à quatre mains des œuvres aujourd’hui célèbres dans le monde entier. O-Ei\, jeune femme indépendante et éprise de liberté\, contribue dans l’ombre de son père à cette incroyable saga artistique.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR6OWZX#showsession?id=emsx113500007593&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261031T180000Z
+SUMMARY:Miss Hokusai (VOST)
+UID:70201a00-13d2-410b-9045-b0dba25f340e@7020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Taro Rin\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU5NNR#showsession?id=emsx113500007613&ps=ticketingcine
+DURATION:PT2H9M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261108T170000Z
+SUMMARY:GALAXY EXPRESS 999 (VOST)
+UID:42545734-836f-4bcc-b3a0-f7faf555deb5@4254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007648&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261112T190000Z
+SUMMARY:COURTS METRAGES (VOST)
+UID:e4657684-2784-4cb7-b04c-7ddf0df397ff@e465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marguerite Duras\n\nDans une jolie maison des Yvelines\, au bord d'une rivière\, vivent deux femmes. L'une s'adonne aux travaux ménagers et au jardinage\, assiste aux leçons de piano des enfants. L'autre\, Madame Granger\, s'inquiète de l'avenir de sa fille Nathalie\, "d'une violence peu commune"\, a dit la maîtresse. Nathalie acceptera-t-elle d'être pensionnaire et de suivre des cours de musique? Seul un transistor\, narrant les méfaits de deux jeunes tueurs\, brise le silence qui hante la maison. C’est alors qu’un représentant fait irruption dans la maison.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRXPOAF#showsession?id=emsx113500007581&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261028T180000Z
+SUMMARY:Nathalie Granger (VOST)
+UID:cc851538-4f0b-4832-9010-d25d8574cad6@cc85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nChihiro\, 10 ans\, a tout d’une petite fille capricieuse. Elle s’apprête à emménager avec ses parents dans une nouvelle demeure. Sur la route\, la petite famille se retrouve face à un immense bâtiment rouge au centre duquel s’ouvre un long tunnel. De l’autre côté du passage se dresse une ville fantôme. Les parents découvrent dans un restaurant désert de nombreux mets succulents et ne tardent pas à se jeter dessus. Ils se retrouvent alors transformés en cochons. Prise de panique\, Chihiro s’enfuit et se dématérialise progressivement. L’énigmatique Haku se charge de lui expliquer le fonctionnement de l’univers dans lequel elle vient de pénétrer. Pour sauver ses parents\, la fillette va devoir faire face à la terrible sorcière Yubaba\, qui arbore les traits d’une harpie méphistophélique.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR8859H#showsession?id=emsx113500007622&ps=ticketingcine
+DURATION:PT2H6M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261115T170000Z
+SUMMARY:Le Voyage de Chihiro (VOST)
+UID:29d4974e-16e5-4686-86d7-0e6ba9a7ac7a@29d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nJapon\, été 1945. Après le bombardement de Kobé\, Seita\, un adolescent de quatorze ans et sa petite sœur de quatre ans\, Setsuko\, orphelins\, vont s’installer chez leur tante à quelques dizaines de kilomètres de chez eux. Celle‐ci leur fait comprendre qu’ils sont une gêne pour la famille et doivent mériter leur riz quotidien. Seita décide de partir avec sa petite sœur. Ils se réfugient dans un bunker désaffecté en pleine campagne et vivent des jours heureux illuminés par la présence de milliers de lucioles. Mais bientôt la nourriture commence cruellement à manquer.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR8CYCL#showsession?id=emsx113500007615&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261113T180000Z
+SUMMARY:Le Tombeau des lucioles (VOST)
+UID:66bb667b-9b6c-415d-ae8c-392ef0faf69d@66bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Marguerite Duras\n\nA Calcutta\, en 1937. Anne-Marie Stretter\, épouse de l’ambassadeur de France\, entretient une relation amoureuse avec Michael Richardson. Un soir\, au cours d’une réception donnée à l’ambassade\, elle le retrouve et lui accorde quelques pas de danse. Parmi les invités se trouve aussi le vice-consul de France à Lahore\, envoyé en disgrâce à Calcutta. Celui-ci\, apercevant Anne-Marie\, ne tarde pas à lui déclarer son amour passionné\, devant l’assemblée des convives scandalisée. Le lendemain\, Anne-Marie a mystérieusement disparu…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRX8YB4#showsession?id=emsx113500007563&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261021T190000Z
+SUMMARY:India Song (VOST)
+UID:752058cc-7783-4517-9540-c72666be1c51@7520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 沖浦啓之\n\nTrois gouttes d’eau tombent du ciel et rebondissent sur l’épaule de Momo qui tient dans sa main une lettre inachevée écrite par son père\, océanographe\, disparu en mer. Cette lettre\, qui commence par « Chère Momo »\, est restée blanche. Après ce décès\, Ikuko\, la mère de Momo\, décide de quitter Tokyo avec sa fille et de rejoindre son île natale\, l’île de Shio\, située dans la mer intérieure de Seto. .\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR4MMF1#showsession?id=emsx113500007564&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261022T140000Z
+SUMMARY:Lettre à Momo (VOST)
+UID:3dfb8182-0e90-4baf-bdfa-15c9ea04e761@3dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Kenji Iwaisawa\n\nUne bande de lycéens marginaux menée par Kenji décide de créer un groupe de musique\, sans savoir jouer. Le groupe Kobujutsu est né.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRSME60#showsession?id=emsx113500007643&ps=ticketingcine
+DURATION:PT1H11M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261106T180000Z
+SUMMARY:On-Gaku : Notre Rock ! (VOST)
+UID:a0b5ebb8-da0d-4bea-aa90-2c90f18560c9@a0b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nChanteuse pop très populaire\, Mima décide d’abandonner la scène pour devenir actrice. Sans regrets\, elle quitte son groupe et accepte un petit rôle dans une série TV\, déclenchant ainsi la colère de ses fans… et plus particulièrement celle de l’un deux. Le mystérieux « traqueur » passe à l’acte en dévoilant en détail la vie de Mima sur Internet\, puis en menaçant ses proches. Des incidents violents se produisent et elle réalise que son existence se confond dangereusement avec la série dans laquelle elle joue. Mima sombre dans la schizophrénie tandis que les cadavres s’accumulent autour d’elle…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRICTHZ#showsession?id=emsx113500007594&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261031T200000Z
+SUMMARY:Perfect Blue (VOST)
+UID:1100c434-4854-478f-a702-d820e347dab4@1100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Stanley J. Orzel\n\nUn Américain à Hong Kong\, une jeune danseuse envoutante\, une histoire d’amour naissante\, un grand père meurtri par la guerre du Vietnam… Voilà les ingrédients de ce long métrage. Leur amour résistera-t-il ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRCXIAF#showsession?id=emsx113500007649&ps=ticketingcine
+DURATION:PT1H47M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261114T170000Z
+SUMMARY:Lost for Words (VOST)
+UID:1b7f5d37-1b29-4d62-8c1d-d5251c4de50d@1b7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Jean-Pierre Thorn\n\nUn documentaire qui retrace la première grève de travailleurs étrangers en situation irrégulière qui travaillent pour le compte d’une entreprise de recyclage de papiers. Le 21 mai 1973\, à Nanterre et Gennevilliers\, 52 ouvriers de Margoline se mettent en grève. Sans douches\, sans vestiaires\, sans gants\, sans bleus de travail\, ils travaillent douze heures par jour à charger et décharger des balles de papier. « Mais nous sommes obligés de travailler chez [Margoline] parce qu’on n’a pas de papiers et qu’en plus il nous cache les passeports pour pas qu’on puisse changer de travail »\, lit-on dans le tract qu’ils distribuent.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR4TV1V#showsession?id=emsx113500007644&ps=ticketingcine
+DURATION:PT40M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261110T180000Z
+SUMMARY:La Grève des ouvriers de Margoline (VOST)
+UID:7a032218-98cf-4c43-a60a-a7b1ebd00697@7a03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nChihiro\, 10 ans\, a tout d’une petite fille capricieuse. Elle s’apprête à emménager avec ses parents dans une nouvelle demeure. Sur la route\, la petite famille se retrouve face à un immense bâtiment rouge au centre duquel s’ouvre un long tunnel. De l’autre côté du passage se dresse une ville fantôme. Les parents découvrent dans un restaurant désert de nombreux mets succulents et ne tardent pas à se jeter dessus. Ils se retrouvent alors transformés en cochons. Prise de panique\, Chihiro s’enfuit et se dématérialise progressivement. L’énigmatique Haku se charge de lui expliquer le fonctionnement de l’univers dans lequel elle vient de pénétrer. Pour sauver ses parents\, la fillette va devoir faire face à la terrible sorcière Yubaba\, qui arbore les traits d’une harpie méphistophélique.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR8859H#showsession?id=emsx113500007556&ps=ticketingcine
+DURATION:PT2H6M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T190000Z
+SUMMARY:Le Voyage de Chihiro (VOST)
+UID:43eb71c6-959a-406b-bac4-a813cea45761@43eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Jean-Pierre Thorn\n\nEtude du mouvement artistique rebelle\, le Mouv Hip Hop qui\, a travers "grafs"\, rap et break-dance permet a toute une jeunesse de dire: j'existe. \r\n\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR53LJY#showsession?id=emsx113500007599&ps=ticketingcine
+DURATION:PT1H28M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261104T153000Z
+SUMMARY:Faire kiffer les anges (VOST)
+UID:48bdd06a-299b-4b11-bc21-49db94de1145@48bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 藪下泰司\n\nDans la Chine ancienne\, un enfant achète au marché un petit serpent blanc. Mais ses parents n'en veulent pas. Il doit donc se résigner\, la mort dans l'âme\, à le relâcher. Quelques années plus tard\, l'enfant est devenu un beau jeune homme\, tandis que le reptile refait son apparition sous la forme d'une délicieuse princesse et se met à la recherche de son ancien protecteur. Ils tombent amoureux l'un de l'autre\, mais doivent affronter de nombreux périls\, parmi lesquels un puissant bonze chasseur de fantômes. Pour trouver le bonheur\, ils sont aidés dans leur lutte par les amis du jeune homme\, un adorable petit panda plus fort qu'il n'en a l'air et un chat intrépide\, ainsi qu'une bande de petits animaux patibulaires convertis à leur cause.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRYKZXN#showsession?id=emsx113500007554&ps=ticketingcine
+DURATION:PT1H19M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T140000Z
+SUMMARY:Le Serpent Blanc (VOST)
+UID:572ee73d-a61f-4e6b-aca3-8f4ebbb43467@572e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nAlors qu'il joue sur la plage\, le petit Sosuke découvre une petite fille poisson rouge nommée Ponyo\, piégée dans un pot de confiture. Sosuke la sauve et décide de la garder avec lui. Le petit garçon lui promet de la protéger et de s'occuper d'elle\, mais le père de Ponyo\, Fujimoto – un sorcier autrefois humain qui vit tout au fond de la mer – la force à revenir avec lui dans les profondeurs. Bien décidée à devenir humaine\, Ponyo s'échappe pour retrouver Sosuke. Mais avant\, elle répand l'élixir magique de Fujimoto dans l'océan qui va provoquer des vagues gigantesques et engloutir le village.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQBIES#showsession?id=emsx113500007620&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261115T150000Z
+SUMMARY:Ponyo sur la falaise (VOST)
+UID:25e0e90d-e096-4ffd-beb4-97b26f802857@25e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hiromasa Yonebayashi\n\nDans la banlieue de Tokyo\, sous le plancher d’une vieille maison perdue au cœur d’un immense jardin\, la minuscule Arrietty vit en secret avec sa famille. Ce sont des Chapardeurs. Arrietty connaît les règles : on n’emprunte que ce dont on a besoin\, en tellement petite quantité que les habitants de la maison ne s’en aperçoivent pas. Plus important encore\, on se méfie du chat\, des rats\, et interdiction absolue d’être vus par les humains sous peine d’être obligés de déménager et de perdre cet univers miniature fascinant fait d’objets détournés. Arrietty sait tout cela. Pourtant\, lorsqu’un jeune garçon\, Sho\, arrive à la maison pour se reposer avant une grave opération\, elle sent que tout sera différent. Entre la jeune fille et celui qu’elle voit comme un géant\, commence une aventure et une amitié que personne ne pourra oublier…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRAD0R9#showsession?id=emsx113500007619&ps=ticketingcine
+DURATION:PT1H34M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261114T180000Z
+SUMMARY:Arrietty\, le petit monde des chapardeurs (VOST)
+UID:834e3c5e-28d2-4332-8e82-a60da1a90bcc@834e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nLa jeune Sophie\, âgée de 18 ans\, travaille sans relâche dans la boutique de chapelier que tenait son père avant de mourir. Lors de l’une de ses rares sorties en ville\, elle fait la connaissance de Hauru le Magicien. Celui‐ci est extrêmement séduisant\, mais n’a pas beaucoup de caractère… Se méprenant sur leur relation\, une sorcière jette un épouvantable sort sur Sophie et la transforme en vieille femme de 90 ans. Accablée\, Sophie s’enfuit et erre dans les terres désolées. Par hasard\, elle pénètre dans le Château Ambulant de Hauru et\, cachant sa véritable identité\, s’y fait engager comme femme de ménage. Cette « vieille dame » aussi mystérieuse que dynamique va bientôt redonner une nouvelle vie à l’ancienne demeure. Plus énergique que jamais\, Sophie accomplit des miracles. Quel fabuleux destin l’attend  ? Et si son histoire avec Hauru n’en était qu’à son véritable commencement  ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FREMFG5#showsession?id=emsx113500007590&ps=ticketingcine
+DURATION:PT1H59M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261030T200000Z
+SUMMARY:Le Château ambulant (VOST)
+UID:d601f641-a6fe-4dfe-8ec8-f58f8f9b15bf@d601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nDans un monde où la nature est hostile à l’Homme\, Nausicaä – princesse de la Vallée du Vent – se bat pour protéger son village. Mais la guerre des hommes frappe à leur porte. Les vestiges d’une humanité industrielle menacent l’équilibre entre les rescapés humains du grand cataclysme et les insectes\, protecteurs de la forêt toxique.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQ6FG5#showsession?id=emsx113500007608&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261107T150000Z
+SUMMARY:Nausicaä de la Vallée du Vent (VOST)
+UID:0e508d71-1436-42fb-990f-edec718495b1@0e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Mamoru Hosoda\n\nHana et ses deux enfants\, Ame et Yuki\, vivent discrètement dans un coin tranquille de la ville. Leur vie est simple et joyeuse\, mais ils cachent un secret : leur père est un homme‐loup. Quand celui‐ci disparaît brutalement\, Hana décide de quitter la ville pour élever ses enfants à l’abri des regards. Ils emménagent dans un village proche d’une forêt luxuriante…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRJYOQ0#showsession?id=emsx113500007587&ps=ticketingcine
+DURATION:PT1H57M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261030T180000Z
+SUMMARY:Les enfants loups\, Ame et Yuki (VOST)
+UID:c15b67ff-5250-4ec7-b759-573eb4376ae2@c15b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 3\n\nRéalisateur : Claude Sicre\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR7BC21#showsession?id=emsx113500007659&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Cinémathèque de Toulouse (Salle 3)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261018T153000Z
+SUMMARY:NOUVEAU TOUR DU MONDE (VOST)
+UID:82313f1b-8e29-4a3f-bb16-fa7e331264dd@8231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Glauber Rocha\n\nAntonio Das Mortes est un ancien tueur de Cangaceiros. Le colonel Horacio\, riche propriétaire terrien\, le convoque pour se débarrasser de Coirana\, un pauvre agitateur qui se prend pour un grand Cangaceiro... Coirana dirige un groupe de paysans mystiques en compagnie d'un noir nostalgique de l'Afrique et d'une "Sainte" locale.  Antonio arrive au village et provoque en duel Coirana. La foule chante et danse en  entourant les deux hommes engagés dans une lutte à mort. D'un coup de  machette\, Antonio blesse grièvement son adversaire.  Cependant\, il ne savoure guère sa  victoire. Il boit tristement tandis que l'instituteur du village le nargue. Lorsque  le colonel Horacio fait appel aux jaguncos\, cruels tueurs à gages\, afin de  massacrer les beatos\, Antonio comprend que la justice devrait être du côté  des déshérités et change de camp...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQHAF1#showsession?id=emsx113500007658&ps=ticketingcine
+DURATION:PT1H40M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261018T130000Z
+SUMMARY:Antonio Das Mortes (VOST)
+UID:71e40ea9-878d-45f5-a464-07a0d554db2c@71e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Masaaki Yuasa\n\nÀ Kyoto\, un lycéen tente par tous les moyens dont il dispose d’attirer l’attention de la jeune fille dont il est amoureux.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRN40VW#showsession?id=emsx113500007595&ps=ticketingcine
+DURATION:PT1H33M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261103T180000Z
+SUMMARY:The  Night Is Short\, Walk On Girl (VOST)
+UID:11d6e13b-a03a-400a-a1da-c9f90fe05cba@11d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Hayao Miyazaki\n\nInspiré par le fameux concepteur d'avions Giovanni Caproni\, Jiro rêve de voler et de dessiner de magnifiques avions. Mais sa mauvaise vue l'empêche de devenir pilote\, et il se fait engager dans le département aéronautique d'une importante entreprise d'ingénierie en 1927. Son génie l'impose rapidement comme l'un des plus grands ingénieurs du monde. Le Vent se lève raconte une grande partie de sa vie et dépeint les événements historiques clés qui ont profondément influencé le cours de son existence\, dont le séisme de Kanto en 1923\, la Grande Dépression\, l'épidémie de tuberculose et l'entrée en guerre du Japon. Jiro connaîtra l'amour avec Nahoko et l'amitié avec son collègue Honjo. Inventeur extraordinaire\, il fera entrer l'aviation dans une ère nouvelle.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRS061A#showsession?id=emsx113500007577&ps=ticketingcine
+DURATION:PT2H6M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261025T170000Z
+SUMMARY:Le Vent se lève (VOST)
+UID:69c4be5c-b703-4f15-9c1d-13061fb6629e@69c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Andrzej Wajda\n\nEn 1929\, un homme retrouve la maison où\, quinze ans plus tôt il passa un été avec cinq jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRU4POJ#showsession?id=emsx113500007600&ps=ticketingcine
+DURATION:PT1H56M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261104T170000Z
+SUMMARY:Les Demoiselles de Wilko (VOST)
+UID:47fd19d0-a6d6-4d91-8292-277855770af1@47fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Tomohisa Taguchi\n\nSelon une légende urbaine\, un mystérieux tunnel offre à celui qui ose s’y aventurer ce qu’il désire de plus cher… Mais à un prix : le temps s’écoule à un autre rythme rendant l’expérience dangereuse. Kaoru\, un jeune lycéen\, vit tant bien que mal depuis la disparition de sa petite sœur. Un jour\, il découvre par hasard le tunnel\, mais se rend compte qu’il est suivi par Anzu\, une jeune fille venant d’arriver dans le même lycée. Elle lui propose son aide pour tenter l’expérience. Mais que va-t-elle lui demander en échange ?\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRKVBAD#showsession?id=emsx113500007601&ps=ticketingcine
+DURATION:PT1H24M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261104T180000Z
+SUMMARY:Tunnel to Summer (VOST)
+UID:aa825947-b9e8-462d-9673-ae49efe3c78a@aa82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : 沖浦啓之\n\nTokyo\, dans les années 1970… Les révoltes font rage\, opposant les forces de police à la Secte\, une organisation formée d'opposants au pouvoir en place. Pour remédier à ce problème\, l'État crée la POSEM et ses divisions Panzer dont l'unique but est d'éliminer tout opposant. Fusé\, fraîchement émoulu de l'académie de la POSEM\, en fait partie. Lors d'une révolte\, il n'arrive pas à tirer sur une jeune rebelle. Alors que son incapacité d'agir le hante\, il rencontre la sœur aînée de la victime avec laquelle il noue une relation…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRXH62G#showsession?id=emsx113500007565&ps=ticketingcine
+DURATION:PT1H42M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261022T170000Z
+SUMMARY:Jin-Roh\, la brigade des loups (VOST)
+UID:b6aa7be1-47b8-49dc-aa7d-1fb7fb711644@b6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Kemi Adetiba\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRQL1UN#showsession?id=emsx113500007639&ps=ticketingcine
+DURATION:PT2H
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261024T150000Z
+SUMMARY:LA NOCE (VOST)
+UID:6898f56c-5e2a-46ce-8e45-c7e4ed5d35bc@6898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Satoshi Kon\n\nChiyoko Fujiwara est une ancienne gloire du cinéma japonais. Aujourd'hui\, âgée de 70 ans\, elle vit recluse chez elle. Un jour\, un homme vient lui rendre visite pour l'interviewer sur son passé. Il lui remet une clé\, que Chiyoko avait perdu voilà 30 ans. Devant le journaliste et son caméraman elle se met à raconter son histoire. Une vie pleine d'amour et de passion\, passée à rechercher un étrange inconnu\, celui-là même qui lui a un jour remis cette clé en lui faisant la promesse de se revoir…\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRDJW5K#showsession?id=emsx113500007623&ps=ticketingcine
+DURATION:PT1H27M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261114T200000Z
+SUMMARY:Millennium Actress (VOST)
+UID:d90d6b74-ba97-480f-b13c-f2e85e30110b@d90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : \n\n\n\nRéservervation : https://www.ticketingcine.com?EMS1135#showsession?id=emsx113500007668&ps=ticketingcine
+DURATION:PT1H10M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261017T160000Z
+SUMMARY:NOSY HIRA\, MADAGASCAR (VOST)
+UID:16bf2f8d-3b3a-4de3-946d-b30bf6b11229@16bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Marguerite Duras\n\nUne jeune femme écrivain lit un scénario à son futur interprète. Un scénario en gestation\, puisque petit à petit les images naissent\, les personnages s'élaborent...\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRRN2G5#showsession?id=emsx113500007607&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261107T170000Z
+SUMMARY:Le Camion (VOST)
+UID:5b2158d1-9b4f-4692-bc47-f550f3dc21c2@5b21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Isao Takahata\n\nAdapté d’un conte populaire japonais "Le coupeur de bambou"\, un des textes fondateurs de la littérature japonaise\, Kaguya\, "la princesse lumineuse"\, est découverte dans la tige d'un bambou par des paysans. Elle devient très vite une magnifique jeune femme que les plus grands princes convoitent : ceux-ci vont devoir relever d’impossibles défis dans l’espoir d’obtenir sa main.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRE6HF1#showsession?id=emsx113500007558&ps=ticketingcine
+DURATION:PT2H17M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261018T160000Z
+SUMMARY:Le Conte de la princesse Kaguya (VOST)
+UID:d2dea7bf-b1bc-43e2-931c-87da3851c9c8@d2de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Katsuhiro Ōtomo\, Koji Morimoto\, Tensai Okamura\n\nTrois petites histoires composent Memories. La première : « Magnetic Rose »\, deux voyageurs de l'espace sont aspirés dans un monde parallèle sur un astéroïde. Un monde créé par les souvenirs d'une femme. Dans la deuxième\, « Stink Bomb »\, un jeune assistant dans un laboratoire se transforme accidentellement en un arme biologique humaine qui menace Tokyo. L'épisode final et troisième\, « Cannon Fodder »\, relate un jour de la vie d'une ville qui a pour unique préoccupation d'anéantir ses ennemies.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR3Y9WD#showsession?id=emsx113500007617&ps=ticketingcine
+DURATION:PT1H53M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261113T200000Z
+SUMMARY:Memories (VOST)
+UID:429346c9-a02d-404e-8159-de99f35fb685@4293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 2\n\nRéalisateur : Fabianny Deschamps\n\nC’est le mois d’août en Chine du sud\, la fête des morts et des esprits. Li Yu\, une jeune ouvrière du Guangdong\, s’apprête à entreprendre le voyage de sa vie pour suivre l’homme qu’elle aime en passant clandestinement à Hong Kong. De l’autre côté de la frontière\, Eve\, une française\, vient conquérir le marché chinois avec un nouveau procédé funéraire. Entre ces deux mondes\, il y a un no man’s land que l’on appelle les “ Nouveaux Territoires ”. Et tout autour\, des dizaines d’hommes et de femmes qui ne cessent de disparaître mystérieusement\, sans que jamais on ne retrouve leur trace.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FR4EF7T#showsession?id=emsx113500007631&ps=ticketingcine
+DURATION:PT1H24M
+LOCATION:Cinémathèque de Toulouse (Salle 2)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261119T183000Z
+SUMMARY:New Territories (VOST)
+UID:916da053-52e5-496b-951b-dc366441da3a@916d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Salle 1\n\nRéalisateur : Taïeb Louhichi\n\nC'est l'histoire de gens qui vivent à l'ombre de la terre\, dans une région désertique et frontalière du sud de la Tunisie. Une famille de nomades vivant dans un campement regroupant le patriarche\, ses fils et ses neveux est confrontée à la famine et aux maladies. Les fils se voient obligés de se rendre en ville\, à l'étranger ou de s'engager dans l'armée. Le fils aîné étant mort à l'étranger\, sa femme doit à son tour se déplacer vers la capitale pour récupérer son corps.\n\nRéservervation : https://www.ticketingcine.com/EMS1135/FRBVPOH#showsession?id=emsx113500007570&ps=ticketingcine
+DURATION:PT35M
+LOCATION:Cinémathèque de Toulouse (Salle 1)\, 69 Rue du Taur\, 31000 Toulouse
+DTSTART:20261023T190000Z
+SUMMARY:L'Ombre de la terre (VOST)
+UID:daa6e132-36db-4a1b-9784-2dbd0c34277a@daa6.org
+END:VEVENT
+END:VCALENDAR
