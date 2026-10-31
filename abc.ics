@@ -1,0 +1,556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700091886&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T124000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:ac34af25-da92-4d09-afcc-3b77ef8fd877@ac34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700091898&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T143000Z
+SUMMARY:La Gradiva (VOST)
+UID:054d66f0-92ea-4c78-90b8-da63dcfb8648@054d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092712&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T142000Z
+SUMMARY:Moulin (VOST)
+UID:4c54ac5c-7330-4a0b-9ddb-a942129687a0@4c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700091907&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T191500Z
+SUMMARY:Minotaure (VOST)
+UID:3cc195c0-144d-407b-824f-d42574fd1ff9@3cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092123&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T191500Z
+SUMMARY:La Gradiva (VOST)
+UID:f7fa58f9-ff90-437d-9f77-4c68c7118ca7@f7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Iga Lis\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR808J6#showsession?id=emsx094700092064&ps=ticketingcine
+DURATION:PT1H5M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261105T170000Z
+SUMMARY:LA REINE DU POISSON FUME (VOST)
+UID:936eda91-717a-4cf0-9962-d127c287bbcd@936e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092713&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T193000Z
+SUMMARY:Moulin (VOST)
+UID:566eb621-1ef6-4355-b3d6-ef162c4c38a2@566e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700091894&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T191500Z
+SUMMARY:La Gradiva (VOST)
+UID:58d09cc0-ef3c-4503-bec5-f07a11e17337@58d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700091942&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T171000Z
+SUMMARY:Irish Travellers (VOST)
+UID:b8e13451-d69e-494e-9b92-9568e1780b6a@b8e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092030&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261105T191500Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:4f6e3ee7-4d34-404b-92a1-4be0acfae78d@4f6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Callum Devlin\n\nPour fêter le Nouvel An\, quatre potes se retrouvent dans une grange au fin fond de la campagne néo-zélandaise. La soirée parfaite\, grâce à un pot de weed volé au fermier du coin. Jusqu'à ce qu'ils découvrent que cette herbe provoque une irrésistible envie de chair humaine...\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FROZGC0#showsession?id=emsx094700092310&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T173000Z
+SUMMARY:Weed Eaters (VOST)
+UID:bd4f4480-4105-4d70-b65f-36579c1e5b0f@bd4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Emi Buchwald\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRQNMBB#showsession?id=emsx094700091710&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261105T133000Z
+SUMMARY:Nie ma duchów w mieszkaniu na Dobrej (VOST)
+UID:ef66d745-c462-4068-925c-4cd169d48fcb@ef66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jordan Firstman\n\nUn organisateur de soirées underground est contraint de s’occuper d’un fils dont il ignorait totalement l’existence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700091945&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261104T194500Z
+SUMMARY:Club Kid (VOST)
+UID:826cd7ca-a002-43db-9212-e9f48d8f2c5c@826c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700092744&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T104500Z
+SUMMARY:Irish Travellers (VOST)
+UID:ec4d6efb-3545-4c25-85f7-737e72039398@ec4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092709&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T164000Z
+SUMMARY:Moulin (VOST)
+UID:7bf6169a-3fc9-43f6-9acd-a5a7569b0117@7bf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Olivier Clert\n\nLucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLPWEP#showsession?id=emsx094700091859&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T131500Z
+SUMMARY:Le Mystère Lucy Lost (VOST)
+UID:81767772-9e19-4d13-98c4-672a1e565365@8176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700091893&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T163000Z
+SUMMARY:La Gradiva (VOST)
+UID:6c364a12-321c-4ae9-a791-91636cb40de0@6c36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700092125&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T151000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:e824362c-261d-4a34-9f8a-88f1ff492910@e824.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092710&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T144500Z
+SUMMARY:Moulin (VOST)
+UID:ea10c714-fb8c-4e70-8170-8f2e5cdacf5f@ea10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Piotr Domalewski\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFB50N#showsession?id=emsx094700091711&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261105T190000Z
+SUMMARY:Ministranci (VOST)
+UID:b03fe83c-5bd4-44e9-8113-29eae265d1e2@b03f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092707&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T193000Z
+SUMMARY:Moulin (VOST)
+UID:3632d46b-8c1e-459c-84bc-d325f0e73c97@3632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Steve Cox\, Matthew Walker\n\nÀ Halloween\, les habitants de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème\, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CQ6X#showsession?id=emsx094700091858&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T150000Z
+SUMMARY:Shaun le Mouton : La Bêêête d'Halloween (VOST)
+UID:d0772bb7-f1ff-4c78-9f5e-1925e8afc2ab@d077.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Hong Sang-Soo\n\nSuite à son divorce\, une grande actrice coréenne retourne sur le devant de la scène\, 12 ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film\, elle s’entretient avec plusieurs jeunes journalistes venues l’interroger sur son nouveau projet\, mais aussi sur sa vie personnelle et les raisons de sa séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRKFQ2W#showsession?id=emsx094700092745&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T104500Z
+SUMMARY:Le Jour de son retour (VOST)
+UID:628a0b76-b5b7-440d-9d77-cc73c1ae1865@628a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Steve Cox\, Matthew Walker\n\nÀ Halloween\, les habitants de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème\, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CQ6X#showsession?id=emsx094700092740&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T170000Z
+SUMMARY:Shaun le Mouton : La Bêêête d'Halloween (VOST)
+UID:8d4cb4a8-b417-45b8-9df0-07df360fd54d@8d4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Sarah Arnold\n\nDans le Nord-Est de la France\, agriculteurs et chasseurs se font la guerre. Les sangliers\, trop gros et trop nombreux\, dévastent les cultures. Brun\, céréalier au bord du gouffre\, craque et disparaît. Un an plus tard\, Fulda\, un gendarme explosif et Stéphane\, une psy en crise\, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFIS1K#showsession?id=emsx094700092126&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T142000Z
+SUMMARY:L'Espèce explosive (VOST)
+UID:4832d340-6e81-43c3-a9db-2e67ea508db8@4832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700091883&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T122000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:1e7974d8-6552-49a8-a5b7-cd99d9682cba@1e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700092742&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T115000Z
+SUMMARY:Irish Travellers (VOST)
+UID:35605333-7313-4e57-b1aa-2138e3c2aa4b@3560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700091904&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T143000Z
+SUMMARY:Minotaure (VOST)
+UID:3ca1aa13-374b-4c6b-b722-c266ec86d8c3@3ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Antoine Colomb\n\nAlgérie\, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché\, il se fait arrêter par la police et Khadidja se retrouve seule. Heureusement\, Lyes\, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à retrouver Malek. Depuis les toits de la Casbah\, les quatre enfants mènent l’enquête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGIW1R#showsession?id=emsx094700091913&ps=ticketingcine
+DURATION:PT1H24M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T095000Z
+SUMMARY:Petite Casbah (VOST)
+UID:7bdc9d16-9b5e-4f68-9939-e3271ff900e8@7bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jan Komasa\n\nTommy\, jeune délinquant insouciant et impulsif naviguant entre fêtes alcoolisées et violences incontrôlables\, se réveille un matin enchaîné dans la cave d’une maison. Il est à la merci de ses occupants\, une étrange famille qui s’est donnée pour mission de le remettre dans le droit chemin. Quelqu’en soit le prix.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRSN1CD#showsession?id=emsx094700091712&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261106T170000Z
+SUMMARY:The Good Boy (VOST)
+UID:b1023d5b-3e02-47d4-8cfb-d733657e0472@b102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Olivier Clert\n\nLucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLPWEP#showsession?id=emsx094700091870&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T145000Z
+SUMMARY:Le Mystère Lucy Lost (VOST)
+UID:8d24abf1-d2b3-452a-8293-61c8f71ff980@8d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700091937&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T150000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:e075d572-b213-4af5-8060-b7fbe73c2dc2@e075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092723&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T113000Z
+SUMMARY:La Gradiva (VOST)
+UID:5755dec3-80a3-4251-ba9d-cd766bde8312@5755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Hong Sang-Soo\n\nSuite à son divorce\, une grande actrice coréenne retourne sur le devant de la scène\, 12 ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film\, elle s’entretient avec plusieurs jeunes journalistes venues l’interroger sur son nouveau projet\, mais aussi sur sa vie personnelle et les raisons de sa séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRKFQ2W#showsession?id=emsx094700091919&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T124000Z
+SUMMARY:Le Jour de son retour (VOST)
+UID:8204af5e-3ef2-4d08-9b7d-3d10bec74ab8@8204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Joko Anwar\n\nUn détenu arrive dans une prison indonésienne\, hantée par une entité surnaturelle qui tue ceux dont l’aura est la plus sombre. Alors que les prisonniers s’efforcent d’accomplir de bonnes actions pour survivre\, ils réalisent que l’unité est leur seule chance de ne pas être éliminés un par un.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRCI4ZW#showsession?id=emsx094700092312&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T220000Z
+SUMMARY:Ghost in the Cell (VOST)
+UID:82aaf730-7188-460e-99c3-a4953ae6af68@82aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Arnaud Demuynck\, Noé Garcia\, Erwann Hette\, Pascale Hecquet\, Stéphanie Yang Chun\, Tristan Francia\n\nUn souriceau qui vit la tête à l’envers\, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRD600L#showsession?id=emsx094700092737&ps=ticketingcine
+DURATION:PT45M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T143000Z
+SUMMARY:Le Monde à l'envers (VOST)
+UID:102081ad-a4cb-4339-a4eb-c00c1824e506@1020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700091905&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T191000Z
+SUMMARY:Minotaure (VOST)
+UID:ab3824c8-7708-487b-a6bb-07fd05b86b25@ab38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700091908&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T114000Z
+SUMMARY:Minotaure (VOST)
+UID:23b2e4a2-bba1-45d6-b7c0-e3d98de3ac72@23b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092199&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261112T194500Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:6b51d06e-b032-4a7e-b756-47765a345cbe@6b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700091940&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T093000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:c1134d4e-ffb7-4f8e-9d2a-995cbae88299@c113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700091882&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T172000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:b022c1a7-8081-432b-a50f-66d0e7f1d78d@b022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Olivier Clert\n\nLucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLPWEP#showsession?id=emsx094700091871&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T160500Z
+SUMMARY:Le Mystère Lucy Lost (VOST)
+UID:1ace9223-1540-453f-a648-c4cd1dcf0982@1ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Steve Cox\, Matthew Walker\n\nÀ Halloween\, les habitants de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème\, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CQ6X#showsession?id=emsx094700091864&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T175000Z
+SUMMARY:Shaun le Mouton : La Bêêête d'Halloween (VOST)
+UID:2fae9ae9-2bd0-49e1-9430-a19635ce20b7@2fae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Hong Sang-Soo\n\nSuite à son divorce\, une grande actrice coréenne retourne sur le devant de la scène\, 12 ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film\, elle s’entretient avec plusieurs jeunes journalistes venues l’interroger sur son nouveau projet\, mais aussi sur sa vie personnelle et les raisons de sa séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRKFQ2W#showsession?id=emsx094700091920&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T173000Z
+SUMMARY:Le Jour de son retour (VOST)
+UID:66de5df4-5a27-47d1-a324-230152fffa77@66de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092706&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T121500Z
+SUMMARY:Moulin (VOST)
+UID:058e8b75-8c18-494f-9cba-dc26dae1ef38@058e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092708&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T154000Z
+SUMMARY:Moulin (VOST)
+UID:c763ceb3-faa2-4a6d-b37f-2ca4c15317d5@c763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700091922&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T173000Z
+SUMMARY:Irish Travellers (VOST)
+UID:436d9345-0000-43b1-9d29-54a487f10352@436d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Rafiki Fariala\n\nBangui. Robert a 17 ans et rêve de faire carrière dans la musique. Mais il n'est pas un Centrafricain comme les autres. Il est un réfugié congolais. Lorsque ses parents sont arrêtés\, il doit s'occuper seul de ses quatre jeunes frère et sœurs. Il jongle alors entre petits boulots et révisions du bac\, tout en évitant les milices qui font régner la terreur dans la ville. Un jour\, il apprend qu'un concours musical est organisé. Gagner devient son seul espoir.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CNW1#showsession?id=emsx094700092031&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261106T193000Z
+SUMMARY:Congo Boy (VOST)
+UID:053f1c72-6502-4000-b59c-a634e36320d0@053f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Koji Fukada\n\nYuri\, architecte divorcée\, rend visite à son ancienne belle-sœur Yoriko\, sculptrice installée dans le village de Nagi. Ce séjour\, d’abord envisagé comme une simple parenthèse\, prend une tournure inattendue lorsque Yuri accepte de poser pour elle. Au fil des séances\, les silences se peuplent de souvenirs\, et un lien profond\, longtemps enfoui\, ressurgit entre les deux femmes. Loin de l’agitation de Tokyo\, Yuri se laisse gagner par la douceur du quotidien rural et la vie des habitants. Les jours passent comme si quelque chose\, ici\, l’invitait à rester.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIMO3I#showsession?id=emsx094700092756&ps=ticketingcine
+DURATION:PT1H50M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261107T193000Z
+SUMMARY:Quelques jours à Nagi (VOST)
+UID:beabcaf1-c4ce-4ad4-8dde-06d40c641917@beab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092711&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T194000Z
+SUMMARY:Moulin (VOST)
+UID:af2f3824-dff7-4190-a7f8-4008b3ff3cec@af2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700092721&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T190000Z
+SUMMARY:Minotaure (VOST)
+UID:e83ad8ce-2dd0-4184-bb11-ebe3ad2f0b81@e83a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700091897&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T190000Z
+SUMMARY:La Gradiva (VOST)
+UID:171d60d8-f1b4-43db-ac6a-3541c199226f@171d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Olivier Clert\n\nLucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLPWEP#showsession?id=emsx094700091860&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T094500Z
+SUMMARY:Le Mystère Lucy Lost (VOST)
+UID:208d205c-078f-44c2-aaaa-7755a38ceb49@208d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Hong Sang-Soo\n\nSuite à son divorce\, une grande actrice coréenne retourne sur le devant de la scène\, 12 ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film\, elle s’entretient avec plusieurs jeunes journalistes venues l’interroger sur son nouveau projet\, mais aussi sur sa vie personnelle et les raisons de sa séparation.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRKFQ2W#showsession?id=emsx094700091917&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T113000Z
+SUMMARY:Le Jour de son retour (VOST)
+UID:8fe7e57a-2279-4d00-b088-4acc3b78bf03@8fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700091902&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T115000Z
+SUMMARY:Minotaure (VOST)
+UID:fd07dae3-bcd5-433e-a19a-943e97aae77a@fd07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Georgia Oakley\n\nAdaptation de Raison et sentiments de Jane Austen.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRYPL2X#showsession?id=emsx094700092726&ps=ticketingcine
+DURATION:PT2H12M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T100000Z
+SUMMARY:Raison et sentiments (VOST)
+UID:9957cc26-2ad0-4958-960e-ba61884fac6d@9957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Sarah Arnold\n\nDans le Nord-Est de la France\, agriculteurs et chasseurs se font la guerre. Les sangliers\, trop gros et trop nombreux\, dévastent les cultures. Brun\, céréalier au bord du gouffre\, craque et disparaît. Un an plus tard\, Fulda\, un gendarme explosif et Stéphane\, une psy en crise\, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFIS1K#showsession?id=emsx094700092743&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261103T123000Z
+SUMMARY:L'Espèce explosive (VOST)
+UID:722eb783-c8dd-4bbd-b0f4-e36fdab007b8@722e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Paweł Pawlikowski\n\nEn 1949\, Thomas Mann\, lauréat du prix Nobel de littérature\, retourne pour la première fois en Allemagne depuis la fin de la guerre\, accompagné de sa fille Erika\, actrice\, écrivain et pilote de rallye. Au volant d'une Buick noire\, ils entreprennent un voyage éprouvant dans un pays qu’ils ont fui\, seize ans plus tôt\, lors de la prise de pouvoir du parti nazi. De Francfort\, sous domination américaine\, jusqu’à Weimar\, contrôlée par les Soviétiques\, père et fille traversent une Allemagne en ruines\, coupée en deux par la guerre froide.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR6X5OY#showsession?id=emsx094700091688&ps=ticketingcine
+DURATION:PT1H22M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261106T191000Z
+SUMMARY:Fatherland (VOST)
+UID:f2468802-db99-406b-8338-b0ec1c925161@f246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700092124&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T141000Z
+SUMMARY:Irish Travellers (VOST)
+UID:240920c8-0c68-46b4-a08a-b3ffd7607edb@2409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700091877&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T134500Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:cad5a0d4-27d6-4734-ace3-e16954b08bdb@cad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700092738&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T123000Z
+SUMMARY:Irish Travellers (VOST)
+UID:77c63c0c-54a1-4246-bb9a-8edd17d8b2db@77c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Sarah Arnold\n\nDans le Nord-Est de la France\, agriculteurs et chasseurs se font la guerre. Les sangliers\, trop gros et trop nombreux\, dévastent les cultures. Brun\, céréalier au bord du gouffre\, craque et disparaît. Un an plus tard\, Fulda\, un gendarme explosif et Stéphane\, une psy en crise\, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFIS1K#showsession?id=emsx094700092719&ps=ticketingcine
+DURATION:PT1H35M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T113000Z
+SUMMARY:L'Espèce explosive (VOST)
+UID:e0a3847d-cc67-4e83-9592-137f421a866d@e0a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700091892&ps=ticketingcine
+DURATION:PT2H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T164000Z
+SUMMARY:Minotaure (VOST)
+UID:2706cd8b-860f-44aa-a815-03ec2cbf448c@2706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Chris Marrs Piliero\n\n\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBKRIR#showsession?id=emsx094700092311&ps=ticketingcine
+DURATION:PT1H31M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T194500Z
+SUMMARY:Appofeniacs (VOST)
+UID:469c9500-73ed-437a-a977-a327d1018215@469c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700091938&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261101T191500Z
+SUMMARY:Irish Travellers (VOST)
+UID:9c635b11-b80a-4fd3-bf1f-32a1507cec8f@9c63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700091896&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T161500Z
+SUMMARY:La Gradiva (VOST)
+UID:352e5d8c-9d1a-401a-b6d9-8bb6de96bf8a@352e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Thomas Bornot\, Cyril Montana\n\nCyril\, petit-fils de réfugié politique espagnol\, décide de s'engager\, en mémoire de son grand-père\, aux côtés des exilés. Il entame alors un périple de Paris jusqu'aux frontières de l'Europe\, à la rencontre de celles et ceux qui ont quitté leur pays\, leurs proches\, leur vie d'avant. Dans son voyage\, il se lie d'amitié avec Yadullah\, un jeune Afghan arrivé à Paris en 2022. Croisant récits d'exilés et analyses politiques et scientifiques\, « Welcome to Europe » combat les idées reçues et la xénophobie\, pour démasquer ce qui se cache derrière la fiction de l'immigration.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3STMH#showsession?id=emsx094700092212&ps=ticketingcine
+DURATION:PT2H
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T190000Z
+SUMMARY:Welcome to Europe (VOST)
+UID:c6378806-086e-4726-ac8d-6ce35ff84004@c637.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092735&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261102T093000Z
+SUMMARY:La Gradiva (VOST)
+UID:fabdb6e5-e668-41e4-8c47-7a19c85bfd89@fabd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Steve Cox\, Matthew Walker\n\nÀ Halloween\, les habitants de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème\, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CQ6X#showsession?id=emsx094700091781&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261031T133000Z
+SUMMARY:Shaun le Mouton : La Bêêête d'Halloween (VOST)
+UID:27e7baeb-9b4f-4440-892c-4edf01afe096@27e7.org
+END:VEVENT
+END:VCALENDAR
