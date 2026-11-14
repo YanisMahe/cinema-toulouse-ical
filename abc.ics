@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Joost van den Bosch\, Erik Verkerk\n\nLes enfants\, vous vous souvenez de Tom\, le petit chat roux\, toujours accompagné de son amie Chat-Souris ? Imaginez un peu : cet hiver\, ils vont découvrir la neige pour la première fois ! Mais les deux compères vont aussi faire la connaissance de leur nouveau voisin : un énorme chien tout poilu\, qui se lance très vite à leur poursuite… Que la course en luge commence !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRILX2C#showsession?id=emsx094700092387&ps=ticketingcine
+DURATION:PT1H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T143000Z
+SUMMARY:Le Merveilleux hiver de Tom le chat (VOST)
+UID:ff9a897e-acfa-4609-9b9b-3325d65baf00@ff9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Robert Guédiguian\n\nJuliette\, 30 ans\, semble avoir tout pour elle : un poste prestigieux dans la finance\, une belle maison\, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue\, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRELTUI#showsession?id=emsx094700092876&ps=ticketingcine
+DURATION:PT2H3M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T170000Z
+SUMMARY:Une femme aujourd'hui (VOST)
+UID:2e0f0c4c-1284-4a14-a57c-7db382453c8d@2e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092435&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T135000Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:943d5b68-d9e7-49bd-8355-54d64b12d111@943d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092447&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T114500Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:ac24c058-f36f-4205-97c6-44c67c15f9f7@ac24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092444&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T155000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:81ac9ade-b848-4305-80c2-68d2a3d5659c@81ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Andreï Zviaguintsev\n\nRussie\, 2022. Gleb\, chef d’entreprise prospère\, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants\, dans un monde de plus en plus instable. L’effondrement d’une vie soigneusement construite bascule rapidement dans la violence.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRX6EJK#showsession?id=emsx094700092428&ps=ticketingcine
+DURATION:PT2H22M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T193000Z
+SUMMARY:Minotaure (VOST)
+UID:634aa796-c19a-466f-bc13-48895c9fe990@634a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092754&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T170000Z
+SUMMARY:Moulin (VOST)
+UID:0498ea9e-5334-4c5a-9e55-71e9ecc7e293@0498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092445&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T152000Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:55b9d6fa-c989-4dc3-b7a1-6bfab3ca2fca@55b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092413&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T141500Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:6d6ade7e-ab56-4f61-b672-a4cbdc48b52e@6d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092443&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T135000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:5a6a9074-3205-40fa-8332-fbe25ef6248d@5a6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Maxence Voiseux\n\nDans le nord de la France\, Gabin\, le petit dernier de la famille Jourdel\, est destiné à reprendre la boucherie de son père. Tiraillé entre loyauté familiale et envies d’échappées\, il a d’autres rêves : dresser une vache de concours\, devenir éleveur canin\, sauver la ferme de sa mère de la faillite. GABIN nous plonge dans la vie de ce jeune garçon\, de ses 8 à ses 18 ans.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRC8QWG#showsession?id=emsx094700092039&ps=ticketingcine
+DURATION:PT1H45M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261121T193000Z
+SUMMARY:Gabin (VOST)
+UID:3dd1bcab-bc24-43ef-a1c9-1287e1245e39@3dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Salomé Stévenin\n\nNos âmes libres est une invitation au sensible. Une aventure qui traverse le temps\, les pays\, les éléments\, l’eau\, la terre\, la forme : une expédition qui interroge intimement notre rapport au vivant. De sa rencontre avec l'animal libre et sauvage\, de ses plongées avec les dauphins et les baleines aux cérémonies ancestrales des peuples premiers\, Salomée Stévenin offre un récit qui remonte à l’origine en réalisant un film hymne à la vie.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRMC0PK#showsession?id=emsx094700092247&ps=ticketingcine
+DURATION:PT1H13M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T150000Z
+SUMMARY:Nos âmes libres (VOST)
+UID:57679d15-22a4-4552-bbd0-1e11c0e1527d@5767.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092389&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T173000Z
+SUMMARY:Club Kid (VOST)
+UID:4c1eb20e-024a-4244-8789-a956b226af4f@4c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092770&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T141000Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:7b2a29aa-9aae-4652-b23a-89597dd25eff@7b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092386&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T200000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:f4a0f63c-a3fa-45fe-9027-2a0a5ca37ae1@f4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092438&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T173000Z
+SUMMARY:Club Kid (VOST)
+UID:c6980a36-5fb7-4414-a595-d0505a228540@c698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092388&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T121000Z
+SUMMARY:Club Kid (VOST)
+UID:62af6478-3caa-4dba-b938-70012e832127@62af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092414&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T160000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:fae487cf-4596-4425-a0d8-e884d2ed840d@fae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092450&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T193000Z
+SUMMARY:Moulin (VOST)
+UID:34006e9d-24c6-447b-908c-80e8f6bf9fc9@3400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Sébastien Laudenbach\n\nDans les ruelles de Séville\, Salva\, Belén et leur bande de gamins des rues vont affronter tous les dangers pour éloigner la menace qui plane sur Carmen\, jeune femme libre et flamboyante. Le destin de Carmen\, oiseau rebelle\, est entre leurs mains.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRPQB4Y#showsession?id=emsx094700092069&ps=ticketingcine
+DURATION:PT1H30M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261121T140000Z
+SUMMARY:Carmen\, l'oiseau rebelle (VOST)
+UID:e34e8829-d336-4d62-b746-a6a48abc93e4@e34e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092453&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T142000Z
+SUMMARY:La Gradiva (VOST)
+UID:b43a5933-187c-41c2-b590-201d26c893f0@b43a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092421&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T114000Z
+SUMMARY:Moulin (VOST)
+UID:43a3479e-c451-44b9-84e1-0f7aa8b342b3@43a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092384&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T161000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:ff7f615c-eeee-40c2-adae-0e89c0698096@ff7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092433&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T160000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:fc288752-b888-4ad2-8f50-c1d790267e73@fc28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092392&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T113000Z
+SUMMARY:Moulin (VOST)
+UID:bea590e9-4f31-4f43-9f31-2430b53d0867@bea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092416&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T180000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:f556d9ee-45ca-4481-9441-8b7326d0f3c1@f556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Olivier Clert\n\nLucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLPWEP#showsession?id=emsx094700092391&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T133000Z
+SUMMARY:Le Mystère Lucy Lost (VOST)
+UID:bb5ddc1e-6eeb-4878-9d46-ffc35107e30a@bb5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700092451&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T171000Z
+SUMMARY:Irish Travellers (VOST)
+UID:287d6af7-7cc4-4526-9cf5-8032784009ea@287d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092441&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T200000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:ac98f490-afd6-46ff-a1c3-a38e4f489ea3@ac98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092412&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T151000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:da7a5035-25d9-4b8b-93a1-af2d9f6d8aa8@da7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092440&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T114000Z
+SUMMARY:Moulin (VOST)
+UID:c5655df3-c6b3-4fde-b41e-46c6e9851942@c565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092424&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T193000Z
+SUMMARY:La Gradiva (VOST)
+UID:b57945bf-4ae2-4a5c-92e3-4f1882e2ab9c@b579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092442&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T173000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:9bd002cd-6195-4056-9f7c-96e750136c63@9bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092393&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T195000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:a3de80d5-672f-4fb3-9489-c4f2a8408449@a3de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092434&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T194500Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:51ee6eac-95c9-4c99-b0db-7855e0fd5e4f@51ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092437&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T200000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:71dabdf6-cef8-458e-9f7c-2cd61616fe1c@71da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092755&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T193000Z
+SUMMARY:Moulin (VOST)
+UID:09ea7c55-7af2-4f71-9d2e-02d05ee29e5d@09ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Joost van den Bosch\, Erik Verkerk\n\nLes enfants\, vous vous souvenez de Tom\, le petit chat roux\, toujours accompagné de son amie Chat-Souris ? Imaginez un peu : cet hiver\, ils vont découvrir la neige pour la première fois ! Mais les deux compères vont aussi faire la connaissance de leur nouveau voisin : un énorme chien tout poilu\, qui se lance très vite à leur poursuite… Que la course en luge commence !\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRILX2C#showsession?id=emsx094700092877&ps=ticketingcine
+DURATION:PT1H2M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T091500Z
+SUMMARY:Le Merveilleux hiver de Tom le chat (VOST)
+UID:f7c69ba3-e493-4a7d-a0e7-7bd9340d8caf@f7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092449&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T115000Z
+SUMMARY:Moulin (VOST)
+UID:648aec2a-aa76-4362-9ef7-73a73a5a7407@648a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Sergueï Paradjanov\n\nDans les Carpates\, au XIXe siècle. Ivan et Marichka\, deux enfants\, s'aiment passionnément malgré la rivalité funeste qui oppose leurs familles depuis toujours. À l'adolescence\, Ivan gagne les alpages pour garder les troupeaux. Saisi d'un étrange pressentiment\, il retourne bientôt au village\, pour apprendre que Marichka s'est noyée dans la rivière en voulant le rejoindre. Meurtri\, il finit par épouser Palagna\, dans l'espoir d'oublier son infortune…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRMGQUG#showsession?id=emsx094700092067&ps=ticketingcine
+DURATION:PT1H37M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261120T193000Z
+SUMMARY:Les Chevaux de feu (VOST)
+UID:69b677a8-0737-45a7-bb80-a498b668a2bd@69b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092448&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T130000Z
+SUMMARY:Club Kid (VOST)
+UID:a470363f-1520-4948-bbb9-e1043db07b30@a470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092385&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T175000Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:5c0ffb4a-82e5-4ae2-a18c-848314a37735@5c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092753&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T194000Z
+SUMMARY:La Gradiva (VOST)
+UID:266c299c-7b28-43f8-9bbd-0dba0c33e765@266c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Olivier Clert\n\nLucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLPWEP#showsession?id=emsx094700092426&ps=ticketingcine
+DURATION:PT1H29M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T103000Z
+SUMMARY:Le Mystère Lucy Lost (VOST)
+UID:39b13022-a504-4c8a-8e30-c59a5b1d5682@39b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092419&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T194000Z
+SUMMARY:Club Kid (VOST)
+UID:85197a66-c8a7-490b-9fae-77cc70daff5f@8519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Alexander Murphy\n\nLe long d'une route oubliée\, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa\, Lisa et leurs dix enfants traversent les saisons dans ce fragile château de tôle\, héritiers d'un mode de vie en sursis. Menacés d'expulsion\, leur équilibre de fortune vacille mais ils résistent\, fidèles à leurs traditions. Les enfants rient\, les chiens aboient\, la caravane tient encore\, mais pour combien de temps ?\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRTZJRA#showsession?id=emsx094700092390&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T113000Z
+SUMMARY:Irish Travellers (VOST)
+UID:41015348-a5a7-4231-ab4a-7a1cc630892f@4101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092417&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T093000Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:67bbc92a-f795-4a63-a191-eeec7deab353@67bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092439&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T112000Z
+SUMMARY:Club Kid (VOST)
+UID:98aa43fd-fb15-4074-9059-6c88c06472a0@98aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092429&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T164500Z
+SUMMARY:La Gradiva (VOST)
+UID:791c0084-3fa4-4f5f-a841-d0e83fcd963e@791c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092432&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T180000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:e8844b49-d0b6-4b65-8d90-0806cf7e4419@e884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092873&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T125000Z
+SUMMARY:La Gradiva (VOST)
+UID:aa768902-4186-4fdc-96e6-1a7c478953fd@aa76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Marta Díaz de Lope Díaz\n\n1970\, le tout premier match de football féminin espagnol organisé par un jeune entraîneur\, stupéfait par le talent et la passion d’un groupe de jeunes filles.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FREAPY2#showsession?id=emsx094700092418&ps=ticketingcine
+DURATION:PT1H46M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T124500Z
+SUMMARY:A JAMAIS LES PREMIERES (VOST)
+UID:ef4e8cf7-a561-4f49-9422-7b42b6c100f7@ef4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Steve Cox\, Matthew Walker\n\nÀ Halloween\, les habitants de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème\, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CQ6X#showsession?id=emsx094700092425&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T123000Z
+SUMMARY:Shaun le Mouton : La Bêêête d'Halloween (VOST)
+UID:1ba2d155-ffc2-4d2f-89c3-eb4bf94ebe98@1ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092446&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T174000Z
+SUMMARY:Club Kid (VOST)
+UID:f635fff9-d0d6-4b96-a3be-c11340084cf1@f635.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Audrey Bauduin\n\nAu cœur de la forêt tropicale de Bornéo\, Popi\, une jeune orang-outan rescapée\, vit dans un centre de réhabilitation où elle est élevée par des soigneurs. D'année en année\, je filme son apprentissage de la vie en forêt et les efforts des soigneurs pour que\, doucement\, elle se détache d'eux. Mais autour du centre\, les plantations de palmeraies gagnent du terrain et ses chances de retrouver la liberté se délitent peu à peu...\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRFV02D#showsession?id=emsx094700092764&ps=ticketingcine
+DURATION:PT1H20M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T171500Z
+SUMMARY:Popi ou l'état sauvage (VOST)
+UID:3653e169-3471-4870-b65e-8669d8f7ae19@3653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Jordan Firstman\n\nPeter (Jordan Firstman)\, organisateur de soirées branchées à New York\, mène une existence aussi effrénée qu’insouciante\, rythmée par les nuits festives et les excès. Sa vie bascule lorsqu'Arlo\, le fils de 10 ans dont il ignorait l'existence\, frappe à sa porte. Dépassé par ce rôle de père qu'il n'avait jamais envisagé\, il est rapidement conquis par le charme et la spontanéité de l’enfant. Au fil du temps\, un lien aussi inattendu que profond se tisse entre eux\, et Peter découvre enfin qu’il existe une vie au-delà de la prochaine fête.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRIFRW7#showsession?id=emsx094700092420&ps=ticketingcine
+DURATION:PT2H2M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T143000Z
+SUMMARY:Club Kid (VOST)
+UID:9f48f239-8132-45fb-bf0f-0587362b63ef@9f48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Alain Cavalier\n\nCeci est l’histoire d’un filmeur. Alain Cavalier\, toujours accompagné de sa caméra continue de filmer passionnément la vie\, apprenant encore sur lui et surtout sur les autres.  Cependant il prend de l’âge et voit sa vitesse\, sa fraîcheur\, son audace\, sa légèreté baisser.  La gorge un peu serrée mais en riant\, il tient un journal filmé de son adieu au cinéma.  Cela sera son dernier film.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRVOCV6#showsession?id=emsx094700092885&ps=ticketingcine
+DURATION:PT1H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261123T193000Z
+SUMMARY:Merci d'être venu (VOST)
+UID:cf0a52ac-87ff-4766-af8f-bbc1e3188cc9@cf0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Khalil Cherti\n\nCharlie et Hicham\, la trentaine\, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur couple est infertile. Ils entament alors un parcours d’Aide Médicale à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssée qui va les bouleverser…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRBLCMC#showsession?id=emsx094700092415&ps=ticketingcine
+DURATION:PT1H36M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261115T100000Z
+SUMMARY:Ce qui nous mène à toi (VOST)
+UID:5c01c0ee-98d3-4f72-9db1-0dbe8665b671@5c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Lászlo Nemes\n\nJean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance\, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre\, Moulin est trahi puis livré à la Gestapo à Lyon\, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche\, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRLXIDH#showsession?id=emsx094700092431&ps=ticketingcine
+DURATION:PT2H14M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T141500Z
+SUMMARY:Moulin (VOST)
+UID:98c406b5-d904-4883-ba53-cef4c5ddd1b6@98c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE C\n\nRéalisateur : Fanny Liatard\, Jérémy Trouilh\n\nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime du syndrome de résignation. Chaya va alors tout faire pour le réveiller\, et plonge dans ses rêves pour le retrouver.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FRGTLFI#showsession?id=emsx094700092436&ps=ticketingcine
+DURATION:PT1H23M
+LOCATION:ABC (SALLE C)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261116T154000Z
+SUMMARY:Les Yeux Verts (VOST)
+UID:36815e87-5bac-4174-8e67-de1b097af128@3681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE B\n\nRéalisateur : Marine Atlan\n\nUn groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre\, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR324CZ#showsession?id=emsx094700092769&ps=ticketingcine
+DURATION:PT2H25M
+LOCATION:ABC (SALLE B)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261117T191000Z
+SUMMARY:La Gradiva (VOST)
+UID:18912add-8739-461d-a924-a0250dec3aad@1891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SALLE A\n\nRéalisateur : Steve Cox\, Matthew Walker\n\nÀ Halloween\, les habitants de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème\, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.\n\nRéservervation : https://www.ticketingcine.com/EMS0947/FR3CQ6X#showsession?id=emsx094700092411&ps=ticketingcine
+DURATION:PT1H21M
+LOCATION:ABC (SALLE A)\, 13 rue Saint-Bernard\, 31000 Toulouse
+DTSTART:20261114T155000Z
+SUMMARY:Shaun le Mouton : La Bêêête d'Halloween (VOST)
+UID:e7b945a3-36b3-4fa3-8503-a1127a0c445e@e7b9.org
+END:VEVENT
+END:VCALENDAR
